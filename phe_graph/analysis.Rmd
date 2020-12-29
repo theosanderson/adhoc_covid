@@ -60,7 +60,7 @@ ltlas$percent =NA
 
 
 
-deep_purple = c(51/255,8/255,72/255)
+deep_purple = c(62/255,16/255,85/255)
 white = c(1,1,1)
 
 color_to_percent <- function(color){
@@ -120,3 +120,18 @@ ggplot(newtibble,aes(y=s_dropout_percent,x=reorder(name, s_dropout_percent)))+ge
 
 ```
 
+
+```{r}
+library(lubridate)
+cases <- read_csv("ltla_2020-12-29.csv")
+
+cases_earlier = filter(cases,date==ymd("2020-12-7"))
+cases_later  = filter(cases,date==ymd("2020-12-14"))
+
+both <-inner_join(cases_earlier,cases_later,by=c("areaName"))
+both$change = both$newCasesByPublishDateRollingRate.y / both$newCasesByPublishDateRollingRate.x
+
+all<- inner_join(newtibble,both,by=c("name"="areaName"))
+ggplot(all,aes(x=s_dropout_percent/100,y=change))+geom_point()+ scale_x_continuous(labels = scales::percent)+ scale_y_continuous(labels = scales::percent)+theme_bw()+labs(x="S drop-out",y="Week on week ratio of cases")+geom_smooth(method="lm")+coord_cartesian(xlim=c(0,1),ylim=c(0.5,2.5))
+
+```
