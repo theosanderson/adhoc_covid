@@ -1,0 +1,122 @@
+---
+title: "Attempt to extract percentages of S dropout from PHE graph"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r,fig.width=20,fig.height=20}
+
+library(tidyverse)
+
+library(sp)
+library('sf')
+
+
+
+ltlas <-
+  read_sf(
+    "Local_Authority_Districts__December_2017__Boundaries_in_Great_Britain.shp"
+  )
+
+ggplot(ltlas)+geom_sf()+geom_point(aes(x=bng_e,y=bng_n))
+
+
+
+```
+
+```{r,fig.width=20,fig.height=20}
+
+library(png)
+img <- readPNG("phe_sgtf.png")
+
+
+scilly_x=104
+scilly_y=843
+scilly_n = 11447
+scilly_e = 91327
+
+scale_factor_x = 0.001055
+scale_factor_y=-0.00124
+
+offset_x = scilly_e - scilly_x/scale_factor_x
+
+pos_scilly_x = (scilly_e - offset_x) * scale_factor_x
+
+offset_y = scilly_n - scilly_y/scale_factor_y
+
+pos_scilly = (scilly_n - offset_y) * scale_factor_y
+
+ltlas$pixel_x = round((ltlas$bng_e - offset_x) * scale_factor_x)
+ltlas$pixel_y = round( (ltlas$bng_n - offset_y) * scale_factor_y)
+
+ltlas$color = NA
+ltlas$area <- st_area(ltlas)
+library(units)
+min_area = 36033464
+units(min_area)  <- as_units("m^2")
+ltlas<-ltlas %>% filter(area>min_area)
+ltlas$percent =NA
+
+
+
+deep_purple = c(51/255,8/255,72/255)
+white = c(1,1,1)
+
+color_to_percent <- function(color){
+  
+  full_range = deep_purple - white
+  estimates = (color - white)/full_range
+  if(sd(estimates)>0.03){
+    return(NA)
+  }
+  return( mean( estimates))
+  
+}
+
+
+for(i in 1:nrow(ltlas)){
+  try_x = ltlas$pixel_x[i]
+  try_y = ltlas$pixel_y[i]
+  if(try_y>0){
+ # print(try_x)
+ #  print(try_y)
+    pixel = img[try_y,try_x,]
+ltlas$color[i] = list(pixel)
+ltlas$percent[i] = color_to_percent(pixel)
+img[try_y:(try_y+2),try_x:(try_x+2),1]=1
+img[try_y:(try_y+2),try_x:(try_x+2),2]=0
+img[try_y:(try_y+2),try_x:(try_x+2),3]=0
+}
+
+}
+
+
+
+
+
+
+
+require(grDevices)
+op <- par(bg = "thistle",mar = rep(0, 4))
+plot(c(100, 250), c(300, 450), type = "n", xlab = "", ylab = "")
+
+rasterImage(img, 100, 300,250, 450, interpolate = FALSE)
+
+par(op)
+# }
+
+
+
+newtibble = tibble(name = ltlas$lad17nm, s_dropout_percent = ltlas$percent*100) %>% arrange(name) %>% filter(s_dropout_percent>0)
+write_csv(newtibble,"output.csv")
+newtibble
+
+```
+
+```{r,fig.width=4,fig.height=30}
+ggplot(newtibble,aes(y=s_dropout_percent,x=reorder(name, s_dropout_percent)))+geom_bar(stat="identity",fill="navy") + coord_flip(ylim=c(0,100))+theme_bw()
+
+
+```
+
