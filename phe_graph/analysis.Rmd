@@ -108,7 +108,7 @@ par(op)
 
 
 
-newtibble = tibble(name = ltlas$lad17nm, s_dropout_percent = ltlas$percent*100) %>% arrange(name) %>% filter(s_dropout_percent>0)
+newtibble = tibble(name = ltlas$lad17nm, s_dropout_percent = ltlas$percent*100) %>% arrange(name) %>% filter(s_dropout_percent>2)
 write_csv(newtibble,"output.csv")
 newtibble
 
