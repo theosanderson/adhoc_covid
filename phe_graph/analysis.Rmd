@@ -67,7 +67,7 @@ color_to_percent <- function(color){
   
   full_range = deep_purple - white
   estimates = (color - white)/full_range
-  if(sd(estimates)>0.03){
+  if(sd(estimates)>0.07){
     return(NA)
   }
   return( mean( estimates))
@@ -128,10 +128,43 @@ cases <- read_csv("ltla_2020-12-29.csv")
 cases_earlier = filter(cases,date==ymd("2020-12-7"))
 cases_later  = filter(cases,date==ymd("2020-12-14"))
 
+
 both <-inner_join(cases_earlier,cases_later,by=c("areaName"))
 both$change = both$newCasesByPublishDateRollingRate.y / both$newCasesByPublishDateRollingRate.x
 
 all<- inner_join(newtibble,both,by=c("name"="areaName"))
+
 ggplot(all,aes(x=s_dropout_percent/100,y=change))+geom_point()+ scale_x_continuous(labels = scales::percent)+ scale_y_continuous(labels = scales::percent)+theme_bw()+labs(x="S drop-out",y="Week on week ratio of cases")+geom_smooth(method="lm")+coord_cartesian(xlim=c(0,1),ylim=c(0.5,2.5))
 
+mod = lm(change ~ s_dropout_percent, data = all)
+summary(mod)
+```
+
+
+
+```{r}
+cases_day = filter(cases,date==ymd("2020-12-20"))
+all<- inner_join(newtibble,cases_day,by=c("name"="areaName"))
+
+all$combo = all$newCasesByPublishDateRollingRate * all$s_dropout_percent/100
+
+
+library(ggrepel)
+
+ggplot(all,aes(y=s_dropout_percent/100,x=newCasesByPublishDateRollingRate,label=name))+geom_point(color="darkblue")+ scale_y_continuous(labels = scales::percent)+theme_bw()+labs(y="S drop-out",x="Cases per 100K per week")+geom_text_repel(size=1.5,box.padding=0.05,segment.alpha=0.5)
+
+
+
+ggsave("scatter.png",width=5,height=5)
+
+
+
+ltlas2 <-
+  read_sf(
+    "Local_Authority_Districts__December_2017__Boundaries_in_Great_Britain.shp"
+  )
+
+both<-left_join(ltlas2,all, by=c("lad17nm"="name"))
+ggplot(both,aes(fill=combo))+geom_sf()+scale_fill_viridis_c()
+ggsave("map_of_new_variant_pred_rates.png",width=5,height=5)
 ```
