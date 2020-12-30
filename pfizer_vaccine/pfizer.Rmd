@@ -8,6 +8,8 @@ output:
 ---
 
 
+Code: https://github.com/theosanderson/adhoc_covid/tree/main/pfizer_vaccine
+
 
 ```{r}
 library(tidyverse)
