@@ -1,0 +1,41 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+---
+
+
+
+```{r}
+library(tidyverse)
+placebo <- read_csv("placebo_digitised_cumulative_incidence_vs_day.csv",col_names = c("Day","CumulativeIncidence"))
+vaccine <- read_csv("vaccine_digitised_cumulative_incidence_vs_day.csv",col_names = c("Day","CumulativeIncidence"))
+placebo$condition = "Placebo"
+vaccine$condition = "Vaccine"
+data<- bind_rows(placebo,vaccine)
+data$Day=round(data$Day)
+ggplot(data,aes(x=Day,y=CumulativeIncidence,color=condition))+geom_point()+geom_line()
+
+day0 = filter(data, Day==0)
+day10 = filter(data, Day==10)
+day22 = filter(data, Day==22)
+
+
+day22vsday0 = inner_join(day22,day0,by="condition") %>% mutate(diff=CumulativeIncidence.x-CumulativeIncidence.y) %>% summarise(
+  efficacy=( max(diff) - min(diff))/max(diff))
+day22vsday0
+
+day22vsday10 = inner_join(day22,day10,by="condition") %>% mutate(diff=CumulativeIncidence.x-CumulativeIncidence.y) %>% summarise(
+  efficacy=( max(diff) - min(diff))/max(diff))
+day22vsday10
+
+day10vsday0 = inner_join(day10,day0,by="condition")%>% mutate(diff=CumulativeIncidence.x-CumulativeIncidence.y) %>% summarise(
+  efficacy=( max(diff) - min(diff))/max(diff))
+
+day10vsday0
+
+```
+

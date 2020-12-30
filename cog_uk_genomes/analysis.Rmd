@@ -1,0 +1,113 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+
+
+library(tidyverse)
+library(gganimate)
+library(lubridate)
+data <-
+  read_csv("D:/cases_anim/cog_metadata_microreact_public2.csv.txt")
+data$sample_date = ymd(data$sample_date)
+
+data$b117=data$lineage=="B.1.1.7"
+mid_epi_week_1 = ymd("2020-01-01")
+data$epi_week_as_date =mid_epi_week_1 + (ymd("2020-01-02")-ymd("2020-01-01"))*7*data$epi_week
+
+
+library(sp)
+library('sf')
+ltlas <-
+  read_sf(
+    "D:/cases_anim/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_-shp/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_.shp"
+  )
+data <- filter(data, !is.na(latitude))
+data$del_21765_6
+
+
+pts <-
+  st_as_sf(tibble(data$latitude, data$longitude),
+           coords = c(2, 1),
+           crs  = 4326)
+
+ltlas <- st_transform(ltlas, crs = 3857)
+pts <- st_transform(pts, crs = 3857)
+
+
+a = st_join(pts, ltlas)
+data$ltla = a$ctyua17nm
+
+
+
+data_summarised = data %>% group_by(epi_week,epi_week_as_date,b117,ltla) %>% summarise(n=n()) %>% pivot_wider(names_from="b117",values_from="n",values_fill=0) %>% mutate(total = `FALSE` + `TRUE`, prop = `TRUE` / total)
+
+list = data_summarised %>% filter(epi_week>47)%>% group_by(ltla)%>% summarise(total=sum(total)) %>% arrange(-total)
+
+
+
+agg = data %>% filter(epi_week>47) %>% group_by(ltla) %>% summarise(num =
+                                                                       n()) %>% arrange(-num)
+
+ggplot(
+  data_summarised %>% filter(ltla %in% list$ltla[1:99],epi_week>35, epi_week < 51, ltla != "NA"),
+  aes(x = epi_week_as_date, y=prop)
+) + geom_bar(stat="identity",fill="darkred") + facet_wrap( ~ ltla, ) +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
+
+ggplot(
+  data_summarised %>% filter(ltla %in% list$ltla[1:50],epi_week>35, epi_week < 51, ltla != "NA"),
+  aes(x = epi_week_as_date, y=total)
+) + geom_bar(stat="identity",fill="darkred") + facet_wrap( ~ ltla, ) +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") 
+
+
+
+
+
+
+ggplot(
+  data %>% filter(ltla %in% agg$ltla[1:32],epi_week>35, epi_week < 51, ltla != "NA"),
+  aes(x = epi_week_as_date, fill = b117)
+) + geom_bar(position = "fill",stat="identity") + facet_wrap( ~ ltla, scales = "free_y") +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
+
+
+
+
+
+
+ggsave("graph.pdf", width = 7, height = 6)
+ggsave("graph.png", width = 10, height = 8)
+
+ggplot(
+  data %>% filter(epi_week>35, epi_week < 51, ltla != "NA"),
+  aes(x = epi_week_as_date, fill = b117)
+) + geom_bar(position = "fill") + facet_wrap( ~ country, scales = "free_y") +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
+
+ggsave("graph.pdf", width = 7, height = 6)
+ggsave("graph.png", width = 7, height = 6)
+
+
+
+table(data$epi_week,data$b117)
+
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
