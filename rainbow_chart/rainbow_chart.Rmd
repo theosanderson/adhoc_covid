@@ -1,0 +1,73 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+library(lubridate)
+
+last_date = ymd("2021-1-3")
+dates = seq(last_date-ddays(x = 1)*30, last_date, by = 'day')
+
+
+all = NULL
+
+
+for(i in 1:length(dates)){
+  date = dates[i]
+  
+  the_url = paste0("https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newDeaths28DaysByDeathDate&metric=newCasesBySpecimenDate&format=csv&release=",as.character(date))
+ 
+  dat = read_csv(url(the_url))
+  Sys.sleep(1)
+  dat$data_date = date
+  if (!is.null((all))){
+    all = bind_rows(all,dat)
+  }
+  else{
+    all =dat
+  }
+   }
+
+
+
+```
+
+```{r}
+library(ggrepel)
+p<-ggplot(all%>% filter(date>"2020-12-02"),aes(y=newDeaths28DaysByDeathDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of deaths reported",x="Days after date of death",color="Date of death") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-1")%>% filter(date>"2020-12-02"),segment.color="black")+theme_bw()+
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK deaths by day and reporting lag")+coord_cartesian(ylim=c(0,NA))
+p
+ggsave("deaths.png",width=10,height=5)
+
+library(gganimate)
+
+
+p<-ggplot(all%>% filter(date>"2020-12-02"),aes(y=newDeaths28DaysByDeathDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of deaths reported",x="Days after date of death",color="Date of death") +theme_bw()+
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK deaths by day and reporting lag. Data: {frame_along}")+coord_cartesian(ylim=c(0,NA),xlim=c(0,20))
+
+a<-p+transition_reveal(data_date)
+animate(a, end_pause = 40)
+anim_save("deaths.gif")
+```
+
+```{r}
+
+library(ggrepel)
+ggplot(all%>% filter(date>"2020-12-03"),aes(y=newCasesBySpecimenDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of cases",x="Days after specimen date",color="Specimen date") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-2")%>% filter(date>"2020-12-03"),segment.color="black")+theme_bw()+
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK cases by specimen date and reporting lag")+coord_cartesian(ylim=c(0,NA))
+ggsave("ukcases.png",width=10,height=5)
+
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
