@@ -1,0 +1,143 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+require(xml2)
+library(tidyverse)
+library(berryFunctions)
+
+processPolyline <- function(input) {
+  points = input[['points']]
+  tbl = tibble(coords = str_split(points, " +", simplify = FALSE)[[1]]) %>% filter(coords !=
+                                                                                     "") %>% separate(coords, into = c('x', 'y'), sep = ",")
+  tbl = tbl %>% mutate_at(c('x', 'y'), as.character) %>% mutate_at(c('x', 'y'), as.numeric) %>% mutate(y =
+                                                                                                         -y)
+  return(tbl)
+}
+
+processSvg <- function(svg_name) {
+  doc <- read_xml(svg_name) %>% xml_ns_strip()
+  lines <- xml_nodes(doc, 'line')
+  
+  linesdf <-
+    tibble(bind_rows(lapply(xml_attrs(lines), as.data.frame.list))) %>% mutate_at(c("x1", 'x2', 'y1', 'y2'), as.character) %>% mutate_at(c("x1", 'x2', 'y1', 'y2'), as.numeric) %>% mutate(y1 =
+                                                                                                                                                                                             -y1, y2 = -y2) %>% mutate(length = sqrt((x2 - x1) ^ 2 + (y2 - y1) ^ 2))
+  
+  
+  
+  
+  polylines <- xml_nodes(doc, 'polyline')  %>% xml_attrs()
+  
+  
+  
+  polyline1 = processPolyline(polylines[[1]])
+  polyline2 = processPolyline(polylines[[2]])
+  
+  return (list(
+    lines = linesdf,
+    polyline1 = polyline1,
+    polyline2 = polyline2
+  ))
+}
+
+transform <- function(vector, a_in, a_out, b_in, b_out) {
+  scaling = (b_out - a_out) / (b_in - a_in)
+  vector = (vector - a_in) * scaling + a_out
+  return(vector)
+}
+
+
+get_ticks <-function (lines, tick_length){
+  ticks = lines %>% filter(almost.equal(length,tick_length)) %>% mutate(orientation = ifelse(abs(y2 -
+                                                                               y1) > 0, "vertical", "horizontal"))
+horiz_ticks = ticks %>% filter(orientation == "horizontal")
+ymin_svg = min(horiz_ticks$y1)
+ymax_svg = max(horiz_ticks$y1)
+vert_ticks = ticks %>% filter(orientation == "vertical")
+xmin_svg = min(vert_ticks$x1)
+xmax_svg = max(vert_ticks$x1)
+return(list(ticks=ticks,xmin_svg=xmin_svg,xmax_svg=xmax_svg,ymin_svg=ymin_svg,ymax_svg=ymax_svg))
+
+}
+
+
+
+
+```
+# Moderna
+```{r}
+output = processSvg('source_data/moderna-intention-to-treat.svg')
+
+tickdata = get_ticks(output$lines,3.25)
+
+xmin_real = 0
+xmax_real = 120
+
+ymin_real = 0
+ymax_real = 0.035
+
+output$polyline1$name="Placebo"
+output$polyline2$name="Vaccine"
+
+
+polylines = bind_rows(output$polyline1, output$polyline2) %>% mutate(
+  x = transform(x, tickdata$xmin_svg, xmin_real, tickdata$xmax_svg, xmax_real),
+  y = transform(y, tickdata$ymin_svg, ymin_real, tickdata$ymax_svg, ymax_real)
+)
+
+
+
+ggplot(polylines, aes(x = x, y = y,color=name)) + geom_line()
+moderna = polylines
+approx_number_at_risk = 14000
+```
+# Pfizer
+```{r}
+output = processSvg('source_data/pfizer_main.svg')
+
+
+tickdata = get_ticks(output$lines,3.27)
+
+
+xmin_real = 0
+xmax_real = 119
+
+ymin_real = 0
+ymax_real = 0.024
+
+output$polyline1$name="Placebo"
+output$polyline2$name="Vaccine"
+
+
+polylines = bind_rows(output$polyline1, output$polyline2) %>% mutate(
+  x = transform(x, tickdata$xmin_svg, xmin_real, tickdata$xmax_svg, xmax_real),
+  y = transform(y, tickdata$ymin_svg, ymin_real, tickdata$ymax_svg, ymax_real)
+)
+
+
+polylines = polylines %>% mutate(x=round(x,digits=2)) %>% arrange(x,y)
+polylines
+ggplot(polylines, aes(x = x, y = y,color=name)) + geom_line() +coord_cartesian(xlim=c(0,21),ylim=c(0,0.5))
+
+pfizer=polylines
+pfizer$name = paste("Pfizer_",pfizer$name)
+```
+
+```{r}
+pfizer2 = pfizer %>% mutate(y=y*0.2)
+
+ggplot(bind_rows(moderna,pfizer2), aes(x = x, y = y,color=name)) + geom_line() +coord_cartesian(xlim=c(0,21),ylim=c(0,0.002))
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

@@ -15,10 +15,13 @@ Code: https://github.com/theosanderson/adhoc_covid/tree/main/pfizer_vaccine
 library(tidyverse)
 placebo <- read_csv("placebo_digitised_cumulative_incidence_vs_day.csv",col_names = c("Day","CumulativeIncidence"))
 vaccine <- read_csv("vaccine_digitised_cumulative_incidence_vs_day.csv",col_names = c("Day","CumulativeIncidence"))
+placebo$Day=round(placebo$Day)
+vaccine$Day=round(vaccine$Day)
+
 placebo$condition = "Placebo"
 vaccine$condition = "Vaccine"
 data<- bind_rows(placebo,vaccine)
-data$Day=round(data$Day)
+
 ggplot(data,aes(x=Day,y=CumulativeIncidence,color=condition))+geom_point()+geom_line()
 
 day0 = filter(data, Day==0)
@@ -38,6 +41,57 @@ day10vsday0 = inner_join(day10,day0,by="condition")%>% mutate(diff=CumulativeInc
   efficacy=( max(diff) - min(diff))/max(diff))
 
 day10vsday0
+
+allDays = tibble(Day=1:22)
+
+library(zoo)
+numbers_at_risk_vaccine = tibble(Day=seq(0,21,7),number_at_risk=c(21314,21230,21054,20481))%>% full_join(allDays)
+
+
+
+numbers_at_risk_vaccine = numbers_at_risk_vaccine%>% arrange(Day) %>% mutate(number_at_risk=na.approx(number_at_risk,na.rm=FALSE))
+
+numbers_at_risk_placebo = tibble(Day=seq(0,21,7),number_at_risk=c(21258,21170,20970,20366))%>% full_join(allDays)
+
+numbers_at_risk_placebo = numbers_at_risk_placebo%>% arrange(Day) %>% mutate(number_at_risk=na.approx(number_at_risk,na.rm=FALSE))
+
+
+
+placebo<-full_join(placebo,numbers_at_risk_placebo) %>% mutate(events = round(CumulativeIncidence*number_at_risk))
+
+vaccine<-full_join(vaccine,numbers_at_risk_vaccine)%>% mutate(events = round(CumulativeIncidence*number_at_risk))
+```
+
+
+```{r}
+library(PropCIs)
+all_days = 0:max(data$Day)
+
+both<-full_join(placebo %>% select(-condition),vaccine %>% select(-condition),by=c("Day"),suffix=c("_placebo","_vaccine"))
+
+all <- full_join(both, tibble(Day=all_days))
+all <- all %>% arrange(Day) %>% mutate(CumulativeIncidence_vaccine=cummax(ifelse(is.na(CumulativeIncidence_vaccine), -Inf, CumulativeIncidence_vaccine)))%>% mutate(CumulativeIncidence_placebo=cummax(ifelse(is.na(CumulativeIncidence_placebo), -Inf, CumulativeIncidence_placebo))) %>% mutate(diff=CumulativeIncidence_placebo-CumulativeIncidence_vaccine)
+
+
+denominator = 20000
+
+all<-all %>% mutate(efficacy_to_this_point = (CumulativeIncidence_placebo - CumulativeIncidence_vaccine)/CumulativeIncidence_placebo ,
+                    efficacy_past_this_point = ((max(CumulativeIncidence_placebo)-CumulativeIncidence_placebo) - (max(CumulativeIncidence_vaccine) - CumulativeIncidence_vaccine))/(max(CumulativeIncidence_placebo)-CumulativeIncidence_placebo) )
+
+# 
+# all$ci_lower =
+# for (i in 1:nrow(all)){
+# 
+#   mutate(ci=riskscoreci(round(denominator*CumulativeIncidence_vaccine),denominator ,round(denominator*CumulativeIncidence_placebo),denominator,conf.level=.95 ))
+#   
+# }
+
+
+pivoted = all %>% select(Day,efficacy_to_this_point,efficacy_past_this_point) %>% pivot_longer(-Day,values_to="Efficacy",names_to="Type")
+ggplot(pivoted,aes(x=Day,y=Efficacy,color=Type))+geom_point()
+
+
+
 
 ```
 
