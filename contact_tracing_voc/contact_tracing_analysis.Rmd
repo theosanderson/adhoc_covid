@@ -5,7 +5,7 @@ output:
     df_print: paged
 ---
 
- 
+Code: https://github.com/theosanderson/adhoc_covid/tree/main/contact_tracing_voc
 
 ```{r}
 library(tidyverse)
