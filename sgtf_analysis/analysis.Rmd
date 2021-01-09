@@ -4,7 +4,7 @@ output:
   html_document:
     df_print: paged
 ---
-
+Code: https://github.com/theosanderson/adhoc_covid/tree/main/sgtf_analysis
 ```{r}
 library(tidyverse)
 library(sf)
