@@ -13,6 +13,7 @@ library(epitools)
 
 data <- read_csv("sgtf_data.csv")
 
+
 new<-data %>% pivot_longer(-c(Type,TypeValue)) %>% separate(name,into=c("partition","value_type")) %>% filter(value_type!="percentbecomingcases")%>% filter(partition!="total") %>% pivot_wider(names_from="value_type") %>% mutate(contactsnotbecomingcases = allcontacts-contactsbecomingcases) %>% select(-allcontacts) %>% pivot_longer(c(contactsbecomingcases,contactsnotbecomingcases))%>% pivot_wider() 
 
 voc = new %>% filter(partition=="voc") %>% select(-partition)
@@ -23,7 +24,7 @@ both <- inner_join(voc,wt,by=c("Type","TypeValue"),suffix=c("_voc","_wt") ) %>% 
 
 make_matrix <- function(df) {
  df=unlist(df)
- mat = matrix(df,ncol=2)
+ mat = t(matrix(df,ncol=2))
 }
 
 make_rr <- function(mat) {
@@ -31,6 +32,8 @@ rr= riskratio(mat)
   results = rr$measure[2,]
   return(results)
 }
+
+both
 
 matrices = lapply(both$data,make_matrix)
 rrs = lapply(matrices,make_rr)
