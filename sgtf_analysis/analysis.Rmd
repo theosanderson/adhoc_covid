@@ -51,7 +51,8 @@ a<-ggplot(both ,aes(fill=`percent_SGTF cases`/100,group=LAD19NM))+geom_sf()+scal
 
 
 
-animate(a,nframes=100,height=700,width=700,fps=10,end_pause = 20)
+
+animate(a,nframes=100,height=700,width=700,fps=10,end_pause = 20,type="cairo")
 anim_save('uk_sgtf_phe4.gif')
 
 print(a)
@@ -72,8 +73,12 @@ a<-ggplot(both %>% filter(LAD19NM %in% london_utlas) ,aes(fill=`percent_SGTF cas
 
 print(a)
 
-animate(a,nframes=100,height=400,width=600,fps=10,end_pause = 20)
+animate(a,nframes=100,height=400,width=600,fps=10,end_pause = 20,type="cairo")
 anim_save('london.gif')
+
+
+ggplot(data %>% filter(week==max(week),LTLA_name %in% london_utlas) ,aes(x=LTLA_name,y=`percent_SGTF cases`)) +geom_bar(stat="identity",fill="#3998ae")+theme_bw()+ theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+ggsave("london_utla.png",width=5,height=3)
 
 ```
 
