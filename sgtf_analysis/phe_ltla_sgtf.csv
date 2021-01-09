@@ -1,0 +1,2523 @@
+Region,LTLA_code,LTLA_name,week,n_Other cases,n_Total,n_SGTF cases,percent_Other cases,percent_SGTF cases
+East Midlands,E07000032,Amber Valley,10/11/2020,293,296,3,99,1
+East Midlands,E07000170,Ashfield,10/11/2020,208,220,12,94.5,5.5
+East Midlands,E07000171,Bassetlaw,10/11/2020,304,304,0,100,0
+East Midlands,E07000129,Blaby,10/11/2020,335,336,1,99.7,0.3
+East Midlands,E07000033,Bolsover,10/11/2020,108,109,1,99.1,0.9
+East Midlands,E07000136,Boston,10/11/2020,98,100,2,98,2
+East Midlands,E07000172,Broxtowe,10/11/2020,107,109,2,98.2,1.8
+East Midlands,E07000130,Charnwood,10/11/2020,320,342,22,93.6,6.4
+East Midlands,E07000034,Chesterfield,10/11/2020,104,111,7,93.7,6.3
+East Midlands,E07000150,Corby,10/11/2020,74,75,1,98.7,1.3
+East Midlands,E07000151,Daventry,10/11/2020,72,75,3,96,4
+East Midlands,E06000015,Derby,10/11/2020,442,448,6,98.7,1.3
+East Midlands,E07000035,Derbyshire Dales,10/11/2020,78,81,3,96.3,3.7
+East Midlands,E07000137,East Lindsey,10/11/2020,406,408,2,99.5,0.5
+East Midlands,E07000152,East Northamptonshire,10/11/2020,90,91,1,98.9,1.1
+East Midlands,E07000036,Erewash,10/11/2020,157,158,1,99.4,0.6
+East Midlands,E07000173,Gedling,10/11/2020,156,162,6,96.3,3.7
+East Midlands,E07000131,Harborough,10/11/2020,217,217,0,100,0
+East Midlands,E07000037,High Peak,10/11/2020,194,200,6,97,3
+East Midlands,E07000132,Hinckley and Bosworth,10/11/2020,220,220,0,100,0
+East Midlands,E07000153,Kettering,10/11/2020,136,148,12,91.9,8.1
+East Midlands,E06000016,Leicester,10/11/2020,1044,1060,16,98.5,1.5
+East Midlands,E07000138,Lincoln,10/11/2020,255,258,3,98.8,1.2
+East Midlands,E07000174,Mansfield,10/11/2020,162,164,2,98.8,1.2
+East Midlands,E07000133,Melton,10/11/2020,96,98,2,98,2
+East Midlands,E07000175,Newark and Sherwood,10/11/2020,170,173,3,98.3,1.7
+East Midlands,E07000038,North East Derbyshire,10/11/2020,104,106,2,98.1,1.9
+East Midlands,E07000139,North Kesteven,10/11/2020,189,191,2,99,1
+East Midlands,E07000134,North West Leicestershire,10/11/2020,220,220,0,100,0
+East Midlands,E07000154,Northampton,10/11/2020,321,328,7,97.9,2.1
+East Midlands,E06000018,Nottingham,10/11/2020,420,423,3,99.3,0.7
+East Midlands,E07000135,Oadby and Wigston,10/11/2020,222,222,0,100,0
+East Midlands,E07000176,Rushcliffe,10/11/2020,123,124,1,99.2,0.8
+East Midlands,E06000017,Rutland,10/11/2020,19,19,0,100,0
+East Midlands,E07000039,South Derbyshire,10/11/2020,190,194,4,97.9,2.1
+East Midlands,E07000140,South Holland,10/11/2020,19,21,2,90.5,9.5
+East Midlands,E07000141,South Kesteven,10/11/2020,148,152,4,97.4,2.6
+East Midlands,E07000155,South Northamptonshire,10/11/2020,124,130,6,95.4,4.6
+East Midlands,E07000156,Wellingborough,10/11/2020,105,106,1,99.1,0.9
+East Midlands,E07000142,West Lindsey,10/11/2020,158,161,3,98.1,1.9
+East of England,E07000200,Babergh,10/11/2020,10,10,0,100,0
+East of England,E07000066,Basildon,10/11/2020,158,232,74,68.1,31.9
+East of England,E06000055,Bedford,10/11/2020,138,144,6,95.8,4.2
+East of England,E07000067,Braintree,10/11/2020,59,67,8,88.1,11.9
+East of England,E07000143,Breckland,10/11/2020,7,7,0,100,0
+East of England,E07000068,Brentwood,10/11/2020,95,124,29,76.6,23.4
+East of England,E07000144,Broadland,10/11/2020,5,5,0,100,0
+East of England,E07000095,Broxbourne,10/11/2020,98,103,5,95.1,4.9
+East of England,E07000008,Cambridge,10/11/2020,8,8,0,100,0
+East of England,E07000069,Castle Point,10/11/2020,96,111,15,86.5,13.5
+East of England,E06000056,Central Bedfordshire,10/11/2020,186,204,18,91.2,8.8
+East of England,E07000070,Chelmsford,10/11/2020,87,102,15,85.3,14.7
+East of England,E07000071,Colchester,10/11/2020,14,15,1,93.3,6.7
+East of England,E07000096,Dacorum,10/11/2020,117,135,18,86.7,13.3
+East of England,E07000242,East Hertfordshire,10/11/2020,153,174,21,87.9,12.1
+East of England,E07000244,East Suffolk,10/11/2020,6,6,0,100,0
+East of England,E07000072,Epping Forest,10/11/2020,124,147,23,84.4,15.6
+East of England,E07000010,Fenland,10/11/2020,4,4,0,100,0
+East of England,E07000145,Great Yarmouth,10/11/2020,2,2,0,100,0
+East of England,E07000073,Harlow,10/11/2020,71,75,4,94.7,5.3
+East of England,E07000098,Hertsmere,10/11/2020,104,119,15,87.4,12.6
+East of England,E07000011,Huntingdonshire,10/11/2020,10,10,0,100,0
+East of England,E07000202,Ipswich,10/11/2020,10,10,0,100,0
+East of England,E07000146,King's Lynn and West Norfolk,10/11/2020,4,4,0,100,0
+East of England,E06000032,Luton,10/11/2020,441,463,22,95.2,4.8
+East of England,E07000074,Maldon,10/11/2020,19,20,1,95,5
+East of England,E07000203,Mid Suffolk,10/11/2020,4,4,0,100,0
+East of England,E06000042,Milton Keynes,10/11/2020,341,382,41,89.3,10.7
+East of England,E07000099,North Hertfordshire,10/11/2020,95,100,5,95,5
+East of England,E07000147,North Norfolk,10/11/2020,4,4,0,100,0
+East of England,E07000148,Norwich,10/11/2020,16,19,3,84.2,15.8
+East of England,E06000031,Peterborough,10/11/2020,9,9,0,100,0
+East of England,E07000075,Rochford,10/11/2020,65,85,20,76.5,23.5
+East of England,E07000012,South Cambridgeshire,10/11/2020,11,11,0,100,0
+East of England,E07000149,South Norfolk,10/11/2020,9,12,3,75,25
+East of England,E06000033,Southend-on-Sea,10/11/2020,129,152,23,84.9,15.1
+East of England,E07000240,St Albans,10/11/2020,147,158,11,93,7
+East of England,E07000243,Stevenage,10/11/2020,105,112,7,93.8,6.2
+East of England,E07000076,Tendring,10/11/2020,22,23,1,95.7,4.3
+East of England,E07000102,Three Rivers,10/11/2020,114,117,3,97.4,2.6
+East of England,E06000034,Thurrock,10/11/2020,143,189,46,75.7,24.3
+East of England,E07000077,Uttlesford,10/11/2020,39,47,8,83,17
+East of England,E07000103,Watford,10/11/2020,107,119,12,89.9,10.1
+East of England,E07000241,Welwyn Hatfield,10/11/2020,123,137,14,89.8,10.2
+East of England,E07000245,West Suffolk,10/11/2020,12,12,0,100,0
+London,E09000002,Barking and Dagenham,10/11/2020,254,283,29,89.8,10.2
+London,E09000003,Barnet,10/11/2020,344,384,40,89.6,10.4
+London,E09000004,Bexley,10/11/2020,263,391,128,67.3,32.7
+London,E09000005,Brent,10/11/2020,414,433,19,95.6,4.4
+London,E09000006,Bromley,10/11/2020,285,359,74,79.4,20.6
+London,E09000007,Camden,10/11/2020,218,243,25,89.7,10.3
+London,E09000001,City of London,10/11/2020,15,16,1,93.8,6.2
+London,E09000008,Croydon,10/11/2020,422,472,50,89.4,10.6
+London,E09000009,Ealing,10/11/2020,686,744,58,92.2,7.8
+London,E09000010,Enfield,10/11/2020,282,327,45,86.2,13.8
+London,E09000011,Greenwich,10/11/2020,225,284,59,79.2,20.8
+London,E09000012,Hackney,10/11/2020,200,246,46,81.3,18.7
+London,E09000013,Hammersmith and Fulham,10/11/2020,281,311,30,90.4,9.6
+London,E09000014,Haringey,10/11/2020,208,225,17,92.4,7.6
+London,E09000015,Harrow,10/11/2020,367,396,29,92.7,7.3
+London,E09000016,Havering,10/11/2020,318,490,172,64.9,35.1
+London,E09000017,Hillingdon,10/11/2020,568,634,66,89.6,10.4
+London,E09000018,Hounslow,10/11/2020,458,498,40,92,8
+London,E09000019,Islington,10/11/2020,176,192,16,91.7,8.3
+London,E09000020,Kensington and Chelsea,10/11/2020,159,170,11,93.5,6.5
+London,E09000021,Kingston upon Thames,10/11/2020,237,274,37,86.5,13.5
+London,E09000022,Lambeth,10/11/2020,363,423,60,85.8,14.2
+London,E09000023,Lewisham,10/11/2020,198,227,29,87.2,12.8
+London,E09000024,Merton,10/11/2020,226,269,43,84,16
+London,E09000025,Newham,10/11/2020,288,318,30,90.6,9.4
+London,E09000026,Redbridge,10/11/2020,347,395,48,87.8,12.2
+London,E09000027,Richmond upon Thames,10/11/2020,175,189,14,92.6,7.4
+London,E09000028,Southwark,10/11/2020,190,210,20,90.5,9.5
+London,E09000029,Sutton,10/11/2020,251,300,49,83.7,16.3
+London,E09000030,Tower Hamlets,10/11/2020,288,309,21,93.2,6.8
+London,E09000031,Waltham Forest,10/11/2020,264,287,23,92,8
+London,E09000032,Wandsworth,10/11/2020,389,434,45,89.6,10.4
+London,E09000033,Westminster,10/11/2020,226,264,38,85.6,14.4
+North East,E06000047,County Durham,10/11/2020,1611,1625,14,99.1,0.9
+North East,E06000005,Darlington,10/11/2020,298,298,0,100,0
+North East,E08000037,Gateshead,10/11/2020,582,612,30,95.1,4.9
+North East,E06000001,Hartlepool,10/11/2020,479,483,4,99.2,0.8
+North East,E06000002,Middlesbrough,10/11/2020,520,527,7,98.7,1.3
+North East,E08000021,Newcastle upon Tyne,10/11/2020,1038,1044,6,99.4,0.6
+North East,E08000022,North Tyneside,10/11/2020,656,662,6,99.1,0.9
+North East,E06000057,Northumberland,10/11/2020,777,784,7,99.1,0.9
+North East,E06000003,Redcar and Cleveland,10/11/2020,568,573,5,99.1,0.9
+North East,E08000023,South Tyneside,10/11/2020,467,484,17,96.5,3.5
+North East,E06000004,Stockton-on-Tees,10/11/2020,756,761,5,99.3,0.7
+North East,E08000024,Sunderland,10/11/2020,907,915,8,99.1,0.9
+North West,E07000026,Allerdale,10/11/2020,99,130,31,76.2,23.8
+North West,E07000027,Barrow-in-Furness,10/11/2020,80,80,0,100,0
+North West,E06000008,Blackburn with Darwen,10/11/2020,647,664,17,97.4,2.6
+North West,E06000009,Blackpool,10/11/2020,277,279,2,99.3,0.7
+North West,E08000001,Bolton,10/11/2020,987,1018,31,97,3
+North West,E07000117,Burnley,10/11/2020,293,299,6,98,2
+North West,E08000002,Bury,10/11/2020,654,659,5,99.2,0.8
+North West,E07000028,Carlisle,10/11/2020,196,242,46,81,19
+North West,E06000049,Cheshire East,10/11/2020,583,594,11,98.1,1.9
+North West,E06000050,Cheshire West and Chester,10/11/2020,707,717,10,98.6,1.4
+North West,E07000118,Chorley,10/11/2020,246,247,1,99.6,0.4
+North West,E07000029,Copeland,10/11/2020,42,60,18,70,30
+North West,E07000030,Eden,10/11/2020,78,83,5,94,6
+North West,E07000119,Fylde,10/11/2020,158,159,1,99.4,0.6
+North West,E06000006,Halton,10/11/2020,248,249,1,99.6,0.4
+North West,E07000120,Hyndburn,10/11/2020,281,282,1,99.6,0.4
+North West,E08000011,Knowsley,10/11/2020,248,253,5,98,2
+North West,E07000121,Lancaster,10/11/2020,161,162,1,99.4,0.6
+North West,E08000012,Liverpool,10/11/2020,557,561,4,99.3,0.7
+North West,E08000003,Manchester,10/11/2020,1741,1760,19,98.9,1.1
+North West,E08000004,Oldham,10/11/2020,1102,1110,8,99.3,0.7
+North West,E07000122,Pendle,10/11/2020,327,332,5,98.5,1.5
+North West,E07000123,Preston,10/11/2020,447,453,6,98.7,1.3
+North West,E07000124,Ribble Valley,10/11/2020,141,150,9,94,6
+North West,E08000005,Rochdale,10/11/2020,929,930,1,99.9,0.1
+North West,E07000125,Rossendale,10/11/2020,231,234,3,98.7,1.3
+North West,E08000006,Salford,10/11/2020,929,935,6,99.4,0.6
+North West,E08000014,Sefton,10/11/2020,494,496,2,99.6,0.4
+North West,E07000031,South Lakeland,10/11/2020,180,181,1,99.4,0.6
+North West,E07000126,South Ribble,10/11/2020,224,225,1,99.6,0.4
+North West,E08000013,St. Helens,10/11/2020,410,411,1,99.8,0.2
+North West,E08000007,Stockport,10/11/2020,741,741,0,100,0
+North West,E08000008,Tameside,10/11/2020,786,794,8,99,1
+North West,E08000009,Trafford,10/11/2020,602,609,7,98.9,1.1
+North West,E06000007,Warrington,10/11/2020,429,435,6,98.6,1.4
+North West,E07000127,West Lancashire,10/11/2020,223,227,4,98.2,1.8
+North West,E08000010,Wigan,10/11/2020,833,840,7,99.2,0.8
+North West,E08000015,Wirral,10/11/2020,437,442,5,98.9,1.1
+North West,E07000128,Wyre,10/11/2020,178,178,0,100,0
+South East,E07000223,Adur,10/11/2020,44,49,5,89.8,10.2
+South East,E07000224,Arun,10/11/2020,116,142,26,81.7,18.3
+South East,E07000105,Ashford,10/11/2020,36,60,24,60,40
+South East,E07000004,Aylesbury Vale,10/11/2020,169,190,21,88.9,11.1
+South East,E07000084,Basingstoke and Deane,10/11/2020,153,163,10,93.9,6.1
+South East,E06000036,Bracknell Forest,10/11/2020,72,79,7,91.1,8.9
+South East,E06000043,Brighton and Hove,10/11/2020,285,298,13,95.6,4.4
+South East,E07000106,Canterbury,10/11/2020,56,123,67,45.5,54.5
+South East,E07000177,Cherwell,10/11/2020,130,132,2,98.5,1.5
+South East,E07000225,Chichester,10/11/2020,99,107,8,92.5,7.5
+South East,E07000005,Chiltern,10/11/2020,59,69,10,85.5,14.5
+South East,E07000226,Crawley,10/11/2020,111,130,19,85.4,14.6
+South East,E07000107,Dartford,10/11/2020,114,170,56,67.1,32.9
+South East,E07000108,Dover,10/11/2020,89,168,79,53,47
+South East,E07000085,East Hampshire,10/11/2020,70,83,13,84.3,15.7
+South East,E07000061,Eastbourne,10/11/2020,83,91,8,91.2,8.8
+South East,E07000086,Eastleigh,10/11/2020,82,83,1,98.8,1.2
+South East,E07000207,Elmbridge,10/11/2020,130,147,17,88.4,11.6
+South East,E07000208,Epsom and Ewell,10/11/2020,106,150,44,70.7,29.3
+South East,E07000087,Fareham,10/11/2020,76,80,4,95,5
+South East,E07000112,Folkestone and Hythe,10/11/2020,85,104,19,81.7,18.3
+South East,E07000088,Gosport,10/11/2020,98,112,14,87.5,12.5
+South East,E07000109,Gravesham,10/11/2020,96,124,28,77.4,22.6
+South East,E07000209,Guildford,10/11/2020,128,155,27,82.6,17.4
+South East,E07000089,Hart,10/11/2020,39,41,2,95.1,4.9
+South East,E07000062,Hastings,10/11/2020,55,70,15,78.6,21.4
+South East,E07000090,Havant,10/11/2020,143,171,28,83.6,16.4
+South East,E07000227,Horsham,10/11/2020,93,100,7,93,7
+South East,E06000046,Isle of Wight,10/11/2020,25,26,1,96.2,3.8
+South East,E07000063,Lewes,10/11/2020,48,58,10,82.8,17.2
+South East,E07000110,Maidstone,10/11/2020,88,169,81,52.1,47.9
+South East,E06000035,Medway,10/11/2020,158,385,227,41,59
+South East,E07000228,Mid Sussex,10/11/2020,160,181,21,88.4,11.6
+South East,E07000210,Mole Valley,10/11/2020,91,102,11,89.2,10.8
+South East,E07000091,New Forest,10/11/2020,102,106,4,96.2,3.8
+South East,E07000178,Oxford,10/11/2020,158,161,3,98.1,1.9
+South East,E06000044,Portsmouth,10/11/2020,332,351,19,94.6,5.4
+South East,E06000038,Reading,10/11/2020,184,204,20,90.2,9.8
+South East,E07000211,Reigate and Banstead,10/11/2020,141,171,30,82.5,17.5
+South East,E07000064,Rother,10/11/2020,35,80,45,43.8,56.2
+South East,E07000212,Runnymede,10/11/2020,160,183,23,87.4,12.6
+South East,E07000092,Rushmoor,10/11/2020,77,80,3,96.2,3.8
+South East,E07000111,Sevenoaks,10/11/2020,85,124,39,68.5,31.5
+South East,E06000039,Slough,10/11/2020,418,451,33,92.7,7.3
+South East,E07000006,South Bucks,10/11/2020,127,131,4,96.9,3.1
+South East,E07000179,South Oxfordshire,10/11/2020,116,123,7,94.3,5.7
+South East,E06000045,Southampton,10/11/2020,324,334,10,97,3
+South East,E07000213,Spelthorne,10/11/2020,160,183,23,87.4,12.6
+South East,E07000214,Surrey Heath,10/11/2020,62,69,7,89.9,10.1
+South East,E07000113,Swale,10/11/2020,155,538,383,28.8,71.2
+South East,E07000215,Tandridge,10/11/2020,88,103,15,85.4,14.6
+South East,E07000093,Test Valley,10/11/2020,62,62,0,100,0
+South East,E07000114,Thanet,10/11/2020,67,259,192,25.9,74.1
+South East,E07000115,Tonbridge and Malling,10/11/2020,64,96,32,66.7,33.3
+South East,E07000116,Tunbridge Wells,10/11/2020,49,72,23,68.1,31.9
+South East,E07000180,Vale of White Horse,10/11/2020,114,120,6,95,5
+South East,E07000216,Waverley,10/11/2020,94,103,9,91.3,8.7
+South East,E07000065,Wealden,10/11/2020,88,176,88,50,50
+South East,E06000037,West Berkshire,10/11/2020,116,132,16,87.9,12.1
+South East,E07000181,West Oxfordshire,10/11/2020,85,88,3,96.6,3.4
+South East,E07000094,Winchester,10/11/2020,131,135,4,97,3
+South East,E06000040,Windsor and Maidenhead,10/11/2020,179,230,51,77.8,22.2
+South East,E07000217,Woking,10/11/2020,101,109,8,92.7,7.3
+South East,E06000041,Wokingham,10/11/2020,140,153,13,91.5,8.5
+South East,E07000229,Worthing,10/11/2020,58,64,6,90.6,9.4
+South East,E07000007,Wycombe,10/11/2020,193,216,23,89.4,10.6
+South West,E06000022,Bath and North East Somerset,10/11/2020,242,248,6,97.6,2.4
+South West,E06000058,"Bournemouth, Christchurch and Poole",10/11/2020,398,403,5,98.8,1.2
+South West,E06000023,"Bristol, City of",10/11/2020,1249,1306,57,95.6,4.4
+South West,E07000078,Cheltenham,10/11/2020,98,99,1,99,1
+South West,E06000052,Cornwall,10/11/2020,113,120,7,94.2,5.8
+South West,E07000079,Cotswold,10/11/2020,40,42,2,95.2,4.8
+South West,E06000059,Dorset,10/11/2020,129,131,2,98.5,1.5
+South West,E07000040,East Devon,10/11/2020,107,109,2,98.2,1.8
+South West,E07000041,Exeter,10/11/2020,65,67,2,97,3
+South West,E07000080,Forest of Dean,10/11/2020,51,52,1,98.1,1.9
+South West,E07000081,Gloucester,10/11/2020,166,170,4,97.6,2.4
+South West,E07000187,Mendip,10/11/2020,52,53,1,98.1,1.9
+South West,E07000042,Mid Devon,10/11/2020,29,29,0,100,0
+South West,E07000043,North Devon,10/11/2020,40,40,0,100,0
+South West,E06000024,North Somerset,10/11/2020,186,222,36,83.8,16.2
+South West,E06000026,Plymouth,10/11/2020,290,334,44,86.8,13.2
+South West,E07000188,Sedgemoor,10/11/2020,97,111,14,87.4,12.6
+South West,E07000246,Somerset West and Taunton,10/11/2020,82,86,4,95.3,4.7
+South West,E06000025,South Gloucestershire,10/11/2020,343,376,33,91.2,8.8
+South West,E07000044,South Hams,10/11/2020,37,40,3,92.5,7.5
+South West,E07000189,South Somerset,10/11/2020,93,94,1,98.9,1.1
+South West,E07000082,Stroud,10/11/2020,107,109,2,98.2,1.8
+South West,E06000030,Swindon,10/11/2020,235,238,3,98.7,1.3
+South West,E07000045,Teignbridge,10/11/2020,30,32,2,93.8,6.2
+South West,E07000083,Tewkesbury,10/11/2020,97,102,5,95.1,4.9
+South West,E06000027,Torbay,10/11/2020,72,77,5,93.5,6.5
+South West,E07000046,Torridge,10/11/2020,19,20,1,95,5
+South West,E07000047,West Devon,10/11/2020,27,27,0,100,0
+South West,E06000054,Wiltshire,10/11/2020,169,186,17,90.9,9.1
+West Midlands,E08000025,Birmingham,10/11/2020,1124,1143,19,98.3,1.7
+West Midlands,E07000234,Bromsgrove,10/11/2020,141,144,3,97.9,2.1
+West Midlands,E07000192,Cannock Chase,10/11/2020,225,228,3,98.7,1.3
+West Midlands,E08000026,Coventry,10/11/2020,849,859,10,98.8,1.2
+West Midlands,E08000027,Dudley,10/11/2020,1129,1181,52,95.6,4.4
+West Midlands,E07000193,East Staffordshire,10/11/2020,257,288,31,89.2,10.8
+West Midlands,E06000019,"Herefordshire, County of",10/11/2020,223,233,10,95.7,4.3
+West Midlands,E07000194,Lichfield,10/11/2020,238,244,6,97.5,2.5
+West Midlands,E07000235,Malvern Hills,10/11/2020,56,56,0,100,0
+West Midlands,E07000195,Newcastle-under-Lyme,10/11/2020,399,406,7,98.3,1.7
+West Midlands,E07000218,North Warwickshire,10/11/2020,127,130,3,97.7,2.3
+West Midlands,E07000219,Nuneaton and Bedworth,10/11/2020,416,416,0,100,0
+West Midlands,E07000236,Redditch,10/11/2020,191,198,7,96.5,3.5
+West Midlands,E07000220,Rugby,10/11/2020,247,250,3,98.8,1.2
+West Midlands,E08000028,Sandwell,10/11/2020,926,934,8,99.1,0.9
+West Midlands,E06000051,Shropshire,10/11/2020,503,525,22,95.8,4.2
+West Midlands,E08000029,Solihull,10/11/2020,201,204,3,98.5,1.5
+West Midlands,E07000196,South Staffordshire,10/11/2020,252,259,7,97.3,2.7
+West Midlands,E07000197,Stafford,10/11/2020,384,389,5,98.7,1.3
+West Midlands,E07000198,Staffordshire Moorlands,10/11/2020,275,280,5,98.2,1.8
+West Midlands,E06000021,Stoke-on-Trent,10/11/2020,952,960,8,99.2,0.8
+West Midlands,E07000221,Stratford-on-Avon,10/11/2020,137,139,2,98.6,1.4
+West Midlands,E07000199,Tamworth,10/11/2020,144,147,3,98,2
+West Midlands,E06000020,Telford and Wrekin,10/11/2020,450,500,50,90,10
+West Midlands,E08000030,Walsall,10/11/2020,783,790,7,99.1,0.9
+West Midlands,E07000222,Warwick,10/11/2020,267,269,2,99.3,0.7
+West Midlands,E08000031,Wolverhampton,10/11/2020,475,479,4,99.2,0.8
+West Midlands,E07000237,Worcester,10/11/2020,183,184,1,99.5,0.5
+West Midlands,E07000238,Wychavon,10/11/2020,132,139,7,95,5
+West Midlands,E07000239,Wyre Forest,10/11/2020,178,183,5,97.3,2.7
+Yorkshire and Humber,E08000016,Barnsley,10/11/2020,661,675,14,97.9,2.1
+Yorkshire and Humber,E08000032,Bradford,10/11/2020,2389,2444,55,97.7,2.3
+Yorkshire and Humber,E08000033,Calderdale,10/11/2020,857,874,17,98.1,1.9
+Yorkshire and Humber,E07000163,Craven,10/11/2020,138,140,2,98.6,1.4
+Yorkshire and Humber,E08000017,Doncaster,10/11/2020,856,859,3,99.7,0.3
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,10/11/2020,1190,1205,15,98.8,1.2
+Yorkshire and Humber,E07000164,Hambleton,10/11/2020,151,152,1,99.3,0.7
+Yorkshire and Humber,E07000165,Harrogate,10/11/2020,314,330,16,95.2,4.8
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",10/11/2020,1588,1626,38,97.7,2.3
+Yorkshire and Humber,E08000034,Kirklees,10/11/2020,2173,2204,31,98.6,1.4
+Yorkshire and Humber,E08000035,Leeds,10/11/2020,2701,2754,53,98.1,1.9
+Yorkshire and Humber,E06000012,North East Lincolnshire,10/11/2020,685,688,3,99.6,0.4
+Yorkshire and Humber,E06000013,North Lincolnshire,10/11/2020,674,680,6,99.1,0.9
+Yorkshire and Humber,E07000166,Richmondshire,10/11/2020,90,90,0,100,0
+Yorkshire and Humber,E08000018,Rotherham,10/11/2020,732,752,20,97.3,2.7
+Yorkshire and Humber,E07000167,Ryedale,10/11/2020,96,96,0,100,0
+Yorkshire and Humber,E07000168,Scarborough,10/11/2020,408,408,0,100,0
+Yorkshire and Humber,E07000169,Selby,10/11/2020,248,253,5,98,2
+Yorkshire and Humber,E08000019,Sheffield,10/11/2020,1257,1301,44,96.6,3.4
+Yorkshire and Humber,E08000036,Wakefield,10/11/2020,1340,1362,22,98.4,1.6
+Yorkshire and Humber,E06000014,York,10/11/2020,306,324,18,94.4,5.6
+East Midlands,E07000032,Amber Valley,17/11/2020,215,222,7,96.8,3.2
+East Midlands,E07000170,Ashfield,17/11/2020,204,218,14,93.6,6.4
+East Midlands,E07000171,Bassetlaw,17/11/2020,211,215,4,98.1,1.9
+East Midlands,E07000129,Blaby,17/11/2020,251,255,4,98.4,1.6
+East Midlands,E07000033,Bolsover,17/11/2020,152,156,4,97.4,2.6
+East Midlands,E07000136,Boston,17/11/2020,178,178,0,100,0
+East Midlands,E07000172,Broxtowe,17/11/2020,111,112,1,99.1,0.9
+East Midlands,E07000130,Charnwood,17/11/2020,270,287,17,94.1,5.9
+East Midlands,E07000034,Chesterfield,17/11/2020,60,61,1,98.4,1.6
+East Midlands,E07000150,Corby,17/11/2020,60,60,0,100,0
+East Midlands,E07000151,Daventry,17/11/2020,70,74,4,94.6,5.4
+East Midlands,E06000015,Derby,17/11/2020,454,462,8,98.3,1.7
+East Midlands,E07000035,Derbyshire Dales,17/11/2020,64,64,0,100,0
+East Midlands,E07000137,East Lindsey,17/11/2020,275,277,2,99.3,0.7
+East Midlands,E07000152,East Northamptonshire,17/11/2020,83,91,8,91.2,8.8
+East Midlands,E07000036,Erewash,17/11/2020,150,150,0,100,0
+East Midlands,E07000173,Gedling,17/11/2020,151,154,3,98.1,1.9
+East Midlands,E07000131,Harborough,17/11/2020,220,224,4,98.2,1.8
+East Midlands,E07000037,High Peak,17/11/2020,114,124,10,91.9,8.1
+East Midlands,E07000132,Hinckley and Bosworth,17/11/2020,165,166,1,99.4,0.6
+East Midlands,E07000153,Kettering,17/11/2020,76,80,4,95,5
+East Midlands,E06000016,Leicester,17/11/2020,1159,1190,31,97.4,2.6
+East Midlands,E07000138,Lincoln,17/11/2020,241,249,8,96.8,3.2
+East Midlands,E07000174,Mansfield,17/11/2020,170,176,6,96.6,3.4
+East Midlands,E07000133,Melton,17/11/2020,92,100,8,92,8
+East Midlands,E07000175,Newark and Sherwood,17/11/2020,155,159,4,97.5,2.5
+East Midlands,E07000038,North East Derbyshire,17/11/2020,99,102,3,97.1,2.9
+East Midlands,E07000139,North Kesteven,17/11/2020,155,157,2,98.7,1.3
+East Midlands,E07000134,North West Leicestershire,17/11/2020,197,197,0,100,0
+East Midlands,E07000154,Northampton,17/11/2020,334,345,11,96.8,3.2
+East Midlands,E06000018,Nottingham,17/11/2020,507,517,10,98.1,1.9
+East Midlands,E07000135,Oadby and Wigston,17/11/2020,171,174,3,98.3,1.7
+East Midlands,E07000176,Rushcliffe,17/11/2020,136,140,4,97.1,2.9
+East Midlands,E06000017,Rutland,17/11/2020,22,24,2,91.7,8.3
+East Midlands,E07000039,South Derbyshire,17/11/2020,139,145,6,95.9,4.1
+East Midlands,E07000140,South Holland,17/11/2020,60,64,4,93.8,6.2
+East Midlands,E07000141,South Kesteven,17/11/2020,131,139,8,94.2,5.8
+East Midlands,E07000155,South Northamptonshire,17/11/2020,118,130,12,90.8,9.2
+East Midlands,E07000156,Wellingborough,17/11/2020,81,85,4,95.3,4.7
+East Midlands,E07000142,West Lindsey,17/11/2020,134,135,1,99.3,0.7
+East of England,E07000200,Babergh,17/11/2020,3,3,0,100,0
+East of England,E07000066,Basildon,17/11/2020,116,236,120,49.2,50.8
+East of England,E06000055,Bedford,17/11/2020,123,148,25,83.1,16.9
+East of England,E07000067,Braintree,17/11/2020,30,39,9,76.9,23.1
+East of England,E07000143,Breckland,17/11/2020,12,14,2,85.7,14.3
+East of England,E07000068,Brentwood,17/11/2020,43,76,33,56.6,43.4
+East of England,E07000144,Broadland,17/11/2020,16,26,10,61.5,38.5
+East of England,E07000095,Broxbourne,17/11/2020,107,129,22,82.9,17.1
+East of England,E07000008,Cambridge,17/11/2020,18,22,4,81.8,18.2
+East of England,E07000069,Castle Point,17/11/2020,58,82,24,70.7,29.3
+East of England,E06000056,Central Bedfordshire,17/11/2020,143,178,35,80.3,19.7
+East of England,E07000070,Chelmsford,17/11/2020,43,63,20,68.3,31.7
+East of England,E07000071,Colchester,17/11/2020,3,4,1,75,25
+East of England,E07000096,Dacorum,17/11/2020,127,141,14,90.1,9.9
+East of England,E07000009,East Cambridgeshire,17/11/2020,12,17,5,70.6,29.4
+East of England,E07000242,East Hertfordshire,17/11/2020,111,123,12,90.2,9.8
+East of England,E07000244,East Suffolk,17/11/2020,23,25,2,92,8
+East of England,E07000072,Epping Forest,17/11/2020,100,142,42,70.4,29.6
+East of England,E07000010,Fenland,17/11/2020,47,48,1,97.9,2.1
+East of England,E07000145,Great Yarmouth,17/11/2020,18,18,0,100,0
+East of England,E07000073,Harlow,17/11/2020,63,87,24,72.4,27.6
+East of England,E07000098,Hertsmere,17/11/2020,109,133,24,82,18
+East of England,E07000011,Huntingdonshire,17/11/2020,25,29,4,86.2,13.8
+East of England,E07000202,Ipswich,17/11/2020,2,2,0,100,0
+East of England,E07000146,King's Lynn and West Norfolk,17/11/2020,39,40,1,97.5,2.5
+East of England,E06000032,Luton,17/11/2020,504,528,24,95.5,4.5
+East of England,E07000074,Maldon,17/11/2020,9,12,3,75,25
+East of England,E07000203,Mid Suffolk,17/11/2020,6,7,1,85.7,14.3
+East of England,E06000042,Milton Keynes,17/11/2020,219,296,77,74,26
+East of England,E07000099,North Hertfordshire,17/11/2020,80,83,3,96.4,3.6
+East of England,E07000147,North Norfolk,17/11/2020,40,42,2,95.2,4.8
+East of England,E07000148,Norwich,17/11/2020,48,59,11,81.4,18.6
+East of England,E06000031,Peterborough,17/11/2020,60,62,2,96.8,3.2
+East of England,E07000075,Rochford,17/11/2020,43,64,21,67.2,32.8
+East of England,E07000012,South Cambridgeshire,17/11/2020,16,18,2,88.9,11.1
+East of England,E07000149,South Norfolk,17/11/2020,16,29,13,55.2,44.8
+East of England,E06000033,Southend-on-Sea,17/11/2020,59,88,29,67,33
+East of England,E07000240,St Albans,17/11/2020,120,130,10,92.3,7.7
+East of England,E07000243,Stevenage,17/11/2020,64,68,4,94.1,5.9
+East of England,E07000076,Tendring,17/11/2020,9,11,2,81.8,18.2
+East of England,E07000102,Three Rivers,17/11/2020,95,108,13,88,12
+East of England,E06000034,Thurrock,17/11/2020,133,172,39,77.3,22.7
+East of England,E07000077,Uttlesford,17/11/2020,18,26,8,69.2,30.8
+East of England,E07000103,Watford,17/11/2020,106,115,9,92.2,7.8
+East of England,E07000241,Welwyn Hatfield,17/11/2020,111,118,7,94.1,5.9
+East of England,E07000245,West Suffolk,17/11/2020,22,29,7,75.9,24.1
+London,E09000002,Barking and Dagenham,17/11/2020,210,273,63,76.9,23.1
+London,E09000003,Barnet,17/11/2020,303,366,63,82.8,17.2
+London,E09000004,Bexley,17/11/2020,146,279,133,52.3,47.7
+London,E09000005,Brent,17/11/2020,296,318,22,93.1,6.9
+London,E09000006,Bromley,17/11/2020,161,250,89,64.4,35.6
+London,E09000007,Camden,17/11/2020,156,172,16,90.7,9.3
+London,E09000001,City of London,17/11/2020,2,5,3,40,60
+London,E09000008,Croydon,17/11/2020,293,354,61,82.8,17.2
+London,E09000009,Ealing,17/11/2020,481,527,46,91.3,8.7
+London,E09000010,Enfield,17/11/2020,317,389,72,81.5,18.5
+London,E09000011,Greenwich,17/11/2020,191,271,80,70.5,29.5
+London,E09000012,Hackney,17/11/2020,232,294,62,78.9,21.1
+London,E09000013,Hammersmith and Fulham,17/11/2020,168,182,14,92.3,7.7
+London,E09000014,Haringey,17/11/2020,183,226,43,81,19
+London,E09000015,Harrow,17/11/2020,313,339,26,92.3,7.7
+London,E09000016,Havering,17/11/2020,208,382,174,54.5,45.5
+London,E09000017,Hillingdon,17/11/2020,381,417,36,91.4,8.6
+London,E09000018,Hounslow,17/11/2020,357,426,69,83.8,16.2
+London,E09000019,Islington,17/11/2020,170,193,23,88.1,11.9
+London,E09000020,Kensington and Chelsea,17/11/2020,109,127,18,85.8,14.2
+London,E09000021,Kingston upon Thames,17/11/2020,150,201,51,74.6,25.4
+London,E09000022,Lambeth,17/11/2020,234,290,56,80.7,19.3
+London,E09000023,Lewisham,17/11/2020,97,128,31,75.8,24.2
+London,E09000024,Merton,17/11/2020,148,203,55,72.9,27.1
+London,E09000025,Newham,17/11/2020,314,385,71,81.6,18.4
+London,E09000026,Redbridge,17/11/2020,390,456,66,85.5,14.5
+London,E09000027,Richmond upon Thames,17/11/2020,120,135,15,88.9,11.1
+London,E09000028,Southwark,17/11/2020,159,201,42,79.1,20.9
+London,E09000029,Sutton,17/11/2020,149,201,52,74.1,25.9
+London,E09000030,Tower Hamlets,17/11/2020,448,510,62,87.8,12.2
+London,E09000031,Waltham Forest,17/11/2020,204,243,39,84,16
+London,E09000032,Wandsworth,17/11/2020,159,200,41,79.5,20.5
+London,E09000033,Westminster,17/11/2020,178,205,27,86.8,13.2
+North East,E06000047,County Durham,17/11/2020,1107,1128,21,98.1,1.9
+North East,E06000005,Darlington,17/11/2020,260,262,2,99.2,0.8
+North East,E08000037,Gateshead,17/11/2020,448,459,11,97.6,2.4
+North East,E06000001,Hartlepool,17/11/2020,262,269,7,97.4,2.6
+North East,E06000002,Middlesbrough,17/11/2020,329,339,10,97.1,2.9
+North East,E08000021,Newcastle upon Tyne,17/11/2020,729,745,16,97.9,2.1
+North East,E08000022,North Tyneside,17/11/2020,449,456,7,98.5,1.5
+North East,E06000057,Northumberland,17/11/2020,571,585,14,97.6,2.4
+North East,E06000003,Redcar and Cleveland,17/11/2020,302,307,5,98.4,1.6
+North East,E08000023,South Tyneside,17/11/2020,427,432,5,98.8,1.2
+North East,E06000004,Stockton-on-Tees,17/11/2020,471,482,11,97.7,2.3
+North East,E08000024,Sunderland,17/11/2020,578,584,6,99,1
+North West,E07000026,Allerdale,17/11/2020,48,59,11,81.4,18.6
+North West,E07000027,Barrow-in-Furness,17/11/2020,33,34,1,97.1,2.9
+North West,E06000008,Blackburn with Darwen,17/11/2020,434,448,14,96.9,3.1
+North West,E06000009,Blackpool,17/11/2020,185,188,3,98.4,1.6
+North West,E08000001,Bolton,17/11/2020,687,702,15,97.9,2.1
+North West,E07000117,Burnley,17/11/2020,243,248,5,98,2
+North West,E08000002,Bury,17/11/2020,458,461,3,99.3,0.7
+North West,E07000028,Carlisle,17/11/2020,113,220,107,51.4,48.6
+North West,E06000049,Cheshire East,17/11/2020,491,492,1,99.8,0.2
+North West,E06000050,Cheshire West and Chester,17/11/2020,393,400,7,98.2,1.8
+North West,E07000118,Chorley,17/11/2020,188,190,2,98.9,1.1
+North West,E07000029,Copeland,17/11/2020,30,44,14,68.2,31.8
+North West,E07000030,Eden,17/11/2020,37,42,5,88.1,11.9
+North West,E07000119,Fylde,17/11/2020,110,113,3,97.3,2.7
+North West,E06000006,Halton,17/11/2020,182,183,1,99.5,0.5
+North West,E07000120,Hyndburn,17/11/2020,248,253,5,98,2
+North West,E08000011,Knowsley,17/11/2020,188,193,5,97.4,2.6
+North West,E07000121,Lancaster,17/11/2020,97,97,0,100,0
+North West,E08000012,Liverpool,17/11/2020,423,430,7,98.4,1.6
+North West,E08000003,Manchester,17/11/2020,1091,1100,9,99.2,0.8
+North West,E08000004,Oldham,17/11/2020,718,723,5,99.3,0.7
+North West,E07000122,Pendle,17/11/2020,231,252,21,91.7,8.3
+North West,E07000123,Preston,17/11/2020,292,297,5,98.3,1.7
+North West,E07000124,Ribble Valley,17/11/2020,90,91,1,98.9,1.1
+North West,E08000005,Rochdale,17/11/2020,609,610,1,99.8,0.2
+North West,E07000125,Rossendale,17/11/2020,188,188,0,100,0
+North West,E08000006,Salford,17/11/2020,488,495,7,98.6,1.4
+North West,E08000014,Sefton,17/11/2020,295,295,0,100,0
+North West,E07000031,South Lakeland,17/11/2020,177,179,2,98.9,1.1
+North West,E07000126,South Ribble,17/11/2020,196,196,0,100,0
+North West,E08000013,St. Helens,17/11/2020,248,248,0,100,0
+North West,E08000007,Stockport,17/11/2020,500,502,2,99.6,0.4
+North West,E08000008,Tameside,17/11/2020,434,437,3,99.3,0.7
+North West,E08000009,Trafford,17/11/2020,329,336,7,97.9,2.1
+North West,E06000007,Warrington,17/11/2020,287,289,2,99.3,0.7
+North West,E07000127,West Lancashire,17/11/2020,143,145,2,98.6,1.4
+North West,E08000010,Wigan,17/11/2020,679,685,6,99.1,0.9
+North West,E08000015,Wirral,17/11/2020,221,230,9,96.1,3.9
+North West,E07000128,Wyre,17/11/2020,103,103,0,100,0
+South East,E07000223,Adur,17/11/2020,32,36,4,88.9,11.1
+South East,E07000224,Arun,17/11/2020,69,80,11,86.2,13.8
+South East,E07000105,Ashford,17/11/2020,35,72,37,48.6,51.4
+South East,E07000004,Aylesbury Vale,17/11/2020,156,199,43,78.4,21.6
+South East,E07000084,Basingstoke and Deane,17/11/2020,109,116,7,94,6
+South East,E06000036,Bracknell Forest,17/11/2020,57,70,13,81.4,18.6
+South East,E06000043,Brighton and Hove,17/11/2020,167,175,8,95.4,4.6
+South East,E07000106,Canterbury,17/11/2020,58,131,73,44.3,55.7
+South East,E07000177,Cherwell,17/11/2020,98,106,8,92.5,7.5
+South East,E07000225,Chichester,17/11/2020,77,88,11,87.5,12.5
+South East,E07000005,Chiltern,17/11/2020,51,56,5,91.1,8.9
+South East,E07000226,Crawley,17/11/2020,73,79,6,92.4,7.6
+South East,E07000107,Dartford,17/11/2020,93,139,46,66.9,33.1
+South East,E07000108,Dover,17/11/2020,37,122,85,30.3,69.7
+South East,E07000085,East Hampshire,17/11/2020,46,51,5,90.2,9.8
+South East,E07000061,Eastbourne,17/11/2020,60,78,18,76.9,23.1
+South East,E07000086,Eastleigh,17/11/2020,63,65,2,96.9,3.1
+South East,E07000207,Elmbridge,17/11/2020,69,96,27,71.9,28.1
+South East,E07000208,Epsom and Ewell,17/11/2020,54,87,33,62.1,37.9
+South East,E07000087,Fareham,17/11/2020,68,73,5,93.2,6.8
+South East,E07000112,Folkestone and Hythe,17/11/2020,24,59,35,40.7,59.3
+South East,E07000088,Gosport,17/11/2020,78,86,8,90.7,9.3
+South East,E07000109,Gravesham,17/11/2020,66,153,87,43.1,56.9
+South East,E07000209,Guildford,17/11/2020,74,130,56,56.9,43.1
+South East,E07000089,Hart,17/11/2020,37,42,5,88.1,11.9
+South East,E07000062,Hastings,17/11/2020,38,63,25,60.3,39.7
+South East,E07000090,Havant,17/11/2020,109,142,33,76.8,23.2
+South East,E07000227,Horsham,17/11/2020,75,92,17,81.5,18.5
+South East,E06000046,Isle of Wight,17/11/2020,25,26,1,96.2,3.8
+South East,E07000063,Lewes,17/11/2020,46,68,22,67.6,32.4
+South East,E07000110,Maidstone,17/11/2020,66,220,154,30,70
+South East,E06000035,Medway,17/11/2020,143,433,290,33,67
+South East,E07000228,Mid Sussex,17/11/2020,123,146,23,84.2,15.8
+South East,E07000210,Mole Valley,17/11/2020,40,59,19,67.8,32.2
+South East,E07000091,New Forest,17/11/2020,62,67,5,92.5,7.5
+South East,E07000178,Oxford,17/11/2020,125,126,1,99.2,0.8
+South East,E06000044,Portsmouth,17/11/2020,248,264,16,93.9,6.1
+South East,E06000038,Reading,17/11/2020,132,169,37,78.1,21.9
+South East,E07000211,Reigate and Banstead,17/11/2020,81,103,22,78.6,21.4
+South East,E07000064,Rother,17/11/2020,28,74,46,37.8,62.2
+South East,E07000212,Runnymede,17/11/2020,99,121,22,81.8,18.2
+South East,E07000092,Rushmoor,17/11/2020,53,62,9,85.5,14.5
+South East,E07000111,Sevenoaks,17/11/2020,47,79,32,59.5,40.5
+South East,E06000039,Slough,17/11/2020,383,415,32,92.3,7.7
+South East,E07000006,South Bucks,17/11/2020,69,81,12,85.2,14.8
+South East,E07000179,South Oxfordshire,17/11/2020,62,69,7,89.9,10.1
+South East,E06000045,Southampton,17/11/2020,189,196,7,96.4,3.6
+South East,E07000213,Spelthorne,17/11/2020,103,130,27,79.2,20.8
+South East,E07000214,Surrey Heath,17/11/2020,84,100,16,84,16
+South East,E07000113,Swale,17/11/2020,79,344,265,23,77
+South East,E07000215,Tandridge,17/11/2020,46,74,28,62.2,37.8
+South East,E07000093,Test Valley,17/11/2020,52,54,2,96.3,3.7
+South East,E07000114,Thanet,17/11/2020,57,195,138,29.2,70.8
+South East,E07000115,Tonbridge and Malling,17/11/2020,53,126,73,42.1,57.9
+South East,E07000116,Tunbridge Wells,17/11/2020,27,53,26,50.9,49.1
+South East,E07000180,Vale of White Horse,17/11/2020,61,63,2,96.8,3.2
+South East,E07000216,Waverley,17/11/2020,60,82,22,73.2,26.8
+South East,E07000065,Wealden,17/11/2020,89,183,94,48.6,51.4
+South East,E06000037,West Berkshire,17/11/2020,77,85,8,90.6,9.4
+South East,E07000181,West Oxfordshire,17/11/2020,42,46,4,91.3,8.7
+South East,E07000094,Winchester,17/11/2020,78,79,1,98.7,1.3
+South East,E06000040,Windsor and Maidenhead,17/11/2020,128,155,27,82.6,17.4
+South East,E07000217,Woking,17/11/2020,85,138,53,61.6,38.4
+South East,E06000041,Wokingham,17/11/2020,115,158,43,72.8,27.2
+South East,E07000229,Worthing,17/11/2020,24,32,8,75,25
+South East,E07000007,Wycombe,17/11/2020,155,172,17,90.1,9.9
+South West,E06000022,Bath and North East Somerset,17/11/2020,59,63,4,93.7,6.3
+South West,E06000058,"Bournemouth, Christchurch and Poole",17/11/2020,234,251,17,93.2,6.8
+South West,E06000023,"Bristol, City of",17/11/2020,500,540,40,92.6,7.4
+South West,E07000078,Cheltenham,17/11/2020,57,57,0,100,0
+South West,E06000052,Cornwall,17/11/2020,59,70,11,84.3,15.7
+South West,E07000079,Cotswold,17/11/2020,27,29,2,93.1,6.9
+South West,E06000059,Dorset,17/11/2020,86,91,5,94.5,5.5
+South West,E07000040,East Devon,17/11/2020,39,40,1,97.5,2.5
+South West,E07000041,Exeter,17/11/2020,32,32,0,100,0
+South West,E07000080,Forest of Dean,17/11/2020,55,59,4,93.2,6.8
+South West,E07000081,Gloucester,17/11/2020,171,173,2,98.8,1.2
+South West,E07000187,Mendip,17/11/2020,30,34,4,88.2,11.8
+South West,E07000042,Mid Devon,17/11/2020,16,16,0,100,0
+South West,E07000043,North Devon,17/11/2020,20,20,0,100,0
+South West,E06000024,North Somerset,17/11/2020,97,111,14,87.4,12.6
+South West,E06000026,Plymouth,17/11/2020,76,88,12,86.4,13.6
+South West,E07000188,Sedgemoor,17/11/2020,47,60,13,78.3,21.7
+South West,E07000246,Somerset West and Taunton,17/11/2020,57,61,4,93.4,6.6
+South West,E06000025,South Gloucestershire,17/11/2020,108,123,15,87.8,12.2
+South West,E07000044,South Hams,17/11/2020,5,6,1,83.3,16.7
+South West,E07000189,South Somerset,17/11/2020,51,51,0,100,0
+South West,E07000082,Stroud,17/11/2020,79,79,0,100,0
+South West,E06000030,Swindon,17/11/2020,187,188,1,99.5,0.5
+South West,E07000045,Teignbridge,17/11/2020,16,16,0,100,0
+South West,E07000083,Tewkesbury,17/11/2020,68,68,0,100,0
+South West,E06000027,Torbay,17/11/2020,19,21,2,90.5,9.5
+South West,E07000046,Torridge,17/11/2020,12,12,0,100,0
+South West,E07000047,West Devon,17/11/2020,13,13,0,100,0
+South West,E06000054,Wiltshire,17/11/2020,171,185,14,92.4,7.6
+West Midlands,E08000025,Birmingham,17/11/2020,3135,3184,49,98.5,1.5
+West Midlands,E07000234,Bromsgrove,17/11/2020,143,144,1,99.3,0.7
+West Midlands,E07000192,Cannock Chase,17/11/2020,201,201,0,100,0
+West Midlands,E08000026,Coventry,17/11/2020,663,670,7,99,1
+West Midlands,E08000027,Dudley,17/11/2020,1066,1137,71,93.8,6.2
+West Midlands,E07000193,East Staffordshire,17/11/2020,275,302,27,91.1,8.9
+West Midlands,E06000019,"Herefordshire, County of",17/11/2020,154,160,6,96.2,3.8
+West Midlands,E07000194,Lichfield,17/11/2020,196,201,5,97.5,2.5
+West Midlands,E07000235,Malvern Hills,17/11/2020,60,61,1,98.4,1.6
+West Midlands,E07000195,Newcastle-under-Lyme,17/11/2020,365,366,1,99.7,0.3
+West Midlands,E07000218,North Warwickshire,17/11/2020,150,153,3,98,2
+West Midlands,E07000219,Nuneaton and Bedworth,17/11/2020,332,333,1,99.7,0.3
+West Midlands,E07000236,Redditch,17/11/2020,144,154,10,93.5,6.5
+West Midlands,E07000220,Rugby,17/11/2020,212,213,1,99.5,0.5
+West Midlands,E08000028,Sandwell,17/11/2020,1104,1121,17,98.5,1.5
+West Midlands,E06000051,Shropshire,17/11/2020,384,397,13,96.7,3.3
+West Midlands,E08000029,Solihull,17/11/2020,418,429,11,97.4,2.6
+West Midlands,E07000196,South Staffordshire,17/11/2020,251,254,3,98.8,1.2
+West Midlands,E07000197,Stafford,17/11/2020,298,304,6,98,2
+West Midlands,E07000198,Staffordshire Moorlands,17/11/2020,155,156,1,99.4,0.6
+West Midlands,E06000021,Stoke-on-Trent,17/11/2020,791,800,9,98.9,1.1
+West Midlands,E07000221,Stratford-on-Avon,17/11/2020,105,106,1,99.1,0.9
+West Midlands,E07000199,Tamworth,17/11/2020,199,201,2,99,1
+West Midlands,E06000020,Telford and Wrekin,17/11/2020,365,381,16,95.8,4.2
+West Midlands,E08000030,Walsall,17/11/2020,753,762,9,98.8,1.2
+West Midlands,E07000222,Warwick,17/11/2020,192,193,1,99.5,0.5
+West Midlands,E08000031,Wolverhampton,17/11/2020,717,733,16,97.8,2.2
+West Midlands,E07000237,Worcester,17/11/2020,130,136,6,95.6,4.4
+West Midlands,E07000238,Wychavon,17/11/2020,103,105,2,98.1,1.9
+West Midlands,E07000239,Wyre Forest,17/11/2020,163,166,3,98.2,1.8
+Yorkshire and Humber,E08000016,Barnsley,17/11/2020,454,463,9,98.1,1.9
+Yorkshire and Humber,E08000032,Bradford,17/11/2020,1552,1604,52,96.8,3.2
+Yorkshire and Humber,E08000033,Calderdale,17/11/2020,538,549,11,98,2
+Yorkshire and Humber,E07000163,Craven,17/11/2020,69,72,3,95.8,4.2
+Yorkshire and Humber,E08000017,Doncaster,17/11/2020,577,592,15,97.5,2.5
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,17/11/2020,637,646,9,98.6,1.4
+Yorkshire and Humber,E07000164,Hambleton,17/11/2020,101,103,2,98.1,1.9
+Yorkshire and Humber,E07000165,Harrogate,17/11/2020,152,179,27,84.9,15.1
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",17/11/2020,819,835,16,98.1,1.9
+Yorkshire and Humber,E08000034,Kirklees,17/11/2020,1403,1415,12,99.2,0.8
+Yorkshire and Humber,E08000035,Leeds,17/11/2020,1657,1684,27,98.4,1.6
+Yorkshire and Humber,E06000012,North East Lincolnshire,17/11/2020,431,437,6,98.6,1.4
+Yorkshire and Humber,E06000013,North Lincolnshire,17/11/2020,401,403,2,99.5,0.5
+Yorkshire and Humber,E07000166,Richmondshire,17/11/2020,66,67,1,98.5,1.5
+Yorkshire and Humber,E08000018,Rotherham,17/11/2020,457,470,13,97.2,2.8
+Yorkshire and Humber,E07000167,Ryedale,17/11/2020,55,55,0,100,0
+Yorkshire and Humber,E07000168,Scarborough,17/11/2020,211,212,1,99.5,0.5
+Yorkshire and Humber,E07000169,Selby,17/11/2020,164,169,5,97,3
+Yorkshire and Humber,E08000019,Sheffield,17/11/2020,1009,1032,23,97.8,2.2
+Yorkshire and Humber,E08000036,Wakefield,17/11/2020,897,908,11,98.8,1.2
+Yorkshire and Humber,E06000014,York,17/11/2020,193,202,9,95.5,4.5
+East Midlands,E07000032,Amber Valley,24/11/2020,133,186,53,71.5,28.5
+East Midlands,E07000170,Ashfield,24/11/2020,149,150,1,99.3,0.7
+East Midlands,E07000171,Bassetlaw,24/11/2020,166,167,1,99.4,0.6
+East Midlands,E07000129,Blaby,24/11/2020,192,202,10,95,5
+East Midlands,E07000033,Bolsover,24/11/2020,84,92,8,91.3,8.7
+East Midlands,E07000136,Boston,24/11/2020,155,155,0,100,0
+East Midlands,E07000172,Broxtowe,24/11/2020,82,84,2,97.6,2.4
+East Midlands,E07000130,Charnwood,24/11/2020,194,224,30,86.6,13.4
+East Midlands,E07000034,Chesterfield,24/11/2020,48,49,1,98,2
+East Midlands,E07000150,Corby,24/11/2020,25,25,0,100,0
+East Midlands,E07000151,Daventry,24/11/2020,53,53,0,100,0
+East Midlands,E06000015,Derby,24/11/2020,278,306,28,90.8,9.2
+East Midlands,E07000035,Derbyshire Dales,24/11/2020,31,35,4,88.6,11.4
+East Midlands,E07000137,East Lindsey,24/11/2020,178,180,2,98.9,1.1
+East Midlands,E07000152,East Northamptonshire,24/11/2020,76,79,3,96.2,3.8
+East Midlands,E07000036,Erewash,24/11/2020,116,116,0,100,0
+East Midlands,E07000173,Gedling,24/11/2020,138,142,4,97.2,2.8
+East Midlands,E07000131,Harborough,24/11/2020,97,101,4,96,4
+East Midlands,E07000037,High Peak,24/11/2020,63,64,1,98.4,1.6
+East Midlands,E07000132,Hinckley and Bosworth,24/11/2020,98,99,1,99,1
+East Midlands,E07000153,Kettering,24/11/2020,39,39,0,100,0
+East Midlands,E06000016,Leicester,24/11/2020,878,891,13,98.5,1.5
+East Midlands,E07000138,Lincoln,24/11/2020,234,242,8,96.7,3.3
+East Midlands,E07000174,Mansfield,24/11/2020,111,121,10,91.7,8.3
+East Midlands,E07000133,Melton,24/11/2020,65,65,0,100,0
+East Midlands,E07000175,Newark and Sherwood,24/11/2020,164,172,8,95.3,4.7
+East Midlands,E07000038,North East Derbyshire,24/11/2020,58,60,2,96.7,3.3
+East Midlands,E07000139,North Kesteven,24/11/2020,154,157,3,98.1,1.9
+East Midlands,E07000134,North West Leicestershire,24/11/2020,117,118,1,99.2,0.8
+East Midlands,E07000154,Northampton,24/11/2020,176,186,10,94.6,5.4
+East Midlands,E06000018,Nottingham,24/11/2020,443,446,3,99.3,0.7
+East Midlands,E07000135,Oadby and Wigston,24/11/2020,127,131,4,96.9,3.1
+East Midlands,E07000176,Rushcliffe,24/11/2020,97,101,4,96,4
+East Midlands,E06000017,Rutland,24/11/2020,12,12,0,100,0
+East Midlands,E07000039,South Derbyshire,24/11/2020,77,82,5,93.9,6.1
+East Midlands,E07000140,South Holland,24/11/2020,44,44,0,100,0
+East Midlands,E07000141,South Kesteven,24/11/2020,128,134,6,95.5,4.5
+East Midlands,E07000155,South Northamptonshire,24/11/2020,60,65,5,92.3,7.7
+East Midlands,E07000156,Wellingborough,24/11/2020,56,61,5,91.8,8.2
+East Midlands,E07000142,West Lindsey,24/11/2020,114,115,1,99.1,0.9
+East of England,E07000200,Babergh,24/11/2020,1,1,0,100,0
+East of England,E07000066,Basildon,24/11/2020,90,264,174,34.1,65.9
+East of England,E06000055,Bedford,24/11/2020,70,80,10,87.5,12.5
+East of England,E07000067,Braintree,24/11/2020,32,43,11,74.4,25.6
+East of England,E07000143,Breckland,24/11/2020,13,21,8,61.9,38.1
+East of England,E07000068,Brentwood,24/11/2020,33,66,33,50,50
+East of England,E07000144,Broadland,24/11/2020,13,20,7,65,35
+East of England,E07000095,Broxbourne,24/11/2020,69,116,47,59.5,40.5
+East of England,E07000008,Cambridge,24/11/2020,11,13,2,84.6,15.4
+East of England,E07000069,Castle Point,24/11/2020,41,82,41,50,50
+East of England,E06000056,Central Bedfordshire,24/11/2020,111,152,41,73,27
+East of England,E07000070,Chelmsford,24/11/2020,34,63,29,54,46
+East of England,E07000071,Colchester,24/11/2020,2,6,4,33.3,66.7
+East of England,E07000096,Dacorum,24/11/2020,101,126,25,80.2,19.8
+East of England,E07000009,East Cambridgeshire,24/11/2020,9,10,1,90,10
+East of England,E07000242,East Hertfordshire,24/11/2020,128,153,25,83.7,16.3
+East of England,E07000244,East Suffolk,24/11/2020,8,10,2,80,20
+East of England,E07000072,Epping Forest,24/11/2020,84,138,54,60.9,39.1
+East of England,E07000010,Fenland,24/11/2020,24,27,3,88.9,11.1
+East of England,E07000145,Great Yarmouth,24/11/2020,17,18,1,94.4,5.6
+East of England,E07000073,Harlow,24/11/2020,50,87,37,57.5,42.5
+East of England,E07000098,Hertsmere,24/11/2020,83,134,51,61.9,38.1
+East of England,E07000011,Huntingdonshire,24/11/2020,28,35,7,80,20
+East of England,E07000202,Ipswich,24/11/2020,1,1,0,100,0
+East of England,E07000146,King's Lynn and West Norfolk,24/11/2020,36,36,0,100,0
+East of England,E06000032,Luton,24/11/2020,373,394,21,94.7,5.3
+East of England,E07000203,Mid Suffolk,24/11/2020,1,1,0,100,0
+East of England,E06000042,Milton Keynes,24/11/2020,163,236,73,69.1,30.9
+East of England,E07000099,North Hertfordshire,24/11/2020,63,78,15,80.8,19.2
+East of England,E07000147,North Norfolk,24/11/2020,14,16,2,87.5,12.5
+East of England,E07000148,Norwich,24/11/2020,37,46,9,80.4,19.6
+East of England,E06000031,Peterborough,24/11/2020,56,58,2,96.6,3.4
+East of England,E07000075,Rochford,24/11/2020,30,54,24,55.6,44.4
+East of England,E07000012,South Cambridgeshire,24/11/2020,15,17,2,88.2,11.8
+East of England,E07000149,South Norfolk,24/11/2020,10,25,15,40,60
+East of England,E06000033,Southend-on-Sea,24/11/2020,73,113,40,64.6,35.4
+East of England,E07000240,St Albans,24/11/2020,92,120,28,76.7,23.3
+East of England,E07000243,Stevenage,24/11/2020,55,70,15,78.6,21.4
+East of England,E07000076,Tendring,24/11/2020,13,14,1,92.9,7.1
+East of England,E07000102,Three Rivers,24/11/2020,55,83,28,66.3,33.7
+East of England,E06000034,Thurrock,24/11/2020,88,137,49,64.2,35.8
+East of England,E07000077,Uttlesford,24/11/2020,14,22,8,63.6,36.4
+East of England,E07000103,Watford,24/11/2020,96,140,44,68.6,31.4
+East of England,E07000241,Welwyn Hatfield,24/11/2020,71,88,17,80.7,19.3
+East of England,E07000245,West Suffolk,24/11/2020,6,8,2,75,25
+London,E09000002,Barking and Dagenham,24/11/2020,179,277,98,64.6,35.4
+London,E09000003,Barnet,24/11/2020,262,357,95,73.4,26.6
+London,E09000004,Bexley,24/11/2020,94,214,120,43.9,56.1
+London,E09000005,Brent,24/11/2020,248,290,42,85.5,14.5
+London,E09000006,Bromley,24/11/2020,151,318,167,47.5,52.5
+London,E09000007,Camden,24/11/2020,147,189,42,77.8,22.2
+London,E09000001,City of London,24/11/2020,10,12,2,83.3,16.7
+London,E09000008,Croydon,24/11/2020,236,323,87,73.1,26.9
+London,E09000009,Ealing,24/11/2020,350,413,63,84.7,15.3
+London,E09000010,Enfield,24/11/2020,220,364,144,60.4,39.6
+London,E09000011,Greenwich,24/11/2020,112,223,111,50.2,49.8
+London,E09000012,Hackney,24/11/2020,172,275,103,62.5,37.5
+London,E09000013,Hammersmith and Fulham,24/11/2020,94,126,32,74.6,25.4
+London,E09000014,Haringey,24/11/2020,195,277,82,70.4,29.6
+London,E09000015,Harrow,24/11/2020,183,252,69,72.6,27.4
+London,E09000016,Havering,24/11/2020,160,331,171,48.3,51.7
+London,E09000017,Hillingdon,24/11/2020,286,380,94,75.3,24.7
+London,E09000018,Hounslow,24/11/2020,257,352,95,73,27
+London,E09000019,Islington,24/11/2020,144,204,60,70.6,29.4
+London,E09000020,Kensington and Chelsea,24/11/2020,86,116,30,74.1,25.9
+London,E09000021,Kingston upon Thames,24/11/2020,95,246,151,38.6,61.4
+London,E09000022,Lambeth,24/11/2020,160,246,86,65,35
+London,E09000023,Lewisham,24/11/2020,107,171,64,62.6,37.4
+London,E09000024,Merton,24/11/2020,160,291,131,55,45
+London,E09000025,Newham,24/11/2020,326,452,126,72.1,27.9
+London,E09000026,Redbridge,24/11/2020,338,479,141,70.6,29.4
+London,E09000027,Richmond upon Thames,24/11/2020,82,117,35,70.1,29.9
+London,E09000028,Southwark,24/11/2020,145,230,85,63,37
+London,E09000029,Sutton,24/11/2020,135,225,90,60,40
+London,E09000030,Tower Hamlets,24/11/2020,315,410,95,76.8,23.2
+London,E09000031,Waltham Forest,24/11/2020,196,286,90,68.5,31.5
+London,E09000032,Wandsworth,24/11/2020,158,235,77,67.2,32.8
+London,E09000033,Westminster,24/11/2020,132,171,39,77.2,22.8
+North East,E06000047,County Durham,24/11/2020,720,756,36,95.2,4.8
+North East,E06000005,Darlington,24/11/2020,217,218,1,99.5,0.5
+North East,E08000037,Gateshead,24/11/2020,245,255,10,96.1,3.9
+North East,E06000001,Hartlepool,24/11/2020,215,230,15,93.5,6.5
+North East,E06000002,Middlesbrough,24/11/2020,202,214,12,94.4,5.6
+North East,E08000021,Newcastle upon Tyne,24/11/2020,415,437,22,95,5
+North East,E08000022,North Tyneside,24/11/2020,293,316,23,92.7,7.3
+North East,E06000057,Northumberland,24/11/2020,393,432,39,91,9
+North East,E06000003,Redcar and Cleveland,24/11/2020,173,178,5,97.2,2.8
+North East,E08000023,South Tyneside,24/11/2020,259,261,2,99.2,0.8
+North East,E06000004,Stockton-on-Tees,24/11/2020,314,328,14,95.7,4.3
+North East,E08000024,Sunderland,24/11/2020,377,382,5,98.7,1.3
+North West,E07000026,Allerdale,24/11/2020,32,52,20,61.5,38.5
+North West,E07000027,Barrow-in-Furness,24/11/2020,26,26,0,100,0
+North West,E06000008,Blackburn with Darwen,24/11/2020,392,411,19,95.4,4.6
+North West,E06000009,Blackpool,24/11/2020,131,133,2,98.5,1.5
+North West,E08000001,Bolton,24/11/2020,489,494,5,99,1
+North West,E07000117,Burnley,24/11/2020,221,233,12,94.8,5.2
+North West,E08000002,Bury,24/11/2020,279,284,5,98.2,1.8
+North West,E07000028,Carlisle,24/11/2020,60,78,18,76.9,23.1
+North West,E06000049,Cheshire East,24/11/2020,363,365,2,99.5,0.5
+North West,E06000050,Cheshire West and Chester,24/11/2020,239,241,2,99.2,0.8
+North West,E07000118,Chorley,24/11/2020,140,141,1,99.3,0.7
+North West,E07000029,Copeland,24/11/2020,13,16,3,81.2,18.8
+North West,E07000030,Eden,24/11/2020,9,19,10,47.4,52.6
+North West,E07000119,Fylde,24/11/2020,62,63,1,98.4,1.6
+North West,E06000006,Halton,24/11/2020,165,166,1,99.4,0.6
+North West,E07000120,Hyndburn,24/11/2020,149,149,0,100,0
+North West,E08000011,Knowsley,24/11/2020,153,153,0,100,0
+North West,E07000121,Lancaster,24/11/2020,105,107,2,98.1,1.9
+North West,E08000012,Liverpool,24/11/2020,347,354,7,98,2
+North West,E08000003,Manchester,24/11/2020,855,879,24,97.3,2.7
+North West,E08000004,Oldham,24/11/2020,413,422,9,97.9,2.1
+North West,E07000122,Pendle,24/11/2020,222,243,21,91.4,8.6
+North West,E07000123,Preston,24/11/2020,204,205,1,99.5,0.5
+North West,E07000124,Ribble Valley,24/11/2020,77,78,1,98.7,1.3
+North West,E08000005,Rochdale,24/11/2020,480,484,4,99.2,0.8
+North West,E07000125,Rossendale,24/11/2020,171,172,1,99.4,0.6
+North West,E08000006,Salford,24/11/2020,325,329,4,98.8,1.2
+North West,E08000014,Sefton,24/11/2020,195,196,1,99.5,0.5
+North West,E07000031,South Lakeland,24/11/2020,63,63,0,100,0
+North West,E07000126,South Ribble,24/11/2020,188,193,5,97.4,2.6
+North West,E08000013,St. Helens,24/11/2020,199,200,1,99.5,0.5
+North West,E08000007,Stockport,24/11/2020,290,294,4,98.6,1.4
+North West,E08000008,Tameside,24/11/2020,293,296,3,99,1
+North West,E08000009,Trafford,24/11/2020,219,231,12,94.8,5.2
+North West,E06000007,Warrington,24/11/2020,219,224,5,97.8,2.2
+North West,E07000127,West Lancashire,24/11/2020,114,115,1,99.1,0.9
+North West,E08000010,Wigan,24/11/2020,556,570,14,97.5,2.5
+North West,E08000015,Wirral,24/11/2020,135,140,5,96.4,3.6
+North West,E07000128,Wyre,24/11/2020,86,86,0,100,0
+South East,E07000223,Adur,24/11/2020,16,21,5,76.2,23.8
+South East,E07000224,Arun,24/11/2020,45,63,18,71.4,28.6
+South East,E07000105,Ashford,24/11/2020,28,108,80,25.9,74.1
+South East,E07000004,Aylesbury Vale,24/11/2020,80,133,53,60.2,39.8
+South East,E07000084,Basingstoke and Deane,24/11/2020,82,89,7,92.1,7.9
+South East,E06000036,Bracknell Forest,24/11/2020,44,85,41,51.8,48.2
+South East,E06000043,Brighton and Hove,24/11/2020,104,129,25,80.6,19.4
+South East,E07000106,Canterbury,24/11/2020,20,129,109,15.5,84.5
+South East,E07000177,Cherwell,24/11/2020,60,69,9,87,13
+South East,E07000225,Chichester,24/11/2020,21,39,18,53.8,46.2
+South East,E07000005,Chiltern,24/11/2020,46,61,15,75.4,24.6
+South East,E07000226,Crawley,24/11/2020,35,47,12,74.5,25.5
+South East,E07000107,Dartford,24/11/2020,38,101,63,37.6,62.4
+South East,E07000108,Dover,24/11/2020,28,127,99,22,78
+South East,E07000085,East Hampshire,24/11/2020,20,24,4,83.3,16.7
+South East,E07000061,Eastbourne,24/11/2020,32,59,27,54.2,45.8
+South East,E07000086,Eastleigh,24/11/2020,45,47,2,95.7,4.3
+South East,E07000207,Elmbridge,24/11/2020,74,101,27,73.3,26.7
+South East,E07000208,Epsom and Ewell,24/11/2020,38,80,42,47.5,52.5
+South East,E07000087,Fareham,24/11/2020,38,47,9,80.9,19.1
+South East,E07000112,Folkestone and Hythe,24/11/2020,23,101,78,22.8,77.2
+South East,E07000088,Gosport,24/11/2020,55,62,7,88.7,11.3
+South East,E07000109,Gravesham,24/11/2020,35,122,87,28.7,71.3
+South East,E07000209,Guildford,24/11/2020,44,119,75,37,63
+South East,E07000089,Hart,24/11/2020,14,18,4,77.8,22.2
+South East,E07000062,Hastings,24/11/2020,12,52,40,23.1,76.9
+South East,E07000090,Havant,24/11/2020,39,69,30,56.5,43.5
+South East,E07000227,Horsham,24/11/2020,43,62,19,69.4,30.6
+South East,E06000046,Isle of Wight,24/11/2020,18,21,3,85.7,14.3
+South East,E07000063,Lewes,24/11/2020,19,47,28,40.4,59.6
+South East,E07000110,Maidstone,24/11/2020,75,261,186,28.7,71.3
+South East,E06000035,Medway,24/11/2020,114,514,400,22.2,77.8
+South East,E07000228,Mid Sussex,24/11/2020,71,119,48,59.7,40.3
+South East,E07000210,Mole Valley,24/11/2020,45,94,49,47.9,52.1
+South East,E07000091,New Forest,24/11/2020,39,40,1,97.5,2.5
+South East,E07000178,Oxford,24/11/2020,74,78,4,94.9,5.1
+South East,E06000044,Portsmouth,24/11/2020,143,168,25,85.1,14.9
+South East,E06000038,Reading,24/11/2020,155,202,47,76.7,23.3
+South East,E07000211,Reigate and Banstead,24/11/2020,71,109,38,65.1,34.9
+South East,E07000064,Rother,24/11/2020,25,79,54,31.6,68.4
+South East,E07000212,Runnymede,24/11/2020,62,144,82,43.1,56.9
+South East,E07000092,Rushmoor,24/11/2020,27,34,7,79.4,20.6
+South East,E07000111,Sevenoaks,24/11/2020,32,87,55,36.8,63.2
+South East,E06000039,Slough,24/11/2020,280,367,87,76.3,23.7
+South East,E07000006,South Bucks,24/11/2020,39,56,17,69.6,30.4
+South East,E07000179,South Oxfordshire,24/11/2020,43,49,6,87.8,12.2
+South East,E06000045,Southampton,24/11/2020,138,144,6,95.8,4.2
+South East,E07000213,Spelthorne,24/11/2020,52,89,37,58.4,41.6
+South East,E07000214,Surrey Heath,24/11/2020,31,77,46,40.3,59.7
+South East,E07000113,Swale,24/11/2020,52,337,285,15.4,84.6
+South East,E07000215,Tandridge,24/11/2020,31,76,45,40.8,59.2
+South East,E07000093,Test Valley,24/11/2020,30,34,4,88.2,11.8
+South East,E07000114,Thanet,24/11/2020,35,221,186,15.8,84.2
+South East,E07000115,Tonbridge and Malling,24/11/2020,35,135,100,25.9,74.1
+South East,E07000116,Tunbridge Wells,24/11/2020,32,63,31,50.8,49.2
+South East,E07000180,Vale of White Horse,24/11/2020,34,36,2,94.4,5.6
+South East,E07000216,Waverley,24/11/2020,40,57,17,70.2,29.8
+South East,E07000065,Wealden,24/11/2020,66,133,67,49.6,50.4
+South East,E06000037,West Berkshire,24/11/2020,47,56,9,83.9,16.1
+South East,E07000181,West Oxfordshire,24/11/2020,21,21,0,100,0
+South East,E07000094,Winchester,24/11/2020,46,50,4,92,8
+South East,E06000040,Windsor and Maidenhead,24/11/2020,85,99,14,85.9,14.1
+South East,E07000217,Woking,24/11/2020,52,141,89,36.9,63.1
+South East,E06000041,Wokingham,24/11/2020,76,135,59,56.3,43.7
+South East,E07000229,Worthing,24/11/2020,16,21,5,76.2,23.8
+South East,E07000007,Wycombe,24/11/2020,152,178,26,85.4,14.6
+South West,E06000022,Bath and North East Somerset,24/11/2020,34,39,5,87.2,12.8
+South West,E06000058,"Bournemouth, Christchurch and Poole",24/11/2020,123,140,17,87.9,12.1
+South West,E06000023,"Bristol, City of",24/11/2020,260,284,24,91.5,8.5
+South West,E07000078,Cheltenham,24/11/2020,51,54,3,94.4,5.6
+South West,E06000052,Cornwall,24/11/2020,25,30,5,83.3,16.7
+South West,E07000079,Cotswold,24/11/2020,14,14,0,100,0
+South West,E06000059,Dorset,24/11/2020,64,71,7,90.1,9.9
+South West,E07000040,East Devon,24/11/2020,18,19,1,94.7,5.3
+South West,E07000041,Exeter,24/11/2020,12,14,2,85.7,14.3
+South West,E07000080,Forest of Dean,24/11/2020,29,29,0,100,0
+South West,E07000081,Gloucester,24/11/2020,143,145,2,98.6,1.4
+South West,E07000187,Mendip,24/11/2020,25,28,3,89.3,10.7
+South West,E07000042,Mid Devon,24/11/2020,16,16,0,100,0
+South West,E07000043,North Devon,24/11/2020,10,10,0,100,0
+South West,E06000024,North Somerset,24/11/2020,55,71,16,77.5,22.5
+South West,E06000026,Plymouth,24/11/2020,13,19,6,68.4,31.6
+South West,E07000188,Sedgemoor,24/11/2020,24,41,17,58.5,41.5
+South West,E07000246,Somerset West and Taunton,24/11/2020,52,57,5,91.2,8.8
+South West,E06000025,South Gloucestershire,24/11/2020,74,96,22,77.1,22.9
+South West,E07000044,South Hams,24/11/2020,3,3,0,100,0
+South West,E07000189,South Somerset,24/11/2020,37,37,0,100,0
+South West,E07000082,Stroud,24/11/2020,30,33,3,90.9,9.1
+South West,E06000030,Swindon,24/11/2020,167,167,0,100,0
+South West,E07000045,Teignbridge,24/11/2020,6,8,2,75,25
+South West,E07000083,Tewkesbury,24/11/2020,55,59,4,93.2,6.8
+South West,E06000027,Torbay,24/11/2020,11,12,1,91.7,8.3
+South West,E07000046,Torridge,24/11/2020,18,18,0,100,0
+South West,E07000047,West Devon,24/11/2020,9,9,0,100,0
+South West,E06000054,Wiltshire,24/11/2020,139,150,11,92.7,7.3
+West Midlands,E08000025,Birmingham,24/11/2020,2088,2138,50,97.7,2.3
+West Midlands,E07000234,Bromsgrove,24/11/2020,83,85,2,97.6,2.4
+West Midlands,E07000192,Cannock Chase,24/11/2020,155,159,4,97.5,2.5
+West Midlands,E08000026,Coventry,24/11/2020,525,538,13,97.6,2.4
+West Midlands,E08000027,Dudley,24/11/2020,654,736,82,88.9,11.1
+West Midlands,E07000193,East Staffordshire,24/11/2020,213,221,8,96.4,3.6
+West Midlands,E06000019,"Herefordshire, County of",24/11/2020,96,97,1,99,1
+West Midlands,E07000194,Lichfield,24/11/2020,133,143,10,93,7
+West Midlands,E07000235,Malvern Hills,24/11/2020,42,44,2,95.5,4.5
+West Midlands,E07000195,Newcastle-under-Lyme,24/11/2020,242,244,2,99.2,0.8
+West Midlands,E07000218,North Warwickshire,24/11/2020,94,98,4,95.9,4.1
+West Midlands,E07000219,Nuneaton and Bedworth,24/11/2020,209,218,9,95.9,4.1
+West Midlands,E07000236,Redditch,24/11/2020,115,126,11,91.3,8.7
+West Midlands,E07000220,Rugby,24/11/2020,139,141,2,98.6,1.4
+West Midlands,E08000028,Sandwell,24/11/2020,722,745,23,96.9,3.1
+West Midlands,E06000051,Shropshire,24/11/2020,208,216,8,96.3,3.7
+West Midlands,E08000029,Solihull,24/11/2020,279,297,18,93.9,6.1
+West Midlands,E07000196,South Staffordshire,24/11/2020,173,178,5,97.2,2.8
+West Midlands,E07000197,Stafford,24/11/2020,203,205,2,99,1
+West Midlands,E07000198,Staffordshire Moorlands,24/11/2020,131,142,11,92.3,7.7
+West Midlands,E06000021,Stoke-on-Trent,24/11/2020,661,667,6,99.1,0.9
+West Midlands,E07000221,Stratford-on-Avon,24/11/2020,61,62,1,98.4,1.6
+West Midlands,E07000199,Tamworth,24/11/2020,130,131,1,99.2,0.8
+West Midlands,E06000020,Telford and Wrekin,24/11/2020,241,248,7,97.2,2.8
+West Midlands,E08000030,Walsall,24/11/2020,612,624,12,98.1,1.9
+West Midlands,E07000222,Warwick,24/11/2020,138,144,6,95.8,4.2
+West Midlands,E08000031,Wolverhampton,24/11/2020,554,570,16,97.2,2.8
+West Midlands,E07000237,Worcester,24/11/2020,62,64,2,96.9,3.1
+West Midlands,E07000238,Wychavon,24/11/2020,70,71,1,98.6,1.4
+West Midlands,E07000239,Wyre Forest,24/11/2020,79,87,8,90.8,9.2
+Yorkshire and Humber,E08000016,Barnsley,24/11/2020,312,319,7,97.8,2.2
+Yorkshire and Humber,E08000032,Bradford,24/11/2020,1142,1180,38,96.8,3.2
+Yorkshire and Humber,E08000033,Calderdale,24/11/2020,440,459,19,95.9,4.1
+Yorkshire and Humber,E07000163,Craven,24/11/2020,44,47,3,93.6,6.4
+Yorkshire and Humber,E08000017,Doncaster,24/11/2020,475,490,15,96.9,3.1
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,24/11/2020,255,258,3,98.8,1.2
+Yorkshire and Humber,E07000164,Hambleton,24/11/2020,68,70,2,97.1,2.9
+Yorkshire and Humber,E07000165,Harrogate,24/11/2020,112,121,9,92.6,7.4
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",24/11/2020,303,310,7,97.7,2.3
+Yorkshire and Humber,E08000034,Kirklees,24/11/2020,879,890,11,98.8,1.2
+Yorkshire and Humber,E08000035,Leeds,24/11/2020,1049,1063,14,98.7,1.3
+Yorkshire and Humber,E06000012,North East Lincolnshire,24/11/2020,240,241,1,99.6,0.4
+Yorkshire and Humber,E06000013,North Lincolnshire,24/11/2020,225,225,0,100,0
+Yorkshire and Humber,E07000166,Richmondshire,24/11/2020,30,33,3,90.9,9.1
+Yorkshire and Humber,E08000018,Rotherham,24/11/2020,361,362,1,99.7,0.3
+Yorkshire and Humber,E07000167,Ryedale,24/11/2020,40,40,0,100,0
+Yorkshire and Humber,E07000168,Scarborough,24/11/2020,118,119,1,99.2,0.8
+Yorkshire and Humber,E07000169,Selby,24/11/2020,84,89,5,94.4,5.6
+Yorkshire and Humber,E08000019,Sheffield,24/11/2020,720,735,15,98,2
+Yorkshire and Humber,E08000036,Wakefield,24/11/2020,546,554,8,98.6,1.4
+Yorkshire and Humber,E06000014,York,24/11/2020,105,111,6,94.6,5.4
+East Midlands,E07000032,Amber Valley,01/12/2020,99,171,72,57.9,42.1
+East Midlands,E07000170,Ashfield,01/12/2020,127,140,13,90.7,9.3
+East Midlands,E07000171,Bassetlaw,01/12/2020,151,153,2,98.7,1.3
+East Midlands,E07000129,Blaby,01/12/2020,185,191,6,96.9,3.1
+East Midlands,E07000033,Bolsover,01/12/2020,84,111,27,75.7,24.3
+East Midlands,E07000136,Boston,01/12/2020,160,163,3,98.2,1.8
+East Midlands,E07000172,Broxtowe,01/12/2020,94,97,3,96.9,3.1
+East Midlands,E07000130,Charnwood,01/12/2020,154,180,26,85.6,14.4
+East Midlands,E07000034,Chesterfield,01/12/2020,55,57,2,96.5,3.5
+East Midlands,E07000150,Corby,01/12/2020,50,50,0,100,0
+East Midlands,E07000151,Daventry,01/12/2020,51,56,5,91.1,8.9
+East Midlands,E06000015,Derby,01/12/2020,258,301,43,85.7,14.3
+East Midlands,E07000035,Derbyshire Dales,01/12/2020,24,29,5,82.8,17.2
+East Midlands,E07000137,East Lindsey,01/12/2020,143,146,3,97.9,2.1
+East Midlands,E07000152,East Northamptonshire,01/12/2020,36,57,21,63.2,36.8
+East Midlands,E07000036,Erewash,01/12/2020,87,93,6,93.5,6.5
+East Midlands,E07000173,Gedling,01/12/2020,104,112,8,92.9,7.1
+East Midlands,E07000131,Harborough,01/12/2020,99,104,5,95.2,4.8
+East Midlands,E07000037,High Peak,01/12/2020,56,60,4,93.3,6.7
+East Midlands,E07000132,Hinckley and Bosworth,01/12/2020,104,117,13,88.9,11.1
+East Midlands,E07000153,Kettering,01/12/2020,68,72,4,94.4,5.6
+East Midlands,E06000016,Leicester,01/12/2020,764,786,22,97.2,2.8
+East Midlands,E07000138,Lincoln,01/12/2020,289,298,9,97,3
+East Midlands,E07000174,Mansfield,01/12/2020,85,91,6,93.4,6.6
+East Midlands,E07000133,Melton,01/12/2020,57,61,4,93.4,6.6
+East Midlands,E07000175,Newark and Sherwood,01/12/2020,138,142,4,97.2,2.8
+East Midlands,E07000038,North East Derbyshire,01/12/2020,57,61,4,93.4,6.6
+East Midlands,E07000139,North Kesteven,01/12/2020,193,203,10,95.1,4.9
+East Midlands,E07000134,North West Leicestershire,01/12/2020,92,97,5,94.8,5.2
+East Midlands,E07000154,Northampton,01/12/2020,315,344,29,91.6,8.4
+East Midlands,E06000018,Nottingham,01/12/2020,351,370,19,94.9,5.1
+East Midlands,E07000135,Oadby and Wigston,01/12/2020,121,126,5,96,4
+East Midlands,E07000176,Rushcliffe,01/12/2020,45,62,17,72.6,27.4
+East Midlands,E06000017,Rutland,01/12/2020,17,18,1,94.4,5.6
+East Midlands,E07000039,South Derbyshire,01/12/2020,108,126,18,85.7,14.3
+East Midlands,E07000140,South Holland,01/12/2020,54,54,0,100,0
+East Midlands,E07000141,South Kesteven,01/12/2020,157,175,18,89.7,10.3
+East Midlands,E07000155,South Northamptonshire,01/12/2020,56,80,24,70,30
+East Midlands,E07000156,Wellingborough,01/12/2020,67,79,12,84.8,15.2
+East Midlands,E07000142,West Lindsey,01/12/2020,117,122,5,95.9,4.1
+East of England,E07000200,Babergh,01/12/2020,4,4,0,100,0
+East of England,E07000066,Basildon,01/12/2020,110,443,333,24.8,75.2
+East of England,E06000055,Bedford,01/12/2020,102,153,51,66.7,33.3
+East of England,E07000067,Braintree,01/12/2020,40,110,70,36.4,63.6
+East of England,E07000143,Breckland,01/12/2020,15,24,9,62.5,37.5
+East of England,E07000068,Brentwood,01/12/2020,41,143,102,28.7,71.3
+East of England,E07000144,Broadland,01/12/2020,8,14,6,57.1,42.9
+East of England,E07000095,Broxbourne,01/12/2020,77,229,152,33.6,66.4
+East of England,E07000008,Cambridge,01/12/2020,10,11,1,90.9,9.1
+East of England,E07000069,Castle Point,01/12/2020,34,93,59,36.6,63.4
+East of England,E06000056,Central Bedfordshire,01/12/2020,161,313,152,51.4,48.6
+East of England,E07000070,Chelmsford,01/12/2020,35,130,95,26.9,73.1
+East of England,E07000071,Colchester,01/12/2020,16,25,9,64,36
+East of England,E07000096,Dacorum,01/12/2020,149,213,64,70,30
+East of England,E07000009,East Cambridgeshire,01/12/2020,8,11,3,72.7,27.3
+East of England,E07000242,East Hertfordshire,01/12/2020,113,153,40,73.9,26.1
+East of England,E07000244,East Suffolk,01/12/2020,6,8,2,75,25
+East of England,E07000072,Epping Forest,01/12/2020,82,225,143,36.4,63.6
+East of England,E07000010,Fenland,01/12/2020,22,24,2,91.7,8.3
+East of England,E07000145,Great Yarmouth,01/12/2020,14,15,1,93.3,6.7
+East of England,E07000073,Harlow,01/12/2020,71,110,39,64.5,35.5
+East of England,E07000098,Hertsmere,01/12/2020,71,176,105,40.3,59.7
+East of England,E07000011,Huntingdonshire,01/12/2020,16,20,4,80,20
+East of England,E07000202,Ipswich,01/12/2020,5,5,0,100,0
+East of England,E07000146,King's Lynn and West Norfolk,01/12/2020,19,22,3,86.4,13.6
+East of England,E06000032,Luton,01/12/2020,485,571,86,84.9,15.1
+East of England,E07000074,Maldon,01/12/2020,10,33,23,30.3,69.7
+East of England,E07000203,Mid Suffolk,01/12/2020,2,2,0,100,0
+East of England,E06000042,Milton Keynes,01/12/2020,225,478,253,47.1,52.9
+East of England,E07000099,North Hertfordshire,01/12/2020,46,107,61,43,57
+East of England,E07000147,North Norfolk,01/12/2020,5,11,6,45.5,54.5
+East of England,E07000148,Norwich,01/12/2020,10,15,5,66.7,33.3
+East of England,E06000031,Peterborough,01/12/2020,51,54,3,94.4,5.6
+East of England,E07000075,Rochford,01/12/2020,29,95,66,30.5,69.5
+East of England,E07000012,South Cambridgeshire,01/12/2020,7,13,6,53.8,46.2
+East of England,E07000149,South Norfolk,01/12/2020,8,22,14,36.4,63.6
+East of England,E06000033,Southend-on-Sea,01/12/2020,125,200,75,62.5,37.5
+East of England,E07000240,St Albans,01/12/2020,101,162,61,62.3,37.7
+East of England,E07000243,Stevenage,01/12/2020,42,65,23,64.6,35.4
+East of England,E07000076,Tendring,01/12/2020,14,23,9,60.9,39.1
+East of England,E07000102,Three Rivers,01/12/2020,64,118,54,54.2,45.8
+East of England,E06000034,Thurrock,01/12/2020,126,288,162,43.8,56.2
+East of England,E07000077,Uttlesford,01/12/2020,13,34,21,38.2,61.8
+East of England,E07000103,Watford,01/12/2020,80,187,107,42.8,57.2
+East of England,E07000241,Welwyn Hatfield,01/12/2020,73,128,55,57,43
+East of England,E07000245,West Suffolk,01/12/2020,8,9,1,88.9,11.1
+London,E09000002,Barking and Dagenham,01/12/2020,190,379,189,50.1,49.9
+London,E09000003,Barnet,01/12/2020,240,436,196,55,45
+London,E09000004,Bexley,01/12/2020,119,332,213,35.8,64.2
+London,E09000005,Brent,01/12/2020,235,347,112,67.7,32.3
+London,E09000006,Bromley,01/12/2020,105,400,295,26.2,73.8
+London,E09000007,Camden,01/12/2020,106,222,116,47.7,52.3
+London,E09000001,City of London,01/12/2020,9,11,2,81.8,18.2
+London,E09000008,Croydon,01/12/2020,238,465,227,51.2,48.8
+London,E09000009,Ealing,01/12/2020,368,511,143,72,28
+London,E09000010,Enfield,01/12/2020,194,537,343,36.1,63.9
+London,E09000011,Greenwich,01/12/2020,139,344,205,40.4,59.6
+London,E09000012,Hackney,01/12/2020,141,299,158,47.2,52.8
+London,E09000013,Hammersmith and Fulham,01/12/2020,92,150,58,61.3,38.7
+London,E09000014,Haringey,01/12/2020,151,317,166,47.6,52.4
+London,E09000015,Harrow,01/12/2020,254,415,161,61.2,38.8
+London,E09000016,Havering,01/12/2020,188,506,318,37.2,62.8
+London,E09000017,Hillingdon,01/12/2020,316,479,163,66,34
+London,E09000018,Hounslow,01/12/2020,257,392,135,65.6,34.4
+London,E09000019,Islington,01/12/2020,112,193,81,58,42
+London,E09000020,Kensington and Chelsea,01/12/2020,92,146,54,63,37
+London,E09000021,Kingston upon Thames,01/12/2020,132,372,240,35.5,64.5
+London,E09000022,Lambeth,01/12/2020,157,326,169,48.2,51.8
+London,E09000023,Lewisham,01/12/2020,79,224,145,35.3,64.7
+London,E09000024,Merton,01/12/2020,124,342,218,36.3,63.7
+London,E09000025,Newham,01/12/2020,321,532,211,60.3,39.7
+London,E09000026,Redbridge,01/12/2020,268,524,256,51.1,48.9
+London,E09000027,Richmond upon Thames,01/12/2020,99,188,89,52.7,47.3
+London,E09000028,Southwark,01/12/2020,132,264,132,50,50
+London,E09000029,Sutton,01/12/2020,156,320,164,48.8,51.2
+London,E09000030,Tower Hamlets,01/12/2020,271,474,203,57.2,42.8
+London,E09000031,Waltham Forest,01/12/2020,243,495,252,49.1,50.9
+London,E09000032,Wandsworth,01/12/2020,176,341,165,51.6,48.4
+London,E09000033,Westminster,01/12/2020,109,178,69,61.2,38.8
+North East,E06000047,County Durham,01/12/2020,604,667,63,90.6,9.4
+North East,E06000005,Darlington,01/12/2020,158,163,5,96.9,3.1
+North East,E08000037,Gateshead,01/12/2020,138,147,9,93.9,6.1
+North East,E06000001,Hartlepool,01/12/2020,189,202,13,93.6,6.4
+North East,E06000002,Middlesbrough,01/12/2020,211,236,25,89.4,10.6
+North East,E08000021,Newcastle upon Tyne,01/12/2020,262,302,40,86.8,13.2
+North East,E08000022,North Tyneside,01/12/2020,181,199,18,91,9
+North East,E06000057,Northumberland,01/12/2020,326,438,112,74.4,25.6
+North East,E06000003,Redcar and Cleveland,01/12/2020,153,155,2,98.7,1.3
+North East,E08000023,South Tyneside,01/12/2020,233,237,4,98.3,1.7
+North East,E06000004,Stockton-on-Tees,01/12/2020,199,214,15,93,7
+North East,E08000024,Sunderland,01/12/2020,384,394,10,97.5,2.5
+North West,E07000026,Allerdale,01/12/2020,23,56,33,41.1,58.9
+North West,E07000027,Barrow-in-Furness,01/12/2020,33,34,1,97.1,2.9
+North West,E06000008,Blackburn with Darwen,01/12/2020,313,345,32,90.7,9.3
+North West,E06000009,Blackpool,01/12/2020,116,117,1,99.1,0.9
+North West,E08000001,Bolton,01/12/2020,362,367,5,98.6,1.4
+North West,E07000117,Burnley,01/12/2020,176,201,25,87.6,12.4
+North West,E08000002,Bury,01/12/2020,302,311,9,97.1,2.9
+North West,E07000028,Carlisle,01/12/2020,49,91,42,53.8,46.2
+North West,E06000049,Cheshire East,01/12/2020,256,257,1,99.6,0.4
+North West,E06000050,Cheshire West and Chester,01/12/2020,218,233,15,93.6,6.4
+North West,E07000118,Chorley,01/12/2020,130,130,0,100,0
+North West,E07000029,Copeland,01/12/2020,10,11,1,90.9,9.1
+North West,E07000030,Eden,01/12/2020,15,33,18,45.5,54.5
+North West,E07000119,Fylde,01/12/2020,42,44,2,95.5,4.5
+North West,E06000006,Halton,01/12/2020,129,133,4,97,3
+North West,E07000120,Hyndburn,01/12/2020,113,127,14,89,11
+North West,E08000011,Knowsley,01/12/2020,121,121,0,100,0
+North West,E07000121,Lancaster,01/12/2020,72,75,3,96,4
+North West,E08000012,Liverpool,01/12/2020,340,366,26,92.9,7.1
+North West,E08000003,Manchester,01/12/2020,753,803,50,93.8,6.2
+North West,E08000004,Oldham,01/12/2020,332,346,14,96,4
+North West,E07000122,Pendle,01/12/2020,199,216,17,92.1,7.9
+North West,E07000123,Preston,01/12/2020,192,192,0,100,0
+North West,E07000124,Ribble Valley,01/12/2020,74,77,3,96.1,3.9
+North West,E08000005,Rochdale,01/12/2020,371,378,7,98.1,1.9
+North West,E07000125,Rossendale,01/12/2020,132,134,2,98.5,1.5
+North West,E08000006,Salford,01/12/2020,294,299,5,98.3,1.7
+North West,E08000014,Sefton,01/12/2020,144,145,1,99.3,0.7
+North West,E07000031,South Lakeland,01/12/2020,46,53,7,86.8,13.2
+North West,E07000126,South Ribble,01/12/2020,143,144,1,99.3,0.7
+North West,E08000013,St. Helens,01/12/2020,183,185,2,98.9,1.1
+North West,E08000007,Stockport,01/12/2020,250,255,5,98,2
+North West,E08000008,Tameside,01/12/2020,188,190,2,98.9,1.1
+North West,E08000009,Trafford,01/12/2020,173,185,12,93.5,6.5
+North West,E06000007,Warrington,01/12/2020,181,182,1,99.5,0.5
+North West,E07000127,West Lancashire,01/12/2020,107,111,4,96.4,3.6
+North West,E08000010,Wigan,01/12/2020,447,465,18,96.1,3.9
+North West,E08000015,Wirral,01/12/2020,123,131,8,93.9,6.1
+North West,E07000128,Wyre,01/12/2020,56,56,0,100,0
+South East,E07000223,Adur,01/12/2020,15,24,9,62.5,37.5
+South East,E07000224,Arun,01/12/2020,39,65,26,60,40
+South East,E07000105,Ashford,01/12/2020,36,199,163,18.1,81.9
+South East,E07000004,Aylesbury Vale,01/12/2020,159,301,142,52.8,47.2
+South East,E07000084,Basingstoke and Deane,01/12/2020,101,130,29,77.7,22.3
+South East,E06000036,Bracknell Forest,01/12/2020,52,186,134,28,72
+South East,E06000043,Brighton and Hove,01/12/2020,92,146,54,63,37
+South East,E07000106,Canterbury,01/12/2020,29,230,201,12.6,87.4
+South East,E07000177,Cherwell,01/12/2020,78,92,14,84.8,15.2
+South East,E07000225,Chichester,01/12/2020,32,63,31,50.8,49.2
+South East,E07000005,Chiltern,01/12/2020,58,86,28,67.4,32.6
+South East,E07000226,Crawley,01/12/2020,32,81,49,39.5,60.5
+South East,E07000107,Dartford,01/12/2020,52,154,102,33.8,66.2
+South East,E07000108,Dover,01/12/2020,46,275,229,16.7,83.3
+South East,E07000085,East Hampshire,01/12/2020,29,38,9,76.3,23.7
+South East,E07000061,Eastbourne,01/12/2020,25,61,36,41,59
+South East,E07000086,Eastleigh,01/12/2020,39,45,6,86.7,13.3
+South East,E07000207,Elmbridge,01/12/2020,63,124,61,50.8,49.2
+South East,E07000208,Epsom and Ewell,01/12/2020,41,87,46,47.1,52.9
+South East,E07000087,Fareham,01/12/2020,39,64,25,60.9,39.1
+South East,E07000112,Folkestone and Hythe,01/12/2020,41,235,194,17.4,82.6
+South East,E07000088,Gosport,01/12/2020,38,50,12,76,24
+South East,E07000109,Gravesham,01/12/2020,51,210,159,24.3,75.7
+South East,E07000209,Guildford,01/12/2020,43,135,92,31.9,68.1
+South East,E07000089,Hart,01/12/2020,30,74,44,40.5,59.5
+South East,E07000062,Hastings,01/12/2020,25,180,155,13.9,86.1
+South East,E07000090,Havant,01/12/2020,41,137,96,29.9,70.1
+South East,E07000227,Horsham,01/12/2020,56,114,58,49.1,50.9
+South East,E06000046,Isle of Wight,01/12/2020,4,5,1,80,20
+South East,E07000063,Lewes,01/12/2020,17,32,15,53.1,46.9
+South East,E07000110,Maidstone,01/12/2020,60,325,265,18.5,81.5
+South East,E06000035,Medway,01/12/2020,97,630,533,15.4,84.6
+South East,E07000228,Mid Sussex,01/12/2020,42,103,61,40.8,59.2
+South East,E07000210,Mole Valley,01/12/2020,17,57,40,29.8,70.2
+South East,E07000091,New Forest,01/12/2020,55,76,21,72.4,27.6
+South East,E07000178,Oxford,01/12/2020,135,149,14,90.6,9.4
+South East,E06000044,Portsmouth,01/12/2020,197,291,94,67.7,32.3
+South East,E06000038,Reading,01/12/2020,186,258,72,72.1,27.9
+South East,E07000211,Reigate and Banstead,01/12/2020,70,130,60,53.8,46.2
+South East,E07000064,Rother,01/12/2020,16,111,95,14.4,85.6
+South East,E07000212,Runnymede,01/12/2020,42,200,158,21,79
+South East,E07000092,Rushmoor,01/12/2020,35,69,34,50.7,49.3
+South East,E07000111,Sevenoaks,01/12/2020,35,111,76,31.5,68.5
+South East,E06000039,Slough,01/12/2020,227,353,126,64.3,35.7
+South East,E07000006,South Bucks,01/12/2020,38,82,44,46.3,53.7
+South East,E07000179,South Oxfordshire,01/12/2020,50,77,27,64.9,35.1
+South East,E06000045,Southampton,01/12/2020,121,154,33,78.6,21.4
+South East,E07000213,Spelthorne,01/12/2020,81,161,80,50.3,49.7
+South East,E07000214,Surrey Heath,01/12/2020,39,103,64,37.9,62.1
+South East,E07000113,Swale,01/12/2020,69,525,456,13.1,86.9
+South East,E07000215,Tandridge,01/12/2020,47,124,77,37.9,62.1
+South East,E07000093,Test Valley,01/12/2020,25,30,5,83.3,16.7
+South East,E07000114,Thanet,01/12/2020,20,240,220,8.3,91.7
+South East,E07000115,Tonbridge and Malling,01/12/2020,50,213,163,23.5,76.5
+South East,E07000116,Tunbridge Wells,01/12/2020,31,106,75,29.2,70.8
+South East,E07000180,Vale of White Horse,01/12/2020,47,60,13,78.3,21.7
+South East,E07000216,Waverley,01/12/2020,49,76,27,64.5,35.5
+South East,E07000065,Wealden,01/12/2020,51,142,91,35.9,64.1
+South East,E06000037,West Berkshire,01/12/2020,81,95,14,85.3,14.7
+South East,E07000181,West Oxfordshire,01/12/2020,33,37,4,89.2,10.8
+South East,E07000094,Winchester,01/12/2020,22,32,10,68.8,31.2
+South East,E06000040,Windsor and Maidenhead,01/12/2020,68,114,46,59.6,40.4
+South East,E07000217,Woking,01/12/2020,58,211,153,27.5,72.5
+South East,E06000041,Wokingham,01/12/2020,82,182,100,45.1,54.9
+South East,E07000229,Worthing,01/12/2020,10,25,15,40,60
+South East,E07000007,Wycombe,01/12/2020,167,216,49,77.3,22.7
+South West,E06000022,Bath and North East Somerset,01/12/2020,33,40,7,82.5,17.5
+South West,E06000058,"Bournemouth, Christchurch and Poole",01/12/2020,126,139,13,90.6,9.4
+South West,E06000023,"Bristol, City of",01/12/2020,153,174,21,87.9,12.1
+South West,E07000078,Cheltenham,01/12/2020,38,40,2,95,5
+South West,E06000052,Cornwall,01/12/2020,14,15,1,93.3,6.7
+South West,E07000079,Cotswold,01/12/2020,13,13,0,100,0
+South West,E06000059,Dorset,01/12/2020,46,50,4,92,8
+South West,E07000040,East Devon,01/12/2020,38,41,3,92.7,7.3
+South West,E07000041,Exeter,01/12/2020,14,14,0,100,0
+South West,E07000080,Forest of Dean,01/12/2020,39,45,6,86.7,13.3
+South West,E07000081,Gloucester,01/12/2020,139,149,10,93.3,6.7
+South West,E07000187,Mendip,01/12/2020,17,23,6,73.9,26.1
+South West,E07000042,Mid Devon,01/12/2020,10,10,0,100,0
+South West,E07000043,North Devon,01/12/2020,12,12,0,100,0
+South West,E06000024,North Somerset,01/12/2020,34,52,18,65.4,34.6
+South West,E06000026,Plymouth,01/12/2020,8,8,0,100,0
+South West,E07000188,Sedgemoor,01/12/2020,19,45,26,42.2,57.8
+South West,E07000246,Somerset West and Taunton,01/12/2020,26,34,8,76.5,23.5
+South West,E06000025,South Gloucestershire,01/12/2020,118,165,47,71.5,28.5
+South West,E07000189,South Somerset,01/12/2020,34,34,0,100,0
+South West,E07000082,Stroud,01/12/2020,58,68,10,85.3,14.7
+South West,E06000030,Swindon,01/12/2020,119,136,17,87.5,12.5
+South West,E07000045,Teignbridge,01/12/2020,12,13,1,92.3,7.7
+South West,E07000083,Tewkesbury,01/12/2020,33,41,8,80.5,19.5
+South West,E06000027,Torbay,01/12/2020,4,4,0,100,0
+South West,E07000046,Torridge,01/12/2020,3,3,0,100,0
+South West,E07000047,West Devon,01/12/2020,7,7,0,100,0
+South West,E06000054,Wiltshire,01/12/2020,150,174,24,86.2,13.8
+West Midlands,E08000025,Birmingham,01/12/2020,1765,1951,186,90.5,9.5
+West Midlands,E07000234,Bromsgrove,01/12/2020,83,88,5,94.3,5.7
+West Midlands,E07000192,Cannock Chase,01/12/2020,121,134,13,90.3,9.7
+West Midlands,E08000026,Coventry,01/12/2020,395,439,44,90,10
+West Midlands,E08000027,Dudley,01/12/2020,426,509,83,83.7,16.3
+West Midlands,E07000193,East Staffordshire,01/12/2020,195,207,12,94.2,5.8
+West Midlands,E06000019,"Herefordshire, County of",01/12/2020,55,57,2,96.5,3.5
+West Midlands,E07000194,Lichfield,01/12/2020,123,129,6,95.3,4.7
+West Midlands,E07000235,Malvern Hills,01/12/2020,31,33,2,93.9,6.1
+West Midlands,E07000195,Newcastle-under-Lyme,01/12/2020,175,179,4,97.8,2.2
+West Midlands,E07000218,North Warwickshire,01/12/2020,50,61,11,82,18
+West Midlands,E07000219,Nuneaton and Bedworth,01/12/2020,168,210,42,80,20
+West Midlands,E07000236,Redditch,01/12/2020,73,73,0,100,0
+West Midlands,E07000220,Rugby,01/12/2020,113,117,4,96.6,3.4
+West Midlands,E08000028,Sandwell,01/12/2020,546,597,51,91.5,8.5
+West Midlands,E06000051,Shropshire,01/12/2020,153,167,14,91.6,8.4
+West Midlands,E08000029,Solihull,01/12/2020,227,257,30,88.3,11.7
+West Midlands,E07000196,South Staffordshire,01/12/2020,134,146,12,91.8,8.2
+West Midlands,E07000197,Stafford,01/12/2020,167,171,4,97.7,2.3
+West Midlands,E07000198,Staffordshire Moorlands,01/12/2020,98,99,1,99,1
+West Midlands,E06000021,Stoke-on-Trent,01/12/2020,542,552,10,98.2,1.8
+West Midlands,E07000221,Stratford-on-Avon,01/12/2020,50,54,4,92.6,7.4
+West Midlands,E07000199,Tamworth,01/12/2020,97,97,0,100,0
+West Midlands,E06000020,Telford and Wrekin,01/12/2020,184,186,2,98.9,1.1
+West Midlands,E08000030,Walsall,01/12/2020,428,451,23,94.9,5.1
+West Midlands,E07000222,Warwick,01/12/2020,148,160,12,92.5,7.5
+West Midlands,E08000031,Wolverhampton,01/12/2020,515,564,49,91.3,8.7
+West Midlands,E07000237,Worcester,01/12/2020,36,39,3,92.3,7.7
+West Midlands,E07000238,Wychavon,01/12/2020,54,56,2,96.4,3.6
+West Midlands,E07000239,Wyre Forest,01/12/2020,64,69,5,92.8,7.2
+Yorkshire and Humber,E08000016,Barnsley,01/12/2020,138,139,1,99.3,0.7
+Yorkshire and Humber,E08000032,Bradford,01/12/2020,844,870,26,97,3
+Yorkshire and Humber,E08000033,Calderdale,01/12/2020,331,335,4,98.8,1.2
+Yorkshire and Humber,E07000163,Craven,01/12/2020,49,51,2,96.1,3.9
+Yorkshire and Humber,E08000017,Doncaster,01/12/2020,234,242,8,96.7,3.3
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,01/12/2020,178,181,3,98.3,1.7
+Yorkshire and Humber,E07000164,Hambleton,01/12/2020,39,41,2,95.1,4.9
+Yorkshire and Humber,E07000165,Harrogate,01/12/2020,120,133,13,90.2,9.8
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",01/12/2020,195,202,7,96.5,3.5
+Yorkshire and Humber,E08000034,Kirklees,01/12/2020,584,588,4,99.3,0.7
+Yorkshire and Humber,E08000035,Leeds,01/12/2020,836,866,30,96.5,3.5
+Yorkshire and Humber,E06000012,North East Lincolnshire,01/12/2020,130,132,2,98.5,1.5
+Yorkshire and Humber,E06000013,North Lincolnshire,01/12/2020,128,128,0,100,0
+Yorkshire and Humber,E07000166,Richmondshire,01/12/2020,34,35,1,97.1,2.9
+Yorkshire and Humber,E08000018,Rotherham,01/12/2020,267,271,4,98.5,1.5
+Yorkshire and Humber,E07000167,Ryedale,01/12/2020,37,37,0,100,0
+Yorkshire and Humber,E07000168,Scarborough,01/12/2020,137,137,0,100,0
+Yorkshire and Humber,E07000169,Selby,01/12/2020,77,82,5,93.9,6.1
+Yorkshire and Humber,E08000019,Sheffield,01/12/2020,499,509,10,98,2
+Yorkshire and Humber,E08000036,Wakefield,01/12/2020,375,391,16,95.9,4.1
+Yorkshire and Humber,E06000014,York,01/12/2020,114,138,24,82.6,17.4
+East Midlands,E07000032,Amber Valley,08/12/2020,105,202,97,52,48
+East Midlands,E07000170,Ashfield,08/12/2020,187,221,34,84.6,15.4
+East Midlands,E07000171,Bassetlaw,08/12/2020,182,185,3,98.4,1.6
+East Midlands,E07000129,Blaby,08/12/2020,169,184,15,91.8,8.2
+East Midlands,E07000033,Bolsover,08/12/2020,104,127,23,81.9,18.1
+East Midlands,E07000136,Boston,08/12/2020,72,73,1,98.6,1.4
+East Midlands,E07000172,Broxtowe,08/12/2020,106,127,21,83.5,16.5
+East Midlands,E07000130,Charnwood,08/12/2020,176,220,44,80,20
+East Midlands,E07000034,Chesterfield,08/12/2020,52,54,2,96.3,3.7
+East Midlands,E07000150,Corby,08/12/2020,47,52,5,90.4,9.6
+East Midlands,E07000151,Daventry,08/12/2020,65,84,19,77.4,22.6
+East Midlands,E06000015,Derby,08/12/2020,265,362,97,73.2,26.8
+East Midlands,E07000035,Derbyshire Dales,08/12/2020,16,20,4,80,20
+East Midlands,E07000137,East Lindsey,08/12/2020,82,85,3,96.5,3.5
+East Midlands,E07000152,East Northamptonshire,08/12/2020,42,73,31,57.5,42.5
+East Midlands,E07000036,Erewash,08/12/2020,99,113,14,87.6,12.4
+East Midlands,E07000173,Gedling,08/12/2020,198,215,17,92.1,7.9
+East Midlands,E07000131,Harborough,08/12/2020,79,92,13,85.9,14.1
+East Midlands,E07000037,High Peak,08/12/2020,56,91,35,61.5,38.5
+East Midlands,E07000132,Hinckley and Bosworth,08/12/2020,142,153,11,92.8,7.2
+East Midlands,E07000153,Kettering,08/12/2020,55,70,15,78.6,21.4
+East Midlands,E06000016,Leicester,08/12/2020,780,831,51,93.9,6.1
+East Midlands,E07000138,Lincoln,08/12/2020,240,243,3,98.8,1.2
+East Midlands,E07000174,Mansfield,08/12/2020,134,154,20,87,13
+East Midlands,E07000133,Melton,08/12/2020,43,61,18,70.5,29.5
+East Midlands,E07000175,Newark and Sherwood,08/12/2020,168,199,31,84.4,15.6
+East Midlands,E07000038,North East Derbyshire,08/12/2020,64,78,14,82.1,17.9
+East Midlands,E07000139,North Kesteven,08/12/2020,125,128,3,97.7,2.3
+East Midlands,E07000134,North West Leicestershire,08/12/2020,82,84,2,97.6,2.4
+East Midlands,E07000154,Northampton,08/12/2020,327,404,77,80.9,19.1
+East Midlands,E06000018,Nottingham,08/12/2020,423,492,69,86,14
+East Midlands,E07000135,Oadby and Wigston,08/12/2020,93,104,11,89.4,10.6
+East Midlands,E07000176,Rushcliffe,08/12/2020,90,120,30,75,25
+East Midlands,E06000017,Rutland,08/12/2020,25,29,4,86.2,13.8
+East Midlands,E07000039,South Derbyshire,08/12/2020,142,178,36,79.8,20.2
+East Midlands,E07000140,South Holland,08/12/2020,32,34,2,94.1,5.9
+East Midlands,E07000141,South Kesteven,08/12/2020,136,174,38,78.2,21.8
+East Midlands,E07000155,South Northamptonshire,08/12/2020,79,120,41,65.8,34.2
+East Midlands,E07000156,Wellingborough,08/12/2020,94,113,19,83.2,16.8
+East Midlands,E07000142,West Lindsey,08/12/2020,165,175,10,94.3,5.7
+East of England,E07000200,Babergh,08/12/2020,1,2,1,50,50
+East of England,E07000066,Basildon,08/12/2020,117,727,610,16.1,83.9
+East of England,E06000055,Bedford,08/12/2020,102,289,187,35.3,64.7
+East of England,E07000067,Braintree,08/12/2020,52,288,236,18.1,81.9
+East of England,E07000143,Breckland,08/12/2020,2,2,0,100,0
+East of England,E07000068,Brentwood,08/12/2020,89,346,257,25.7,74.3
+East of England,E07000144,Broadland,08/12/2020,1,1,0,100,0
+East of England,E07000095,Broxbourne,08/12/2020,110,484,374,22.7,77.3
+East of England,E07000008,Cambridge,08/12/2020,1,1,0,100,0
+East of England,E07000069,Castle Point,08/12/2020,76,247,171,30.8,69.2
+East of England,E06000056,Central Bedfordshire,08/12/2020,245,548,303,44.7,55.3
+East of England,E07000070,Chelmsford,08/12/2020,63,385,322,16.4,83.6
+East of England,E07000071,Colchester,08/12/2020,4,11,7,36.4,63.6
+East of England,E07000096,Dacorum,08/12/2020,142,292,150,48.6,51.4
+East of England,E07000009,East Cambridgeshire,08/12/2020,1,1,0,100,0
+East of England,E07000242,East Hertfordshire,08/12/2020,109,264,155,41.3,58.7
+East of England,E07000244,East Suffolk,08/12/2020,3,3,0,100,0
+East of England,E07000072,Epping Forest,08/12/2020,127,609,482,20.9,79.1
+East of England,E07000010,Fenland,08/12/2020,4,4,0,100,0
+East of England,E07000073,Harlow,08/12/2020,63,172,109,36.6,63.4
+East of England,E07000098,Hertsmere,08/12/2020,98,334,236,29.3,70.7
+East of England,E07000011,Huntingdonshire,08/12/2020,1,9,8,11.1,88.9
+East of England,E07000202,Ipswich,08/12/2020,2,4,2,50,50
+East of England,E07000146,King's Lynn and West Norfolk,08/12/2020,3,3,0,100,0
+East of England,E06000032,Luton,08/12/2020,468,603,135,77.6,22.4
+East of England,E07000074,Maldon,08/12/2020,11,66,55,16.7,83.3
+East of England,E07000203,Mid Suffolk,08/12/2020,2,3,1,66.7,33.3
+East of England,E06000042,Milton Keynes,08/12/2020,255,824,569,30.9,69.1
+East of England,E07000099,North Hertfordshire,08/12/2020,65,158,93,41.1,58.9
+East of England,E07000148,Norwich,08/12/2020,2,2,0,100,0
+East of England,E07000075,Rochford,08/12/2020,72,256,184,28.1,71.9
+East of England,E07000012,South Cambridgeshire,08/12/2020,5,13,8,38.5,61.5
+East of England,E07000149,South Norfolk,08/12/2020,2,2,0,100,0
+East of England,E06000033,Southend-on-Sea,08/12/2020,168,445,277,37.8,62.2
+East of England,E07000240,St Albans,08/12/2020,117,263,146,44.5,55.5
+East of England,E07000243,Stevenage,08/12/2020,57,117,60,48.7,51.3
+East of England,E07000076,Tendring,08/12/2020,3,13,10,23.1,76.9
+East of England,E07000102,Three Rivers,08/12/2020,76,235,159,32.3,67.7
+East of England,E06000034,Thurrock,08/12/2020,173,796,623,21.7,78.3
+East of England,E07000077,Uttlesford,08/12/2020,43,121,78,35.5,64.5
+East of England,E07000103,Watford,08/12/2020,91,308,217,29.5,70.5
+East of England,E07000241,Welwyn Hatfield,08/12/2020,71,191,120,37.2,62.8
+East of England,E07000245,West Suffolk,08/12/2020,3,7,4,42.9,57.1
+London,E09000002,Barking and Dagenham,08/12/2020,254,819,565,31,69
+London,E09000003,Barnet,08/12/2020,263,728,465,36.1,63.9
+London,E09000004,Bexley,08/12/2020,185,811,626,22.8,77.2
+London,E09000005,Brent,08/12/2020,304,566,262,53.7,46.3
+London,E09000006,Bromley,08/12/2020,163,902,739,18.1,81.9
+London,E09000007,Camden,08/12/2020,119,342,223,34.8,65.2
+London,E09000001,City of London,08/12/2020,3,5,2,60,40
+London,E09000008,Croydon,08/12/2020,284,1016,732,28,72
+London,E09000009,Ealing,08/12/2020,371,726,355,51.1,48.9
+London,E09000010,Enfield,08/12/2020,324,1343,1019,24.1,75.9
+London,E09000011,Greenwich,08/12/2020,151,597,446,25.3,74.7
+London,E09000012,Hackney,08/12/2020,219,687,468,31.9,68.1
+London,E09000013,Hammersmith and Fulham,08/12/2020,155,339,184,45.7,54.3
+London,E09000014,Haringey,08/12/2020,187,669,482,28,72
+London,E09000015,Harrow,08/12/2020,343,749,406,45.8,54.2
+London,E09000016,Havering,08/12/2020,320,1238,918,25.8,74.2
+London,E09000017,Hillingdon,08/12/2020,345,740,395,46.6,53.4
+London,E09000018,Hounslow,08/12/2020,295,641,346,46,54
+London,E09000019,Islington,08/12/2020,123,398,275,30.9,69.1
+London,E09000020,Kensington and Chelsea,08/12/2020,81,238,157,34,66
+London,E09000021,Kingston upon Thames,08/12/2020,145,565,420,25.7,74.3
+London,E09000022,Lambeth,08/12/2020,225,767,542,29.3,70.7
+London,E09000023,Lewisham,08/12/2020,172,609,437,28.2,71.8
+London,E09000024,Merton,08/12/2020,183,592,409,30.9,69.1
+London,E09000025,Newham,08/12/2020,367,1032,665,35.6,64.4
+London,E09000026,Redbridge,08/12/2020,462,1329,867,34.8,65.2
+London,E09000027,Richmond upon Thames,08/12/2020,128,435,307,29.4,70.6
+London,E09000028,Southwark,08/12/2020,168,564,396,29.8,70.2
+London,E09000029,Sutton,08/12/2020,220,674,454,32.6,67.4
+London,E09000030,Tower Hamlets,08/12/2020,307,882,575,34.8,65.2
+London,E09000031,Waltham Forest,08/12/2020,312,943,631,33.1,66.9
+London,E09000032,Wandsworth,08/12/2020,235,698,463,33.7,66.3
+London,E09000033,Westminster,08/12/2020,120,318,198,37.7,62.3
+North East,E06000047,County Durham,08/12/2020,543,696,153,78,22
+North East,E06000005,Darlington,08/12/2020,138,143,5,96.5,3.5
+North East,E08000037,Gateshead,08/12/2020,152,181,29,84,16
+North East,E06000001,Hartlepool,08/12/2020,145,180,35,80.6,19.4
+North East,E06000002,Middlesbrough,08/12/2020,221,254,33,87,13
+North East,E08000021,Newcastle upon Tyne,08/12/2020,340,381,41,89.2,10.8
+North East,E08000022,North Tyneside,08/12/2020,186,219,33,84.9,15.1
+North East,E06000057,Northumberland,08/12/2020,299,493,194,60.6,39.4
+North East,E06000003,Redcar and Cleveland,08/12/2020,131,149,18,87.9,12.1
+North East,E08000023,South Tyneside,08/12/2020,285,293,8,97.3,2.7
+North East,E06000004,Stockton-on-Tees,08/12/2020,234,268,34,87.3,12.7
+North East,E08000024,Sunderland,08/12/2020,295,335,40,88.1,11.9
+North West,E07000026,Allerdale,08/12/2020,16,66,50,24.2,75.8
+North West,E07000027,Barrow-in-Furness,08/12/2020,42,46,4,91.3,8.7
+North West,E06000008,Blackburn with Darwen,08/12/2020,256,343,87,74.6,25.4
+North West,E06000009,Blackpool,08/12/2020,134,139,5,96.4,3.6
+North West,E08000001,Bolton,08/12/2020,314,331,17,94.9,5.1
+North West,E07000117,Burnley,08/12/2020,179,275,96,65.1,34.9
+North West,E08000002,Bury,08/12/2020,286,303,17,94.4,5.6
+North West,E07000028,Carlisle,08/12/2020,45,145,100,31,69
+North West,E06000049,Cheshire East,08/12/2020,292,334,42,87.4,12.6
+North West,E06000050,Cheshire West and Chester,08/12/2020,333,396,63,84.1,15.9
+North West,E07000118,Chorley,08/12/2020,150,156,6,96.2,3.8
+North West,E07000029,Copeland,08/12/2020,4,5,1,80,20
+North West,E07000030,Eden,08/12/2020,18,63,45,28.6,71.4
+North West,E07000119,Fylde,08/12/2020,48,50,2,96,4
+North West,E06000006,Halton,08/12/2020,117,139,22,84.2,15.8
+North West,E07000120,Hyndburn,08/12/2020,128,164,36,78,22
+North West,E08000011,Knowsley,08/12/2020,143,147,4,97.3,2.7
+North West,E07000121,Lancaster,08/12/2020,124,148,24,83.8,16.2
+North West,E08000012,Liverpool,08/12/2020,317,347,30,91.4,8.6
+North West,E08000003,Manchester,08/12/2020,762,821,59,92.8,7.2
+North West,E08000004,Oldham,08/12/2020,334,389,55,85.9,14.1
+North West,E07000122,Pendle,08/12/2020,167,217,50,77,23
+North West,E07000123,Preston,08/12/2020,200,202,2,99,1
+North West,E07000124,Ribble Valley,08/12/2020,100,106,6,94.3,5.7
+North West,E08000005,Rochdale,08/12/2020,408,428,20,95.3,4.7
+North West,E07000125,Rossendale,08/12/2020,124,141,17,87.9,12.1
+North West,E08000006,Salford,08/12/2020,312,333,21,93.7,6.3
+North West,E08000014,Sefton,08/12/2020,168,173,5,97.1,2.9
+North West,E07000031,South Lakeland,08/12/2020,78,141,63,55.3,44.7
+North West,E07000126,South Ribble,08/12/2020,113,120,7,94.2,5.8
+North West,E08000013,St. Helens,08/12/2020,197,198,1,99.5,0.5
+North West,E08000007,Stockport,08/12/2020,196,215,19,91.2,8.8
+North West,E08000008,Tameside,08/12/2020,168,178,10,94.4,5.6
+North West,E08000009,Trafford,08/12/2020,189,209,20,90.4,9.6
+North West,E06000007,Warrington,08/12/2020,276,285,9,96.8,3.2
+North West,E07000127,West Lancashire,08/12/2020,158,162,4,97.5,2.5
+North West,E08000010,Wigan,08/12/2020,412,437,25,94.3,5.7
+North West,E08000015,Wirral,08/12/2020,160,177,17,90.4,9.6
+North West,E07000128,Wyre,08/12/2020,76,79,3,96.2,3.8
+South East,E07000223,Adur,08/12/2020,10,70,60,14.3,85.7
+South East,E07000224,Arun,08/12/2020,75,166,91,45.2,54.8
+South East,E07000105,Ashford,08/12/2020,60,538,478,11.2,88.8
+South East,E07000004,Aylesbury Vale,08/12/2020,115,416,301,27.6,72.4
+South East,E07000084,Basingstoke and Deane,08/12/2020,103,175,72,58.9,41.1
+South East,E06000036,Bracknell Forest,08/12/2020,49,278,229,17.6,82.4
+South East,E06000043,Brighton and Hove,08/12/2020,106,266,160,39.8,60.2
+South East,E07000106,Canterbury,08/12/2020,55,523,468,10.5,89.5
+South East,E07000177,Cherwell,08/12/2020,101,189,88,53.4,46.6
+South East,E07000225,Chichester,08/12/2020,39,86,47,45.3,54.7
+South East,E07000005,Chiltern,08/12/2020,97,168,71,57.7,42.3
+South East,E07000226,Crawley,08/12/2020,41,119,78,34.5,65.5
+South East,E07000107,Dartford,08/12/2020,75,333,258,22.5,77.5
+South East,E07000108,Dover,08/12/2020,59,428,369,13.8,86.2
+South East,E07000085,East Hampshire,08/12/2020,23,57,34,40.4,59.6
+South East,E07000061,Eastbourne,08/12/2020,25,129,104,19.4,80.6
+South East,E07000086,Eastleigh,08/12/2020,43,55,12,78.2,21.8
+South East,E07000207,Elmbridge,08/12/2020,80,230,150,34.8,65.2
+South East,E07000208,Epsom and Ewell,08/12/2020,38,173,135,22,78
+South East,E07000087,Fareham,08/12/2020,40,75,35,53.3,46.7
+South East,E07000112,Folkestone and Hythe,08/12/2020,53,332,279,16,84
+South East,E07000088,Gosport,08/12/2020,35,79,44,44.3,55.7
+South East,E07000109,Gravesham,08/12/2020,43,323,280,13.3,86.7
+South East,E07000209,Guildford,08/12/2020,57,246,189,23.2,76.8
+South East,E07000089,Hart,08/12/2020,31,81,50,38.3,61.7
+South East,E07000062,Hastings,08/12/2020,32,408,376,7.8,92.2
+South East,E07000090,Havant,08/12/2020,48,225,177,21.3,78.7
+South East,E07000227,Horsham,08/12/2020,30,95,65,31.6,68.4
+South East,E06000046,Isle of Wight,08/12/2020,5,8,3,62.5,37.5
+South East,E07000063,Lewes,08/12/2020,18,87,69,20.7,79.3
+South East,E07000110,Maidstone,08/12/2020,123,607,484,20.3,79.7
+South East,E06000035,Medway,08/12/2020,156,1278,1122,12.2,87.8
+South East,E07000228,Mid Sussex,08/12/2020,45,146,101,30.8,69.2
+South East,E07000210,Mole Valley,08/12/2020,36,125,89,28.8,71.2
+South East,E07000091,New Forest,08/12/2020,48,75,27,64,36
+South East,E07000178,Oxford,08/12/2020,126,183,57,68.9,31.1
+South East,E06000044,Portsmouth,08/12/2020,189,341,152,55.4,44.6
+South East,E06000038,Reading,08/12/2020,157,362,205,43.4,56.6
+South East,E07000211,Reigate and Banstead,08/12/2020,67,262,195,25.6,74.4
+South East,E07000064,Rother,08/12/2020,26,262,236,9.9,90.1
+South East,E07000212,Runnymede,08/12/2020,43,128,85,33.6,66.4
+South East,E07000092,Rushmoor,08/12/2020,44,158,114,27.8,72.2
+South East,E07000111,Sevenoaks,08/12/2020,48,225,177,21.3,78.7
+South East,E06000039,Slough,08/12/2020,272,519,247,52.4,47.6
+South East,E07000006,South Bucks,08/12/2020,72,143,71,50.3,49.7
+South East,E07000179,South Oxfordshire,08/12/2020,50,116,66,43.1,56.9
+South East,E06000045,Southampton,08/12/2020,145,205,60,70.7,29.3
+South East,E07000213,Spelthorne,08/12/2020,103,220,117,46.8,53.2
+South East,E07000214,Surrey Heath,08/12/2020,35,180,145,19.4,80.6
+South East,E07000113,Swale,08/12/2020,67,576,509,11.6,88.4
+South East,E07000215,Tandridge,08/12/2020,62,174,112,35.6,64.4
+South East,E07000093,Test Valley,08/12/2020,37,52,15,71.2,28.8
+South East,E07000114,Thanet,08/12/2020,36,445,409,8.1,91.9
+South East,E07000115,Tonbridge and Malling,08/12/2020,73,381,308,19.2,80.8
+South East,E07000116,Tunbridge Wells,08/12/2020,27,181,154,14.9,85.1
+South East,E07000180,Vale of White Horse,08/12/2020,69,99,30,69.7,30.3
+South East,E07000216,Waverley,08/12/2020,46,143,97,32.2,67.8
+South East,E07000065,Wealden,08/12/2020,47,230,183,20.4,79.6
+South East,E06000037,West Berkshire,08/12/2020,138,214,76,64.5,35.5
+South East,E07000181,West Oxfordshire,08/12/2020,57,71,14,80.3,19.7
+South East,E07000094,Winchester,08/12/2020,27,69,42,39.1,60.9
+South East,E06000040,Windsor and Maidenhead,08/12/2020,75,193,118,38.9,61.1
+South East,E07000217,Woking,08/12/2020,51,226,175,22.6,77.4
+South East,E06000041,Wokingham,08/12/2020,114,322,208,35.4,64.6
+South East,E07000229,Worthing,08/12/2020,19,68,49,27.9,72.1
+South East,E07000007,Wycombe,08/12/2020,190,336,146,56.5,43.5
+South West,E06000022,Bath and North East Somerset,08/12/2020,38,43,5,88.4,11.6
+South West,E06000058,"Bournemouth, Christchurch and Poole",08/12/2020,120,161,41,74.5,25.5
+South West,E06000023,"Bristol, City of",08/12/2020,167,227,60,73.6,26.4
+South West,E07000078,Cheltenham,08/12/2020,25,32,7,78.1,21.9
+South West,E06000052,Cornwall,08/12/2020,16,21,5,76.2,23.8
+South West,E07000079,Cotswold,08/12/2020,31,35,4,88.6,11.4
+South West,E06000059,Dorset,08/12/2020,51,73,22,69.9,30.1
+South West,E07000040,East Devon,08/12/2020,25,28,3,89.3,10.7
+South West,E07000041,Exeter,08/12/2020,5,8,3,62.5,37.5
+South West,E07000080,Forest of Dean,08/12/2020,85,93,8,91.4,8.6
+South West,E07000081,Gloucester,08/12/2020,166,184,18,90.2,9.8
+South West,E07000187,Mendip,08/12/2020,15,24,9,62.5,37.5
+South West,E07000042,Mid Devon,08/12/2020,21,22,1,95.5,4.5
+South West,E07000043,North Devon,08/12/2020,17,22,5,77.3,22.7
+South West,E06000024,North Somerset,08/12/2020,38,66,28,57.6,42.4
+South West,E06000026,Plymouth,08/12/2020,20,20,0,100,0
+South West,E07000188,Sedgemoor,08/12/2020,26,84,58,31,69
+South West,E07000246,Somerset West and Taunton,08/12/2020,51,80,29,63.7,36.2
+South West,E06000025,South Gloucestershire,08/12/2020,92,193,101,47.7,52.3
+South West,E07000044,South Hams,08/12/2020,7,7,0,100,0
+South West,E07000189,South Somerset,08/12/2020,28,32,4,87.5,12.5
+South West,E07000082,Stroud,08/12/2020,53,60,7,88.3,11.7
+South West,E06000030,Swindon,08/12/2020,126,183,57,68.9,31.1
+South West,E07000045,Teignbridge,08/12/2020,14,21,7,66.7,33.3
+South West,E07000083,Tewkesbury,08/12/2020,32,40,8,80,20
+South West,E06000027,Torbay,08/12/2020,2,3,1,66.7,33.3
+South West,E07000046,Torridge,08/12/2020,7,7,0,100,0
+South West,E07000047,West Devon,08/12/2020,12,12,0,100,0
+South West,E06000054,Wiltshire,08/12/2020,139,185,46,75.1,24.9
+West Midlands,E08000025,Birmingham,08/12/2020,1778,2262,484,78.6,21.4
+West Midlands,E07000234,Bromsgrove,08/12/2020,105,125,20,84,16
+West Midlands,E07000192,Cannock Chase,08/12/2020,128,171,43,74.9,25.1
+West Midlands,E08000026,Coventry,08/12/2020,497,601,104,82.7,17.3
+West Midlands,E08000027,Dudley,08/12/2020,371,563,192,65.9,34.1
+West Midlands,E07000193,East Staffordshire,08/12/2020,240,291,51,82.5,17.5
+West Midlands,E06000019,"Herefordshire, County of",08/12/2020,67,75,8,89.3,10.7
+West Midlands,E07000194,Lichfield,08/12/2020,89,114,25,78.1,21.9
+West Midlands,E07000235,Malvern Hills,08/12/2020,27,37,10,73,27
+West Midlands,E07000195,Newcastle-under-Lyme,08/12/2020,172,186,14,92.5,7.5
+West Midlands,E07000218,North Warwickshire,08/12/2020,63,78,15,80.8,19.2
+West Midlands,E07000219,Nuneaton and Bedworth,08/12/2020,156,203,47,76.8,23.2
+West Midlands,E07000236,Redditch,08/12/2020,85,95,10,89.5,10.5
+West Midlands,E07000220,Rugby,08/12/2020,139,181,42,76.8,23.2
+West Midlands,E08000028,Sandwell,08/12/2020,501,648,147,77.3,22.7
+West Midlands,E06000051,Shropshire,08/12/2020,203,226,23,89.8,10.2
+West Midlands,E08000029,Solihull,08/12/2020,228,294,66,77.6,22.4
+West Midlands,E07000196,South Staffordshire,08/12/2020,128,167,39,76.6,23.4
+West Midlands,E07000197,Stafford,08/12/2020,181,191,10,94.8,5.2
+West Midlands,E07000198,Staffordshire Moorlands,08/12/2020,105,129,24,81.4,18.6
+West Midlands,E06000021,Stoke-on-Trent,08/12/2020,578,612,34,94.4,5.6
+West Midlands,E07000221,Stratford-on-Avon,08/12/2020,82,100,18,82,18
+West Midlands,E07000199,Tamworth,08/12/2020,81,84,3,96.4,3.6
+West Midlands,E06000020,Telford and Wrekin,08/12/2020,214,224,10,95.5,4.5
+West Midlands,E08000030,Walsall,08/12/2020,411,525,114,78.3,21.7
+West Midlands,E07000222,Warwick,08/12/2020,169,197,28,85.8,14.2
+West Midlands,E08000031,Wolverhampton,08/12/2020,554,686,132,80.8,19.2
+West Midlands,E07000237,Worcester,08/12/2020,46,52,6,88.5,11.5
+West Midlands,E07000238,Wychavon,08/12/2020,89,96,7,92.7,7.3
+West Midlands,E07000239,Wyre Forest,08/12/2020,70,78,8,89.7,10.3
+Yorkshire and Humber,E08000016,Barnsley,08/12/2020,155,159,4,97.5,2.5
+Yorkshire and Humber,E08000032,Bradford,08/12/2020,845,870,25,97.1,2.9
+Yorkshire and Humber,E08000033,Calderdale,08/12/2020,273,292,19,93.5,6.5
+Yorkshire and Humber,E07000163,Craven,08/12/2020,41,52,11,78.8,21.2
+Yorkshire and Humber,E08000017,Doncaster,08/12/2020,125,127,2,98.4,1.6
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,08/12/2020,150,161,11,93.2,6.8
+Yorkshire and Humber,E07000164,Hambleton,08/12/2020,40,53,13,75.5,24.5
+Yorkshire and Humber,E07000165,Harrogate,08/12/2020,96,130,34,73.8,26.2
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",08/12/2020,203,209,6,97.1,2.9
+Yorkshire and Humber,E08000034,Kirklees,08/12/2020,470,497,27,94.6,5.4
+Yorkshire and Humber,E08000035,Leeds,08/12/2020,856,928,72,92.2,7.8
+Yorkshire and Humber,E06000012,North East Lincolnshire,08/12/2020,117,119,2,98.3,1.7
+Yorkshire and Humber,E06000013,North Lincolnshire,08/12/2020,110,111,1,99.1,0.9
+Yorkshire and Humber,E07000166,Richmondshire,08/12/2020,47,55,8,85.5,14.5
+Yorkshire and Humber,E08000018,Rotherham,08/12/2020,318,332,14,95.8,4.2
+Yorkshire and Humber,E07000167,Ryedale,08/12/2020,26,27,1,96.3,3.7
+Yorkshire and Humber,E07000168,Scarborough,08/12/2020,199,199,0,100,0
+Yorkshire and Humber,E07000169,Selby,08/12/2020,94,111,17,84.7,15.3
+Yorkshire and Humber,E08000019,Sheffield,08/12/2020,495,512,17,96.7,3.3
+Yorkshire and Humber,E08000036,Wakefield,08/12/2020,347,355,8,97.7,2.3
+Yorkshire and Humber,E06000014,York,08/12/2020,87,121,34,71.9,28.1
+East Midlands,E07000032,Amber Valley,15/12/2020,73,158,85,46.2,53.8
+East Midlands,E07000170,Ashfield,15/12/2020,27,39,12,69.2,30.8
+East Midlands,E07000171,Bassetlaw,15/12/2020,160,169,9,94.7,5.3
+East Midlands,E07000129,Blaby,15/12/2020,66,77,11,85.7,14.3
+East Midlands,E07000033,Bolsover,15/12/2020,47,52,5,90.4,9.6
+East Midlands,E07000136,Boston,15/12/2020,3,3,0,100,0
+East Midlands,E07000172,Broxtowe,15/12/2020,27,37,10,73,27
+East Midlands,E07000130,Charnwood,15/12/2020,50,59,9,84.7,15.3
+East Midlands,E07000034,Chesterfield,15/12/2020,64,71,7,90.1,9.9
+East Midlands,E07000150,Corby,15/12/2020,14,29,15,48.3,51.7
+East Midlands,E07000151,Daventry,15/12/2020,19,37,18,51.4,48.6
+East Midlands,E06000015,Derby,15/12/2020,95,154,59,61.7,38.3
+East Midlands,E07000035,Derbyshire Dales,15/12/2020,30,48,18,62.5,37.5
+East Midlands,E07000137,East Lindsey,15/12/2020,36,37,1,97.3,2.7
+East Midlands,E07000152,East Northamptonshire,15/12/2020,12,34,22,35.3,64.7
+East Midlands,E07000036,Erewash,15/12/2020,26,36,10,72.2,27.8
+East Midlands,E07000173,Gedling,15/12/2020,47,51,4,92.2,7.8
+East Midlands,E07000131,Harborough,15/12/2020,43,51,8,84.3,15.7
+East Midlands,E07000037,High Peak,15/12/2020,48,75,27,64,36
+East Midlands,E07000132,Hinckley and Bosworth,15/12/2020,53,62,9,85.5,14.5
+East Midlands,E07000153,Kettering,15/12/2020,17,28,11,60.7,39.3
+East Midlands,E06000016,Leicester,15/12/2020,268,314,46,85.4,14.6
+East Midlands,E07000138,Lincoln,15/12/2020,75,80,5,93.8,6.2
+East Midlands,E07000174,Mansfield,15/12/2020,14,24,10,58.3,41.7
+East Midlands,E07000133,Melton,15/12/2020,8,11,3,72.7,27.3
+East Midlands,E07000175,Newark and Sherwood,15/12/2020,29,38,9,76.3,23.7
+East Midlands,E07000038,North East Derbyshire,15/12/2020,46,78,32,59,41
+East Midlands,E07000139,North Kesteven,15/12/2020,40,44,4,90.9,9.1
+East Midlands,E07000134,North West Leicestershire,15/12/2020,31,36,5,86.1,13.9
+East Midlands,E07000154,Northampton,15/12/2020,60,110,50,54.5,45.5
+East Midlands,E06000018,Nottingham,15/12/2020,103,137,34,75.2,24.8
+East Midlands,E07000135,Oadby and Wigston,15/12/2020,49,65,16,75.4,24.6
+East Midlands,E07000176,Rushcliffe,15/12/2020,15,28,13,53.6,46.4
+East Midlands,E06000017,Rutland,15/12/2020,3,5,2,60,40
+East Midlands,E07000039,South Derbyshire,15/12/2020,45,72,27,62.5,37.5
+East Midlands,E07000140,South Holland,15/12/2020,3,5,2,60,40
+East Midlands,E07000141,South Kesteven,15/12/2020,12,17,5,70.6,29.4
+East Midlands,E07000155,South Northamptonshire,15/12/2020,29,64,35,45.3,54.7
+East Midlands,E07000156,Wellingborough,15/12/2020,32,38,6,84.2,15.8
+East Midlands,E07000142,West Lindsey,15/12/2020,75,85,10,88.2,11.8
+East of England,E07000200,Babergh,15/12/2020,13,22,9,59.1,40.9
+East of England,E07000066,Basildon,15/12/2020,142,1077,935,13.2,86.8
+East of England,E06000055,Bedford,15/12/2020,65,258,193,25.2,74.8
+East of England,E07000067,Braintree,15/12/2020,58,379,321,15.3,84.7
+East of England,E07000143,Breckland,15/12/2020,2,3,1,66.7,33.3
+East of England,E07000068,Brentwood,15/12/2020,87,630,543,13.8,86.2
+East of England,E07000144,Broadland,15/12/2020,3,6,3,50,50
+East of England,E07000095,Broxbourne,15/12/2020,83,439,356,18.9,81.1
+East of England,E07000008,Cambridge,15/12/2020,3,7,4,42.9,57.1
+East of England,E07000069,Castle Point,15/12/2020,91,439,348,20.7,79.3
+East of England,E06000056,Central Bedfordshire,15/12/2020,136,435,299,31.3,68.7
+East of England,E07000070,Chelmsford,15/12/2020,82,566,484,14.5,85.5
+East of England,E07000071,Colchester,15/12/2020,7,48,41,14.6,85.4
+East of England,E07000096,Dacorum,15/12/2020,67,217,150,30.9,69.1
+East of England,E07000242,East Hertfordshire,15/12/2020,67,264,197,25.4,74.6
+East of England,E07000244,East Suffolk,15/12/2020,3,8,5,37.5,62.5
+East of England,E07000072,Epping Forest,15/12/2020,181,938,757,19.3,80.7
+East of England,E07000010,Fenland,15/12/2020,2,2,0,100,0
+East of England,E07000145,Great Yarmouth,15/12/2020,2,2,0,100,0
+East of England,E07000073,Harlow,15/12/2020,86,396,310,21.7,78.3
+East of England,E07000098,Hertsmere,15/12/2020,56,359,303,15.6,84.4
+East of England,E07000011,Huntingdonshire,15/12/2020,3,11,8,27.3,72.7
+East of England,E07000202,Ipswich,15/12/2020,10,12,2,83.3,16.7
+East of England,E07000146,King's Lynn and West Norfolk,15/12/2020,1,1,0,100,0
+East of England,E06000032,Luton,15/12/2020,149,327,178,45.6,54.4
+East of England,E07000074,Maldon,15/12/2020,16,129,113,12.4,87.6
+East of England,E07000203,Mid Suffolk,15/12/2020,2,4,2,50,50
+East of England,E06000042,Milton Keynes,15/12/2020,141,712,571,19.8,80.2
+East of England,E07000099,North Hertfordshire,15/12/2020,32,140,108,22.9,77.1
+East of England,E07000148,Norwich,15/12/2020,3,8,5,37.5,62.5
+East of England,E06000031,Peterborough,15/12/2020,10,13,3,76.9,23.1
+East of England,E07000075,Rochford,15/12/2020,78,336,258,23.2,76.8
+East of England,E07000012,South Cambridgeshire,15/12/2020,4,21,17,19,81
+East of England,E07000149,South Norfolk,15/12/2020,5,10,5,50,50
+East of England,E06000033,Southend-on-Sea,15/12/2020,186,581,395,32,68
+East of England,E07000240,St Albans,15/12/2020,64,245,181,26.1,73.9
+East of England,E07000243,Stevenage,15/12/2020,49,158,109,31,69
+East of England,E07000076,Tendring,15/12/2020,11,57,46,19.3,80.7
+East of England,E07000102,Three Rivers,15/12/2020,49,282,233,17.4,82.6
+East of England,E06000034,Thurrock,15/12/2020,230,1321,1091,17.4,82.6
+East of England,E07000077,Uttlesford,15/12/2020,64,195,131,32.8,67.2
+East of England,E07000103,Watford,15/12/2020,48,233,185,20.6,79.4
+East of England,E07000241,Welwyn Hatfield,15/12/2020,29,167,138,17.4,82.6
+London,E09000002,Barking and Dagenham,15/12/2020,239,1113,874,21.5,78.5
+London,E09000003,Barnet,15/12/2020,260,1117,857,23.3,76.7
+London,E09000004,Bexley,15/12/2020,176,1261,1085,14,86
+London,E09000005,Brent,15/12/2020,260,778,518,33.4,66.6
+London,E09000006,Bromley,15/12/2020,167,1152,985,14.5,85.5
+London,E09000007,Camden,15/12/2020,115,417,302,27.6,72.4
+London,E09000001,City of London,15/12/2020,7,21,14,33.3,66.7
+London,E09000008,Croydon,15/12/2020,232,1052,820,22.1,77.9
+London,E09000009,Ealing,15/12/2020,282,1008,726,28,72
+London,E09000010,Enfield,15/12/2020,276,1450,1174,19,81
+London,E09000011,Greenwich,15/12/2020,167,880,713,19,81
+London,E09000012,Hackney,15/12/2020,223,904,681,24.7,75.3
+London,E09000013,Hammersmith and Fulham,15/12/2020,106,488,382,21.7,78.3
+London,E09000014,Haringey,15/12/2020,194,879,685,22.1,77.9
+London,E09000015,Harrow,15/12/2020,236,836,600,28.2,71.8
+London,E09000016,Havering,15/12/2020,322,1671,1349,19.3,80.7
+London,E09000017,Hillingdon,15/12/2020,333,1022,689,32.6,67.4
+London,E09000018,Hounslow,15/12/2020,270,823,553,32.8,67.2
+London,E09000019,Islington,15/12/2020,151,629,478,24,76
+London,E09000020,Kensington and Chelsea,15/12/2020,55,266,211,20.7,79.3
+London,E09000021,Kingston upon Thames,15/12/2020,110,504,394,21.8,78.2
+London,E09000022,Lambeth,15/12/2020,188,959,771,19.6,80.4
+London,E09000023,Lewisham,15/12/2020,170,748,578,22.7,77.3
+London,E09000024,Merton,15/12/2020,108,570,462,18.9,81.1
+London,E09000025,Newham,15/12/2020,358,1387,1029,25.8,74.2
+London,E09000026,Redbridge,15/12/2020,470,1804,1334,26.1,73.9
+London,E09000027,Richmond upon Thames,15/12/2020,113,455,342,24.8,75.2
+London,E09000028,Southwark,15/12/2020,155,758,603,20.4,79.6
+London,E09000029,Sutton,15/12/2020,120,612,492,19.6,80.4
+London,E09000030,Tower Hamlets,15/12/2020,310,1086,776,28.5,71.5
+London,E09000031,Waltham Forest,15/12/2020,331,1174,843,28.2,71.8
+London,E09000032,Wandsworth,15/12/2020,187,936,749,20,80
+London,E09000033,Westminster,15/12/2020,124,422,298,29.4,70.6
+North East,E06000047,County Durham,15/12/2020,489,934,445,52.4,47.6
+North East,E06000005,Darlington,15/12/2020,105,143,38,73.4,26.6
+North East,E08000037,Gateshead,15/12/2020,213,322,109,66.1,33.9
+North East,E06000001,Hartlepool,15/12/2020,184,285,101,64.6,35.4
+North East,E06000002,Middlesbrough,15/12/2020,156,203,47,76.8,23.2
+North East,E08000021,Newcastle upon Tyne,15/12/2020,213,279,66,76.3,23.7
+North East,E08000022,North Tyneside,15/12/2020,172,220,48,78.2,21.8
+North East,E06000057,Northumberland,15/12/2020,231,466,235,49.6,50.4
+North East,E06000003,Redcar and Cleveland,15/12/2020,99,124,25,79.8,20.2
+North East,E08000023,South Tyneside,15/12/2020,263,289,26,91,9
+North East,E06000004,Stockton-on-Tees,15/12/2020,197,269,72,73.2,26.8
+North East,E08000024,Sunderland,15/12/2020,283,380,97,74.5,25.5
+North West,E07000026,Allerdale,15/12/2020,18,92,74,19.6,80.4
+North West,E07000027,Barrow-in-Furness,15/12/2020,26,31,5,83.9,16.1
+North West,E06000008,Blackburn with Darwen,15/12/2020,207,388,181,53.4,46.6
+North West,E06000009,Blackpool,15/12/2020,117,134,17,87.3,12.7
+North West,E08000001,Bolton,15/12/2020,165,190,25,86.8,13.2
+North West,E07000117,Burnley,15/12/2020,171,369,198,46.3,53.7
+North West,E08000002,Bury,15/12/2020,229,301,72,76.1,23.9
+North West,E07000028,Carlisle,15/12/2020,53,200,147,26.5,73.5
+North West,E06000049,Cheshire East,15/12/2020,377,464,87,81.2,18.8
+North West,E06000050,Cheshire West and Chester,15/12/2020,341,493,152,69.2,30.8
+North West,E07000118,Chorley,15/12/2020,137,169,32,81.1,18.9
+North West,E07000029,Copeland,15/12/2020,15,29,14,51.7,48.3
+North West,E07000030,Eden,15/12/2020,43,149,106,28.9,71.1
+North West,E07000119,Fylde,15/12/2020,63,79,16,79.7,20.3
+North West,E06000006,Halton,15/12/2020,139,184,45,75.5,24.5
+North West,E07000120,Hyndburn,15/12/2020,152,201,49,75.6,24.4
+North West,E08000011,Knowsley,15/12/2020,146,160,14,91.2,8.8
+North West,E07000121,Lancaster,15/12/2020,137,209,72,65.6,34.4
+North West,E08000012,Liverpool,15/12/2020,423,545,122,77.6,22.4
+North West,E08000003,Manchester,15/12/2020,676,856,180,79,21
+North West,E08000004,Oldham,15/12/2020,271,318,47,85.2,14.8
+North West,E07000122,Pendle,15/12/2020,206,352,146,58.5,41.5
+North West,E07000123,Preston,15/12/2020,240,270,30,88.9,11.1
+North West,E07000124,Ribble Valley,15/12/2020,122,147,25,83,17
+North West,E08000005,Rochdale,15/12/2020,336,376,40,89.4,10.6
+North West,E07000125,Rossendale,15/12/2020,98,129,31,76,24
+North West,E08000006,Salford,15/12/2020,341,430,89,79.3,20.7
+North West,E08000014,Sefton,15/12/2020,228,270,42,84.4,15.6
+North West,E07000031,South Lakeland,15/12/2020,74,148,74,50,50
+North West,E07000126,South Ribble,15/12/2020,164,179,15,91.6,8.4
+North West,E08000013,St. Helens,15/12/2020,183,202,19,90.6,9.4
+North West,E08000007,Stockport,15/12/2020,236,319,83,74,26
+North West,E08000008,Tameside,15/12/2020,188,219,31,85.8,14.2
+North West,E08000009,Trafford,15/12/2020,210,293,83,71.7,28.3
+North West,E06000007,Warrington,15/12/2020,251,330,79,76.1,23.9
+North West,E07000127,West Lancashire,15/12/2020,130,149,19,87.2,12.8
+North West,E08000010,Wigan,15/12/2020,240,279,39,86,14
+North West,E08000015,Wirral,15/12/2020,245,356,111,68.8,31.2
+North West,E07000128,Wyre,15/12/2020,107,122,15,87.7,12.3
+South East,E07000223,Adur,15/12/2020,24,131,107,18.3,81.7
+South East,E07000224,Arun,15/12/2020,75,184,109,40.8,59.2
+South East,E07000105,Ashford,15/12/2020,70,555,485,12.6,87.4
+South East,E07000004,Aylesbury Vale,15/12/2020,70,315,245,22.2,77.8
+South East,E07000084,Basingstoke and Deane,15/12/2020,69,206,137,33.5,66.5
+South East,E06000036,Bracknell Forest,15/12/2020,76,350,274,21.7,78.3
+South East,E06000043,Brighton and Hove,15/12/2020,95,334,239,28.4,71.6
+South East,E07000106,Canterbury,15/12/2020,46,366,320,12.6,87.4
+South East,E07000177,Cherwell,15/12/2020,41,163,122,25.2,74.8
+South East,E07000225,Chichester,15/12/2020,44,116,72,37.9,62.1
+South East,E07000005,Chiltern,15/12/2020,47,153,106,30.7,69.3
+South East,E07000226,Crawley,15/12/2020,11,57,46,19.3,80.7
+South East,E07000107,Dartford,15/12/2020,74,455,381,16.3,83.7
+South East,E07000108,Dover,15/12/2020,40,278,238,14.4,85.6
+South East,E07000085,East Hampshire,15/12/2020,30,107,77,28,72
+South East,E07000061,Eastbourne,15/12/2020,39,222,183,17.6,82.4
+South East,E07000086,Eastleigh,15/12/2020,64,111,47,57.7,42.3
+South East,E07000207,Elmbridge,15/12/2020,59,258,199,22.9,77.1
+South East,E07000208,Epsom and Ewell,15/12/2020,34,134,100,25.4,74.6
+South East,E07000087,Fareham,15/12/2020,52,107,55,48.6,51.4
+South East,E07000112,Folkestone and Hythe,15/12/2020,62,329,267,18.8,81.2
+South East,E07000088,Gosport,15/12/2020,31,86,55,36,64
+South East,E07000109,Gravesham,15/12/2020,75,479,404,15.7,84.3
+South East,E07000209,Guildford,15/12/2020,37,262,225,14.1,85.9
+South East,E07000089,Hart,15/12/2020,34,114,80,29.8,70.2
+South East,E07000062,Hastings,15/12/2020,31,416,385,7.5,92.5
+South East,E07000090,Havant,15/12/2020,96,326,230,29.4,70.6
+South East,E07000227,Horsham,15/12/2020,22,58,36,37.9,62.1
+South East,E06000046,Isle of Wight,15/12/2020,8,46,38,17.4,82.6
+South East,E07000063,Lewes,15/12/2020,25,157,132,15.9,84.1
+South East,E07000110,Maidstone,15/12/2020,81,532,451,15.2,84.8
+South East,E06000035,Medway,15/12/2020,118,1229,1111,9.6,90.4
+South East,E07000228,Mid Sussex,15/12/2020,37,170,133,21.8,78.2
+South East,E07000210,Mole Valley,15/12/2020,20,77,57,26,74
+South East,E07000091,New Forest,15/12/2020,39,72,33,54.2,45.8
+South East,E07000178,Oxford,15/12/2020,41,83,42,49.4,50.6
+South East,E06000044,Portsmouth,15/12/2020,217,483,266,44.9,55.1
+South East,E06000038,Reading,15/12/2020,147,537,390,27.4,72.6
+South East,E07000211,Reigate and Banstead,15/12/2020,20,151,131,13.2,86.8
+South East,E07000064,Rother,15/12/2020,20,289,269,6.9,93.1
+South East,E07000212,Runnymede,15/12/2020,46,159,113,28.9,71.1
+South East,E07000092,Rushmoor,15/12/2020,30,214,184,14,86
+South East,E07000111,Sevenoaks,15/12/2020,50,347,297,14.4,85.6
+South East,E06000039,Slough,15/12/2020,217,487,270,44.6,55.4
+South East,E07000006,South Bucks,15/12/2020,73,222,149,32.9,67.1
+South East,E07000179,South Oxfordshire,15/12/2020,38,148,110,25.7,74.3
+South East,E06000045,Southampton,15/12/2020,229,365,136,62.7,37.3
+South East,E07000213,Spelthorne,15/12/2020,77,272,195,28.3,71.7
+South East,E07000214,Surrey Heath,15/12/2020,28,155,127,18.1,81.9
+South East,E07000113,Swale,15/12/2020,46,490,444,9.4,90.6
+South East,E07000215,Tandridge,15/12/2020,24,134,110,17.9,82.1
+South East,E07000093,Test Valley,15/12/2020,66,132,66,50,50
+South East,E07000114,Thanet,15/12/2020,36,338,302,10.7,89.3
+South East,E07000115,Tonbridge and Malling,15/12/2020,61,393,332,15.5,84.5
+South East,E07000116,Tunbridge Wells,15/12/2020,36,238,202,15.1,84.9
+South East,E07000180,Vale of White Horse,15/12/2020,43,114,71,37.7,62.3
+South East,E07000216,Waverley,15/12/2020,33,175,142,18.9,81.1
+South East,E07000065,Wealden,15/12/2020,42,355,313,11.8,88.2
+South East,E06000037,West Berkshire,15/12/2020,135,344,209,39.2,60.8
+South East,E07000181,West Oxfordshire,15/12/2020,36,92,56,39.1,60.9
+South East,E07000094,Winchester,15/12/2020,34,112,78,30.4,69.6
+South East,E06000040,Windsor and Maidenhead,15/12/2020,97,311,214,31.2,68.8
+South East,E07000217,Woking,15/12/2020,68,265,197,25.7,74.3
+South East,E06000041,Wokingham,15/12/2020,89,395,306,22.5,77.5
+South East,E07000229,Worthing,15/12/2020,29,105,76,27.6,72.4
+South East,E07000007,Wycombe,15/12/2020,130,312,182,41.7,58.3
+South West,E06000022,Bath and North East Somerset,15/12/2020,36,65,29,55.4,44.6
+South West,E06000058,"Bournemouth, Christchurch and Poole",15/12/2020,145,240,95,60.4,39.6
+South West,E06000023,"Bristol, City of",15/12/2020,148,333,185,44.4,55.6
+South West,E07000078,Cheltenham,15/12/2020,36,47,11,76.6,23.4
+South West,E06000052,Cornwall,15/12/2020,49,76,27,64.5,35.5
+South West,E07000079,Cotswold,15/12/2020,27,38,11,71.1,28.9
+South West,E06000059,Dorset,15/12/2020,62,94,32,66,34
+South West,E07000040,East Devon,15/12/2020,18,30,12,60,40
+South West,E07000041,Exeter,15/12/2020,18,22,4,81.8,18.2
+South West,E07000080,Forest of Dean,15/12/2020,94,128,34,73.4,26.6
+South West,E07000081,Gloucester,15/12/2020,151,219,68,68.9,31.1
+South West,E07000187,Mendip,15/12/2020,21,51,30,41.2,58.8
+South West,E07000042,Mid Devon,15/12/2020,16,21,5,76.2,23.8
+South West,E07000043,North Devon,15/12/2020,23,28,5,82.1,17.9
+South West,E06000024,North Somerset,15/12/2020,48,93,45,51.6,48.4
+South West,E06000026,Plymouth,15/12/2020,36,38,2,94.7,5.3
+South West,E07000188,Sedgemoor,15/12/2020,55,116,61,47.4,52.6
+South West,E07000246,Somerset West and Taunton,15/12/2020,45,132,87,34.1,65.9
+South West,E06000025,South Gloucestershire,15/12/2020,74,161,87,46,54
+South West,E07000044,South Hams,15/12/2020,13,19,6,68.4,31.6
+South West,E07000189,South Somerset,15/12/2020,15,52,37,28.8,71.2
+South West,E07000082,Stroud,15/12/2020,63,86,23,73.3,26.7
+South West,E06000030,Swindon,15/12/2020,159,252,93,63.1,36.9
+South West,E07000045,Teignbridge,15/12/2020,14,20,6,70,30
+South West,E07000083,Tewkesbury,15/12/2020,48,60,12,80,20
+South West,E06000027,Torbay,15/12/2020,3,13,10,23.1,76.9
+South West,E07000046,Torridge,15/12/2020,20,22,2,90.9,9.1
+South West,E07000047,West Devon,15/12/2020,6,8,2,75,25
+South West,E06000054,Wiltshire,15/12/2020,168,314,146,53.5,46.5
+West Midlands,E08000025,Birmingham,15/12/2020,1122,1897,775,59.1,40.9
+West Midlands,E07000234,Bromsgrove,15/12/2020,97,140,43,69.3,30.7
+West Midlands,E07000192,Cannock Chase,15/12/2020,79,144,65,54.9,45.1
+West Midlands,E08000026,Coventry,15/12/2020,335,505,170,66.3,33.7
+West Midlands,E08000027,Dudley,15/12/2020,271,500,229,54.2,45.8
+West Midlands,E07000193,East Staffordshire,15/12/2020,76,109,33,69.7,30.3
+West Midlands,E06000019,"Herefordshire, County of",15/12/2020,113,147,34,76.9,23.1
+West Midlands,E07000194,Lichfield,15/12/2020,82,126,44,65.1,34.9
+West Midlands,E07000235,Malvern Hills,15/12/2020,25,33,8,75.8,24.2
+West Midlands,E07000195,Newcastle-under-Lyme,15/12/2020,204,234,30,87.2,12.8
+West Midlands,E07000218,North Warwickshire,15/12/2020,33,51,18,64.7,35.3
+West Midlands,E07000219,Nuneaton and Bedworth,15/12/2020,84,150,66,56,44
+West Midlands,E07000236,Redditch,15/12/2020,79,102,23,77.5,22.5
+West Midlands,E07000220,Rugby,15/12/2020,126,220,94,57.3,42.7
+West Midlands,E08000028,Sandwell,15/12/2020,335,581,246,57.7,42.3
+West Midlands,E06000051,Shropshire,15/12/2020,128,183,55,69.9,30.1
+West Midlands,E08000029,Solihull,15/12/2020,175,291,116,60.1,39.9
+West Midlands,E07000196,South Staffordshire,15/12/2020,84,161,77,52.2,47.8
+West Midlands,E07000197,Stafford,15/12/2020,120,178,58,67.4,32.6
+West Midlands,E07000198,Staffordshire Moorlands,15/12/2020,127,151,24,84.1,15.9
+West Midlands,E06000021,Stoke-on-Trent,15/12/2020,480,546,66,87.9,12.1
+West Midlands,E07000221,Stratford-on-Avon,15/12/2020,55,95,40,57.9,42.1
+West Midlands,E07000199,Tamworth,15/12/2020,68,86,18,79.1,20.9
+West Midlands,E06000020,Telford and Wrekin,15/12/2020,143,169,26,84.6,15.4
+West Midlands,E08000030,Walsall,15/12/2020,259,462,203,56.1,43.9
+West Midlands,E07000222,Warwick,15/12/2020,113,158,45,71.5,28.5
+West Midlands,E08000031,Wolverhampton,15/12/2020,345,575,230,60,40
+West Midlands,E07000237,Worcester,15/12/2020,49,68,19,72.1,27.9
+West Midlands,E07000238,Wychavon,15/12/2020,64,91,27,70.3,29.7
+West Midlands,E07000239,Wyre Forest,15/12/2020,65,90,25,72.2,27.8
+Yorkshire and Humber,E08000016,Barnsley,15/12/2020,223,242,19,92.1,7.9
+Yorkshire and Humber,E08000032,Bradford,15/12/2020,582,634,52,91.8,8.2
+Yorkshire and Humber,E08000033,Calderdale,15/12/2020,246,269,23,91.4,8.6
+Yorkshire and Humber,E07000163,Craven,15/12/2020,51,65,14,78.5,21.5
+Yorkshire and Humber,E08000017,Doncaster,15/12/2020,136,144,8,94.4,5.6
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,15/12/2020,142,179,37,79.3,20.7
+Yorkshire and Humber,E07000164,Hambleton,15/12/2020,38,94,56,40.4,59.6
+Yorkshire and Humber,E07000165,Harrogate,15/12/2020,67,109,42,61.5,38.5
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",15/12/2020,243,250,7,97.2,2.8
+Yorkshire and Humber,E08000034,Kirklees,15/12/2020,357,396,39,90.2,9.8
+Yorkshire and Humber,E08000035,Leeds,15/12/2020,783,964,181,81.2,18.8
+Yorkshire and Humber,E06000012,North East Lincolnshire,15/12/2020,83,96,13,86.5,13.5
+Yorkshire and Humber,E06000013,North Lincolnshire,15/12/2020,128,135,7,94.8,5.2
+Yorkshire and Humber,E07000166,Richmondshire,15/12/2020,43,58,15,74.1,25.9
+Yorkshire and Humber,E08000018,Rotherham,15/12/2020,210,222,12,94.6,5.4
+Yorkshire and Humber,E07000167,Ryedale,15/12/2020,29,54,25,53.7,46.3
+Yorkshire and Humber,E07000168,Scarborough,15/12/2020,173,188,15,92,8
+Yorkshire and Humber,E07000169,Selby,15/12/2020,73,102,29,71.6,28.4
+Yorkshire and Humber,E08000019,Sheffield,15/12/2020,306,356,50,86,14
+Yorkshire and Humber,E08000036,Wakefield,15/12/2020,346,379,33,91.3,8.7
+Yorkshire and Humber,E06000014,York,15/12/2020,96,245,149,39.2,60.8
+East Midlands,E07000032,Amber Valley,22/12/2020,51,181,130,28.2,71.8
+East Midlands,E07000170,Ashfield,22/12/2020,20,55,35,36.4,63.6
+East Midlands,E07000171,Bassetlaw,22/12/2020,113,154,41,73.4,26.6
+East Midlands,E07000129,Blaby,22/12/2020,27,50,23,54,46
+East Midlands,E07000033,Bolsover,22/12/2020,26,46,20,56.5,43.5
+East Midlands,E07000136,Boston,22/12/2020,10,11,1,90.9,9.1
+East Midlands,E07000172,Broxtowe,22/12/2020,26,52,26,50,50
+East Midlands,E07000130,Charnwood,22/12/2020,11,21,10,52.4,47.6
+East Midlands,E07000034,Chesterfield,22/12/2020,57,75,18,76,24
+East Midlands,E07000150,Corby,22/12/2020,58,130,72,44.6,55.4
+East Midlands,E07000151,Daventry,22/12/2020,59,150,91,39.3,60.7
+East Midlands,E06000015,Derby,22/12/2020,57,147,90,38.8,61.2
+East Midlands,E07000035,Derbyshire Dales,22/12/2020,20,44,24,45.5,54.5
+East Midlands,E07000137,East Lindsey,22/12/2020,9,11,2,81.8,18.2
+East Midlands,E07000152,East Northamptonshire,22/12/2020,54,145,91,37.2,62.8
+East Midlands,E07000036,Erewash,22/12/2020,30,67,37,44.8,55.2
+East Midlands,E07000173,Gedling,22/12/2020,12,20,8,60,40
+East Midlands,E07000131,Harborough,22/12/2020,32,59,27,54.2,45.8
+East Midlands,E07000037,High Peak,22/12/2020,41,74,33,55.4,44.6
+East Midlands,E07000132,Hinckley and Bosworth,22/12/2020,41,74,33,55.4,44.6
+East Midlands,E07000153,Kettering,22/12/2020,64,169,105,37.9,62.1
+East Midlands,E06000016,Leicester,22/12/2020,81,108,27,75,25
+East Midlands,E07000138,Lincoln,22/12/2020,47,51,4,92.2,7.8
+East Midlands,E07000174,Mansfield,22/12/2020,23,44,21,52.3,47.7
+East Midlands,E07000133,Melton,22/12/2020,4,8,4,50,50
+East Midlands,E07000175,Newark and Sherwood,22/12/2020,22,29,7,75.9,24.1
+East Midlands,E07000038,North East Derbyshire,22/12/2020,41,80,39,51.2,48.8
+East Midlands,E07000139,North Kesteven,22/12/2020,41,58,17,70.7,29.3
+East Midlands,E07000134,North West Leicestershire,22/12/2020,21,33,12,63.6,36.4
+East Midlands,E07000154,Northampton,22/12/2020,172,424,252,40.6,59.4
+East Midlands,E06000018,Nottingham,22/12/2020,57,116,59,49.1,50.9
+East Midlands,E07000135,Oadby and Wigston,22/12/2020,27,35,8,77.1,22.9
+East Midlands,E07000176,Rushcliffe,22/12/2020,6,13,7,46.2,53.8
+East Midlands,E06000017,Rutland,22/12/2020,11,20,9,55,45
+East Midlands,E07000039,South Derbyshire,22/12/2020,25,54,29,46.3,53.7
+East Midlands,E07000140,South Holland,22/12/2020,7,8,1,87.5,12.5
+East Midlands,E07000141,South Kesteven,22/12/2020,34,62,28,54.8,45.2
+East Midlands,E07000155,South Northamptonshire,22/12/2020,40,190,150,21.1,78.9
+East Midlands,E07000156,Wellingborough,22/12/2020,66,154,88,42.9,57.1
+East Midlands,E07000142,West Lindsey,22/12/2020,60,75,15,80,20
+East of England,E07000200,Babergh,22/12/2020,7,27,20,25.9,74.1
+East of England,E07000066,Basildon,22/12/2020,84,774,690,10.9,89.1
+East of England,E06000055,Bedford,22/12/2020,94,600,506,15.7,84.3
+East of England,E07000067,Braintree,22/12/2020,31,364,333,8.5,91.5
+East of England,E07000143,Breckland,22/12/2020,9,34,25,26.5,73.5
+East of England,E07000068,Brentwood,22/12/2020,31,408,377,7.6,92.4
+East of England,E07000144,Broadland,22/12/2020,10,37,27,27,73
+East of England,E07000095,Broxbourne,22/12/2020,74,678,604,10.9,89.1
+East of England,E07000008,Cambridge,22/12/2020,5,17,12,29.4,70.6
+East of England,E07000069,Castle Point,22/12/2020,45,347,302,13,87
+East of England,E06000056,Central Bedfordshire,22/12/2020,183,775,592,23.6,76.4
+East of England,E07000070,Chelmsford,22/12/2020,44,520,476,8.5,91.5
+East of England,E07000071,Colchester,22/12/2020,11,129,118,8.5,91.5
+East of England,E07000096,Dacorum,22/12/2020,111,492,381,22.6,77.4
+East of England,E07000242,East Hertfordshire,22/12/2020,71,535,464,13.3,86.7
+East of England,E07000244,East Suffolk,22/12/2020,26,57,31,45.6,54.4
+East of England,E07000072,Epping Forest,22/12/2020,100,709,609,14.1,85.9
+East of England,E07000010,Fenland,22/12/2020,4,6,2,66.7,33.3
+East of England,E07000145,Great Yarmouth,22/12/2020,8,14,6,57.1,42.9
+East of England,E07000073,Harlow,22/12/2020,55,427,372,12.9,87.1
+East of England,E07000098,Hertsmere,22/12/2020,77,606,529,12.7,87.3
+East of England,E07000011,Huntingdonshire,22/12/2020,7,33,26,21.2,78.8
+East of England,E07000202,Ipswich,22/12/2020,6,15,9,40,60
+East of England,E07000146,King's Lynn and West Norfolk,22/12/2020,8,18,10,44.4,55.6
+East of England,E06000032,Luton,22/12/2020,237,726,489,32.6,67.4
+East of England,E07000074,Maldon,22/12/2020,15,138,123,10.9,89.1
+East of England,E07000203,Mid Suffolk,22/12/2020,4,11,7,36.4,63.6
+East of England,E06000042,Milton Keynes,22/12/2020,173,1205,1032,14.4,85.6
+East of England,E07000099,North Hertfordshire,22/12/2020,45,265,220,17,83
+East of England,E07000147,North Norfolk,22/12/2020,6,20,14,30,70
+East of England,E07000148,Norwich,22/12/2020,14,49,35,28.6,71.4
+East of England,E06000031,Peterborough,22/12/2020,25,36,11,69.4,30.6
+East of England,E07000075,Rochford,22/12/2020,29,263,234,11,89
+East of England,E07000012,South Cambridgeshire,22/12/2020,6,48,42,12.5,87.5
+East of England,E07000149,South Norfolk,22/12/2020,33,71,38,46.5,53.5
+East of England,E06000033,Southend-on-Sea,22/12/2020,86,492,406,17.5,82.5
+East of England,E07000240,St Albans,22/12/2020,104,573,469,18.2,81.8
+East of England,E07000243,Stevenage,22/12/2020,80,301,221,26.6,73.4
+East of England,E07000076,Tendring,22/12/2020,10,66,56,15.2,84.8
+East of England,E07000102,Three Rivers,22/12/2020,97,470,373,20.6,79.4
+East of England,E06000034,Thurrock,22/12/2020,91,991,900,9.2,90.8
+East of England,E07000077,Uttlesford,22/12/2020,35,280,245,12.5,87.5
+East of England,E07000103,Watford,22/12/2020,63,476,413,13.2,86.8
+East of England,E07000241,Welwyn Hatfield,22/12/2020,82,436,354,18.8,81.2
+East of England,E07000245,West Suffolk,22/12/2020,20,53,33,37.7,62.3
+London,E09000002,Barking and Dagenham,22/12/2020,108,793,685,13.6,86.4
+London,E09000003,Barnet,22/12/2020,195,1278,1083,15.3,84.7
+London,E09000004,Bexley,22/12/2020,81,902,821,9,91
+London,E09000005,Brent,22/12/2020,166,917,751,18.1,81.9
+London,E09000006,Bromley,22/12/2020,112,1070,958,10.5,89.5
+London,E09000007,Camden,22/12/2020,63,448,385,14.1,85.9
+London,E09000008,Croydon,22/12/2020,169,1149,980,14.7,85.3
+London,E09000009,Ealing,22/12/2020,220,1082,862,20.3,79.7
+London,E09000010,Enfield,22/12/2020,204,1631,1427,12.5,87.5
+London,E09000011,Greenwich,22/12/2020,101,823,722,12.3,87.7
+London,E09000012,Hackney,22/12/2020,115,736,621,15.6,84.4
+London,E09000013,Hammersmith and Fulham,22/12/2020,65,385,320,16.9,83.1
+London,E09000014,Haringey,22/12/2020,142,826,684,17.2,82.8
+London,E09000015,Harrow,22/12/2020,198,930,732,21.3,78.7
+London,E09000016,Havering,22/12/2020,124,1040,916,11.9,88.1
+London,E09000017,Hillingdon,22/12/2020,247,1173,926,21.1,78.9
+London,E09000018,Hounslow,22/12/2020,177,949,772,18.7,81.3
+London,E09000019,Islington,22/12/2020,93,481,388,19.3,80.7
+London,E09000020,Kensington and Chelsea,22/12/2020,37,285,248,13,87
+London,E09000021,Kingston upon Thames,22/12/2020,71,424,353,16.7,83.3
+London,E09000022,Lambeth,22/12/2020,102,784,682,13,87
+London,E09000023,Lewisham,22/12/2020,95,813,718,11.7,88.3
+London,E09000024,Merton,22/12/2020,85,642,557,13.2,86.8
+London,E09000025,Newham,22/12/2020,219,1441,1222,15.2,84.8
+London,E09000026,Redbridge,22/12/2020,198,1358,1160,14.6,85.4
+London,E09000027,Richmond upon Thames,22/12/2020,76,482,406,15.8,84.2
+London,E09000028,Southwark,22/12/2020,116,698,582,16.6,83.4
+London,E09000029,Sutton,22/12/2020,92,716,624,12.8,87.2
+London,E09000030,Tower Hamlets,22/12/2020,147,990,843,14.8,85.2
+London,E09000031,Waltham Forest,22/12/2020,162,919,757,17.6,82.4
+London,E09000032,Wandsworth,22/12/2020,104,790,686,13.2,86.8
+London,E09000033,Westminster,22/12/2020,83,423,340,19.6,80.4
+North East,E06000047,County Durham,22/12/2020,708,1404,696,50.4,49.6
+North East,E06000005,Darlington,22/12/2020,142,269,127,52.8,47.2
+North East,E08000037,Gateshead,22/12/2020,312,545,233,57.2,42.8
+North East,E06000001,Hartlepool,22/12/2020,271,454,183,59.7,40.3
+North East,E06000002,Middlesbrough,22/12/2020,199,345,146,57.7,42.3
+North East,E08000021,Newcastle upon Tyne,22/12/2020,234,381,147,61.4,38.6
+North East,E08000022,North Tyneside,22/12/2020,259,355,96,73,27
+North East,E06000057,Northumberland,22/12/2020,367,685,318,53.6,46.4
+North East,E06000003,Redcar and Cleveland,22/12/2020,111,211,100,52.6,47.4
+North East,E08000023,South Tyneside,22/12/2020,298,365,67,81.6,18.4
+North East,E06000004,Stockton-on-Tees,22/12/2020,238,422,184,56.4,43.6
+North East,E08000024,Sunderland,22/12/2020,451,650,199,69.4,30.6
+North West,E07000026,Allerdale,22/12/2020,45,201,156,22.4,77.6
+North West,E07000027,Barrow-in-Furness,22/12/2020,51,64,13,79.7,20.3
+North West,E06000008,Blackburn with Darwen,22/12/2020,160,296,136,54.1,45.9
+North West,E06000009,Blackpool,22/12/2020,125,137,12,91.2,8.8
+North West,E08000001,Bolton,22/12/2020,161,196,35,82.1,17.9
+North West,E07000117,Burnley,22/12/2020,164,398,234,41.2,58.8
+North West,E08000002,Bury,22/12/2020,251,424,173,59.2,40.8
+North West,E07000028,Carlisle,22/12/2020,104,534,430,19.5,80.5
+North West,E06000049,Cheshire East,22/12/2020,383,621,238,61.7,38.3
+North West,E06000050,Cheshire West and Chester,22/12/2020,403,819,416,49.2,50.8
+North West,E07000118,Chorley,22/12/2020,147,210,63,70,30
+North West,E07000029,Copeland,22/12/2020,25,54,29,46.3,53.7
+North West,E07000030,Eden,22/12/2020,52,244,192,21.3,78.7
+North West,E07000119,Fylde,22/12/2020,49,71,22,69,31
+North West,E06000006,Halton,22/12/2020,122,219,97,55.7,44.3
+North West,E07000120,Hyndburn,22/12/2020,84,158,74,53.2,46.8
+North West,E08000011,Knowsley,22/12/2020,179,246,67,72.8,27.2
+North West,E07000121,Lancaster,22/12/2020,165,255,90,64.7,35.3
+North West,E08000012,Liverpool,22/12/2020,435,635,200,68.5,31.5
+North West,E08000003,Manchester,22/12/2020,598,942,344,63.5,36.5
+North West,E08000004,Oldham,22/12/2020,227,371,144,61.2,38.8
+North West,E07000122,Pendle,22/12/2020,88,248,160,35.5,64.5
+North West,E07000123,Preston,22/12/2020,108,143,35,75.5,24.5
+North West,E07000124,Ribble Valley,22/12/2020,89,125,36,71.2,28.8
+North West,E08000005,Rochdale,22/12/2020,323,440,117,73.4,26.6
+North West,E07000125,Rossendale,22/12/2020,83,128,45,64.8,35.2
+North West,E08000006,Salford,22/12/2020,301,452,151,66.6,33.4
+North West,E08000014,Sefton,22/12/2020,306,493,187,62.1,37.9
+North West,E07000031,South Lakeland,22/12/2020,68,142,74,47.9,52.1
+North West,E07000126,South Ribble,22/12/2020,76,93,17,81.7,18.3
+North West,E08000013,St. Helens,22/12/2020,126,169,43,74.6,25.4
+North West,E08000007,Stockport,22/12/2020,249,433,184,57.5,42.5
+North West,E08000008,Tameside,22/12/2020,273,396,123,68.9,31.1
+North West,E08000009,Trafford,22/12/2020,182,339,157,53.7,46.3
+North West,E06000007,Warrington,22/12/2020,185,339,154,54.6,45.4
+North West,E07000127,West Lancashire,22/12/2020,166,221,55,75.1,24.9
+North West,E08000010,Wigan,22/12/2020,213,287,74,74.2,25.8
+North West,E08000015,Wirral,22/12/2020,419,780,361,53.7,46.3
+North West,E07000128,Wyre,22/12/2020,97,124,27,78.2,21.8
+South East,E07000223,Adur,22/12/2020,16,120,104,13.3,86.7
+South East,E07000224,Arun,22/12/2020,44,187,143,23.5,76.5
+South East,E07000105,Ashford,22/12/2020,42,407,365,10.3,89.7
+South East,E07000004,Aylesbury Vale,22/12/2020,145,674,529,21.5,78.5
+South East,E07000084,Basingstoke and Deane,22/12/2020,81,317,236,25.6,74.4
+South East,E06000036,Bracknell Forest,22/12/2020,83,429,346,19.3,80.7
+South East,E06000043,Brighton and Hove,22/12/2020,95,634,539,15,85
+South East,E07000106,Canterbury,22/12/2020,17,282,265,6,94
+South East,E07000177,Cherwell,22/12/2020,90,463,373,19.4,80.6
+South East,E07000225,Chichester,22/12/2020,16,65,49,24.6,75.4
+South East,E07000005,Chiltern,22/12/2020,57,264,207,21.6,78.4
+South East,E07000226,Crawley,22/12/2020,44,278,234,15.8,84.2
+South East,E07000107,Dartford,22/12/2020,40,410,370,9.8,90.2
+South East,E07000108,Dover,22/12/2020,27,214,187,12.6,87.4
+South East,E07000085,East Hampshire,22/12/2020,21,106,85,19.8,80.2
+South East,E07000061,Eastbourne,22/12/2020,41,219,178,18.7,81.3
+South East,E07000086,Eastleigh,22/12/2020,23,72,49,31.9,68.1
+South East,E07000207,Elmbridge,22/12/2020,36,269,233,13.4,86.6
+South East,E07000208,Epsom and Ewell,22/12/2020,29,173,144,16.8,83.2
+South East,E07000087,Fareham,22/12/2020,19,78,59,24.4,75.6
+South East,E07000112,Folkestone and Hythe,22/12/2020,34,235,201,14.5,85.5
+South East,E07000088,Gosport,22/12/2020,11,37,26,29.7,70.3
+South East,E07000109,Gravesham,22/12/2020,27,370,343,7.3,92.7
+South East,E07000209,Guildford,22/12/2020,33,351,318,9.4,90.6
+South East,E07000089,Hart,22/12/2020,24,143,119,16.8,83.2
+South East,E07000062,Hastings,22/12/2020,33,310,277,10.6,89.4
+South East,E07000090,Havant,22/12/2020,24,123,99,19.5,80.5
+South East,E07000227,Horsham,22/12/2020,26,178,152,14.6,85.4
+South East,E06000046,Isle of Wight,22/12/2020,10,88,78,11.4,88.6
+South East,E07000063,Lewes,22/12/2020,40,209,169,19.1,80.9
+South East,E07000110,Maidstone,22/12/2020,62,483,421,12.8,87.2
+South East,E06000035,Medway,22/12/2020,95,1082,987,8.8,91.2
+South East,E07000228,Mid Sussex,22/12/2020,30,246,216,12.2,87.8
+South East,E07000210,Mole Valley,22/12/2020,9,110,101,8.2,91.8
+South East,E07000091,New Forest,22/12/2020,25,62,37,40.3,59.7
+South East,E07000178,Oxford,22/12/2020,87,290,203,30,70
+South East,E06000044,Portsmouth,22/12/2020,65,235,170,27.7,72.3
+South East,E06000038,Reading,22/12/2020,96,417,321,23,77
+South East,E07000211,Reigate and Banstead,22/12/2020,42,316,274,13.3,86.7
+South East,E07000064,Rother,22/12/2020,22,250,228,8.8,91.2
+South East,E07000212,Runnymede,22/12/2020,28,179,151,15.6,84.4
+South East,E07000092,Rushmoor,22/12/2020,23,352,329,6.5,93.5
+South East,E07000111,Sevenoaks,22/12/2020,29,287,258,10.1,89.9
+South East,E06000039,Slough,22/12/2020,178,648,470,27.5,72.5
+South East,E07000006,South Bucks,22/12/2020,64,334,270,19.2,80.8
+South East,E07000179,South Oxfordshire,22/12/2020,60,315,255,19,81
+South East,E06000045,Southampton,22/12/2020,83,189,106,43.9,56.1
+South East,E07000213,Spelthorne,22/12/2020,40,266,226,15,85
+South East,E07000214,Surrey Heath,22/12/2020,23,186,163,12.4,87.6
+South East,E07000113,Swale,22/12/2020,41,396,355,10.4,89.6
+South East,E07000215,Tandridge,22/12/2020,24,212,188,11.3,88.7
+South East,E07000093,Test Valley,22/12/2020,22,69,47,31.9,68.1
+South East,E07000114,Thanet,22/12/2020,23,246,223,9.3,90.7
+South East,E07000115,Tonbridge and Malling,22/12/2020,46,366,320,12.6,87.4
+South East,E07000116,Tunbridge Wells,22/12/2020,21,180,159,11.7,88.3
+South East,E07000180,Vale of White Horse,22/12/2020,94,254,160,37,63
+South East,E07000216,Waverley,22/12/2020,36,233,197,15.5,84.5
+South East,E07000065,Wealden,22/12/2020,49,316,267,15.5,84.5
+South East,E06000037,West Berkshire,22/12/2020,75,302,227,24.8,75.2
+South East,E07000181,West Oxfordshire,22/12/2020,54,168,114,32.1,67.9
+South East,E07000094,Winchester,22/12/2020,23,94,71,24.5,75.5
+South East,E06000040,Windsor and Maidenhead,22/12/2020,88,437,349,20.1,79.9
+South East,E07000217,Woking,22/12/2020,45,253,208,17.8,82.2
+South East,E06000041,Wokingham,22/12/2020,71,423,352,16.8,83.2
+South East,E07000229,Worthing,22/12/2020,22,193,171,11.4,88.6
+South East,E07000007,Wycombe,22/12/2020,152,536,384,28.4,71.6
+South West,E06000022,Bath and North East Somerset,22/12/2020,55,100,45,55,45
+South West,E06000058,"Bournemouth, Christchurch and Poole",22/12/2020,104,194,90,53.6,46.4
+South West,E06000023,"Bristol, City of",22/12/2020,129,319,190,40.4,59.6
+South West,E07000078,Cheltenham,22/12/2020,30,58,28,51.7,48.3
+South West,E06000052,Cornwall,22/12/2020,110,190,80,57.9,42.1
+South West,E07000079,Cotswold,22/12/2020,28,71,43,39.4,60.6
+South West,E06000059,Dorset,22/12/2020,33,117,84,28.2,71.8
+South West,E07000040,East Devon,22/12/2020,29,47,18,61.7,38.3
+South West,E07000041,Exeter,22/12/2020,28,37,9,75.7,24.3
+South West,E07000080,Forest of Dean,22/12/2020,46,83,37,55.4,44.6
+South West,E07000081,Gloucester,22/12/2020,126,230,104,54.8,45.2
+South West,E07000187,Mendip,22/12/2020,39,62,23,62.9,37.1
+South West,E07000042,Mid Devon,22/12/2020,20,27,7,74.1,25.9
+South West,E07000043,North Devon,22/12/2020,24,32,8,75,25
+South West,E06000024,North Somerset,22/12/2020,55,138,83,39.9,60.1
+South West,E06000026,Plymouth,22/12/2020,73,101,28,72.3,27.7
+South West,E07000188,Sedgemoor,22/12/2020,59,158,99,37.3,62.7
+South West,E07000246,Somerset West and Taunton,22/12/2020,44,147,103,29.9,70.1
+South West,E06000025,South Gloucestershire,22/12/2020,58,156,98,37.2,62.8
+South West,E07000044,South Hams,22/12/2020,7,26,19,26.9,73.1
+South West,E07000189,South Somerset,22/12/2020,22,72,50,30.6,69.4
+South West,E07000082,Stroud,22/12/2020,46,84,38,54.8,45.2
+South West,E06000030,Swindon,22/12/2020,134,300,166,44.7,55.3
+South West,E07000045,Teignbridge,22/12/2020,27,33,6,81.8,18.2
+South West,E07000083,Tewkesbury,22/12/2020,38,70,32,54.3,45.7
+South West,E06000027,Torbay,22/12/2020,7,22,15,31.8,68.2
+South West,E07000046,Torridge,22/12/2020,11,18,7,61.1,38.9
+South West,E07000047,West Devon,22/12/2020,21,25,4,84,16
+South West,E06000054,Wiltshire,22/12/2020,118,245,127,48.2,51.8
+West Midlands,E08000025,Birmingham,22/12/2020,1455,3253,1798,44.7,55.3
+West Midlands,E07000234,Bromsgrove,22/12/2020,105,228,123,46.1,53.9
+West Midlands,E07000192,Cannock Chase,22/12/2020,120,281,161,42.7,57.3
+West Midlands,E08000026,Coventry,22/12/2020,459,850,391,54,46
+West Midlands,E08000027,Dudley,22/12/2020,340,854,514,39.8,60.2
+West Midlands,E07000193,East Staffordshire,22/12/2020,43,82,39,52.4,47.6
+West Midlands,E06000019,"Herefordshire, County of",22/12/2020,113,267,154,42.3,57.7
+West Midlands,E07000194,Lichfield,22/12/2020,90,219,129,41.1,58.9
+West Midlands,E07000235,Malvern Hills,22/12/2020,44,73,29,60.3,39.7
+West Midlands,E07000195,Newcastle-under-Lyme,22/12/2020,173,214,41,80.8,19.2
+West Midlands,E07000218,North Warwickshire,22/12/2020,57,110,53,51.8,48.2
+West Midlands,E07000219,Nuneaton and Bedworth,22/12/2020,183,326,143,56.1,43.9
+West Midlands,E07000236,Redditch,22/12/2020,109,175,66,62.3,37.7
+West Midlands,E07000220,Rugby,22/12/2020,147,307,160,47.9,52.1
+West Midlands,E08000028,Sandwell,22/12/2020,497,1156,659,43,57
+West Midlands,E06000051,Shropshire,22/12/2020,162,373,211,43.4,56.6
+West Midlands,E08000029,Solihull,22/12/2020,214,476,262,45,55
+West Midlands,E07000196,South Staffordshire,22/12/2020,113,324,211,34.9,65.1
+West Midlands,E07000197,Stafford,22/12/2020,109,251,142,43.4,56.6
+West Midlands,E07000198,Staffordshire Moorlands,22/12/2020,114,149,35,76.5,23.5
+West Midlands,E06000021,Stoke-on-Trent,22/12/2020,323,444,121,72.7,27.3
+West Midlands,E07000221,Stratford-on-Avon,22/12/2020,105,197,92,53.3,46.7
+West Midlands,E07000199,Tamworth,22/12/2020,79,136,57,58.1,41.9
+West Midlands,E06000020,Telford and Wrekin,22/12/2020,139,235,96,59.1,40.9
+West Midlands,E08000030,Walsall,22/12/2020,362,832,470,43.5,56.5
+West Midlands,E07000222,Warwick,22/12/2020,133,255,122,52.2,47.8
+West Midlands,E08000031,Wolverhampton,22/12/2020,445,1060,615,42,58
+West Midlands,E07000237,Worcester,22/12/2020,75,168,93,44.6,55.4
+West Midlands,E07000238,Wychavon,22/12/2020,120,216,96,55.6,44.4
+West Midlands,E07000239,Wyre Forest,22/12/2020,96,185,89,51.9,48.1
+Yorkshire and Humber,E08000016,Barnsley,22/12/2020,262,300,38,87.3,12.7
+Yorkshire and Humber,E08000032,Bradford,22/12/2020,721,883,162,81.7,18.3
+Yorkshire and Humber,E08000033,Calderdale,22/12/2020,247,333,86,74.2,25.8
+Yorkshire and Humber,E07000163,Craven,22/12/2020,40,74,34,54.1,45.9
+Yorkshire and Humber,E08000017,Doncaster,22/12/2020,168,197,29,85.3,14.7
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,22/12/2020,199,255,56,78,22
+Yorkshire and Humber,E07000164,Hambleton,22/12/2020,112,272,160,41.2,58.8
+Yorkshire and Humber,E07000165,Harrogate,22/12/2020,108,243,135,44.4,55.6
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",22/12/2020,288,301,13,95.7,4.3
+Yorkshire and Humber,E08000034,Kirklees,22/12/2020,449,568,119,79,21
+Yorkshire and Humber,E08000035,Leeds,22/12/2020,984,1443,459,68.2,31.8
+Yorkshire and Humber,E06000012,North East Lincolnshire,22/12/2020,77,120,43,64.2,35.8
+Yorkshire and Humber,E06000013,North Lincolnshire,22/12/2020,106,120,14,88.3,11.7
+Yorkshire and Humber,E07000166,Richmondshire,22/12/2020,53,138,85,38.4,61.6
+Yorkshire and Humber,E08000018,Rotherham,22/12/2020,221,268,47,82.5,17.5
+Yorkshire and Humber,E07000167,Ryedale,22/12/2020,39,104,65,37.5,62.5
+Yorkshire and Humber,E07000168,Scarborough,22/12/2020,216,242,26,89.3,10.7
+Yorkshire and Humber,E07000169,Selby,22/12/2020,84,168,84,50,50
+Yorkshire and Humber,E08000019,Sheffield,22/12/2020,291,419,128,69.5,30.5
+Yorkshire and Humber,E08000036,Wakefield,22/12/2020,391,504,113,77.6,22.4
+Yorkshire and Humber,E06000014,York,22/12/2020,200,632,432,31.6,68.4
+East Midlands,E07000032,Amber Valley,29/12/2020,47,135,88,34.8,65.2
+East Midlands,E07000170,Ashfield,29/12/2020,19,65,46,29.2,70.8
+East Midlands,E07000171,Bassetlaw,29/12/2020,109,163,54,66.9,33.1
+East Midlands,E07000129,Blaby,29/12/2020,39,74,35,52.7,47.3
+East Midlands,E07000033,Bolsover,29/12/2020,30,56,26,53.6,46.4
+East Midlands,E07000172,Broxtowe,29/12/2020,8,24,16,33.3,66.7
+East Midlands,E07000130,Charnwood,29/12/2020,25,51,26,49,51
+East Midlands,E07000034,Chesterfield,29/12/2020,80,155,75,51.6,48.4
+East Midlands,E07000150,Corby,29/12/2020,43,211,168,20.4,79.6
+East Midlands,E07000151,Daventry,29/12/2020,64,199,135,32.2,67.8
+East Midlands,E06000015,Derby,29/12/2020,56,203,147,27.6,72.4
+East Midlands,E07000035,Derbyshire Dales,29/12/2020,13,31,18,41.9,58.1
+East Midlands,E07000137,East Lindsey,29/12/2020,54,62,8,87.1,12.9
+East Midlands,E07000152,East Northamptonshire,29/12/2020,31,146,115,21.2,78.8
+East Midlands,E07000036,Erewash,29/12/2020,38,91,53,41.8,58.2
+East Midlands,E07000173,Gedling,29/12/2020,18,41,23,43.9,56.1
+East Midlands,E07000131,Harborough,29/12/2020,22,95,73,23.2,76.8
+East Midlands,E07000037,High Peak,29/12/2020,59,121,62,48.8,51.2
+East Midlands,E07000132,Hinckley and Bosworth,29/12/2020,44,94,50,46.8,53.2
+East Midlands,E07000153,Kettering,29/12/2020,78,217,139,35.9,64.1
+East Midlands,E06000016,Leicester,29/12/2020,87,180,93,48.3,51.7
+East Midlands,E07000138,Lincoln,29/12/2020,43,58,15,74.1,25.9
+East Midlands,E07000174,Mansfield,29/12/2020,25,46,21,54.3,45.7
+East Midlands,E07000133,Melton,29/12/2020,4,12,8,33.3,66.7
+East Midlands,E07000175,Newark and Sherwood,29/12/2020,21,44,23,47.7,52.3
+East Midlands,E07000038,North East Derbyshire,29/12/2020,46,97,51,47.4,52.6
+East Midlands,E07000139,North Kesteven,29/12/2020,10,41,31,24.4,75.6
+East Midlands,E07000134,North West Leicestershire,29/12/2020,15,44,29,34.1,65.9
+East Midlands,E07000154,Northampton,29/12/2020,151,573,422,26.4,73.6
+East Midlands,E06000018,Nottingham,29/12/2020,34,85,51,40,60
+East Midlands,E07000135,Oadby and Wigston,29/12/2020,41,92,51,44.6,55.4
+East Midlands,E07000176,Rushcliffe,29/12/2020,8,26,18,30.8,69.2
+East Midlands,E06000017,Rutland,29/12/2020,5,9,4,55.6,44.4
+East Midlands,E07000039,South Derbyshire,29/12/2020,19,54,35,35.2,64.8
+East Midlands,E07000140,South Holland,29/12/2020,6,8,2,75,25
+East Midlands,E07000141,South Kesteven,29/12/2020,23,41,18,56.1,43.9
+East Midlands,E07000155,South Northamptonshire,29/12/2020,34,224,190,15.2,84.8
+East Midlands,E07000156,Wellingborough,29/12/2020,44,203,159,21.7,78.3
+East Midlands,E07000142,West Lindsey,29/12/2020,35,55,20,63.6,36.4
+East of England,E07000200,Babergh,29/12/2020,5,49,44,10.2,89.8
+East of England,E07000066,Basildon,29/12/2020,48,660,612,7.3,92.7
+East of England,E06000055,Bedford,29/12/2020,83,685,602,12.1,87.9
+East of England,E07000067,Braintree,29/12/2020,15,239,224,6.3,93.7
+East of England,E07000143,Breckland,29/12/2020,1,19,18,5.3,94.7
+East of England,E07000068,Brentwood,29/12/2020,21,475,454,4.4,95.6
+East of England,E07000144,Broadland,29/12/2020,8,49,41,16.3,83.7
+East of England,E07000095,Broxbourne,29/12/2020,43,531,488,8.1,91.9
+East of England,E07000008,Cambridge,29/12/2020,3,31,28,9.7,90.3
+East of England,E07000069,Castle Point,29/12/2020,70,436,366,16.1,83.9
+East of England,E06000056,Central Bedfordshire,29/12/2020,136,731,595,18.6,81.4
+East of England,E07000070,Chelmsford,29/12/2020,18,354,336,5.1,94.9
+East of England,E07000071,Colchester,29/12/2020,4,126,122,3.2,96.8
+East of England,E07000096,Dacorum,29/12/2020,81,493,412,16.4,83.6
+East of England,E07000009,East Cambridgeshire,29/12/2020,7,30,23,23.3,76.7
+East of England,E07000242,East Hertfordshire,29/12/2020,27,388,361,7,93
+East of England,E07000244,East Suffolk,29/12/2020,10,48,38,20.8,79.2
+East of England,E07000072,Epping Forest,29/12/2020,39,599,560,6.5,93.5
+East of England,E07000010,Fenland,29/12/2020,8,33,25,24.2,75.8
+East of England,E07000145,Great Yarmouth,29/12/2020,15,38,23,39.5,60.5
+East of England,E07000073,Harlow,29/12/2020,17,431,414,3.9,96.1
+East of England,E07000098,Hertsmere,29/12/2020,41,487,446,8.4,91.6
+East of England,E07000011,Huntingdonshire,29/12/2020,10,91,81,11,89
+East of England,E07000202,Ipswich,29/12/2020,9,40,31,22.5,77.5
+East of England,E07000146,King's Lynn and West Norfolk,29/12/2020,3,24,21,12.5,87.5
+East of England,E06000032,Luton,29/12/2020,137,560,423,24.5,75.5
+East of England,E07000074,Maldon,29/12/2020,11,107,96,10.3,89.7
+East of England,E07000203,Mid Suffolk,29/12/2020,3,23,20,13,87
+East of England,E06000042,Milton Keynes,29/12/2020,182,1148,966,15.9,84.1
+East of England,E07000099,North Hertfordshire,29/12/2020,34,262,228,13,87
+East of England,E07000147,North Norfolk,29/12/2020,1,20,19,5,95
+East of England,E07000148,Norwich,29/12/2020,7,41,34,17.1,82.9
+East of England,E06000031,Peterborough,29/12/2020,36,65,29,55.4,44.6
+East of England,E07000075,Rochford,29/12/2020,20,196,176,10.2,89.8
+East of England,E07000012,South Cambridgeshire,29/12/2020,4,76,72,5.3,94.7
+East of England,E07000149,South Norfolk,29/12/2020,11,45,34,24.4,75.6
+East of England,E06000033,Southend-on-Sea,29/12/2020,110,593,483,18.5,81.5
+East of England,E07000240,St Albans,29/12/2020,89,593,504,15,85
+East of England,E07000243,Stevenage,29/12/2020,63,343,280,18.4,81.6
+East of England,E07000076,Tendring,29/12/2020,12,144,132,8.3,91.7
+East of England,E07000102,Three Rivers,29/12/2020,43,394,351,10.9,89.1
+East of England,E06000034,Thurrock,29/12/2020,76,1002,926,7.6,92.4
+East of England,E07000077,Uttlesford,29/12/2020,12,190,178,6.3,93.7
+East of England,E07000103,Watford,29/12/2020,62,407,345,15.2,84.8
+East of England,E07000241,Welwyn Hatfield,29/12/2020,104,549,445,18.9,81.1
+East of England,E07000245,West Suffolk,29/12/2020,16,65,49,24.6,75.4
+London,E09000002,Barking and Dagenham,29/12/2020,108,930,822,11.6,88.4
+London,E09000003,Barnet,29/12/2020,146,1176,1030,12.4,87.6
+London,E09000004,Bexley,29/12/2020,74,890,816,8.3,91.7
+London,E09000005,Brent,29/12/2020,176,1080,904,16.3,83.7
+London,E09000006,Bromley,29/12/2020,63,1115,1052,5.7,94.3
+London,E09000007,Camden,29/12/2020,36,410,374,8.8,91.2
+London,E09000001,City of London,29/12/2020,1,15,14,6.7,93.3
+London,E09000008,Croydon,29/12/2020,152,1331,1179,11.4,88.6
+London,E09000009,Ealing,29/12/2020,257,1602,1345,16,84
+London,E09000010,Enfield,29/12/2020,111,1182,1071,9.4,90.6
+London,E09000011,Greenwich,29/12/2020,67,787,720,8.5,91.5
+London,E09000012,Hackney,29/12/2020,70,557,487,12.6,87.4
+London,E09000013,Hammersmith and Fulham,29/12/2020,52,470,418,11.1,88.9
+London,E09000014,Haringey,29/12/2020,92,700,608,13.1,86.9
+London,E09000015,Harrow,29/12/2020,126,966,840,13,87
+London,E09000016,Havering,29/12/2020,107,1015,908,10.5,89.5
+London,E09000017,Hillingdon,29/12/2020,205,1369,1164,15,85
+London,E09000018,Hounslow,29/12/2020,216,1361,1145,15.9,84.1
+London,E09000019,Islington,29/12/2020,49,460,411,10.7,89.3
+London,E09000020,Kensington and Chelsea,29/12/2020,42,356,314,11.8,88.2
+London,E09000021,Kingston upon Thames,29/12/2020,85,619,534,13.7,86.3
+London,E09000022,Lambeth,29/12/2020,111,897,786,12.4,87.6
+London,E09000023,Lewisham,29/12/2020,71,734,663,9.7,90.3
+London,E09000024,Merton,29/12/2020,99,742,643,13.3,86.7
+London,E09000025,Newham,29/12/2020,139,1269,1130,11,89
+London,E09000026,Redbridge,29/12/2020,143,1346,1203,10.6,89.4
+London,E09000027,Richmond upon Thames,29/12/2020,72,429,357,16.8,83.2
+London,E09000028,Southwark,29/12/2020,83,704,621,11.8,88.2
+London,E09000029,Sutton,29/12/2020,94,886,792,10.6,89.4
+London,E09000030,Tower Hamlets,29/12/2020,119,956,837,12.4,87.6
+London,E09000031,Waltham Forest,29/12/2020,112,832,720,13.5,86.5
+London,E09000032,Wandsworth,29/12/2020,119,819,700,14.5,85.5
+London,E09000033,Westminster,29/12/2020,39,465,426,8.4,91.6
+North East,E06000047,County Durham,29/12/2020,896,2176,1280,41.2,58.8
+North East,E06000005,Darlington,29/12/2020,156,373,217,41.8,58.2
+North East,E08000037,Gateshead,29/12/2020,305,728,423,41.9,58.1
+North East,E06000001,Hartlepool,29/12/2020,254,629,375,40.4,59.6
+North East,E06000002,Middlesbrough,29/12/2020,241,677,436,35.6,64.4
+North East,E08000021,Newcastle upon Tyne,29/12/2020,307,633,326,48.5,51.5
+North East,E08000022,North Tyneside,29/12/2020,257,434,177,59.2,40.8
+North East,E06000057,Northumberland,29/12/2020,484,891,407,54.3,45.7
+North East,E06000003,Redcar and Cleveland,29/12/2020,144,429,285,33.6,66.4
+North East,E08000023,South Tyneside,29/12/2020,424,611,187,69.4,30.6
+North East,E06000004,Stockton-on-Tees,29/12/2020,318,657,339,48.4,51.6
+North East,E08000024,Sunderland,29/12/2020,635,1195,560,53.1,46.9
+North West,E07000026,Allerdale,29/12/2020,95,455,360,20.9,79.1
+North West,E07000027,Barrow-in-Furness,29/12/2020,107,232,125,46.1,53.9
+North West,E06000008,Blackburn with Darwen,29/12/2020,234,611,377,38.3,61.7
+North West,E06000009,Blackpool,29/12/2020,169,228,59,74.1,25.9
+North West,E08000001,Bolton,29/12/2020,200,358,158,55.9,44.1
+North West,E07000117,Burnley,29/12/2020,129,442,313,29.2,70.8
+North West,E08000002,Bury,29/12/2020,190,466,276,40.8,59.2
+North West,E07000028,Carlisle,29/12/2020,147,981,834,15,85
+North West,E06000049,Cheshire East,29/12/2020,470,967,497,48.6,51.4
+North West,E06000050,Cheshire West and Chester,29/12/2020,438,1243,805,35.2,64.8
+North West,E07000118,Chorley,29/12/2020,114,205,91,55.6,44.4
+North West,E07000029,Copeland,29/12/2020,44,214,170,20.6,79.4
+North West,E07000030,Eden,29/12/2020,40,347,307,11.5,88.5
+North West,E07000119,Fylde,29/12/2020,92,125,33,73.6,26.4
+North West,E06000006,Halton,29/12/2020,325,668,343,48.7,51.3
+North West,E07000120,Hyndburn,29/12/2020,105,256,151,41,59
+North West,E08000011,Knowsley,29/12/2020,449,795,346,56.5,43.5
+North West,E07000121,Lancaster,29/12/2020,161,313,152,51.4,48.6
+North West,E08000012,Liverpool,29/12/2020,888,1650,762,53.8,46.2
+North West,E08000003,Manchester,29/12/2020,626,1320,694,47.4,52.6
+North West,E08000004,Oldham,29/12/2020,225,453,228,49.7,50.3
+North West,E07000122,Pendle,29/12/2020,143,429,286,33.3,66.7
+North West,E07000123,Preston,29/12/2020,138,240,102,57.5,42.5
+North West,E07000124,Ribble Valley,29/12/2020,75,191,116,39.3,60.7
+North West,E08000005,Rochdale,29/12/2020,275,522,247,52.7,47.3
+North West,E07000125,Rossendale,29/12/2020,95,179,84,53.1,46.9
+North West,E08000006,Salford,29/12/2020,357,692,335,51.6,48.4
+North West,E08000014,Sefton,29/12/2020,610,1114,504,54.8,45.2
+North West,E07000031,South Lakeland,29/12/2020,90,240,150,37.5,62.5
+North West,E07000126,South Ribble,29/12/2020,93,207,114,44.9,55.1
+North West,E08000013,St. Helens,29/12/2020,255,515,260,49.5,50.5
+North West,E08000007,Stockport,29/12/2020,241,589,348,40.9,59.1
+North West,E08000008,Tameside,29/12/2020,228,500,272,45.6,54.4
+North West,E08000009,Trafford,29/12/2020,224,518,294,43.2,56.8
+North West,E06000007,Warrington,29/12/2020,291,787,496,37,63
+North West,E07000127,West Lancashire,29/12/2020,220,347,127,63.4,36.6
+North West,E08000010,Wigan,29/12/2020,482,757,275,63.7,36.3
+North West,E08000015,Wirral,29/12/2020,641,1531,890,41.9,58.1
+North West,E07000128,Wyre,29/12/2020,149,251,102,59.4,40.6
+South East,E07000223,Adur,29/12/2020,12,177,165,6.8,93.2
+South East,E07000224,Arun,29/12/2020,22,241,219,9.1,90.9
+South East,E07000105,Ashford,29/12/2020,15,244,229,6.1,93.9
+South East,E07000004,Aylesbury Vale,29/12/2020,67,462,395,14.5,85.5
+South East,E07000084,Basingstoke and Deane,29/12/2020,46,259,213,17.8,82.2
+South East,E06000036,Bracknell Forest,29/12/2020,45,419,374,10.7,89.3
+South East,E06000043,Brighton and Hove,29/12/2020,71,927,856,7.7,92.3
+South East,E07000106,Canterbury,29/12/2020,28,339,311,8.3,91.7
+South East,E07000177,Cherwell,29/12/2020,81,623,542,13,87
+South East,E07000225,Chichester,29/12/2020,2,24,22,8.3,91.7
+South East,E07000005,Chiltern,29/12/2020,46,230,184,20,80
+South East,E07000226,Crawley,29/12/2020,41,309,268,13.3,86.7
+South East,E07000107,Dartford,29/12/2020,30,381,351,7.9,92.1
+South East,E07000108,Dover,29/12/2020,12,224,212,5.4,94.6
+South East,E07000085,East Hampshire,29/12/2020,11,96,85,11.5,88.5
+South East,E07000061,Eastbourne,29/12/2020,38,359,321,10.6,89.4
+South East,E07000086,Eastleigh,29/12/2020,6,18,12,33.3,66.7
+South East,E07000207,Elmbridge,29/12/2020,47,394,347,11.9,88.1
+South East,E07000208,Epsom and Ewell,29/12/2020,12,213,201,5.6,94.4
+South East,E07000087,Fareham,29/12/2020,3,14,11,21.4,78.6
+South East,E07000112,Folkestone and Hythe,29/12/2020,16,228,212,7,93
+South East,E07000088,Gosport,29/12/2020,1,8,7,12.5,87.5
+South East,E07000109,Gravesham,29/12/2020,15,421,406,3.6,96.4
+South East,E07000209,Guildford,29/12/2020,40,397,357,10.1,89.9
+South East,E07000089,Hart,29/12/2020,17,270,253,6.3,93.7
+South East,E07000062,Hastings,29/12/2020,21,304,283,6.9,93.1
+South East,E07000090,Havant,29/12/2020,3,21,18,14.3,85.7
+South East,E07000227,Horsham,29/12/2020,20,212,192,9.4,90.6
+South East,E06000046,Isle of Wight,29/12/2020,5,89,84,5.6,94.4
+South East,E07000063,Lewes,29/12/2020,32,297,265,10.8,89.2
+South East,E07000110,Maidstone,29/12/2020,19,312,293,6.1,93.9
+South East,E06000035,Medway,29/12/2020,48,758,710,6.3,93.7
+South East,E07000228,Mid Sussex,29/12/2020,27,360,333,7.5,92.5
+South East,E07000210,Mole Valley,29/12/2020,16,135,119,11.9,88.1
+South East,E07000091,New Forest,29/12/2020,4,15,11,26.7,73.3
+South East,E07000178,Oxford,29/12/2020,75,316,241,23.7,76.3
+South East,E06000044,Portsmouth,29/12/2020,19,75,56,25.3,74.7
+South East,E06000038,Reading,29/12/2020,74,470,396,15.7,84.3
+South East,E07000211,Reigate and Banstead,29/12/2020,27,293,266,9.2,90.8
+South East,E07000064,Rother,29/12/2020,15,280,265,5.4,94.6
+South East,E07000212,Runnymede,29/12/2020,33,233,200,14.2,85.8
+South East,E07000092,Rushmoor,29/12/2020,35,532,497,6.6,93.4
+South East,E07000111,Sevenoaks,29/12/2020,31,293,262,10.6,89.4
+South East,E06000039,Slough,29/12/2020,141,938,797,15,85
+South East,E07000006,South Bucks,29/12/2020,55,350,295,15.7,84.3
+South East,E07000179,South Oxfordshire,29/12/2020,57,371,314,15.4,84.6
+South East,E06000045,Southampton,29/12/2020,13,49,36,26.5,73.5
+South East,E07000213,Spelthorne,29/12/2020,50,405,355,12.3,87.7
+South East,E07000214,Surrey Heath,29/12/2020,18,244,226,7.4,92.6
+South East,E07000113,Swale,29/12/2020,18,258,240,7,93
+South East,E07000215,Tandridge,29/12/2020,18,260,242,6.9,93.1
+South East,E07000093,Test Valley,29/12/2020,18,69,51,26.1,73.9
+South East,E07000114,Thanet,29/12/2020,32,309,277,10.4,89.6
+South East,E07000115,Tonbridge and Malling,29/12/2020,35,249,214,14.1,85.9
+South East,E07000116,Tunbridge Wells,29/12/2020,25,191,166,13.1,86.9
+South East,E07000180,Vale of White Horse,29/12/2020,83,255,172,32.5,67.5
+South East,E07000216,Waverley,29/12/2020,48,360,312,13.3,86.7
+South East,E07000065,Wealden,29/12/2020,42,388,346,10.8,89.2
+South East,E06000037,West Berkshire,29/12/2020,59,331,272,17.8,82.2
+South East,E07000181,West Oxfordshire,29/12/2020,32,172,140,18.6,81.4
+South East,E07000094,Winchester,29/12/2020,1,10,9,10,90
+South East,E06000040,Windsor and Maidenhead,29/12/2020,80,606,526,13.2,86.8
+South East,E07000217,Woking,29/12/2020,62,341,279,18.2,81.8
+South East,E06000041,Wokingham,29/12/2020,47,429,382,11,89
+South East,E07000229,Worthing,29/12/2020,18,246,228,7.3,92.7
+South East,E07000007,Wycombe,29/12/2020,75,436,361,17.2,82.8
+South West,E06000022,Bath and North East Somerset,29/12/2020,49,118,69,41.5,58.5
+South West,E06000058,"Bournemouth, Christchurch and Poole",29/12/2020,17,83,66,20.5,79.5
+South West,E06000023,"Bristol, City of",29/12/2020,159,560,401,28.4,71.6
+South West,E07000078,Cheltenham,29/12/2020,54,106,52,50.9,49.1
+South West,E06000052,Cornwall,29/12/2020,143,293,150,48.8,51.2
+South West,E07000079,Cotswold,29/12/2020,37,94,57,39.4,60.6
+South West,E06000059,Dorset,29/12/2020,9,66,57,13.6,86.4
+South West,E07000040,East Devon,29/12/2020,14,32,18,43.8,56.2
+South West,E07000041,Exeter,29/12/2020,12,24,12,50,50
+South West,E07000080,Forest of Dean,29/12/2020,103,180,77,57.2,42.8
+South West,E07000081,Gloucester,29/12/2020,133,314,181,42.4,57.6
+South West,E07000187,Mendip,29/12/2020,28,70,42,40,60
+South West,E07000042,Mid Devon,29/12/2020,14,33,19,42.4,57.6
+South West,E07000043,North Devon,29/12/2020,1,4,3,25,75
+South West,E06000024,North Somerset,29/12/2020,48,131,83,36.6,63.4
+South West,E06000026,Plymouth,29/12/2020,23,50,27,46,54
+South West,E07000188,Sedgemoor,29/12/2020,41,151,110,27.2,72.8
+South West,E07000246,Somerset West and Taunton,29/12/2020,53,203,150,26.1,73.9
+South West,E06000025,South Gloucestershire,29/12/2020,60,238,178,25.2,74.8
+South West,E07000044,South Hams,29/12/2020,6,24,18,25,75
+South West,E07000189,South Somerset,29/12/2020,14,65,51,21.5,78.5
+South West,E07000082,Stroud,29/12/2020,42,108,66,38.9,61.1
+South West,E06000030,Swindon,29/12/2020,227,554,327,41,59
+South West,E07000045,Teignbridge,29/12/2020,11,38,27,28.9,71.1
+South West,E07000083,Tewkesbury,29/12/2020,52,119,67,43.7,56.3
+South West,E06000027,Torbay,29/12/2020,5,17,12,29.4,70.6
+South West,E07000046,Torridge,29/12/2020,6,14,8,42.9,57.1
+South West,E07000047,West Devon,29/12/2020,7,14,7,50,50
+South West,E06000054,Wiltshire,29/12/2020,157,424,267,37,63
+West Midlands,E08000025,Birmingham,29/12/2020,1640,5094,3454,32.2,67.8
+West Midlands,E07000234,Bromsgrove,29/12/2020,116,419,303,27.7,72.3
+West Midlands,E07000192,Cannock Chase,29/12/2020,110,365,255,30.1,69.9
+West Midlands,E08000026,Coventry,29/12/2020,546,1395,849,39.1,60.9
+West Midlands,E08000027,Dudley,29/12/2020,454,1504,1050,30.2,69.8
+West Midlands,E07000193,East Staffordshire,29/12/2020,46,102,56,45.1,54.9
+West Midlands,E06000019,"Herefordshire, County of",29/12/2020,121,367,246,33,67
+West Midlands,E07000194,Lichfield,29/12/2020,79,257,178,30.7,69.3
+West Midlands,E07000235,Malvern Hills,29/12/2020,49,134,85,36.6,63.4
+West Midlands,E07000195,Newcastle-under-Lyme,29/12/2020,144,236,92,61,39
+West Midlands,E07000218,North Warwickshire,29/12/2020,75,191,116,39.3,60.7
+West Midlands,E07000219,Nuneaton and Bedworth,29/12/2020,188,447,259,42.1,57.9
+West Midlands,E07000236,Redditch,29/12/2020,109,265,156,41.1,58.9
+West Midlands,E07000220,Rugby,29/12/2020,141,378,237,37.3,62.7
+West Midlands,E08000028,Sandwell,29/12/2020,651,1963,1312,33.2,66.8
+West Midlands,E06000051,Shropshire,29/12/2020,243,775,532,31.4,68.6
+West Midlands,E08000029,Solihull,29/12/2020,245,737,492,33.2,66.8
+West Midlands,E07000196,South Staffordshire,29/12/2020,126,462,336,27.3,72.7
+West Midlands,E07000197,Stafford,29/12/2020,133,418,285,31.8,68.2
+West Midlands,E07000198,Staffordshire Moorlands,29/12/2020,63,103,40,61.2,38.8
+West Midlands,E06000021,Stoke-on-Trent,29/12/2020,330,498,168,66.3,33.7
+West Midlands,E07000221,Stratford-on-Avon,29/12/2020,115,304,189,37.8,62.2
+West Midlands,E07000199,Tamworth,29/12/2020,91,208,117,43.8,56.2
+West Midlands,E06000020,Telford and Wrekin,29/12/2020,249,586,337,42.5,57.5
+West Midlands,E08000030,Walsall,29/12/2020,430,1486,1056,28.9,71.1
+West Midlands,E07000222,Warwick,29/12/2020,127,381,254,33.3,66.7
+West Midlands,E08000031,Wolverhampton,29/12/2020,526,1786,1260,29.5,70.5
+West Midlands,E07000237,Worcester,29/12/2020,138,400,262,34.5,65.5
+West Midlands,E07000238,Wychavon,29/12/2020,110,320,210,34.4,65.6
+West Midlands,E07000239,Wyre Forest,29/12/2020,116,272,156,42.6,57.4
+Yorkshire and Humber,E08000016,Barnsley,29/12/2020,237,335,98,70.7,29.3
+Yorkshire and Humber,E08000032,Bradford,29/12/2020,734,1141,407,64.3,35.7
+Yorkshire and Humber,E08000033,Calderdale,29/12/2020,325,492,167,66.1,33.9
+Yorkshire and Humber,E07000163,Craven,29/12/2020,88,219,131,40.2,59.8
+Yorkshire and Humber,E08000017,Doncaster,29/12/2020,121,162,41,74.7,25.3
+Yorkshire and Humber,E06000011,East Riding of Yorkshire,29/12/2020,110,192,82,57.3,42.7
+Yorkshire and Humber,E07000164,Hambleton,29/12/2020,126,308,182,40.9,59.1
+Yorkshire and Humber,E07000165,Harrogate,29/12/2020,156,545,389,28.6,71.4
+Yorkshire and Humber,E06000010,"Kingston upon Hull, City of",29/12/2020,238,262,24,90.8,9.2
+Yorkshire and Humber,E08000034,Kirklees,29/12/2020,566,849,283,66.7,33.3
+Yorkshire and Humber,E08000035,Leeds,29/12/2020,1150,2128,978,54,46
+Yorkshire and Humber,E06000012,North East Lincolnshire,29/12/2020,92,153,61,60.1,39.9
+Yorkshire and Humber,E06000013,North Lincolnshire,29/12/2020,107,162,55,66,34
+Yorkshire and Humber,E07000166,Richmondshire,29/12/2020,88,224,136,39.3,60.7
+Yorkshire and Humber,E08000018,Rotherham,29/12/2020,233,314,81,74.2,25.8
+Yorkshire and Humber,E07000167,Ryedale,29/12/2020,62,148,86,41.9,58.1
+Yorkshire and Humber,E07000168,Scarborough,29/12/2020,249,321,72,77.6,22.4
+Yorkshire and Humber,E07000169,Selby,29/12/2020,127,298,171,42.6,57.4
+Yorkshire and Humber,E08000019,Sheffield,29/12/2020,303,518,215,58.5,41.5
+Yorkshire and Humber,E08000036,Wakefield,29/12/2020,415,649,234,63.9,36.1
+Yorkshire and Humber,E06000014,York,29/12/2020,282,990,708,28.5,71.5
+East of England,E07000074,Maldon,24/11/2020,0,12,12,0,100
+East of England,E07000009,East Cambridgeshire,15/12/2020,0,5,5,0,100
+East of England,E07000147,North Norfolk,15/12/2020,0,1,1,0,100
+East of England,E07000245,West Suffolk,15/12/2020,0,2,2,0,100
+East of England,E07000009,East Cambridgeshire,22/12/2020,0,5,5,0,100
+London,E09000001,City of London,22/12/2020,0,19,19,0,100

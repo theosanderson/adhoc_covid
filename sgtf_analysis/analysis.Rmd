@@ -1,0 +1,146 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+library(tidyverse)
+library(sf)
+library(gganimate)
+
+library(zoo)
+geo <- read_sf("./Local_Authority_Districts__April_2019__UK_BUC_v2-shp/Local_Authority_Districts__April_2019__UK_BUC_v2.shp")
+data <- read_csv("./phe_ltla_sgtf.csv")
+data$week = lubridate::dmy(data$week)
+
+region_lookup = data %>% select(LTLA_name,Region) %>% distinct
+
+blanks = expand_grid(week =unique(data$week),LTLA_name = unique(data$LTLA_name) ) %>% inner_join(region_lookup)
+
+
+
+
+data <- full_join(data,blanks) %>% arrange(week)
+
+
+
+problematic_ltlas = c("East Cambridgeshire","Boston")
+data<-data %>% group_by(Region,week) %>% mutate(`percent_SGTF cases` = ifelse(LTLA_name %in% problematic_ltlas,mean(`percent_SGTF cases`,na.rm=TRUE),`percent_SGTF cases`))
+
+data<-data %>% group_by(LTLA_name) %>% mutate(`percent_SGTF cases` = na.approx(`percent_SGTF cases`,na.rm=FALSE))
+
+data<-data %>% group_by(LTLA_name)%>% arrange(week) %>% mutate(meanval = rollapply(`percent_SGTF cases`, 3, mean,na.rm=TRUE, partial = TRUE) ,`percent_SGTF cases` = ifelse(n_Total <20 | is.na(`percent_SGTF cases`),meanval,`percent_SGTF cases`))
+
+
+
+both<- inner_join(geo,data,by=c("LAD19NM"="LTLA_name"))
+
+
+
+
+a<-ggplot(both ,aes(fill=`percent_SGTF cases`/100,group=LAD19NM))+geom_sf()+scale_fill_viridis_c(option='magma',direction=-1,limits=c(0,1))+theme_minimal()+
+  theme(plot.title = element_text(size = 25,colour="black", vjust = 0))+labs(title="{frame_time}",fill="SGTF") +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank()) +
+  theme(axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())+transition_time(week)+ theme(legend.position="right")+coord_sf(expand=FALSE)
+
+
+
+#animate(a,nframes=100,height=750,width=600,fps=10,end_pause = 20)
+#anim_save('uk_sgtf_phe3.gif')
+
+
+
+
+london_utlas=c('City of London','Barking and Dagenham','Barnet','Bexley','Brent','Bromley','Camden','Croydon','Ealing','Enfield','Greenwich','Hackney and City of London','Hammersmith and Fulham','Haringey','Harrow','Havering','Hillingdon','Hounslow','Islington','Kensington and Chelsea','Kingston upon Thames','Lambeth','Lewisham','Merton','Newham','Redbridge','Richmond upon Thames','Southwark','Sutton','Tower Hamlets','Waltham Forest','Wandsworth','Westminster','Hackney')
+
+
+
+a<-ggplot(both %>% filter(LAD19NM %in% london_utlas) ,aes(fill=`percent_SGTF cases`/100,group=LAD19NM))+geom_sf()+scale_fill_viridis_c(option='magma',direction=-1,limits=c(0,1))+theme_minimal()+
+  theme(plot.title = element_text(size = 25,colour="black", vjust = 0))+labs(title="{frame_time}",fill="SGTF") +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank()) +
+  theme(axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())+transition_time(week)+ theme(legend.position="right")+coord_sf(expand=FALSE)
+
+
+
+animate(a,nframes=100,height=400,width=600,fps=10,end_pause = 20)
+anim_save('london.gif')
+
+```
+
+```{r}
+library(tidyverse)
+library(sf)
+library(gganimate)
+
+
+
+
+data <- read_csv("../sgene_dropout_data/data.csv") %>% filter(utla_code!="E06000053")
+
+
+ 
+#data = data%>% group_by(utla_name)%>%mutate(prop_sgtf=ifelse(is.na(prop_sgtf),min(prop_sgtf),prop_sgtf))
+geo <- read_sf("./Counties_and_Unitary_Authorities__April_2019__Boundaries_EW_BUC-shp/Counties_and_Unitary_Authorities__April_2019__Boundaries_EW_BUC.shp")
+
+
+geo$CTYUA19NM=ifelse(geo$CTYUA19NM=="Hackney","Hackney and City of London",geo$CTYUA19NM)
+geo$CTYUA19NM=ifelse(geo$CTYUA19NM=="City of London","Hackney and City of London",geo$CTYUA19NM)
+geo$CTYUA19NM=ifelse(geo$CTYUA19NM=="Cornwall","Cornwall and Isles of Scilly",geo$CTYUA19NM)
+
+
+both<- inner_join(geo,data,by=c("CTYUA19NM"="utla_name")) %>% filter(week_specimen>lubridate::ymd("2020-11-1")) 
+
+#%>% filter(week_specimen==lubridate::ymd("2020-11-2")
+a<-ggplot(both ,aes(fill=prop_sgtf,group=CTYUA19NM))+geom_sf()+scale_fill_viridis_c(option='magma',direction=-1,limits=c(0,1))+theme_minimal()+
+  theme(plot.title = element_text(size = 25,colour="black", vjust = 0))+labs(title="{frame_time}",fill="SGTF") +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank()) +
+  theme(axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())+transition_time(week_specimen)+ theme(legend.position="right")
+
+
+
+animate(a,nframes=100,height=750,width=600,fps=10,end_pause = 20)
+anim_save('uk_sgtf.gif')
+
+
+```
+
+```{r}
+
+data <- read_csv("../sgene_dropout_data/data.csv")
+geo <- read_sf("./Counties_and_Unitary_Authorities__April_2019__Boundaries_EW_BUC-shp/Counties_and_Unitary_Authorities__April_2019__Boundaries_EW_BUC.shp")
+
+
+london_utlas=c('City of London','Barking and Dagenham','Barnet','Bexley','Brent','Bromley','Camden','Croydon','Ealing','Enfield','Greenwich','Hackney and City of London','Hammersmith and Fulham','Haringey','Harrow','Havering','Hillingdon','Hounslow','Islington','Kensington and Chelsea','Kingston upon Thames','Lambeth','Lewisham','Merton','Newham','Redbridge','Richmond upon Thames','Southwark','Sutton','Tower Hamlets','Waltham Forest','Wandsworth','Westminster')
+
+geo$CTYUA19NM=ifelse(geo$CTYUA19NM=="Hackney","Hackney and City of London",geo$CTYUA19NM)
+geo$CTYUA19NM=ifelse(geo$CTYUA19NM=="City of London","Hackney and City of London",geo$CTYUA19NM)
+
+both<- inner_join(geo,data,by=c("CTYUA19NM"="utla_name")) %>% filter(week_specimen>lubridate::ymd("2020-11-1")) %>% filter(CTYUA19NM %in% london_utlas)
+
+a<-ggplot(both,aes(fill=prop_sgtf,label=CTYUA19NM))+geom_sf()+scale_fill_viridis_c(option='magma',direction=-1,limits=c(0,1))+theme_minimal()+geom_sf_text(color="white",size=2)
+a
+a<-ggplot(both,aes(fill=prop_sgtf,label=CTYUA19NM))+geom_sf()+scale_fill_viridis_c(option='magma',direction=-1,limits=c(0,1))+theme_minimal()+transition_time(week_specimen)+labs(title="Date: {frame_time}",fill="SGTF")
+
+#a
+
+
+
+
+animate(a,nframes=100,height=400,width=600,fps=10,end_pause = 20)
+anim_save('london_sgtf.gif')
+
+```

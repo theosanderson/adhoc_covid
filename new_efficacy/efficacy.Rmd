@@ -123,10 +123,25 @@ polylines = bind_rows(output$polyline1, output$polyline2) %>% mutate(
 
 polylines = polylines %>% mutate(x=round(x,digits=2)) %>% arrange(x,y)
 polylines
-ggplot(polylines, aes(x = x, y = y,color=name)) + geom_line() +coord_cartesian(xlim=c(0,21),ylim=c(0,0.5))
+ggplot(polylines, aes(x = x, y = y,color=name)) + geom_line() +coord_cartesian(xlim=c(0,21),ylim=c(0,0.005))
 
 pfizer=polylines
 pfizer$name = paste("Pfizer_",pfizer$name)
+approx_number_at_risk = 21000
+
+
+
+
+pfizer = pfizer %>% mutate(x=round(x))%>% group_by(x,name) %>% summarise(y=max(y))
+
+pfizer = pfizer %>% filter(x<22)
+
+pfizer = pfizer %>% mutate(num_infected = approx_number_at_risk*y,num_not_infected = approx_number_at_risk*(1-y) )
+
+pfizer
+
+ggplot(pfizer,aes(x))
+
 ```
 
 ```{r}

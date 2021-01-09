@@ -40,12 +40,12 @@ for(i in 1:length(dates)){
 ```{r}
 library(ggrepel)
 ggplot(all%>% filter(date>"2020-12-07"),aes(y=newDeaths28DaysByDeathDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of deaths reported",x="Days after date of death",color="Date of death") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-6")%>% filter(date>"2020-12-07"),segment.color="black")+theme_bw()+
-scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("London deaths by day and reporting lag")+coord_cartesian(ylim=c(0,NA))
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK deaths by day and reporting lag")+coord_cartesian(ylim=c(0,NA))
 ggsave("london_deaths.png",width=10,height=5)
 
 
 ggplot(all%>% filter(date>"2020-12-07"),aes(y=newCasesBySpecimenDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line(size=1.2)+labs(y="Number of cases",x="Days after specimen date",color="Specimen date") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-6")%>% filter(date>"2020-12-07"),segment.color="black")+theme_bw()+
-scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("London cases by specimen date and reporting lag")+coord_cartesian(ylim=c(0,NA))
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK cases by specimen date and reporting lag")+coord_cartesian(ylim=c(0,NA))
 ggsave("londoncases.png",width=10,height=5)
 
 

@@ -1,0 +1,44 @@
+---
+title: "Analyse risk ratios"
+output:
+  html_document:
+    df_print: paged
+---
+
+ 
+
+```{r}
+library(tidyverse)
+library(epitools)
+
+data <- read_csv("sgtf_data.csv")
+
+new<-data %>% pivot_longer(-c(Type,TypeValue)) %>% separate(name,into=c("partition","value_type")) %>% filter(value_type!="percentbecomingcases")%>% filter(partition!="total") %>% pivot_wider(names_from="value_type") %>% mutate(contactsnotbecomingcases = allcontacts-contactsbecomingcases) %>% select(-allcontacts) %>% pivot_longer(c(contactsbecomingcases,contactsnotbecomingcases))%>% pivot_wider() 
+
+voc = new %>% filter(partition=="voc") %>% select(-partition)
+wt = new %>% filter(partition=="wt") %>% select(-partition)
+
+both <- inner_join(voc,wt,by=c("Type","TypeValue"),suffix=c("_voc","_wt") ) %>% select(Type,TypeValue,contactsnotbecomingcases_wt,contactsbecomingcases_wt,contactsnotbecomingcases_voc, contactsbecomingcases_voc)%>% nest_by(Type,TypeValue) 
+
+
+make_matrix <- function(df) {
+ df=unlist(df)
+ mat = matrix(df,ncol=2)
+}
+
+make_rr <- function(mat) {
+rr= riskratio(mat)
+  results = rr$measure[2,]
+  return(results)
+}
+
+matrices = lapply(both$data,make_matrix)
+rrs = lapply(matrices,make_rr)
+
+both<-bind_cols(both,bind_rows(rrs))
+
+ggplot(both,aes(x=TypeValue,ymin=lower,ymax=upper,y=estimate))+geom_pointrange()+facet_grid(.~Type,scales="free_x") +labs(y="Risk ratio VOC/WT",x="Condition")+theme_bw()+ theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+ggsave("rrs.png",width=6,height=6)
+
+```

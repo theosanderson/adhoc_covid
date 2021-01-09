@@ -11,7 +11,7 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 library(tidyverse)
 library(lubridate)
 
-last_date = ymd("2021-1-7")
+last_date = ymd("2021-1-6")
 dates = seq(last_date-ddays(x = 1)*30, last_date, by = 'day')
 
 
@@ -23,11 +23,10 @@ url_insist = insistently(url)
 for(i in 1:length(dates)){
   date = dates[i]
   
-  the_url = paste0("https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newDeaths28DaysByDeathDate&metric=newCasesBySpecimenDate&metric=newAdmissions&format=csv&release=",as.character(date))
-  Sys.sleep(0.5)
+  the_url = paste0("https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newCasesBySpecimenDate&format=csv&release=",as.character(date))
   print(date)
   
-
+  Sys.sleep(1)
   dat = read_csv(url_insist(the_url), col_types = cols())
   
   dat$data_date = date
@@ -44,52 +43,11 @@ for(i in 1:length(dates)){
 ```
 
 ```{r}
-
-data = all
-
-data$deaths = data$newDeaths28DaysByDeathDate
-data$admissions = data$newAdmissions
-
-data = data %>% 
-  mutate(days=yday(date), weekno=if_else(year(date)==2020, week(date), week(date)+52), pop=56286961,
-    admrate=admissions*100000/pop, mortrate=deaths*100000/pop) %>% 
-  arrange(date)
-
-
-weekdata <- data %>% 
-  group_by(weekno, data_date) %>% 
-  summarise(admissions=mean(admissions), deaths=mean(deaths),
-            admrate=mean(admrate), mortrate=mean(mortrate)) %>% 
-  mutate(label=as.Date("2020-01-01")+days(weekno)*7-1, label=format(label, "%d %b")) %>% 
-  ungroup() %>% 
-  arrange(weekno)
-
-
-
-library(gganimate)
-EngCycle <- ggplot()+
-  geom_path(data=data, aes(x=admissions, y=deaths), alpha=0.1,
-            arrow = arrow(type = "closed", angle = 30, length = unit(0.05, "inches")))+
-  geom_path(data=weekdata, aes(x=admissions, y=deaths), colour="tomato",
-            arrow = arrow(type = "closed", angle = 30, length = unit(0.05, "inches")))+
-  geom_text(data=weekdata, aes(x=admissions, y=deaths, label=label), size=rel(2), colour="Grey40",
-            vjust=-0.4)+
- scale_x_continuous(trans="log10", name="Daily COVID-19 admissions (log scale)")+
- scale_y_continuous(trans="log10", name="Daily COVID-19 deaths (log scale)")+
-  theme_classic()+
-  theme( plot.title=element_text(face="bold"))+
-  labs(title="Going round in circles")+transition_time(data_date)
-EngCycle
-
-```
-
-```{r}
 library(ggrepel)
-p<-ggplot(all%>% filter(date>"2020-12-14"),aes(y=newDeaths28DaysByDeathDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line(size=.75)+labs(y="Number of deaths reported",x="Days after date of death",color="Date of death") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-6")%>% filter(date>"2020-12-14"),segment.color="black")+theme_bw()+
-scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("England deaths by day and reporting lag")+coord_cartesian(ylim=c(0,NA),xlim=c(0,10))+scale_x_continuous(breaks=scales::pretty_breaks(10))
+p<-ggplot(all%>% filter(date>"2020-12-02"),aes(y=newDeaths28DaysByDeathDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of deaths reported",x="Days after date of death",color="Date of death") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-1")%>% filter(date>"2020-12-02"),segment.color="black")+theme_bw()+
+scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("UK deaths by day and reporting lag")+coord_cartesian(ylim=c(0,NA))
 p
-ggsave("england_deaths.png",width=10,height=5)
-
+ggsave("deaths.png",width=10,height=5)
 
 library(gganimate)
 
@@ -105,9 +63,8 @@ anim_save("deaths.gif")
 ```{r}
 
 library(ggrepel)
-ggplot(all%>% filter(date>"2020-12-04"),aes(y=newCasesBySpecimenDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line(size=1.2)+labs(y="Number of cases",x="Days after specimen date",color="Specimen date") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-3")%>% filter(date>"2020-12-04"),segment.color="black")+theme_bw()+
+ggplot(all%>% filter(date>"2020-12-06"),aes(y=newCasesBySpecimenDate,color=as.factor(date),x=data_date-date,group=date,label=as.character(date)))+geom_line()+labs(y="Number of cases",x="Days after specimen date",color="Specimen date") + geom_label_repel(label.size=NA, fill = alpha(c("white"),0.5),label.padding=0.2,min.segment.length = 0,size=2,data=all %>% group_by(date) %>% filter(data_date=="2021-1-5")%>% filter(date>"2020-12-06"),segment.color="black")+theme_bw()+
 scale_colour_manual(values = rainbow(30,v=0.6)) +ggtitle("England cases by specimen date and reporting lag")+coord_cartesian(ylim=c(0,NA))
-
 ggsave("englandcases.png",width=10,height=5)
 
 
