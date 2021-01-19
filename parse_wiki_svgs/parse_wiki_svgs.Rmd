@@ -42,7 +42,22 @@ lookup_table = 1:4
 names(lookup_table) = c("#fefee9","#ffd42a","#ff6600","#800000")
 
 big_df$tier = lookup_table[big_df$value] 
-big_df = big_df %>% filter(!is.na(tier)) %>% arrange(id) %>% select(-name,-value)
+
+
+
+
+periods = c( "2-15_Dec_2020", "16-18_Dec_2020" ,  "19_Dec_2020"  , "20-25_Dec_2020"   ,"26-30_Dec_2020",         "31_Dec_2020_-_5_Jan_2021", "from 5 Jan"   )
+
+start_dates = c( "2020-12-02", "2020-12-16" ,  "2020-12-19"  , "2020-12-20"   ,"2020-12-26",         "2020-12-31", "2021-1-5"   )
+end_dates = c( "2020-12-15", "2020-12-18" ,  "2020-12-19"  , "2020-12-25"   ,"2020-12-30",         "2021-1-5", NA   )
+names(start_dates) = periods
+names(end_dates)=periods
+
+big_df$start_date = lubridate::ymd(start_dates[big_df$date_period])
+big_df$end_date = lubridate::ymd(end_dates[big_df$date_period])
+
+big_df = big_df %>% filter(!is.na(tier)) %>% arrange(id,start_date) %>% select(-name,-value,-date_period)
+
 
 write_csv(big_df,"tiers_by_date.csv")
 
