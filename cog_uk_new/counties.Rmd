@@ -1,0 +1,53 @@
+---
+title: "Analysis of COG UK data"
+output: html_notebook
+---
+
+
+```{r}
+library(tidyverse)
+data <- read_csv("cog_metadata_microreact_public.csv")  %>% mutate(latisna = is.na(latitude))
+
+subset = filter(data,epi_week>45) %>% filter(country=="UK")
+summary = subset %>% group_by(lineage) %>% summarise(n=n(),n_na=sum(latisna),prop_na=n_na/n)
+
+
+library(ggrepel)
+ggplot(summary%>% filter(n>15),aes(x=n,y=1-prop_na,label=lineage))+geom_point()+geom_text_repel(color="blue",data = summary %>% filter(lineage == "B.1.351" |runif(n())>0.85 | n>5000,n>15 ) ,alpha=0.7) + scale_x_log10()  + scale_y_continuous(labels = scales::percent)
+
+
+
+data %>% filter(country=="UK") %>% filter(lineage == "B.1.351")
+
+
+
+data
+
+library(sp)
+library('sf')
+ltlas <-
+  read_sf(
+    "Counties__December_2019__Boundaries_EN_BUC-shp/Counties__December_2019__Boundaries_EN_BUC.shp"
+  )
+data <- filter(data, !is.na(latitude))
+
+
+
+pts <-
+  st_as_sf(tibble(data$latitude, data$longitude),
+           coords = c(2, 1),
+           crs  = 4326)
+
+counties <- st_transform(ltlas, crs = 3857)
+pts <- st_transform(pts, crs = 3857)
+
+
+a = st_join(pts, counties)
+data$county = a$cty19nm
+
+data$sa_variant = data$lineage =="B.1.351"
+
+
+
+```
+

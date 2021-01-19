@@ -1,0 +1,52 @@
+---
+title: "Extract tiering data"
+output:
+  html_document:
+    df_print: paged
+---
+
+This extracts data from https://en.wikipedia.org/wiki/The_Health_Protection_(Coronavirus,_Restrictions)_(All_Tiers)_(England)_Regulations_2020#Local_authority_areas_in_each_tier,_by_date created by Wikipedia contributors under a Creative Commons License.
+
+```{r}
+require(xml2)
+library(tidyverse)
+library(rvest)
+
+dir = "./svgs/"
+files = list.files(dir)
+
+process_svg = function(svg_name){
+  
+svg_name = paste0(dir,svg_name)
+doc <- read_xml(svg_name) %>% xml_ns_strip()
+paths <- xml_nodes(doc, 'path')
+linesdf <-
+    tibble(bind_rows(lapply(xml_attrs(paths), as.data.frame.list)))
+
+linesdf = linesdf %>%
+    mutate(style_part = strsplit(as.character(style), ";")) %>% 
+    unnest(style_part) %>% select(-style,-d) %>% separate(style_part,into=c("name","value"),sep=":") %>% filter(name=="fill")
+
+linesdf$svg_name=svg_name
+return(linesdf)
+}
+
+a=lapply(files,process_svg)
+
+big_df = bind_rows(a)
+
+big_df=big_df %>% extract(svg_name,into=c("date_period"),regex="\\((.+)\\)") %>% filter(value !="none")
+
+
+lookup_table = 1:4
+names(lookup_table) = c("#fefee9","#ffd42a","#ff6600","#800000")
+
+big_df$tier = lookup_table[big_df$value] 
+big_df = big_df %>% filter(!is.na(tier)) %>% arrange(id) %>% select(-name,-value)
+
+write_csv(big_df,"tiers_by_date.csv")
+
+big_df
+```
+
+
