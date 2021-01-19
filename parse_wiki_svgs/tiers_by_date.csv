@@ -1,1320 +1,4 @@
 id,tier,start_date,end_date
-Aylesbury Vale,2,2020-12-02,2020-12-15
-Aylesbury Vale,2,2020-12-16,2020-12-18
-Aylesbury Vale,3,2020-12-19,2020-12-19
-Aylesbury Vale,4,2020-12-20,2020-12-25
-Aylesbury Vale,4,2020-12-26,2020-12-30
-Aylesbury Vale,4,2020-12-31,2021-01-05
-Aylesbury Vale,4,2021-01-05,NA
-Chiltern,2,2020-12-02,2020-12-15
-Chiltern,2,2020-12-16,2020-12-18
-Chiltern,3,2020-12-19,2020-12-19
-Chiltern,4,2020-12-20,2020-12-25
-Chiltern,4,2020-12-26,2020-12-30
-Chiltern,4,2020-12-31,2021-01-05
-Chiltern,4,2021-01-05,NA
-South Bucks,2,2020-12-02,2020-12-15
-South Bucks,2,2020-12-16,2020-12-18
-South Bucks,3,2020-12-19,2020-12-19
-South Bucks,4,2020-12-20,2020-12-25
-South Bucks,4,2020-12-26,2020-12-30
-South Bucks,4,2020-12-31,2021-01-05
-South Bucks,4,2021-01-05,NA
-Wycombe,2,2020-12-02,2020-12-15
-Wycombe,2,2020-12-16,2020-12-18
-Wycombe,3,2020-12-19,2020-12-19
-Wycombe,4,2020-12-20,2020-12-25
-Wycombe,4,2020-12-26,2020-12-30
-Wycombe,4,2020-12-31,2021-01-05
-Wycombe,4,2021-01-05,NA
-Cambridge,2,2020-12-02,2020-12-15
-Cambridge,2,2020-12-16,2020-12-18
-Cambridge,2,2020-12-19,2020-12-19
-Cambridge,2,2020-12-20,2020-12-25
-Cambridge,4,2020-12-26,2020-12-30
-Cambridge,4,2020-12-31,2021-01-05
-Cambridge,4,2021-01-05,NA
-East Cambridgeshire,2,2020-12-02,2020-12-15
-East Cambridgeshire,2,2020-12-16,2020-12-18
-East Cambridgeshire,2,2020-12-19,2020-12-19
-East Cambridgeshire,2,2020-12-20,2020-12-25
-East Cambridgeshire,4,2020-12-26,2020-12-30
-East Cambridgeshire,4,2020-12-31,2021-01-05
-East Cambridgeshire,4,2021-01-05,NA
-Fenland,2,2020-12-02,2020-12-15
-Fenland,2,2020-12-16,2020-12-18
-Fenland,2,2020-12-19,2020-12-19
-Fenland,2,2020-12-20,2020-12-25
-Fenland,4,2020-12-26,2020-12-30
-Fenland,4,2020-12-31,2021-01-05
-Fenland,4,2021-01-05,NA
-Huntingdonshire,2,2020-12-02,2020-12-15
-Huntingdonshire,2,2020-12-16,2020-12-18
-Huntingdonshire,2,2020-12-19,2020-12-19
-Huntingdonshire,2,2020-12-20,2020-12-25
-Huntingdonshire,4,2020-12-26,2020-12-30
-Huntingdonshire,4,2020-12-31,2021-01-05
-Huntingdonshire,4,2021-01-05,NA
-South Cambridgeshire,2,2020-12-02,2020-12-15
-South Cambridgeshire,2,2020-12-16,2020-12-18
-South Cambridgeshire,2,2020-12-19,2020-12-19
-South Cambridgeshire,2,2020-12-20,2020-12-25
-South Cambridgeshire,4,2020-12-26,2020-12-30
-South Cambridgeshire,4,2020-12-31,2021-01-05
-South Cambridgeshire,4,2021-01-05,NA
-Allendale,2,2020-12-02,2020-12-15
-Allendale,2,2020-12-16,2020-12-18
-Allendale,2,2020-12-19,2020-12-19
-Allendale,2,2020-12-20,2020-12-25
-Allendale,2,2020-12-26,2020-12-30
-Allendale,4,2020-12-31,2021-01-05
-Allendale,4,2021-01-05,NA
-Barrow-in-Furness,2,2020-12-02,2020-12-15
-Barrow-in-Furness,2,2020-12-16,2020-12-18
-Barrow-in-Furness,2,2020-12-19,2020-12-19
-Barrow-in-Furness,2,2020-12-20,2020-12-25
-Barrow-in-Furness,2,2020-12-26,2020-12-30
-Barrow-in-Furness,4,2020-12-31,2021-01-05
-Barrow-in-Furness,4,2021-01-05,NA
-Carlisle,2,2020-12-02,2020-12-15
-Carlisle,2,2020-12-16,2020-12-18
-Carlisle,2,2020-12-19,2020-12-19
-Carlisle,2,2020-12-20,2020-12-25
-Carlisle,2,2020-12-26,2020-12-30
-Carlisle,4,2020-12-31,2021-01-05
-Carlisle,4,2021-01-05,NA
-Copeland,2,2020-12-02,2020-12-15
-Copeland,2,2020-12-16,2020-12-18
-Copeland,2,2020-12-19,2020-12-19
-Copeland,2,2020-12-20,2020-12-25
-Copeland,2,2020-12-26,2020-12-30
-Copeland,4,2020-12-31,2021-01-05
-Copeland,4,2021-01-05,NA
-Eden,2,2020-12-02,2020-12-15
-Eden,2,2020-12-16,2020-12-18
-Eden,2,2020-12-19,2020-12-19
-Eden,2,2020-12-20,2020-12-25
-Eden,2,2020-12-26,2020-12-30
-Eden,4,2020-12-31,2021-01-05
-Eden,4,2021-01-05,NA
-South Lakeland,2,2020-12-02,2020-12-15
-South Lakeland,2,2020-12-16,2020-12-18
-South Lakeland,2,2020-12-19,2020-12-19
-South Lakeland,2,2020-12-20,2020-12-25
-South Lakeland,2,2020-12-26,2020-12-30
-South Lakeland,4,2020-12-31,2021-01-05
-South Lakeland,4,2021-01-05,NA
-Amber Valley,3,2020-12-02,2020-12-15
-Amber Valley,3,2020-12-16,2020-12-18
-Amber Valley,3,2020-12-19,2020-12-19
-Amber Valley,3,2020-12-20,2020-12-25
-Amber Valley,3,2020-12-26,2020-12-30
-Amber Valley,4,2020-12-31,2021-01-05
-Amber Valley,4,2021-01-05,NA
-Bolsover,3,2020-12-02,2020-12-15
-Bolsover,3,2020-12-16,2020-12-18
-Bolsover,3,2020-12-19,2020-12-19
-Bolsover,3,2020-12-20,2020-12-25
-Bolsover,3,2020-12-26,2020-12-30
-Bolsover,4,2020-12-31,2021-01-05
-Bolsover,4,2021-01-05,NA
-Chesterfield,3,2020-12-02,2020-12-15
-Chesterfield,3,2020-12-16,2020-12-18
-Chesterfield,3,2020-12-19,2020-12-19
-Chesterfield,3,2020-12-20,2020-12-25
-Chesterfield,3,2020-12-26,2020-12-30
-Chesterfield,4,2020-12-31,2021-01-05
-Chesterfield,4,2021-01-05,NA
-Derbyshire Dales,3,2020-12-02,2020-12-15
-Derbyshire Dales,3,2020-12-16,2020-12-18
-Derbyshire Dales,3,2020-12-19,2020-12-19
-Derbyshire Dales,3,2020-12-20,2020-12-25
-Derbyshire Dales,3,2020-12-26,2020-12-30
-Derbyshire Dales,4,2020-12-31,2021-01-05
-Derbyshire Dales,4,2021-01-05,NA
-Erewash,3,2020-12-02,2020-12-15
-Erewash,3,2020-12-16,2020-12-18
-Erewash,3,2020-12-19,2020-12-19
-Erewash,3,2020-12-20,2020-12-25
-Erewash,3,2020-12-26,2020-12-30
-Erewash,4,2020-12-31,2021-01-05
-Erewash,4,2021-01-05,NA
-High Peak,3,2020-12-02,2020-12-15
-High Peak,3,2020-12-16,2020-12-18
-High Peak,3,2020-12-19,2020-12-19
-High Peak,3,2020-12-20,2020-12-25
-High Peak,3,2020-12-26,2020-12-30
-High Peak,4,2020-12-31,2021-01-05
-High Peak,4,2021-01-05,NA
-North East Derbyshire,3,2020-12-02,2020-12-15
-North East Derbyshire,3,2020-12-16,2020-12-18
-North East Derbyshire,3,2020-12-19,2020-12-19
-North East Derbyshire,3,2020-12-20,2020-12-25
-North East Derbyshire,3,2020-12-26,2020-12-30
-North East Derbyshire,4,2020-12-31,2021-01-05
-North East Derbyshire,4,2021-01-05,NA
-South Derbyshire,3,2020-12-02,2020-12-15
-South Derbyshire,3,2020-12-16,2020-12-18
-South Derbyshire,3,2020-12-19,2020-12-19
-South Derbyshire,3,2020-12-20,2020-12-25
-South Derbyshire,3,2020-12-26,2020-12-30
-South Derbyshire,4,2020-12-31,2021-01-05
-South Derbyshire,4,2021-01-05,NA
-East Devon,2,2020-12-02,2020-12-15
-East Devon,2,2020-12-16,2020-12-18
-East Devon,2,2020-12-19,2020-12-19
-East Devon,2,2020-12-20,2020-12-25
-East Devon,2,2020-12-26,2020-12-30
-East Devon,3,2020-12-31,2021-01-05
-East Devon,4,2021-01-05,NA
-Exeter,2,2020-12-02,2020-12-15
-Exeter,2,2020-12-16,2020-12-18
-Exeter,2,2020-12-19,2020-12-19
-Exeter,2,2020-12-20,2020-12-25
-Exeter,2,2020-12-26,2020-12-30
-Exeter,3,2020-12-31,2021-01-05
-Exeter,4,2021-01-05,NA
-Mid Devon,2,2020-12-02,2020-12-15
-Mid Devon,2,2020-12-16,2020-12-18
-Mid Devon,2,2020-12-19,2020-12-19
-Mid Devon,2,2020-12-20,2020-12-25
-Mid Devon,2,2020-12-26,2020-12-30
-Mid Devon,3,2020-12-31,2021-01-05
-Mid Devon,4,2021-01-05,NA
-North Devon,2,2020-12-02,2020-12-15
-North Devon,2,2020-12-16,2020-12-18
-North Devon,2,2020-12-19,2020-12-19
-North Devon,2,2020-12-20,2020-12-25
-North Devon,2,2020-12-26,2020-12-30
-North Devon,3,2020-12-31,2021-01-05
-North Devon,4,2021-01-05,NA
-South Hams,2,2020-12-02,2020-12-15
-South Hams,2,2020-12-16,2020-12-18
-South Hams,2,2020-12-19,2020-12-19
-South Hams,2,2020-12-20,2020-12-25
-South Hams,2,2020-12-26,2020-12-30
-South Hams,3,2020-12-31,2021-01-05
-South Hams,4,2021-01-05,NA
-Teignbridge,2,2020-12-02,2020-12-15
-Teignbridge,2,2020-12-16,2020-12-18
-Teignbridge,2,2020-12-19,2020-12-19
-Teignbridge,2,2020-12-20,2020-12-25
-Teignbridge,2,2020-12-26,2020-12-30
-Teignbridge,3,2020-12-31,2021-01-05
-Teignbridge,4,2021-01-05,NA
-Torridge,2,2020-12-02,2020-12-15
-Torridge,2,2020-12-16,2020-12-18
-Torridge,2,2020-12-19,2020-12-19
-Torridge,2,2020-12-20,2020-12-25
-Torridge,2,2020-12-26,2020-12-30
-Torridge,3,2020-12-31,2021-01-05
-Torridge,4,2021-01-05,NA
-West Devon,2,2020-12-02,2020-12-15
-West Devon,2,2020-12-16,2020-12-18
-West Devon,2,2020-12-19,2020-12-19
-West Devon,2,2020-12-20,2020-12-25
-West Devon,2,2020-12-26,2020-12-30
-West Devon,3,2020-12-31,2021-01-05
-West Devon,4,2021-01-05,NA
-Christchurch,2,2020-12-02,2020-12-15
-Christchurch,2,2020-12-16,2020-12-18
-Christchurch,2,2020-12-19,2020-12-19
-Christchurch,2,2020-12-20,2020-12-25
-Christchurch,2,2020-12-26,2020-12-30
-Christchurch,4,2020-12-31,2021-01-05
-Christchurch,4,2021-01-05,NA
-East Dorset,2,2020-12-02,2020-12-15
-East Dorset,2,2020-12-16,2020-12-18
-East Dorset,2,2020-12-19,2020-12-19
-East Dorset,2,2020-12-20,2020-12-25
-East Dorset,2,2020-12-26,2020-12-30
-East Dorset,3,2020-12-31,2021-01-05
-East Dorset,4,2021-01-05,NA
-North Dorset,2,2020-12-02,2020-12-15
-North Dorset,2,2020-12-16,2020-12-18
-North Dorset,2,2020-12-19,2020-12-19
-North Dorset,2,2020-12-20,2020-12-25
-North Dorset,2,2020-12-26,2020-12-30
-North Dorset,3,2020-12-31,2021-01-05
-North Dorset,4,2021-01-05,NA
-Purbeck,2,2020-12-02,2020-12-15
-Purbeck,2,2020-12-16,2020-12-18
-Purbeck,2,2020-12-19,2020-12-19
-Purbeck,2,2020-12-20,2020-12-25
-Purbeck,2,2020-12-26,2020-12-30
-Purbeck,3,2020-12-31,2021-01-05
-Purbeck,4,2021-01-05,NA
-West Dorset,2,2020-12-02,2020-12-15
-West Dorset,2,2020-12-16,2020-12-18
-West Dorset,2,2020-12-19,2020-12-19
-West Dorset,2,2020-12-20,2020-12-25
-West Dorset,2,2020-12-26,2020-12-30
-West Dorset,3,2020-12-31,2021-01-05
-West Dorset,4,2021-01-05,NA
-Weymouth and Portland,2,2020-12-02,2020-12-15
-Weymouth and Portland,2,2020-12-16,2020-12-18
-Weymouth and Portland,2,2020-12-19,2020-12-19
-Weymouth and Portland,2,2020-12-20,2020-12-25
-Weymouth and Portland,2,2020-12-26,2020-12-30
-Weymouth and Portland,3,2020-12-31,2021-01-05
-Weymouth and Portland,4,2021-01-05,NA
-Eastbourne,2,2020-12-02,2020-12-15
-Eastbourne,2,2020-12-16,2020-12-18
-Eastbourne,2,2020-12-19,2020-12-19
-Eastbourne,2,2020-12-20,2020-12-25
-Eastbourne,4,2020-12-26,2020-12-30
-Eastbourne,4,2020-12-31,2021-01-05
-Eastbourne,4,2021-01-05,NA
-Hastings,2,2020-12-02,2020-12-15
-Hastings,2,2020-12-16,2020-12-18
-Hastings,3,2020-12-19,2020-12-19
-Hastings,4,2020-12-20,2020-12-25
-Hastings,4,2020-12-26,2020-12-30
-Hastings,4,2020-12-31,2021-01-05
-Hastings,4,2021-01-05,NA
-Lewes,2,2020-12-02,2020-12-15
-Lewes,2,2020-12-16,2020-12-18
-Lewes,2,2020-12-19,2020-12-19
-Lewes,2,2020-12-20,2020-12-25
-Lewes,4,2020-12-26,2020-12-30
-Lewes,4,2020-12-31,2021-01-05
-Lewes,4,2021-01-05,NA
-Rother,2,2020-12-02,2020-12-15
-Rother,2,2020-12-16,2020-12-18
-Rother,3,2020-12-19,2020-12-19
-Rother,4,2020-12-20,2020-12-25
-Rother,4,2020-12-26,2020-12-30
-Rother,4,2020-12-31,2021-01-05
-Rother,4,2021-01-05,NA
-Wealden,2,2020-12-02,2020-12-15
-Wealden,2,2020-12-16,2020-12-18
-Wealden,2,2020-12-19,2020-12-19
-Wealden,2,2020-12-20,2020-12-25
-Wealden,4,2020-12-26,2020-12-30
-Wealden,4,2020-12-31,2021-01-05
-Wealden,4,2021-01-05,NA
-Basildon,2,2020-12-02,2020-12-15
-Basildon,3,2020-12-16,2020-12-18
-Basildon,3,2020-12-19,2020-12-19
-Basildon,4,2020-12-20,2020-12-25
-Basildon,4,2020-12-26,2020-12-30
-Basildon,4,2020-12-31,2021-01-05
-Basildon,4,2021-01-05,NA
-Braintree,2,2020-12-02,2020-12-15
-Braintree,3,2020-12-16,2020-12-18
-Braintree,3,2020-12-19,2020-12-19
-Braintree,4,2020-12-20,2020-12-25
-Braintree,4,2020-12-26,2020-12-30
-Braintree,4,2020-12-31,2021-01-05
-Braintree,4,2021-01-05,NA
-Brentwood,2,2020-12-02,2020-12-15
-Brentwood,3,2020-12-16,2020-12-18
-Brentwood,3,2020-12-19,2020-12-19
-Brentwood,4,2020-12-20,2020-12-25
-Brentwood,4,2020-12-26,2020-12-30
-Brentwood,4,2020-12-31,2021-01-05
-Brentwood,4,2021-01-05,NA
-Castle Point,2,2020-12-02,2020-12-15
-Castle Point,3,2020-12-16,2020-12-18
-Castle Point,3,2020-12-19,2020-12-19
-Castle Point,4,2020-12-20,2020-12-25
-Castle Point,4,2020-12-26,2020-12-30
-Castle Point,4,2020-12-31,2021-01-05
-Castle Point,4,2021-01-05,NA
-Chelmsford,2,2020-12-02,2020-12-15
-Chelmsford,3,2020-12-16,2020-12-18
-Chelmsford,3,2020-12-19,2020-12-19
-Chelmsford,4,2020-12-20,2020-12-25
-Chelmsford,4,2020-12-26,2020-12-30
-Chelmsford,4,2020-12-31,2021-01-05
-Chelmsford,4,2021-01-05,NA
-Colchester,2,2020-12-02,2020-12-15
-Colchester,2,2020-12-16,2020-12-18
-Colchester,2,2020-12-19,2020-12-19
-Colchester,2,2020-12-20,2020-12-25
-Colchester,4,2020-12-26,2020-12-30
-Colchester,4,2020-12-31,2021-01-05
-Colchester,4,2021-01-05,NA
-Epping Forest,2,2020-12-02,2020-12-15
-Epping Forest,3,2020-12-16,2020-12-18
-Epping Forest,3,2020-12-19,2020-12-19
-Epping Forest,4,2020-12-20,2020-12-25
-Epping Forest,4,2020-12-26,2020-12-30
-Epping Forest,4,2020-12-31,2021-01-05
-Epping Forest,4,2021-01-05,NA
-Harlow,2,2020-12-02,2020-12-15
-Harlow,3,2020-12-16,2020-12-18
-Harlow,3,2020-12-19,2020-12-19
-Harlow,4,2020-12-20,2020-12-25
-Harlow,4,2020-12-26,2020-12-30
-Harlow,4,2020-12-31,2021-01-05
-Harlow,4,2021-01-05,NA
-Maldon,2,2020-12-02,2020-12-15
-Maldon,3,2020-12-16,2020-12-18
-Maldon,3,2020-12-19,2020-12-19
-Maldon,4,2020-12-20,2020-12-25
-Maldon,4,2020-12-26,2020-12-30
-Maldon,4,2020-12-31,2021-01-05
-Maldon,4,2021-01-05,NA
-Rochford,2,2020-12-02,2020-12-15
-Rochford,3,2020-12-16,2020-12-18
-Rochford,3,2020-12-19,2020-12-19
-Rochford,4,2020-12-20,2020-12-25
-Rochford,4,2020-12-26,2020-12-30
-Rochford,4,2020-12-31,2021-01-05
-Rochford,4,2021-01-05,NA
-Tendring,2,2020-12-02,2020-12-15
-Tendring,2,2020-12-16,2020-12-18
-Tendring,2,2020-12-19,2020-12-19
-Tendring,2,2020-12-20,2020-12-25
-Tendring,4,2020-12-26,2020-12-30
-Tendring,4,2020-12-31,2021-01-05
-Tendring,4,2021-01-05,NA
-Uttlesford,2,2020-12-02,2020-12-15
-Uttlesford,2,2020-12-16,2020-12-18
-Uttlesford,2,2020-12-19,2020-12-19
-Uttlesford,2,2020-12-20,2020-12-25
-Uttlesford,4,2020-12-26,2020-12-30
-Uttlesford,4,2020-12-31,2021-01-05
-Uttlesford,4,2021-01-05,NA
-Cheltenham,2,2020-12-02,2020-12-15
-Cheltenham,2,2020-12-16,2020-12-18
-Cheltenham,2,2020-12-19,2020-12-19
-Cheltenham,2,2020-12-20,2020-12-25
-Cheltenham,3,2020-12-26,2020-12-30
-Cheltenham,4,2020-12-31,2021-01-05
-Cheltenham,4,2021-01-05,NA
-Cotswold,2,2020-12-02,2020-12-15
-Cotswold,2,2020-12-16,2020-12-18
-Cotswold,2,2020-12-19,2020-12-19
-Cotswold,2,2020-12-20,2020-12-25
-Cotswold,3,2020-12-26,2020-12-30
-Cotswold,4,2020-12-31,2021-01-05
-Cotswold,4,2021-01-05,NA
-Forest of Dean,2,2020-12-02,2020-12-15
-Forest of Dean,2,2020-12-16,2020-12-18
-Forest of Dean,2,2020-12-19,2020-12-19
-Forest of Dean,2,2020-12-20,2020-12-25
-Forest of Dean,3,2020-12-26,2020-12-30
-Forest of Dean,4,2020-12-31,2021-01-05
-Forest of Dean,4,2021-01-05,NA
-Gloucester,2,2020-12-02,2020-12-15
-Gloucester,2,2020-12-16,2020-12-18
-Gloucester,2,2020-12-19,2020-12-19
-Gloucester,2,2020-12-20,2020-12-25
-Gloucester,3,2020-12-26,2020-12-30
-Gloucester,4,2020-12-31,2021-01-05
-Gloucester,4,2021-01-05,NA
-Stroud,2,2020-12-02,2020-12-15
-Stroud,2,2020-12-16,2020-12-18
-Stroud,2,2020-12-19,2020-12-19
-Stroud,2,2020-12-20,2020-12-25
-Stroud,3,2020-12-26,2020-12-30
-Stroud,4,2020-12-31,2021-01-05
-Stroud,4,2021-01-05,NA
-Tewkesbury,2,2020-12-02,2020-12-15
-Tewkesbury,2,2020-12-16,2020-12-18
-Tewkesbury,2,2020-12-19,2020-12-19
-Tewkesbury,2,2020-12-20,2020-12-25
-Tewkesbury,3,2020-12-26,2020-12-30
-Tewkesbury,4,2020-12-31,2021-01-05
-Tewkesbury,4,2021-01-05,NA
-Basingstoke and Deane,2,2020-12-02,2020-12-15
-Basingstoke and Deane,2,2020-12-16,2020-12-18
-Basingstoke and Deane,2,2020-12-19,2020-12-19
-Basingstoke and Deane,2,2020-12-20,2020-12-25
-Basingstoke and Deane,4,2020-12-26,2020-12-30
-Basingstoke and Deane,4,2020-12-31,2021-01-05
-Basingstoke and Deane,4,2021-01-05,NA
-East Hampshire,2,2020-12-02,2020-12-15
-East Hampshire,2,2020-12-16,2020-12-18
-East Hampshire,2,2020-12-19,2020-12-19
-East Hampshire,2,2020-12-20,2020-12-25
-East Hampshire,4,2020-12-26,2020-12-30
-East Hampshire,4,2020-12-31,2021-01-05
-East Hampshire,4,2021-01-05,NA
-Eastleigh,2,2020-12-02,2020-12-15
-Eastleigh,2,2020-12-16,2020-12-18
-Eastleigh,2,2020-12-19,2020-12-19
-Eastleigh,2,2020-12-20,2020-12-25
-Eastleigh,4,2020-12-26,2020-12-30
-Eastleigh,4,2020-12-31,2021-01-05
-Eastleigh,4,2021-01-05,NA
-Fareham,2,2020-12-02,2020-12-15
-Fareham,2,2020-12-16,2020-12-18
-Fareham,2,2020-12-19,2020-12-19
-Fareham,2,2020-12-20,2020-12-25
-Fareham,4,2020-12-26,2020-12-30
-Fareham,4,2020-12-31,2021-01-05
-Fareham,4,2021-01-05,NA
-Gosport,2,2020-12-02,2020-12-15
-Gosport,2,2020-12-16,2020-12-18
-Gosport,3,2020-12-19,2020-12-19
-Gosport,4,2020-12-20,2020-12-25
-Gosport,4,2020-12-26,2020-12-30
-Gosport,4,2020-12-31,2021-01-05
-Gosport,4,2021-01-05,NA
-Hart,2,2020-12-02,2020-12-15
-Hart,2,2020-12-16,2020-12-18
-Hart,2,2020-12-19,2020-12-19
-Hart,2,2020-12-20,2020-12-25
-Hart,4,2020-12-26,2020-12-30
-Hart,4,2020-12-31,2021-01-05
-Hart,4,2021-01-05,NA
-Havant,2,2020-12-02,2020-12-15
-Havant,2,2020-12-16,2020-12-18
-Havant,3,2020-12-19,2020-12-19
-Havant,4,2020-12-20,2020-12-25
-Havant,4,2020-12-26,2020-12-30
-Havant,4,2020-12-31,2021-01-05
-Havant,4,2021-01-05,NA
-New Forest,2,2020-12-02,2020-12-15
-New Forest,2,2020-12-16,2020-12-18
-New Forest,2,2020-12-19,2020-12-19
-New Forest,2,2020-12-20,2020-12-25
-New Forest,3,2020-12-26,2020-12-30
-New Forest,4,2020-12-31,2021-01-05
-New Forest,4,2021-01-05,NA
-Rushmoor,2,2020-12-02,2020-12-15
-Rushmoor,2,2020-12-16,2020-12-18
-Rushmoor,2,2020-12-19,2020-12-19
-Rushmoor,2,2020-12-20,2020-12-25
-Rushmoor,4,2020-12-26,2020-12-30
-Rushmoor,4,2020-12-31,2021-01-05
-Rushmoor,4,2021-01-05,NA
-Test Valley,2,2020-12-02,2020-12-15
-Test Valley,2,2020-12-16,2020-12-18
-Test Valley,2,2020-12-19,2020-12-19
-Test Valley,2,2020-12-20,2020-12-25
-Test Valley,4,2020-12-26,2020-12-30
-Test Valley,4,2020-12-31,2021-01-05
-Test Valley,4,2021-01-05,NA
-Winchester,2,2020-12-02,2020-12-15
-Winchester,2,2020-12-16,2020-12-18
-Winchester,2,2020-12-19,2020-12-19
-Winchester,2,2020-12-20,2020-12-25
-Winchester,4,2020-12-26,2020-12-30
-Winchester,4,2020-12-31,2021-01-05
-Winchester,4,2021-01-05,NA
-Broxbourne,2,2020-12-02,2020-12-15
-Broxbourne,3,2020-12-16,2020-12-18
-Broxbourne,3,2020-12-19,2020-12-19
-Broxbourne,4,2020-12-20,2020-12-25
-Broxbourne,4,2020-12-26,2020-12-30
-Broxbourne,4,2020-12-31,2021-01-05
-Broxbourne,4,2021-01-05,NA
-Dacorum,2,2020-12-02,2020-12-15
-Dacorum,2,2020-12-16,2020-12-18
-Dacorum,3,2020-12-19,2020-12-19
-Dacorum,4,2020-12-20,2020-12-25
-Dacorum,4,2020-12-26,2020-12-30
-Dacorum,4,2020-12-31,2021-01-05
-Dacorum,4,2021-01-05,NA
-East Hertfordshire,2,2020-12-02,2020-12-15
-East Hertfordshire,2,2020-12-16,2020-12-18
-East Hertfordshire,3,2020-12-19,2020-12-19
-East Hertfordshire,4,2020-12-20,2020-12-25
-East Hertfordshire,4,2020-12-26,2020-12-30
-East Hertfordshire,4,2020-12-31,2021-01-05
-East Hertfordshire,4,2021-01-05,NA
-Hertsmere,2,2020-12-02,2020-12-15
-Hertsmere,3,2020-12-16,2020-12-18
-Hertsmere,3,2020-12-19,2020-12-19
-Hertsmere,4,2020-12-20,2020-12-25
-Hertsmere,4,2020-12-26,2020-12-30
-Hertsmere,4,2020-12-31,2021-01-05
-Hertsmere,4,2021-01-05,NA
-North Hertfordshire,2,2020-12-02,2020-12-15
-North Hertfordshire,2,2020-12-16,2020-12-18
-North Hertfordshire,3,2020-12-19,2020-12-19
-North Hertfordshire,4,2020-12-20,2020-12-25
-North Hertfordshire,4,2020-12-26,2020-12-30
-North Hertfordshire,4,2020-12-31,2021-01-05
-North Hertfordshire,4,2021-01-05,NA
-St Albans,2,2020-12-02,2020-12-15
-St Albans,2,2020-12-16,2020-12-18
-St Albans,3,2020-12-19,2020-12-19
-St Albans,4,2020-12-20,2020-12-25
-St Albans,4,2020-12-26,2020-12-30
-St Albans,4,2020-12-31,2021-01-05
-St Albans,4,2021-01-05,NA
-Stevenage,2,2020-12-02,2020-12-15
-Stevenage,2,2020-12-16,2020-12-18
-Stevenage,3,2020-12-19,2020-12-19
-Stevenage,4,2020-12-20,2020-12-25
-Stevenage,4,2020-12-26,2020-12-30
-Stevenage,4,2020-12-31,2021-01-05
-Stevenage,4,2021-01-05,NA
-Three Rivers,2,2020-12-02,2020-12-15
-Three Rivers,3,2020-12-16,2020-12-18
-Three Rivers,3,2020-12-19,2020-12-19
-Three Rivers,4,2020-12-20,2020-12-25
-Three Rivers,4,2020-12-26,2020-12-30
-Three Rivers,4,2020-12-31,2021-01-05
-Three Rivers,4,2021-01-05,NA
-Watford,2,2020-12-02,2020-12-15
-Watford,3,2020-12-16,2020-12-18
-Watford,3,2020-12-19,2020-12-19
-Watford,4,2020-12-20,2020-12-25
-Watford,4,2020-12-26,2020-12-30
-Watford,4,2020-12-31,2021-01-05
-Watford,4,2021-01-05,NA
-Welwyn Hatfield,2,2020-12-02,2020-12-15
-Welwyn Hatfield,2,2020-12-16,2020-12-18
-Welwyn Hatfield,3,2020-12-19,2020-12-19
-Welwyn Hatfield,4,2020-12-20,2020-12-25
-Welwyn Hatfield,4,2020-12-26,2020-12-30
-Welwyn Hatfield,4,2020-12-31,2021-01-05
-Welwyn Hatfield,4,2021-01-05,NA
-Ashford,3,2020-12-02,2020-12-15
-Ashford,3,2020-12-16,2020-12-18
-Ashford,3,2020-12-19,2020-12-19
-Ashford,4,2020-12-20,2020-12-25
-Ashford,4,2020-12-26,2020-12-30
-Ashford,4,2020-12-31,2021-01-05
-Ashford,4,2021-01-05,NA
-Canterbury,3,2020-12-02,2020-12-15
-Canterbury,3,2020-12-16,2020-12-18
-Canterbury,3,2020-12-19,2020-12-19
-Canterbury,4,2020-12-20,2020-12-25
-Canterbury,4,2020-12-26,2020-12-30
-Canterbury,4,2020-12-31,2021-01-05
-Canterbury,4,2021-01-05,NA
-Dartford,3,2020-12-02,2020-12-15
-Dartford,3,2020-12-16,2020-12-18
-Dartford,3,2020-12-19,2020-12-19
-Dartford,4,2020-12-20,2020-12-25
-Dartford,4,2020-12-26,2020-12-30
-Dartford,4,2020-12-31,2021-01-05
-Dartford,4,2021-01-05,NA
-Dover,3,2020-12-02,2020-12-15
-Dover,3,2020-12-16,2020-12-18
-Dover,3,2020-12-19,2020-12-19
-Dover,4,2020-12-20,2020-12-25
-Dover,4,2020-12-26,2020-12-30
-Dover,4,2020-12-31,2021-01-05
-Dover,4,2021-01-05,NA
-Gravesham,3,2020-12-02,2020-12-15
-Gravesham,3,2020-12-16,2020-12-18
-Gravesham,3,2020-12-19,2020-12-19
-Gravesham,4,2020-12-20,2020-12-25
-Gravesham,4,2020-12-26,2020-12-30
-Gravesham,4,2020-12-31,2021-01-05
-Gravesham,4,2021-01-05,NA
-Maidstone,3,2020-12-02,2020-12-15
-Maidstone,3,2020-12-16,2020-12-18
-Maidstone,3,2020-12-19,2020-12-19
-Maidstone,4,2020-12-20,2020-12-25
-Maidstone,4,2020-12-26,2020-12-30
-Maidstone,4,2020-12-31,2021-01-05
-Maidstone,4,2021-01-05,NA
-Sevenoaks,3,2020-12-02,2020-12-15
-Sevenoaks,3,2020-12-16,2020-12-18
-Sevenoaks,3,2020-12-19,2020-12-19
-Sevenoaks,4,2020-12-20,2020-12-25
-Sevenoaks,4,2020-12-26,2020-12-30
-Sevenoaks,4,2020-12-31,2021-01-05
-Sevenoaks,4,2021-01-05,NA
-Shepway,3,2020-12-02,2020-12-15
-Shepway,3,2020-12-16,2020-12-18
-Shepway,3,2020-12-19,2020-12-19
-Shepway,4,2020-12-20,2020-12-25
-Shepway,4,2020-12-26,2020-12-30
-Shepway,4,2020-12-31,2021-01-05
-Shepway,4,2021-01-05,NA
-Swale,3,2020-12-02,2020-12-15
-Swale,3,2020-12-16,2020-12-18
-Swale,3,2020-12-19,2020-12-19
-Swale,4,2020-12-20,2020-12-25
-Swale,4,2020-12-26,2020-12-30
-Swale,4,2020-12-31,2021-01-05
-Swale,4,2021-01-05,NA
-Thanet,3,2020-12-02,2020-12-15
-Thanet,3,2020-12-16,2020-12-18
-Thanet,3,2020-12-19,2020-12-19
-Thanet,4,2020-12-20,2020-12-25
-Thanet,4,2020-12-26,2020-12-30
-Thanet,4,2020-12-31,2021-01-05
-Thanet,4,2021-01-05,NA
-Tonbridge and Malling,3,2020-12-02,2020-12-15
-Tonbridge and Malling,3,2020-12-16,2020-12-18
-Tonbridge and Malling,3,2020-12-19,2020-12-19
-Tonbridge and Malling,4,2020-12-20,2020-12-25
-Tonbridge and Malling,4,2020-12-26,2020-12-30
-Tonbridge and Malling,4,2020-12-31,2021-01-05
-Tonbridge and Malling,4,2021-01-05,NA
-Tunbridge Wells,3,2020-12-02,2020-12-15
-Tunbridge Wells,3,2020-12-16,2020-12-18
-Tunbridge Wells,3,2020-12-19,2020-12-19
-Tunbridge Wells,4,2020-12-20,2020-12-25
-Tunbridge Wells,4,2020-12-26,2020-12-30
-Tunbridge Wells,4,2020-12-31,2021-01-05
-Tunbridge Wells,4,2021-01-05,NA
-Burnley,3,2020-12-02,2020-12-15
-Burnley,3,2020-12-16,2020-12-18
-Burnley,3,2020-12-19,2020-12-19
-Burnley,3,2020-12-20,2020-12-25
-Burnley,3,2020-12-26,2020-12-30
-Burnley,4,2020-12-31,2021-01-05
-Burnley,4,2021-01-05,NA
-Chorley,3,2020-12-02,2020-12-15
-Chorley,3,2020-12-16,2020-12-18
-Chorley,3,2020-12-19,2020-12-19
-Chorley,3,2020-12-20,2020-12-25
-Chorley,3,2020-12-26,2020-12-30
-Chorley,4,2020-12-31,2021-01-05
-Chorley,4,2021-01-05,NA
-Fylde,3,2020-12-02,2020-12-15
-Fylde,3,2020-12-16,2020-12-18
-Fylde,3,2020-12-19,2020-12-19
-Fylde,3,2020-12-20,2020-12-25
-Fylde,3,2020-12-26,2020-12-30
-Fylde,4,2020-12-31,2021-01-05
-Fylde,4,2021-01-05,NA
-Hyndburn,3,2020-12-02,2020-12-15
-Hyndburn,3,2020-12-16,2020-12-18
-Hyndburn,3,2020-12-19,2020-12-19
-Hyndburn,3,2020-12-20,2020-12-25
-Hyndburn,3,2020-12-26,2020-12-30
-Hyndburn,4,2020-12-31,2021-01-05
-Hyndburn,4,2021-01-05,NA
-Lancaster,3,2020-12-02,2020-12-15
-Lancaster,3,2020-12-16,2020-12-18
-Lancaster,3,2020-12-19,2020-12-19
-Lancaster,3,2020-12-20,2020-12-25
-Lancaster,3,2020-12-26,2020-12-30
-Lancaster,4,2020-12-31,2021-01-05
-Lancaster,4,2021-01-05,NA
-Pendle,3,2020-12-02,2020-12-15
-Pendle,3,2020-12-16,2020-12-18
-Pendle,3,2020-12-19,2020-12-19
-Pendle,3,2020-12-20,2020-12-25
-Pendle,3,2020-12-26,2020-12-30
-Pendle,4,2020-12-31,2021-01-05
-Pendle,4,2021-01-05,NA
-Preston,3,2020-12-02,2020-12-15
-Preston,3,2020-12-16,2020-12-18
-Preston,3,2020-12-19,2020-12-19
-Preston,3,2020-12-20,2020-12-25
-Preston,3,2020-12-26,2020-12-30
-Preston,4,2020-12-31,2021-01-05
-Preston,4,2021-01-05,NA
-Ribble Valley,3,2020-12-02,2020-12-15
-Ribble Valley,3,2020-12-16,2020-12-18
-Ribble Valley,3,2020-12-19,2020-12-19
-Ribble Valley,3,2020-12-20,2020-12-25
-Ribble Valley,3,2020-12-26,2020-12-30
-Ribble Valley,4,2020-12-31,2021-01-05
-Ribble Valley,4,2021-01-05,NA
-Rossendale,3,2020-12-02,2020-12-15
-Rossendale,3,2020-12-16,2020-12-18
-Rossendale,3,2020-12-19,2020-12-19
-Rossendale,3,2020-12-20,2020-12-25
-Rossendale,3,2020-12-26,2020-12-30
-Rossendale,4,2020-12-31,2021-01-05
-Rossendale,4,2021-01-05,NA
-South Ribble,3,2020-12-02,2020-12-15
-South Ribble,3,2020-12-16,2020-12-18
-South Ribble,3,2020-12-19,2020-12-19
-South Ribble,3,2020-12-20,2020-12-25
-South Ribble,3,2020-12-26,2020-12-30
-South Ribble,4,2020-12-31,2021-01-05
-South Ribble,4,2021-01-05,NA
-West Lancashire,3,2020-12-02,2020-12-15
-West Lancashire,3,2020-12-16,2020-12-18
-West Lancashire,3,2020-12-19,2020-12-19
-West Lancashire,3,2020-12-20,2020-12-25
-West Lancashire,3,2020-12-26,2020-12-30
-West Lancashire,4,2020-12-31,2021-01-05
-West Lancashire,4,2021-01-05,NA
-Wyre,3,2020-12-02,2020-12-15
-Wyre,3,2020-12-16,2020-12-18
-Wyre,3,2020-12-19,2020-12-19
-Wyre,3,2020-12-20,2020-12-25
-Wyre,3,2020-12-26,2020-12-30
-Wyre,4,2020-12-31,2021-01-05
-Wyre,4,2021-01-05,NA
-Blaby,3,2020-12-02,2020-12-15
-Blaby,3,2020-12-16,2020-12-18
-Blaby,3,2020-12-19,2020-12-19
-Blaby,3,2020-12-20,2020-12-25
-Blaby,3,2020-12-26,2020-12-30
-Blaby,4,2020-12-31,2021-01-05
-Blaby,4,2021-01-05,NA
-Charnwood,3,2020-12-02,2020-12-15
-Charnwood,3,2020-12-16,2020-12-18
-Charnwood,3,2020-12-19,2020-12-19
-Charnwood,3,2020-12-20,2020-12-25
-Charnwood,3,2020-12-26,2020-12-30
-Charnwood,4,2020-12-31,2021-01-05
-Charnwood,4,2021-01-05,NA
-Harborough,3,2020-12-02,2020-12-15
-Harborough,3,2020-12-16,2020-12-18
-Harborough,3,2020-12-19,2020-12-19
-Harborough,3,2020-12-20,2020-12-25
-Harborough,3,2020-12-26,2020-12-30
-Harborough,4,2020-12-31,2021-01-05
-Harborough,4,2021-01-05,NA
-Hinckley and Bosworth,3,2020-12-02,2020-12-15
-Hinckley and Bosworth,3,2020-12-16,2020-12-18
-Hinckley and Bosworth,3,2020-12-19,2020-12-19
-Hinckley and Bosworth,3,2020-12-20,2020-12-25
-Hinckley and Bosworth,3,2020-12-26,2020-12-30
-Hinckley and Bosworth,4,2020-12-31,2021-01-05
-Hinckley and Bosworth,4,2021-01-05,NA
-Melton,3,2020-12-02,2020-12-15
-Melton,3,2020-12-16,2020-12-18
-Melton,3,2020-12-19,2020-12-19
-Melton,3,2020-12-20,2020-12-25
-Melton,3,2020-12-26,2020-12-30
-Melton,4,2020-12-31,2021-01-05
-Melton,4,2021-01-05,NA
-North West Lancashire,3,2020-12-02,2020-12-15
-North West Lancashire,3,2020-12-16,2020-12-18
-North West Lancashire,3,2020-12-19,2020-12-19
-North West Lancashire,3,2020-12-20,2020-12-25
-North West Lancashire,3,2020-12-26,2020-12-30
-North West Lancashire,4,2020-12-31,2021-01-05
-North West Lancashire,4,2021-01-05,NA
-Oadby and Wigston,3,2020-12-02,2020-12-15
-Oadby and Wigston,3,2020-12-16,2020-12-18
-Oadby and Wigston,3,2020-12-19,2020-12-19
-Oadby and Wigston,3,2020-12-20,2020-12-25
-Oadby and Wigston,3,2020-12-26,2020-12-30
-Oadby and Wigston,4,2020-12-31,2021-01-05
-Oadby and Wigston,4,2021-01-05,NA
-Boston,3,2020-12-02,2020-12-15
-Boston,3,2020-12-16,2020-12-18
-Boston,3,2020-12-19,2020-12-19
-Boston,3,2020-12-20,2020-12-25
-Boston,3,2020-12-26,2020-12-30
-Boston,4,2020-12-31,2021-01-05
-Boston,4,2021-01-05,NA
-East Lindsey,3,2020-12-02,2020-12-15
-East Lindsey,3,2020-12-16,2020-12-18
-East Lindsey,3,2020-12-19,2020-12-19
-East Lindsey,3,2020-12-20,2020-12-25
-East Lindsey,3,2020-12-26,2020-12-30
-East Lindsey,4,2020-12-31,2021-01-05
-East Lindsey,4,2021-01-05,NA
-Lincoln,3,2020-12-02,2020-12-15
-Lincoln,3,2020-12-16,2020-12-18
-Lincoln,3,2020-12-19,2020-12-19
-Lincoln,3,2020-12-20,2020-12-25
-Lincoln,3,2020-12-26,2020-12-30
-Lincoln,4,2020-12-31,2021-01-05
-Lincoln,4,2021-01-05,NA
-North Kesteven,3,2020-12-02,2020-12-15
-North Kesteven,3,2020-12-16,2020-12-18
-North Kesteven,3,2020-12-19,2020-12-19
-North Kesteven,3,2020-12-20,2020-12-25
-North Kesteven,3,2020-12-26,2020-12-30
-North Kesteven,4,2020-12-31,2021-01-05
-North Kesteven,4,2021-01-05,NA
-South Holland,3,2020-12-02,2020-12-15
-South Holland,3,2020-12-16,2020-12-18
-South Holland,3,2020-12-19,2020-12-19
-South Holland,3,2020-12-20,2020-12-25
-South Holland,3,2020-12-26,2020-12-30
-South Holland,4,2020-12-31,2021-01-05
-South Holland,4,2021-01-05,NA
-South Kesteven,3,2020-12-02,2020-12-15
-South Kesteven,3,2020-12-16,2020-12-18
-South Kesteven,3,2020-12-19,2020-12-19
-South Kesteven,3,2020-12-20,2020-12-25
-South Kesteven,3,2020-12-26,2020-12-30
-South Kesteven,4,2020-12-31,2021-01-05
-South Kesteven,4,2021-01-05,NA
-West Lindsey,3,2020-12-02,2020-12-15
-West Lindsey,3,2020-12-16,2020-12-18
-West Lindsey,3,2020-12-19,2020-12-19
-West Lindsey,3,2020-12-20,2020-12-25
-West Lindsey,3,2020-12-26,2020-12-30
-West Lindsey,4,2020-12-31,2021-01-05
-West Lindsey,4,2021-01-05,NA
-Breckland,2,2020-12-02,2020-12-15
-Breckland,2,2020-12-16,2020-12-18
-Breckland,2,2020-12-19,2020-12-19
-Breckland,2,2020-12-20,2020-12-25
-Breckland,4,2020-12-26,2020-12-30
-Breckland,4,2020-12-31,2021-01-05
-Breckland,4,2021-01-05,NA
-Broadland,2,2020-12-02,2020-12-15
-Broadland,2,2020-12-16,2020-12-18
-Broadland,2,2020-12-19,2020-12-19
-Broadland,2,2020-12-20,2020-12-25
-Broadland,4,2020-12-26,2020-12-30
-Broadland,4,2020-12-31,2021-01-05
-Broadland,4,2021-01-05,NA
-Great Yarmouth,2,2020-12-02,2020-12-15
-Great Yarmouth,2,2020-12-16,2020-12-18
-Great Yarmouth,2,2020-12-19,2020-12-19
-Great Yarmouth,2,2020-12-20,2020-12-25
-Great Yarmouth,4,2020-12-26,2020-12-30
-Great Yarmouth,4,2020-12-31,2021-01-05
-Great Yarmouth,4,2021-01-05,NA
-King's Lynn and West Norfolk,2,2020-12-02,2020-12-15
-King's Lynn and West Norfolk,2,2020-12-16,2020-12-18
-King's Lynn and West Norfolk,2,2020-12-19,2020-12-19
-King's Lynn and West Norfolk,2,2020-12-20,2020-12-25
-King's Lynn and West Norfolk,4,2020-12-26,2020-12-30
-King's Lynn and West Norfolk,4,2020-12-31,2021-01-05
-King's Lynn and West Norfolk,4,2021-01-05,NA
-North Norfolk,2,2020-12-02,2020-12-15
-North Norfolk,2,2020-12-16,2020-12-18
-North Norfolk,2,2020-12-19,2020-12-19
-North Norfolk,2,2020-12-20,2020-12-25
-North Norfolk,4,2020-12-26,2020-12-30
-North Norfolk,4,2020-12-31,2021-01-05
-North Norfolk,4,2021-01-05,NA
-Norwich,2,2020-12-02,2020-12-15
-Norwich,2,2020-12-16,2020-12-18
-Norwich,2,2020-12-19,2020-12-19
-Norwich,2,2020-12-20,2020-12-25
-Norwich,4,2020-12-26,2020-12-30
-Norwich,4,2020-12-31,2021-01-05
-Norwich,4,2021-01-05,NA
-South Norfolk,2,2020-12-02,2020-12-15
-South Norfolk,2,2020-12-16,2020-12-18
-South Norfolk,2,2020-12-19,2020-12-19
-South Norfolk,2,2020-12-20,2020-12-25
-South Norfolk,4,2020-12-26,2020-12-30
-South Norfolk,4,2020-12-31,2021-01-05
-South Norfolk,4,2021-01-05,NA
-Corby,2,2020-12-02,2020-12-15
-Corby,2,2020-12-16,2020-12-18
-Corby,2,2020-12-19,2020-12-19
-Corby,2,2020-12-20,2020-12-25
-Corby,3,2020-12-26,2020-12-30
-Corby,4,2020-12-31,2021-01-05
-Corby,4,2021-01-05,NA
-Daventry,2,2020-12-02,2020-12-15
-Daventry,2,2020-12-16,2020-12-18
-Daventry,2,2020-12-19,2020-12-19
-Daventry,2,2020-12-20,2020-12-25
-Daventry,3,2020-12-26,2020-12-30
-Daventry,4,2020-12-31,2021-01-05
-Daventry,4,2021-01-05,NA
-East Northamptonshire,2,2020-12-02,2020-12-15
-East Northamptonshire,2,2020-12-16,2020-12-18
-East Northamptonshire,2,2020-12-19,2020-12-19
-East Northamptonshire,2,2020-12-20,2020-12-25
-East Northamptonshire,3,2020-12-26,2020-12-30
-East Northamptonshire,4,2020-12-31,2021-01-05
-East Northamptonshire,4,2021-01-05,NA
-Kettering,2,2020-12-02,2020-12-15
-Kettering,2,2020-12-16,2020-12-18
-Kettering,2,2020-12-19,2020-12-19
-Kettering,2,2020-12-20,2020-12-25
-Kettering,3,2020-12-26,2020-12-30
-Kettering,4,2020-12-31,2021-01-05
-Kettering,4,2021-01-05,NA
-Northampton,2,2020-12-02,2020-12-15
-Northampton,2,2020-12-16,2020-12-18
-Northampton,2,2020-12-19,2020-12-19
-Northampton,2,2020-12-20,2020-12-25
-Northampton,3,2020-12-26,2020-12-30
-Northampton,4,2020-12-31,2021-01-05
-Northampton,4,2021-01-05,NA
-South Northamptonshire,2,2020-12-02,2020-12-15
-South Northamptonshire,2,2020-12-16,2020-12-18
-South Northamptonshire,2,2020-12-19,2020-12-19
-South Northamptonshire,2,2020-12-20,2020-12-25
-South Northamptonshire,3,2020-12-26,2020-12-30
-South Northamptonshire,4,2020-12-31,2021-01-05
-South Northamptonshire,4,2021-01-05,NA
-Wellingborough,2,2020-12-02,2020-12-15
-Wellingborough,2,2020-12-16,2020-12-18
-Wellingborough,2,2020-12-19,2020-12-19
-Wellingborough,2,2020-12-20,2020-12-25
-Wellingborough,3,2020-12-26,2020-12-30
-Wellingborough,4,2020-12-31,2021-01-05
-Wellingborough,4,2021-01-05,NA
-Craven,2,2020-12-02,2020-12-15
-Craven,2,2020-12-16,2020-12-18
-Craven,2,2020-12-19,2020-12-19
-Craven,2,2020-12-20,2020-12-25
-Craven,2,2020-12-26,2020-12-30
-Craven,4,2020-12-31,2021-01-05
-Craven,4,2021-01-05,NA
-Hambleton,2,2020-12-02,2020-12-15
-Hambleton,2,2020-12-16,2020-12-18
-Hambleton,2,2020-12-19,2020-12-19
-Hambleton,2,2020-12-20,2020-12-25
-Hambleton,2,2020-12-26,2020-12-30
-Hambleton,3,2020-12-31,2021-01-05
-Hambleton,4,2021-01-05,NA
-Harrogate,2,2020-12-02,2020-12-15
-Harrogate,2,2020-12-16,2020-12-18
-Harrogate,2,2020-12-19,2020-12-19
-Harrogate,2,2020-12-20,2020-12-25
-Harrogate,2,2020-12-26,2020-12-30
-Harrogate,3,2020-12-31,2021-01-05
-Harrogate,4,2021-01-05,NA
-Richmondshire,2,2020-12-02,2020-12-15
-Richmondshire,2,2020-12-16,2020-12-18
-Richmondshire,2,2020-12-19,2020-12-19
-Richmondshire,2,2020-12-20,2020-12-25
-Richmondshire,2,2020-12-26,2020-12-30
-Richmondshire,3,2020-12-31,2021-01-05
-Richmondshire,4,2021-01-05,NA
-Ryedale,2,2020-12-02,2020-12-15
-Ryedale,2,2020-12-16,2020-12-18
-Ryedale,2,2020-12-19,2020-12-19
-Ryedale,2,2020-12-20,2020-12-25
-Ryedale,2,2020-12-26,2020-12-30
-Ryedale,3,2020-12-31,2021-01-05
-Ryedale,4,2021-01-05,NA
-Scarborough,2,2020-12-02,2020-12-15
-Scarborough,2,2020-12-16,2020-12-18
-Scarborough,2,2020-12-19,2020-12-19
-Scarborough,2,2020-12-20,2020-12-25
-Scarborough,2,2020-12-26,2020-12-30
-Scarborough,3,2020-12-31,2021-01-05
-Scarborough,4,2021-01-05,NA
-Selby,2,2020-12-02,2020-12-15
-Selby,2,2020-12-16,2020-12-18
-Selby,2,2020-12-19,2020-12-19
-Selby,2,2020-12-20,2020-12-25
-Selby,2,2020-12-26,2020-12-30
-Selby,3,2020-12-31,2021-01-05
-Selby,4,2021-01-05,NA
-Ashfield,3,2020-12-02,2020-12-15
-Ashfield,3,2020-12-16,2020-12-18
-Ashfield,3,2020-12-19,2020-12-19
-Ashfield,3,2020-12-20,2020-12-25
-Ashfield,3,2020-12-26,2020-12-30
-Ashfield,4,2020-12-31,2021-01-05
-Ashfield,4,2021-01-05,NA
-Bassetlaw,3,2020-12-02,2020-12-15
-Bassetlaw,3,2020-12-16,2020-12-18
-Bassetlaw,3,2020-12-19,2020-12-19
-Bassetlaw,3,2020-12-20,2020-12-25
-Bassetlaw,3,2020-12-26,2020-12-30
-Bassetlaw,4,2020-12-31,2021-01-05
-Bassetlaw,4,2021-01-05,NA
-Broxtowe,3,2020-12-02,2020-12-15
-Broxtowe,3,2020-12-16,2020-12-18
-Broxtowe,3,2020-12-19,2020-12-19
-Broxtowe,3,2020-12-20,2020-12-25
-Broxtowe,3,2020-12-26,2020-12-30
-Broxtowe,4,2020-12-31,2021-01-05
-Broxtowe,4,2021-01-05,NA
-Gedling,3,2020-12-02,2020-12-15
-Gedling,3,2020-12-16,2020-12-18
-Gedling,3,2020-12-19,2020-12-19
-Gedling,3,2020-12-20,2020-12-25
-Gedling,3,2020-12-26,2020-12-30
-Gedling,4,2020-12-31,2021-01-05
-Gedling,4,2021-01-05,NA
-Mansfield,3,2020-12-02,2020-12-15
-Mansfield,3,2020-12-16,2020-12-18
-Mansfield,3,2020-12-19,2020-12-19
-Mansfield,3,2020-12-20,2020-12-25
-Mansfield,3,2020-12-26,2020-12-30
-Mansfield,4,2020-12-31,2021-01-05
-Mansfield,4,2021-01-05,NA
-Newark and Sherwood,3,2020-12-02,2020-12-15
-Newark and Sherwood,3,2020-12-16,2020-12-18
-Newark and Sherwood,3,2020-12-19,2020-12-19
-Newark and Sherwood,3,2020-12-20,2020-12-25
-Newark and Sherwood,3,2020-12-26,2020-12-30
-Newark and Sherwood,4,2020-12-31,2021-01-05
-Newark and Sherwood,4,2021-01-05,NA
-Rushcliffe,3,2020-12-02,2020-12-15
-Rushcliffe,3,2020-12-16,2020-12-18
-Rushcliffe,3,2020-12-19,2020-12-19
-Rushcliffe,3,2020-12-20,2020-12-25
-Rushcliffe,3,2020-12-26,2020-12-30
-Rushcliffe,4,2020-12-31,2021-01-05
-Rushcliffe,4,2021-01-05,NA
-Cherwell,2,2020-12-02,2020-12-15
-Cherwell,2,2020-12-16,2020-12-18
-Cherwell,2,2020-12-19,2020-12-19
-Cherwell,2,2020-12-20,2020-12-25
-Cherwell,4,2020-12-26,2020-12-30
-Cherwell,4,2020-12-31,2021-01-05
-Cherwell,4,2021-01-05,NA
-Oxford,2,2020-12-02,2020-12-15
-Oxford,2,2020-12-16,2020-12-18
-Oxford,2,2020-12-19,2020-12-19
-Oxford,2,2020-12-20,2020-12-25
-Oxford,4,2020-12-26,2020-12-30
-Oxford,4,2020-12-31,2021-01-05
-Oxford,4,2021-01-05,NA
-South Oxfordshire,2,2020-12-02,2020-12-15
-South Oxfordshire,2,2020-12-16,2020-12-18
-South Oxfordshire,2,2020-12-19,2020-12-19
-South Oxfordshire,2,2020-12-20,2020-12-25
-South Oxfordshire,4,2020-12-26,2020-12-30
-South Oxfordshire,4,2020-12-31,2021-01-05
-South Oxfordshire,4,2021-01-05,NA
-Vale of White Horse,2,2020-12-02,2020-12-15
-Vale of White Horse,2,2020-12-16,2020-12-18
-Vale of White Horse,2,2020-12-19,2020-12-19
-Vale of White Horse,2,2020-12-20,2020-12-25
-Vale of White Horse,4,2020-12-26,2020-12-30
-Vale of White Horse,4,2020-12-31,2021-01-05
-Vale of White Horse,4,2021-01-05,NA
-West Oxfordshire,2,2020-12-02,2020-12-15
-West Oxfordshire,2,2020-12-16,2020-12-18
-West Oxfordshire,2,2020-12-19,2020-12-19
-West Oxfordshire,2,2020-12-20,2020-12-25
-West Oxfordshire,4,2020-12-26,2020-12-30
-West Oxfordshire,4,2020-12-31,2021-01-05
-West Oxfordshire,4,2021-01-05,NA
-Mendip,2,2020-12-02,2020-12-15
-Mendip,2,2020-12-16,2020-12-18
-Mendip,2,2020-12-19,2020-12-19
-Mendip,2,2020-12-20,2020-12-25
-Mendip,3,2020-12-26,2020-12-30
-Mendip,4,2020-12-31,2021-01-05
-Mendip,4,2021-01-05,NA
-Sedgemoor,2,2020-12-02,2020-12-15
-Sedgemoor,2,2020-12-16,2020-12-18
-Sedgemoor,2,2020-12-19,2020-12-19
-Sedgemoor,2,2020-12-20,2020-12-25
-Sedgemoor,3,2020-12-26,2020-12-30
-Sedgemoor,4,2020-12-31,2021-01-05
-Sedgemoor,4,2021-01-05,NA
-South Somerset,2,2020-12-02,2020-12-15
-South Somerset,2,2020-12-16,2020-12-18
-South Somerset,2,2020-12-19,2020-12-19
-South Somerset,2,2020-12-20,2020-12-25
-South Somerset,3,2020-12-26,2020-12-30
-South Somerset,4,2020-12-31,2021-01-05
-South Somerset,4,2021-01-05,NA
-Taunton Deane,2,2020-12-02,2020-12-15
-Taunton Deane,2,2020-12-16,2020-12-18
-Taunton Deane,2,2020-12-19,2020-12-19
-Taunton Deane,2,2020-12-20,2020-12-25
-Taunton Deane,3,2020-12-26,2020-12-30
-Taunton Deane,4,2020-12-31,2021-01-05
-Taunton Deane,4,2021-01-05,NA
-West Somerset,2,2020-12-02,2020-12-15
-West Somerset,2,2020-12-16,2020-12-18
-West Somerset,2,2020-12-19,2020-12-19
-West Somerset,2,2020-12-20,2020-12-25
-West Somerset,3,2020-12-26,2020-12-30
-West Somerset,4,2020-12-31,2021-01-05
-West Somerset,4,2021-01-05,NA
-Cannock Chase,3,2020-12-02,2020-12-15
-Cannock Chase,3,2020-12-16,2020-12-18
-Cannock Chase,3,2020-12-19,2020-12-19
-Cannock Chase,3,2020-12-20,2020-12-25
-Cannock Chase,3,2020-12-26,2020-12-30
-Cannock Chase,4,2020-12-31,2021-01-05
-Cannock Chase,4,2021-01-05,NA
-East Staffordshire,3,2020-12-02,2020-12-15
-East Staffordshire,3,2020-12-16,2020-12-18
-East Staffordshire,3,2020-12-19,2020-12-19
-East Staffordshire,3,2020-12-20,2020-12-25
-East Staffordshire,3,2020-12-26,2020-12-30
-East Staffordshire,4,2020-12-31,2021-01-05
-East Staffordshire,4,2021-01-05,NA
-Lichfield,3,2020-12-02,2020-12-15
-Lichfield,3,2020-12-16,2020-12-18
-Lichfield,3,2020-12-19,2020-12-19
-Lichfield,3,2020-12-20,2020-12-25
-Lichfield,3,2020-12-26,2020-12-30
-Lichfield,4,2020-12-31,2021-01-05
-Lichfield,4,2021-01-05,NA
-Newcastle-under-Lyme,3,2020-12-02,2020-12-15
-Newcastle-under-Lyme,3,2020-12-16,2020-12-18
-Newcastle-under-Lyme,3,2020-12-19,2020-12-19
-Newcastle-under-Lyme,3,2020-12-20,2020-12-25
-Newcastle-under-Lyme,3,2020-12-26,2020-12-30
-Newcastle-under-Lyme,4,2020-12-31,2021-01-05
-Newcastle-under-Lyme,4,2021-01-05,NA
-South Staffordshire,3,2020-12-02,2020-12-15
-South Staffordshire,3,2020-12-16,2020-12-18
-South Staffordshire,3,2020-12-19,2020-12-19
-South Staffordshire,3,2020-12-20,2020-12-25
-South Staffordshire,3,2020-12-26,2020-12-30
-South Staffordshire,4,2020-12-31,2021-01-05
-South Staffordshire,4,2021-01-05,NA
-Stafford,3,2020-12-02,2020-12-15
-Stafford,3,2020-12-16,2020-12-18
-Stafford,3,2020-12-19,2020-12-19
-Stafford,3,2020-12-20,2020-12-25
-Stafford,3,2020-12-26,2020-12-30
-Stafford,4,2020-12-31,2021-01-05
-Stafford,4,2021-01-05,NA
-Staffordshire Moorlands,3,2020-12-02,2020-12-15
-Staffordshire Moorlands,3,2020-12-16,2020-12-18
-Staffordshire Moorlands,3,2020-12-19,2020-12-19
-Staffordshire Moorlands,3,2020-12-20,2020-12-25
-Staffordshire Moorlands,3,2020-12-26,2020-12-30
-Staffordshire Moorlands,4,2020-12-31,2021-01-05
-Staffordshire Moorlands,4,2021-01-05,NA
-Tamworth,3,2020-12-02,2020-12-15
-Tamworth,3,2020-12-16,2020-12-18
-Tamworth,3,2020-12-19,2020-12-19
-Tamworth,3,2020-12-20,2020-12-25
-Tamworth,3,2020-12-26,2020-12-30
-Tamworth,4,2020-12-31,2021-01-05
-Tamworth,4,2021-01-05,NA
-Babergh,2,2020-12-02,2020-12-15
-Babergh,2,2020-12-16,2020-12-18
-Babergh,2,2020-12-19,2020-12-19
-Babergh,2,2020-12-20,2020-12-25
-Babergh,4,2020-12-26,2020-12-30
-Babergh,4,2020-12-31,2021-01-05
-Babergh,4,2021-01-05,NA
-Forest Heath,2,2020-12-02,2020-12-15
-Forest Heath,2,2020-12-16,2020-12-18
-Forest Heath,2,2020-12-19,2020-12-19
-Forest Heath,2,2020-12-20,2020-12-25
-Forest Heath,4,2020-12-26,2020-12-30
-Forest Heath,4,2020-12-31,2021-01-05
-Forest Heath,4,2021-01-05,NA
-Ipswich,2,2020-12-02,2020-12-15
-Ipswich,2,2020-12-16,2020-12-18
-Ipswich,2,2020-12-19,2020-12-19
-Ipswich,2,2020-12-20,2020-12-25
-Ipswich,4,2020-12-26,2020-12-30
-Ipswich,4,2020-12-31,2021-01-05
-Ipswich,4,2021-01-05,NA
-Mid Suffolk,2,2020-12-02,2020-12-15
-Mid Suffolk,2,2020-12-16,2020-12-18
-Mid Suffolk,2,2020-12-19,2020-12-19
-Mid Suffolk,2,2020-12-20,2020-12-25
-Mid Suffolk,4,2020-12-26,2020-12-30
-Mid Suffolk,4,2020-12-31,2021-01-05
-Mid Suffolk,4,2021-01-05,NA
-St Edmundsbury,2,2020-12-02,2020-12-15
-St Edmundsbury,2,2020-12-16,2020-12-18
-St Edmundsbury,2,2020-12-19,2020-12-19
-St Edmundsbury,2,2020-12-20,2020-12-25
-St Edmundsbury,4,2020-12-26,2020-12-30
-St Edmundsbury,4,2020-12-31,2021-01-05
-St Edmundsbury,4,2021-01-05,NA
-Suffolk Coastal,2,2020-12-02,2020-12-15
-Suffolk Coastal,2,2020-12-16,2020-12-18
-Suffolk Coastal,2,2020-12-19,2020-12-19
-Suffolk Coastal,2,2020-12-20,2020-12-25
-Suffolk Coastal,4,2020-12-26,2020-12-30
-Suffolk Coastal,4,2020-12-31,2021-01-05
-Suffolk Coastal,4,2021-01-05,NA
-Waveney,2,2020-12-02,2020-12-15
-Waveney,2,2020-12-16,2020-12-18
-Waveney,2,2020-12-19,2020-12-19
-Waveney,2,2020-12-20,2020-12-25
-Waveney,4,2020-12-26,2020-12-30
-Waveney,4,2020-12-31,2021-01-05
-Waveney,4,2021-01-05,NA
-Elmbridge,2,2020-12-02,2020-12-15
-Elmbridge,2,2020-12-16,2020-12-18
-Elmbridge,3,2020-12-19,2020-12-19
-Elmbridge,4,2020-12-20,2020-12-25
-Elmbridge,4,2020-12-26,2020-12-30
-Elmbridge,4,2020-12-31,2021-01-05
-Elmbridge,4,2021-01-05,NA
-Epsom and Ewell,2,2020-12-02,2020-12-15
-Epsom and Ewell,3,2020-12-16,2020-12-18
-Epsom and Ewell,3,2020-12-19,2020-12-19
-Epsom and Ewell,4,2020-12-20,2020-12-25
-Epsom and Ewell,4,2020-12-26,2020-12-30
-Epsom and Ewell,4,2020-12-31,2021-01-05
-Epsom and Ewell,4,2021-01-05,NA
-Guildford,2,2020-12-02,2020-12-15
-Guildford,2,2020-12-16,2020-12-18
-Guildford,3,2020-12-19,2020-12-19
-Guildford,4,2020-12-20,2020-12-25
-Guildford,4,2020-12-26,2020-12-30
-Guildford,4,2020-12-31,2021-01-05
-Guildford,4,2021-01-05,NA
-Mole Valley,2,2020-12-02,2020-12-15
-Mole Valley,2,2020-12-16,2020-12-18
-Mole Valley,3,2020-12-19,2020-12-19
-Mole Valley,4,2020-12-20,2020-12-25
-Mole Valley,4,2020-12-26,2020-12-30
-Mole Valley,4,2020-12-31,2021-01-05
-Mole Valley,4,2021-01-05,NA
-Reigate and Banstead,2,2020-12-02,2020-12-15
-Reigate and Banstead,2,2020-12-16,2020-12-18
-Reigate and Banstead,3,2020-12-19,2020-12-19
-Reigate and Banstead,4,2020-12-20,2020-12-25
-Reigate and Banstead,4,2020-12-26,2020-12-30
-Reigate and Banstead,4,2020-12-31,2021-01-05
-Reigate and Banstead,4,2021-01-05,NA
-Runnymede,2,2020-12-02,2020-12-15
-Runnymede,2,2020-12-16,2020-12-18
-Runnymede,3,2020-12-19,2020-12-19
-Runnymede,4,2020-12-20,2020-12-25
-Runnymede,4,2020-12-26,2020-12-30
-Runnymede,4,2020-12-31,2021-01-05
-Runnymede,4,2021-01-05,NA
-Spelthorne,2,2020-12-02,2020-12-15
-Spelthorne,2,2020-12-16,2020-12-18
-Spelthorne,3,2020-12-19,2020-12-19
-Spelthorne,4,2020-12-20,2020-12-25
-Spelthorne,4,2020-12-26,2020-12-30
-Spelthorne,4,2020-12-31,2021-01-05
-Spelthorne,4,2021-01-05,NA
-Surrey Heath,2,2020-12-02,2020-12-15
-Surrey Heath,2,2020-12-16,2020-12-18
-Surrey Heath,3,2020-12-19,2020-12-19
-Surrey Heath,4,2020-12-20,2020-12-25
-Surrey Heath,4,2020-12-26,2020-12-30
-Surrey Heath,4,2020-12-31,2021-01-05
-Surrey Heath,4,2021-01-05,NA
-Tandridge,2,2020-12-02,2020-12-15
-Tandridge,2,2020-12-16,2020-12-18
-Tandridge,3,2020-12-19,2020-12-19
-Tandridge,4,2020-12-20,2020-12-25
-Tandridge,4,2020-12-26,2020-12-30
-Tandridge,4,2020-12-31,2021-01-05
-Tandridge,4,2021-01-05,NA
-Waverley,2,2020-12-02,2020-12-15
-Waverley,2,2020-12-16,2020-12-18
-Waverley,2,2020-12-19,2020-12-19
-Waverley,2,2020-12-20,2020-12-25
-Waverley,4,2020-12-26,2020-12-30
-Waverley,4,2020-12-31,2021-01-05
-Waverley,4,2021-01-05,NA
-Woking,2,2020-12-02,2020-12-15
-Woking,2,2020-12-16,2020-12-18
-Woking,3,2020-12-19,2020-12-19
-Woking,4,2020-12-20,2020-12-25
-Woking,4,2020-12-26,2020-12-30
-Woking,4,2020-12-31,2021-01-05
-Woking,4,2021-01-05,NA
-North Warwickshire,3,2020-12-02,2020-12-15
-North Warwickshire,3,2020-12-16,2020-12-18
-North Warwickshire,3,2020-12-19,2020-12-19
-North Warwickshire,3,2020-12-20,2020-12-25
-North Warwickshire,3,2020-12-26,2020-12-30
-North Warwickshire,4,2020-12-31,2021-01-05
-North Warwickshire,4,2021-01-05,NA
-Nuneaton and Bedworth,3,2020-12-02,2020-12-15
-Nuneaton and Bedworth,3,2020-12-16,2020-12-18
-Nuneaton and Bedworth,3,2020-12-19,2020-12-19
-Nuneaton and Bedworth,3,2020-12-20,2020-12-25
-Nuneaton and Bedworth,3,2020-12-26,2020-12-30
-Nuneaton and Bedworth,4,2020-12-31,2021-01-05
-Nuneaton and Bedworth,4,2021-01-05,NA
-Rugby,3,2020-12-02,2020-12-15
-Rugby,3,2020-12-16,2020-12-18
-Rugby,3,2020-12-19,2020-12-19
-Rugby,3,2020-12-20,2020-12-25
-Rugby,3,2020-12-26,2020-12-30
-Rugby,4,2020-12-31,2021-01-05
-Rugby,4,2021-01-05,NA
-Stratford-on-Avon,3,2020-12-02,2020-12-15
-Stratford-on-Avon,3,2020-12-16,2020-12-18
-Stratford-on-Avon,3,2020-12-19,2020-12-19
-Stratford-on-Avon,3,2020-12-20,2020-12-25
-Stratford-on-Avon,3,2020-12-26,2020-12-30
-Stratford-on-Avon,4,2020-12-31,2021-01-05
-Stratford-on-Avon,4,2021-01-05,NA
-Warwick,3,2020-12-02,2020-12-15
-Warwick,3,2020-12-16,2020-12-18
-Warwick,3,2020-12-19,2020-12-19
-Warwick,3,2020-12-20,2020-12-25
-Warwick,3,2020-12-26,2020-12-30
-Warwick,4,2020-12-31,2021-01-05
-Warwick,4,2021-01-05,NA
 Adur,2,2020-12-02,2020-12-15
 Adur,2,2020-12-16,2020-12-18
 Adur,2,2020-12-19,2020-12-19
@@ -1322,6 +6,20 @@ Adur,2,2020-12-20,2020-12-25
 Adur,4,2020-12-26,2020-12-30
 Adur,4,2020-12-31,2021-01-05
 Adur,4,2021-01-05,NA
+Allendale,2,2020-12-02,2020-12-15
+Allendale,2,2020-12-16,2020-12-18
+Allendale,2,2020-12-19,2020-12-19
+Allendale,2,2020-12-20,2020-12-25
+Allendale,2,2020-12-26,2020-12-30
+Allendale,4,2020-12-31,2021-01-05
+Allendale,4,2021-01-05,NA
+Amber Valley,3,2020-12-02,2020-12-15
+Amber Valley,3,2020-12-16,2020-12-18
+Amber Valley,3,2020-12-19,2020-12-19
+Amber Valley,3,2020-12-20,2020-12-25
+Amber Valley,3,2020-12-26,2020-12-30
+Amber Valley,4,2020-12-31,2021-01-05
+Amber Valley,4,2021-01-05,NA
 Arun,2,2020-12-02,2020-12-15
 Arun,2,2020-12-16,2020-12-18
 Arun,2,2020-12-19,2020-12-19
@@ -1329,90 +27,34 @@ Arun,2,2020-12-20,2020-12-25
 Arun,4,2020-12-26,2020-12-30
 Arun,4,2020-12-31,2021-01-05
 Arun,4,2021-01-05,NA
-Chichester,2,2020-12-02,2020-12-15
-Chichester,2,2020-12-16,2020-12-18
-Chichester,2,2020-12-19,2020-12-19
-Chichester,2,2020-12-20,2020-12-25
-Chichester,4,2020-12-26,2020-12-30
-Chichester,4,2020-12-31,2021-01-05
-Chichester,4,2021-01-05,NA
-Crawley,2,2020-12-02,2020-12-15
-Crawley,2,2020-12-16,2020-12-18
-Crawley,2,2020-12-19,2020-12-19
-Crawley,2,2020-12-20,2020-12-25
-Crawley,4,2020-12-26,2020-12-30
-Crawley,4,2020-12-31,2021-01-05
-Crawley,4,2021-01-05,NA
-Horsham,2,2020-12-02,2020-12-15
-Horsham,2,2020-12-16,2020-12-18
-Horsham,2,2020-12-19,2020-12-19
-Horsham,2,2020-12-20,2020-12-25
-Horsham,4,2020-12-26,2020-12-30
-Horsham,4,2020-12-31,2021-01-05
-Horsham,4,2021-01-05,NA
-Mid Sussex,2,2020-12-02,2020-12-15
-Mid Sussex,2,2020-12-16,2020-12-18
-Mid Sussex,2,2020-12-19,2020-12-19
-Mid Sussex,2,2020-12-20,2020-12-25
-Mid Sussex,4,2020-12-26,2020-12-30
-Mid Sussex,4,2020-12-31,2021-01-05
-Mid Sussex,4,2021-01-05,NA
-Worthing,2,2020-12-02,2020-12-15
-Worthing,2,2020-12-16,2020-12-18
-Worthing,2,2020-12-19,2020-12-19
-Worthing,2,2020-12-20,2020-12-25
-Worthing,4,2020-12-26,2020-12-30
-Worthing,4,2020-12-31,2021-01-05
-Worthing,4,2021-01-05,NA
-Bromsgrove,2,2020-12-02,2020-12-15
-Bromsgrove,2,2020-12-16,2020-12-18
-Bromsgrove,2,2020-12-19,2020-12-19
-Bromsgrove,2,2020-12-20,2020-12-25
-Bromsgrove,2,2020-12-26,2020-12-30
-Bromsgrove,3,2020-12-31,2021-01-05
-Bromsgrove,4,2021-01-05,NA
-Malvern Hills,2,2020-12-02,2020-12-15
-Malvern Hills,2,2020-12-16,2020-12-18
-Malvern Hills,2,2020-12-19,2020-12-19
-Malvern Hills,2,2020-12-20,2020-12-25
-Malvern Hills,2,2020-12-26,2020-12-30
-Malvern Hills,3,2020-12-31,2021-01-05
-Malvern Hills,4,2021-01-05,NA
-Redditch,2,2020-12-02,2020-12-15
-Redditch,2,2020-12-16,2020-12-18
-Redditch,2,2020-12-19,2020-12-19
-Redditch,2,2020-12-20,2020-12-25
-Redditch,2,2020-12-26,2020-12-30
-Redditch,3,2020-12-31,2021-01-05
-Redditch,4,2021-01-05,NA
-Worcester,2,2020-12-02,2020-12-15
-Worcester,2,2020-12-16,2020-12-18
-Worcester,2,2020-12-19,2020-12-19
-Worcester,2,2020-12-20,2020-12-25
-Worcester,2,2020-12-26,2020-12-30
-Worcester,3,2020-12-31,2021-01-05
-Worcester,4,2021-01-05,NA
-Wychavon,2,2020-12-02,2020-12-15
-Wychavon,2,2020-12-16,2020-12-18
-Wychavon,2,2020-12-19,2020-12-19
-Wychavon,2,2020-12-20,2020-12-25
-Wychavon,2,2020-12-26,2020-12-30
-Wychavon,3,2020-12-31,2021-01-05
-Wychavon,4,2021-01-05,NA
-Wyre Forest,2,2020-12-02,2020-12-15
-Wyre Forest,2,2020-12-16,2020-12-18
-Wyre Forest,2,2020-12-19,2020-12-19
-Wyre Forest,2,2020-12-20,2020-12-25
-Wyre Forest,2,2020-12-26,2020-12-30
-Wyre Forest,3,2020-12-31,2021-01-05
-Wyre Forest,4,2021-01-05,NA
-City of London,2,2020-12-02,2020-12-15
-City of London,3,2020-12-16,2020-12-18
-City of London,3,2020-12-19,2020-12-19
-City of London,4,2020-12-20,2020-12-25
-City of London,4,2020-12-26,2020-12-30
-City of London,4,2020-12-31,2021-01-05
-City of London,4,2021-01-05,NA
+Ashfield,3,2020-12-02,2020-12-15
+Ashfield,3,2020-12-16,2020-12-18
+Ashfield,3,2020-12-19,2020-12-19
+Ashfield,3,2020-12-20,2020-12-25
+Ashfield,3,2020-12-26,2020-12-30
+Ashfield,4,2020-12-31,2021-01-05
+Ashfield,4,2021-01-05,NA
+Ashford,3,2020-12-02,2020-12-15
+Ashford,3,2020-12-16,2020-12-18
+Ashford,3,2020-12-19,2020-12-19
+Ashford,4,2020-12-20,2020-12-25
+Ashford,4,2020-12-26,2020-12-30
+Ashford,4,2020-12-31,2021-01-05
+Ashford,4,2021-01-05,NA
+Aylesbury Vale,2,2020-12-02,2020-12-15
+Aylesbury Vale,2,2020-12-16,2020-12-18
+Aylesbury Vale,3,2020-12-19,2020-12-19
+Aylesbury Vale,4,2020-12-20,2020-12-25
+Aylesbury Vale,4,2020-12-26,2020-12-30
+Aylesbury Vale,4,2020-12-31,2021-01-05
+Aylesbury Vale,4,2021-01-05,NA
+Babergh,2,2020-12-02,2020-12-15
+Babergh,2,2020-12-16,2020-12-18
+Babergh,2,2020-12-19,2020-12-19
+Babergh,2,2020-12-20,2020-12-25
+Babergh,4,2020-12-26,2020-12-30
+Babergh,4,2020-12-31,2021-01-05
+Babergh,4,2021-01-05,NA
 Barking and Dagenham,2,2020-12-02,2020-12-15
 Barking and Dagenham,3,2020-12-16,2020-12-18
 Barking and Dagenham,3,2020-12-19,2020-12-19
@@ -1427,216 +69,6 @@ Barnet,4,2020-12-20,2020-12-25
 Barnet,4,2020-12-26,2020-12-30
 Barnet,4,2020-12-31,2021-01-05
 Barnet,4,2021-01-05,NA
-Bexley,2,2020-12-02,2020-12-15
-Bexley,3,2020-12-16,2020-12-18
-Bexley,3,2020-12-19,2020-12-19
-Bexley,4,2020-12-20,2020-12-25
-Bexley,4,2020-12-26,2020-12-30
-Bexley,4,2020-12-31,2021-01-05
-Bexley,4,2021-01-05,NA
-Brent,2,2020-12-02,2020-12-15
-Brent,3,2020-12-16,2020-12-18
-Brent,3,2020-12-19,2020-12-19
-Brent,4,2020-12-20,2020-12-25
-Brent,4,2020-12-26,2020-12-30
-Brent,4,2020-12-31,2021-01-05
-Brent,4,2021-01-05,NA
-Bromley,2,2020-12-02,2020-12-15
-Bromley,3,2020-12-16,2020-12-18
-Bromley,3,2020-12-19,2020-12-19
-Bromley,4,2020-12-20,2020-12-25
-Bromley,4,2020-12-26,2020-12-30
-Bromley,4,2020-12-31,2021-01-05
-Bromley,4,2021-01-05,NA
-Camden,2,2020-12-02,2020-12-15
-Camden,3,2020-12-16,2020-12-18
-Camden,3,2020-12-19,2020-12-19
-Camden,4,2020-12-20,2020-12-25
-Camden,4,2020-12-26,2020-12-30
-Camden,4,2020-12-31,2021-01-05
-Camden,4,2021-01-05,NA
-Croydon,2,2020-12-02,2020-12-15
-Croydon,3,2020-12-16,2020-12-18
-Croydon,3,2020-12-19,2020-12-19
-Croydon,4,2020-12-20,2020-12-25
-Croydon,4,2020-12-26,2020-12-30
-Croydon,4,2020-12-31,2021-01-05
-Croydon,4,2021-01-05,NA
-Ealing,2,2020-12-02,2020-12-15
-Ealing,3,2020-12-16,2020-12-18
-Ealing,3,2020-12-19,2020-12-19
-Ealing,4,2020-12-20,2020-12-25
-Ealing,4,2020-12-26,2020-12-30
-Ealing,4,2020-12-31,2021-01-05
-Ealing,4,2021-01-05,NA
-Enfield,2,2020-12-02,2020-12-15
-Enfield,3,2020-12-16,2020-12-18
-Enfield,3,2020-12-19,2020-12-19
-Enfield,4,2020-12-20,2020-12-25
-Enfield,4,2020-12-26,2020-12-30
-Enfield,4,2020-12-31,2021-01-05
-Enfield,4,2021-01-05,NA
-Greenwich,2,2020-12-02,2020-12-15
-Greenwich,3,2020-12-16,2020-12-18
-Greenwich,3,2020-12-19,2020-12-19
-Greenwich,4,2020-12-20,2020-12-25
-Greenwich,4,2020-12-26,2020-12-30
-Greenwich,4,2020-12-31,2021-01-05
-Greenwich,4,2021-01-05,NA
-Hackney,2,2020-12-02,2020-12-15
-Hackney,3,2020-12-16,2020-12-18
-Hackney,3,2020-12-19,2020-12-19
-Hackney,4,2020-12-20,2020-12-25
-Hackney,4,2020-12-26,2020-12-30
-Hackney,4,2020-12-31,2021-01-05
-Hackney,4,2021-01-05,NA
-Hammersmith and Fulham,2,2020-12-02,2020-12-15
-Hammersmith and Fulham,3,2020-12-16,2020-12-18
-Hammersmith and Fulham,3,2020-12-19,2020-12-19
-Hammersmith and Fulham,4,2020-12-20,2020-12-25
-Hammersmith and Fulham,4,2020-12-26,2020-12-30
-Hammersmith and Fulham,4,2020-12-31,2021-01-05
-Hammersmith and Fulham,4,2021-01-05,NA
-Haringey,2,2020-12-02,2020-12-15
-Haringey,3,2020-12-16,2020-12-18
-Haringey,3,2020-12-19,2020-12-19
-Haringey,4,2020-12-20,2020-12-25
-Haringey,4,2020-12-26,2020-12-30
-Haringey,4,2020-12-31,2021-01-05
-Haringey,4,2021-01-05,NA
-Harrow,2,2020-12-02,2020-12-15
-Harrow,3,2020-12-16,2020-12-18
-Harrow,3,2020-12-19,2020-12-19
-Harrow,4,2020-12-20,2020-12-25
-Harrow,4,2020-12-26,2020-12-30
-Harrow,4,2020-12-31,2021-01-05
-Harrow,4,2021-01-05,NA
-Havering,2,2020-12-02,2020-12-15
-Havering,3,2020-12-16,2020-12-18
-Havering,3,2020-12-19,2020-12-19
-Havering,4,2020-12-20,2020-12-25
-Havering,4,2020-12-26,2020-12-30
-Havering,4,2020-12-31,2021-01-05
-Havering,4,2021-01-05,NA
-Hillingdon,2,2020-12-02,2020-12-15
-Hillingdon,3,2020-12-16,2020-12-18
-Hillingdon,3,2020-12-19,2020-12-19
-Hillingdon,4,2020-12-20,2020-12-25
-Hillingdon,4,2020-12-26,2020-12-30
-Hillingdon,4,2020-12-31,2021-01-05
-Hillingdon,4,2021-01-05,NA
-Hounslow,2,2020-12-02,2020-12-15
-Hounslow,3,2020-12-16,2020-12-18
-Hounslow,3,2020-12-19,2020-12-19
-Hounslow,4,2020-12-20,2020-12-25
-Hounslow,4,2020-12-26,2020-12-30
-Hounslow,4,2020-12-31,2021-01-05
-Hounslow,4,2021-01-05,NA
-Islington,2,2020-12-02,2020-12-15
-Islington,3,2020-12-16,2020-12-18
-Islington,3,2020-12-19,2020-12-19
-Islington,4,2020-12-20,2020-12-25
-Islington,4,2020-12-26,2020-12-30
-Islington,4,2020-12-31,2021-01-05
-Islington,4,2021-01-05,NA
-Kensington and Chelsea,2,2020-12-02,2020-12-15
-Kensington and Chelsea,3,2020-12-16,2020-12-18
-Kensington and Chelsea,3,2020-12-19,2020-12-19
-Kensington and Chelsea,4,2020-12-20,2020-12-25
-Kensington and Chelsea,4,2020-12-26,2020-12-30
-Kensington and Chelsea,4,2020-12-31,2021-01-05
-Kensington and Chelsea,4,2021-01-05,NA
-Kingston upon Thames,2,2020-12-02,2020-12-15
-Kingston upon Thames,3,2020-12-16,2020-12-18
-Kingston upon Thames,3,2020-12-19,2020-12-19
-Kingston upon Thames,4,2020-12-20,2020-12-25
-Kingston upon Thames,4,2020-12-26,2020-12-30
-Kingston upon Thames,4,2020-12-31,2021-01-05
-Kingston upon Thames,4,2021-01-05,NA
-Lambeth,2,2020-12-02,2020-12-15
-Lambeth,3,2020-12-16,2020-12-18
-Lambeth,3,2020-12-19,2020-12-19
-Lambeth,4,2020-12-20,2020-12-25
-Lambeth,4,2020-12-26,2020-12-30
-Lambeth,4,2020-12-31,2021-01-05
-Lambeth,4,2021-01-05,NA
-Lewisham,2,2020-12-02,2020-12-15
-Lewisham,3,2020-12-16,2020-12-18
-Lewisham,3,2020-12-19,2020-12-19
-Lewisham,4,2020-12-20,2020-12-25
-Lewisham,4,2020-12-26,2020-12-30
-Lewisham,4,2020-12-31,2021-01-05
-Lewisham,4,2021-01-05,NA
-Merton,2,2020-12-02,2020-12-15
-Merton,3,2020-12-16,2020-12-18
-Merton,3,2020-12-19,2020-12-19
-Merton,4,2020-12-20,2020-12-25
-Merton,4,2020-12-26,2020-12-30
-Merton,4,2020-12-31,2021-01-05
-Merton,4,2021-01-05,NA
-Newham,2,2020-12-02,2020-12-15
-Newham,3,2020-12-16,2020-12-18
-Newham,3,2020-12-19,2020-12-19
-Newham,4,2020-12-20,2020-12-25
-Newham,4,2020-12-26,2020-12-30
-Newham,4,2020-12-31,2021-01-05
-Newham,4,2021-01-05,NA
-Redbridge,2,2020-12-02,2020-12-15
-Redbridge,3,2020-12-16,2020-12-18
-Redbridge,3,2020-12-19,2020-12-19
-Redbridge,4,2020-12-20,2020-12-25
-Redbridge,4,2020-12-26,2020-12-30
-Redbridge,4,2020-12-31,2021-01-05
-Redbridge,4,2021-01-05,NA
-Richmond upon Thames,2,2020-12-02,2020-12-15
-Richmond upon Thames,3,2020-12-16,2020-12-18
-Richmond upon Thames,3,2020-12-19,2020-12-19
-Richmond upon Thames,4,2020-12-20,2020-12-25
-Richmond upon Thames,4,2020-12-26,2020-12-30
-Richmond upon Thames,4,2020-12-31,2021-01-05
-Richmond upon Thames,4,2021-01-05,NA
-Southwark,2,2020-12-02,2020-12-15
-Southwark,3,2020-12-16,2020-12-18
-Southwark,3,2020-12-19,2020-12-19
-Southwark,4,2020-12-20,2020-12-25
-Southwark,4,2020-12-26,2020-12-30
-Southwark,4,2020-12-31,2021-01-05
-Southwark,4,2021-01-05,NA
-Sutton,2,2020-12-02,2020-12-15
-Sutton,3,2020-12-16,2020-12-18
-Sutton,3,2020-12-19,2020-12-19
-Sutton,4,2020-12-20,2020-12-25
-Sutton,4,2020-12-26,2020-12-30
-Sutton,4,2020-12-31,2021-01-05
-Sutton,4,2021-01-05,NA
-Tower Hamlets,2,2020-12-02,2020-12-15
-Tower Hamlets,3,2020-12-16,2020-12-18
-Tower Hamlets,3,2020-12-19,2020-12-19
-Tower Hamlets,4,2020-12-20,2020-12-25
-Tower Hamlets,4,2020-12-26,2020-12-30
-Tower Hamlets,4,2020-12-31,2021-01-05
-Tower Hamlets,4,2021-01-05,NA
-Waltham Forest,2,2020-12-02,2020-12-15
-Waltham Forest,3,2020-12-16,2020-12-18
-Waltham Forest,3,2020-12-19,2020-12-19
-Waltham Forest,4,2020-12-20,2020-12-25
-Waltham Forest,4,2020-12-26,2020-12-30
-Waltham Forest,4,2020-12-31,2021-01-05
-Waltham Forest,4,2021-01-05,NA
-Wandsworth,2,2020-12-02,2020-12-15
-Wandsworth,3,2020-12-16,2020-12-18
-Wandsworth,3,2020-12-19,2020-12-19
-Wandsworth,4,2020-12-20,2020-12-25
-Wandsworth,4,2020-12-26,2020-12-30
-Wandsworth,4,2020-12-31,2021-01-05
-Wandsworth,4,2021-01-05,NA
-Westminster,2,2020-12-02,2020-12-15
-Westminster,3,2020-12-16,2020-12-18
-Westminster,3,2020-12-19,2020-12-19
-Westminster,4,2020-12-20,2020-12-25
-Westminster,4,2020-12-26,2020-12-30
-Westminster,4,2020-12-31,2021-01-05
-Westminster,4,2021-01-05,NA
 Barnsley,3,2020-12-02,2020-12-15
 Barnsley,3,2020-12-16,2020-12-18
 Barnsley,3,2020-12-19,2020-12-19
@@ -1644,251 +76,34 @@ Barnsley,3,2020-12-20,2020-12-25
 Barnsley,3,2020-12-26,2020-12-30
 Barnsley,3,2020-12-31,2021-01-05
 Barnsley,4,2021-01-05,NA
-Birmingham,3,2020-12-02,2020-12-15
-Birmingham,3,2020-12-16,2020-12-18
-Birmingham,3,2020-12-19,2020-12-19
-Birmingham,3,2020-12-20,2020-12-25
-Birmingham,3,2020-12-26,2020-12-30
-Birmingham,4,2020-12-31,2021-01-05
-Birmingham,4,2021-01-05,NA
-Bolton,3,2020-12-02,2020-12-15
-Bolton,3,2020-12-16,2020-12-18
-Bolton,3,2020-12-19,2020-12-19
-Bolton,3,2020-12-20,2020-12-25
-Bolton,3,2020-12-26,2020-12-30
-Bolton,4,2020-12-31,2021-01-05
-Bolton,4,2021-01-05,NA
-Bradford,3,2020-12-02,2020-12-15
-Bradford,3,2020-12-16,2020-12-18
-Bradford,3,2020-12-19,2020-12-19
-Bradford,3,2020-12-20,2020-12-25
-Bradford,3,2020-12-26,2020-12-30
-Bradford,3,2020-12-31,2021-01-05
-Bradford,4,2021-01-05,NA
-Bury,3,2020-12-02,2020-12-15
-Bury,3,2020-12-16,2020-12-18
-Bury,3,2020-12-19,2020-12-19
-Bury,3,2020-12-20,2020-12-25
-Bury,3,2020-12-26,2020-12-30
-Bury,4,2020-12-31,2021-01-05
-Bury,4,2021-01-05,NA
-Calderdale,3,2020-12-02,2020-12-15
-Calderdale,3,2020-12-16,2020-12-18
-Calderdale,3,2020-12-19,2020-12-19
-Calderdale,3,2020-12-20,2020-12-25
-Calderdale,3,2020-12-26,2020-12-30
-Calderdale,3,2020-12-31,2021-01-05
-Calderdale,4,2021-01-05,NA
-Wolverhampton,3,2020-12-02,2020-12-15
-Wolverhampton,3,2020-12-16,2020-12-18
-Wolverhampton,3,2020-12-19,2020-12-19
-Wolverhampton,3,2020-12-20,2020-12-25
-Wolverhampton,3,2020-12-26,2020-12-30
-Wolverhampton,4,2020-12-31,2021-01-05
-Wolverhampton,4,2021-01-05,NA
-Coventry,3,2020-12-02,2020-12-15
-Coventry,3,2020-12-16,2020-12-18
-Coventry,3,2020-12-19,2020-12-19
-Coventry,3,2020-12-20,2020-12-25
-Coventry,3,2020-12-26,2020-12-30
-Coventry,4,2020-12-31,2021-01-05
-Coventry,4,2021-01-05,NA
-Doncaster,3,2020-12-02,2020-12-15
-Doncaster,3,2020-12-16,2020-12-18
-Doncaster,3,2020-12-19,2020-12-19
-Doncaster,3,2020-12-20,2020-12-25
-Doncaster,3,2020-12-26,2020-12-30
-Doncaster,3,2020-12-31,2021-01-05
-Doncaster,4,2021-01-05,NA
-Dudley,3,2020-12-02,2020-12-15
-Dudley,3,2020-12-16,2020-12-18
-Dudley,3,2020-12-19,2020-12-19
-Dudley,3,2020-12-20,2020-12-25
-Dudley,3,2020-12-26,2020-12-30
-Dudley,4,2020-12-31,2021-01-05
-Dudley,4,2021-01-05,NA
-Gateshead,3,2020-12-02,2020-12-15
-Gateshead,3,2020-12-16,2020-12-18
-Gateshead,3,2020-12-19,2020-12-19
-Gateshead,3,2020-12-20,2020-12-25
-Gateshead,3,2020-12-26,2020-12-30
-Gateshead,4,2020-12-31,2021-01-05
-Gateshead,4,2021-01-05,NA
-Kirklees,3,2020-12-02,2020-12-15
-Kirklees,3,2020-12-16,2020-12-18
-Kirklees,3,2020-12-19,2020-12-19
-Kirklees,3,2020-12-20,2020-12-25
-Kirklees,3,2020-12-26,2020-12-30
-Kirklees,3,2020-12-31,2021-01-05
-Kirklees,4,2021-01-05,NA
-Knowsley,2,2020-12-02,2020-12-15
-Knowsley,2,2020-12-16,2020-12-18
-Knowsley,2,2020-12-19,2020-12-19
-Knowsley,2,2020-12-20,2020-12-25
-Knowsley,2,2020-12-26,2020-12-30
-Knowsley,3,2020-12-31,2021-01-05
-Knowsley,4,2021-01-05,NA
-Leeds,3,2020-12-02,2020-12-15
-Leeds,3,2020-12-16,2020-12-18
-Leeds,3,2020-12-19,2020-12-19
-Leeds,3,2020-12-20,2020-12-25
-Leeds,3,2020-12-26,2020-12-30
-Leeds,3,2020-12-31,2021-01-05
-Leeds,4,2021-01-05,NA
-Liverpool,2,2020-12-02,2020-12-15
-Liverpool,2,2020-12-16,2020-12-18
-Liverpool,2,2020-12-19,2020-12-19
-Liverpool,2,2020-12-20,2020-12-25
-Liverpool,2,2020-12-26,2020-12-30
-Liverpool,3,2020-12-31,2021-01-05
-Liverpool,4,2021-01-05,NA
-Manchester,3,2020-12-02,2020-12-15
-Manchester,3,2020-12-16,2020-12-18
-Manchester,3,2020-12-19,2020-12-19
-Manchester,3,2020-12-20,2020-12-25
-Manchester,3,2020-12-26,2020-12-30
-Manchester,4,2020-12-31,2021-01-05
-Manchester,4,2021-01-05,NA
-Newcastle upon Tyne,3,2020-12-02,2020-12-15
-Newcastle upon Tyne,3,2020-12-16,2020-12-18
-Newcastle upon Tyne,3,2020-12-19,2020-12-19
-Newcastle upon Tyne,3,2020-12-20,2020-12-25
-Newcastle upon Tyne,3,2020-12-26,2020-12-30
-Newcastle upon Tyne,4,2020-12-31,2021-01-05
-Newcastle upon Tyne,4,2021-01-05,NA
-North Tyneside,3,2020-12-02,2020-12-15
-North Tyneside,3,2020-12-16,2020-12-18
-North Tyneside,3,2020-12-19,2020-12-19
-North Tyneside,3,2020-12-20,2020-12-25
-North Tyneside,3,2020-12-26,2020-12-30
-North Tyneside,4,2020-12-31,2021-01-05
-North Tyneside,4,2021-01-05,NA
-Oldham,3,2020-12-02,2020-12-15
-Oldham,3,2020-12-16,2020-12-18
-Oldham,3,2020-12-19,2020-12-19
-Oldham,3,2020-12-20,2020-12-25
-Oldham,3,2020-12-26,2020-12-30
-Oldham,4,2020-12-31,2021-01-05
-Oldham,4,2021-01-05,NA
-Rochdale,3,2020-12-02,2020-12-15
-Rochdale,3,2020-12-16,2020-12-18
-Rochdale,3,2020-12-19,2020-12-19
-Rochdale,3,2020-12-20,2020-12-25
-Rochdale,3,2020-12-26,2020-12-30
-Rochdale,4,2020-12-31,2021-01-05
-Rochdale,4,2021-01-05,NA
-Rotherham,3,2020-12-02,2020-12-15
-Rotherham,3,2020-12-16,2020-12-18
-Rotherham,3,2020-12-19,2020-12-19
-Rotherham,3,2020-12-20,2020-12-25
-Rotherham,3,2020-12-26,2020-12-30
-Rotherham,3,2020-12-31,2021-01-05
-Rotherham,4,2021-01-05,NA
-Salford,3,2020-12-02,2020-12-15
-Salford,3,2020-12-16,2020-12-18
-Salford,3,2020-12-19,2020-12-19
-Salford,3,2020-12-20,2020-12-25
-Salford,3,2020-12-26,2020-12-30
-Salford,4,2020-12-31,2021-01-05
-Salford,4,2021-01-05,NA
-Sandwell,3,2020-12-02,2020-12-15
-Sandwell,3,2020-12-16,2020-12-18
-Sandwell,3,2020-12-19,2020-12-19
-Sandwell,3,2020-12-20,2020-12-25
-Sandwell,3,2020-12-26,2020-12-30
-Sandwell,4,2020-12-31,2021-01-05
-Sandwell,4,2021-01-05,NA
-Sefton,2,2020-12-02,2020-12-15
-Sefton,2,2020-12-16,2020-12-18
-Sefton,2,2020-12-19,2020-12-19
-Sefton,2,2020-12-20,2020-12-25
-Sefton,2,2020-12-26,2020-12-30
-Sefton,3,2020-12-31,2021-01-05
-Sefton,4,2021-01-05,NA
-Sheffield,3,2020-12-02,2020-12-15
-Sheffield,3,2020-12-16,2020-12-18
-Sheffield,3,2020-12-19,2020-12-19
-Sheffield,3,2020-12-20,2020-12-25
-Sheffield,3,2020-12-26,2020-12-30
-Sheffield,3,2020-12-31,2021-01-05
-Sheffield,4,2021-01-05,NA
-Solihull,3,2020-12-02,2020-12-15
-Solihull,3,2020-12-16,2020-12-18
-Solihull,3,2020-12-19,2020-12-19
-Solihull,3,2020-12-20,2020-12-25
-Solihull,3,2020-12-26,2020-12-30
-Solihull,4,2020-12-31,2021-01-05
-Solihull,4,2021-01-05,NA
-South Tyneside,3,2020-12-02,2020-12-15
-South Tyneside,3,2020-12-16,2020-12-18
-South Tyneside,3,2020-12-19,2020-12-19
-South Tyneside,3,2020-12-20,2020-12-25
-South Tyneside,3,2020-12-26,2020-12-30
-South Tyneside,4,2020-12-31,2021-01-05
-South Tyneside,4,2021-01-05,NA
-Stockport,3,2020-12-02,2020-12-15
-Stockport,3,2020-12-16,2020-12-18
-Stockport,3,2020-12-19,2020-12-19
-Stockport,3,2020-12-20,2020-12-25
-Stockport,3,2020-12-26,2020-12-30
-Stockport,4,2020-12-31,2021-01-05
-Stockport,4,2021-01-05,NA
-St Helens,2,2020-12-02,2020-12-15
-St Helens,2,2020-12-16,2020-12-18
-St Helens,2,2020-12-19,2020-12-19
-St Helens,2,2020-12-20,2020-12-25
-St Helens,2,2020-12-26,2020-12-30
-St Helens,3,2020-12-31,2021-01-05
-St Helens,4,2021-01-05,NA
-Sunderland,3,2020-12-02,2020-12-15
-Sunderland,3,2020-12-16,2020-12-18
-Sunderland,3,2020-12-19,2020-12-19
-Sunderland,3,2020-12-20,2020-12-25
-Sunderland,3,2020-12-26,2020-12-30
-Sunderland,4,2020-12-31,2021-01-05
-Sunderland,4,2021-01-05,NA
-Tameside,3,2020-12-02,2020-12-15
-Tameside,3,2020-12-16,2020-12-18
-Tameside,3,2020-12-19,2020-12-19
-Tameside,3,2020-12-20,2020-12-25
-Tameside,3,2020-12-26,2020-12-30
-Tameside,4,2020-12-31,2021-01-05
-Tameside,4,2021-01-05,NA
-Trafford,3,2020-12-02,2020-12-15
-Trafford,3,2020-12-16,2020-12-18
-Trafford,3,2020-12-19,2020-12-19
-Trafford,3,2020-12-20,2020-12-25
-Trafford,3,2020-12-26,2020-12-30
-Trafford,4,2020-12-31,2021-01-05
-Trafford,4,2021-01-05,NA
-Wakefield,3,2020-12-02,2020-12-15
-Wakefield,3,2020-12-16,2020-12-18
-Wakefield,3,2020-12-19,2020-12-19
-Wakefield,3,2020-12-20,2020-12-25
-Wakefield,3,2020-12-26,2020-12-30
-Wakefield,3,2020-12-31,2021-01-05
-Wakefield,4,2021-01-05,NA
-Walsall,3,2020-12-02,2020-12-15
-Walsall,3,2020-12-16,2020-12-18
-Walsall,3,2020-12-19,2020-12-19
-Walsall,3,2020-12-20,2020-12-25
-Walsall,3,2020-12-26,2020-12-30
-Walsall,4,2020-12-31,2021-01-05
-Walsall,4,2021-01-05,NA
-Wigan,3,2020-12-02,2020-12-15
-Wigan,3,2020-12-16,2020-12-18
-Wigan,3,2020-12-19,2020-12-19
-Wigan,3,2020-12-20,2020-12-25
-Wigan,3,2020-12-26,2020-12-30
-Wigan,4,2020-12-31,2021-01-05
-Wigan,4,2021-01-05,NA
-Wirral,2,2020-12-02,2020-12-15
-Wirral,2,2020-12-16,2020-12-18
-Wirral,2,2020-12-19,2020-12-19
-Wirral,2,2020-12-20,2020-12-25
-Wirral,2,2020-12-26,2020-12-30
-Wirral,3,2020-12-31,2021-01-05
-Wirral,4,2021-01-05,NA
+Barrow-in-Furness,2,2020-12-02,2020-12-15
+Barrow-in-Furness,2,2020-12-16,2020-12-18
+Barrow-in-Furness,2,2020-12-19,2020-12-19
+Barrow-in-Furness,2,2020-12-20,2020-12-25
+Barrow-in-Furness,2,2020-12-26,2020-12-30
+Barrow-in-Furness,4,2020-12-31,2021-01-05
+Barrow-in-Furness,4,2021-01-05,NA
+Basildon,2,2020-12-02,2020-12-15
+Basildon,3,2020-12-16,2020-12-18
+Basildon,3,2020-12-19,2020-12-19
+Basildon,4,2020-12-20,2020-12-25
+Basildon,4,2020-12-26,2020-12-30
+Basildon,4,2020-12-31,2021-01-05
+Basildon,4,2021-01-05,NA
+Basingstoke and Deane,2,2020-12-02,2020-12-15
+Basingstoke and Deane,2,2020-12-16,2020-12-18
+Basingstoke and Deane,2,2020-12-19,2020-12-19
+Basingstoke and Deane,2,2020-12-20,2020-12-25
+Basingstoke and Deane,4,2020-12-26,2020-12-30
+Basingstoke and Deane,4,2020-12-31,2021-01-05
+Basingstoke and Deane,4,2021-01-05,NA
+Bassetlaw,3,2020-12-02,2020-12-15
+Bassetlaw,3,2020-12-16,2020-12-18
+Bassetlaw,3,2020-12-19,2020-12-19
+Bassetlaw,3,2020-12-20,2020-12-25
+Bassetlaw,3,2020-12-26,2020-12-30
+Bassetlaw,4,2020-12-31,2021-01-05
+Bassetlaw,4,2021-01-05,NA
 Bath and North East Somerset,2,2020-12-02,2020-12-15
 Bath and North East Somerset,2,2020-12-16,2020-12-18
 Bath and North East Somerset,2,2020-12-19,2020-12-19
@@ -1903,6 +118,27 @@ Bedford,4,2020-12-20,2020-12-25
 Bedford,4,2020-12-26,2020-12-30
 Bedford,4,2020-12-31,2021-01-05
 Bedford,4,2021-01-05,NA
+Bexley,2,2020-12-02,2020-12-15
+Bexley,3,2020-12-16,2020-12-18
+Bexley,3,2020-12-19,2020-12-19
+Bexley,4,2020-12-20,2020-12-25
+Bexley,4,2020-12-26,2020-12-30
+Bexley,4,2020-12-31,2021-01-05
+Bexley,4,2021-01-05,NA
+Birmingham,3,2020-12-02,2020-12-15
+Birmingham,3,2020-12-16,2020-12-18
+Birmingham,3,2020-12-19,2020-12-19
+Birmingham,3,2020-12-20,2020-12-25
+Birmingham,3,2020-12-26,2020-12-30
+Birmingham,4,2020-12-31,2021-01-05
+Birmingham,4,2021-01-05,NA
+Blaby,3,2020-12-02,2020-12-15
+Blaby,3,2020-12-16,2020-12-18
+Blaby,3,2020-12-19,2020-12-19
+Blaby,3,2020-12-20,2020-12-25
+Blaby,3,2020-12-26,2020-12-30
+Blaby,4,2020-12-31,2021-01-05
+Blaby,4,2021-01-05,NA
 Blackburn with Darwen,3,2020-12-02,2020-12-15
 Blackburn with Darwen,3,2020-12-16,2020-12-18
 Blackburn with Darwen,3,2020-12-19,2020-12-19
@@ -1917,6 +153,27 @@ Blackpool,3,2020-12-20,2020-12-25
 Blackpool,3,2020-12-26,2020-12-30
 Blackpool,4,2020-12-31,2021-01-05
 Blackpool,4,2021-01-05,NA
+Bolsover,3,2020-12-02,2020-12-15
+Bolsover,3,2020-12-16,2020-12-18
+Bolsover,3,2020-12-19,2020-12-19
+Bolsover,3,2020-12-20,2020-12-25
+Bolsover,3,2020-12-26,2020-12-30
+Bolsover,4,2020-12-31,2021-01-05
+Bolsover,4,2021-01-05,NA
+Bolton,3,2020-12-02,2020-12-15
+Bolton,3,2020-12-16,2020-12-18
+Bolton,3,2020-12-19,2020-12-19
+Bolton,3,2020-12-20,2020-12-25
+Bolton,3,2020-12-26,2020-12-30
+Bolton,4,2020-12-31,2021-01-05
+Bolton,4,2021-01-05,NA
+Boston,3,2020-12-02,2020-12-15
+Boston,3,2020-12-16,2020-12-18
+Boston,3,2020-12-19,2020-12-19
+Boston,3,2020-12-20,2020-12-25
+Boston,3,2020-12-26,2020-12-30
+Boston,4,2020-12-31,2021-01-05
+Boston,4,2021-01-05,NA
 Bournemouth,2,2020-12-02,2020-12-15
 Bournemouth,2,2020-12-16,2020-12-18
 Bournemouth,2,2020-12-19,2020-12-19
@@ -1931,6 +188,153 @@ Bracknell Forest,4,2020-12-20,2020-12-25
 Bracknell Forest,4,2020-12-26,2020-12-30
 Bracknell Forest,4,2020-12-31,2021-01-05
 Bracknell Forest,4,2021-01-05,NA
+Bradford,3,2020-12-02,2020-12-15
+Bradford,3,2020-12-16,2020-12-18
+Bradford,3,2020-12-19,2020-12-19
+Bradford,3,2020-12-20,2020-12-25
+Bradford,3,2020-12-26,2020-12-30
+Bradford,3,2020-12-31,2021-01-05
+Bradford,4,2021-01-05,NA
+Braintree,2,2020-12-02,2020-12-15
+Braintree,3,2020-12-16,2020-12-18
+Braintree,3,2020-12-19,2020-12-19
+Braintree,4,2020-12-20,2020-12-25
+Braintree,4,2020-12-26,2020-12-30
+Braintree,4,2020-12-31,2021-01-05
+Braintree,4,2021-01-05,NA
+Breckland,2,2020-12-02,2020-12-15
+Breckland,2,2020-12-16,2020-12-18
+Breckland,2,2020-12-19,2020-12-19
+Breckland,2,2020-12-20,2020-12-25
+Breckland,4,2020-12-26,2020-12-30
+Breckland,4,2020-12-31,2021-01-05
+Breckland,4,2021-01-05,NA
+Brent,2,2020-12-02,2020-12-15
+Brent,3,2020-12-16,2020-12-18
+Brent,3,2020-12-19,2020-12-19
+Brent,4,2020-12-20,2020-12-25
+Brent,4,2020-12-26,2020-12-30
+Brent,4,2020-12-31,2021-01-05
+Brent,4,2021-01-05,NA
+Brentwood,2,2020-12-02,2020-12-15
+Brentwood,3,2020-12-16,2020-12-18
+Brentwood,3,2020-12-19,2020-12-19
+Brentwood,4,2020-12-20,2020-12-25
+Brentwood,4,2020-12-26,2020-12-30
+Brentwood,4,2020-12-31,2021-01-05
+Brentwood,4,2021-01-05,NA
+Brighton and Hove,2,2020-12-02,2020-12-15
+Brighton and Hove,2,2020-12-16,2020-12-18
+Brighton and Hove,2,2020-12-19,2020-12-19
+Brighton and Hove,2,2020-12-20,2020-12-25
+Brighton and Hove,4,2020-12-26,2020-12-30
+Brighton and Hove,4,2020-12-31,2021-01-05
+Brighton and Hove,4,2021-01-05,NA
+Bristol,3,2020-12-02,2020-12-15
+Bristol,3,2020-12-16,2020-12-18
+Bristol,2,2020-12-19,2020-12-19
+Bristol,2,2020-12-20,2020-12-25
+Bristol,3,2020-12-26,2020-12-30
+Bristol,3,2020-12-31,2021-01-05
+Bristol,4,2021-01-05,NA
+Broadland,2,2020-12-02,2020-12-15
+Broadland,2,2020-12-16,2020-12-18
+Broadland,2,2020-12-19,2020-12-19
+Broadland,2,2020-12-20,2020-12-25
+Broadland,4,2020-12-26,2020-12-30
+Broadland,4,2020-12-31,2021-01-05
+Broadland,4,2021-01-05,NA
+Bromley,2,2020-12-02,2020-12-15
+Bromley,3,2020-12-16,2020-12-18
+Bromley,3,2020-12-19,2020-12-19
+Bromley,4,2020-12-20,2020-12-25
+Bromley,4,2020-12-26,2020-12-30
+Bromley,4,2020-12-31,2021-01-05
+Bromley,4,2021-01-05,NA
+Bromsgrove,2,2020-12-02,2020-12-15
+Bromsgrove,2,2020-12-16,2020-12-18
+Bromsgrove,2,2020-12-19,2020-12-19
+Bromsgrove,2,2020-12-20,2020-12-25
+Bromsgrove,2,2020-12-26,2020-12-30
+Bromsgrove,3,2020-12-31,2021-01-05
+Bromsgrove,4,2021-01-05,NA
+Broxbourne,2,2020-12-02,2020-12-15
+Broxbourne,3,2020-12-16,2020-12-18
+Broxbourne,3,2020-12-19,2020-12-19
+Broxbourne,4,2020-12-20,2020-12-25
+Broxbourne,4,2020-12-26,2020-12-30
+Broxbourne,4,2020-12-31,2021-01-05
+Broxbourne,4,2021-01-05,NA
+Broxtowe,3,2020-12-02,2020-12-15
+Broxtowe,3,2020-12-16,2020-12-18
+Broxtowe,3,2020-12-19,2020-12-19
+Broxtowe,3,2020-12-20,2020-12-25
+Broxtowe,3,2020-12-26,2020-12-30
+Broxtowe,4,2020-12-31,2021-01-05
+Broxtowe,4,2021-01-05,NA
+Burnley,3,2020-12-02,2020-12-15
+Burnley,3,2020-12-16,2020-12-18
+Burnley,3,2020-12-19,2020-12-19
+Burnley,3,2020-12-20,2020-12-25
+Burnley,3,2020-12-26,2020-12-30
+Burnley,4,2020-12-31,2021-01-05
+Burnley,4,2021-01-05,NA
+Bury,3,2020-12-02,2020-12-15
+Bury,3,2020-12-16,2020-12-18
+Bury,3,2020-12-19,2020-12-19
+Bury,3,2020-12-20,2020-12-25
+Bury,3,2020-12-26,2020-12-30
+Bury,4,2020-12-31,2021-01-05
+Bury,4,2021-01-05,NA
+Calderdale,3,2020-12-02,2020-12-15
+Calderdale,3,2020-12-16,2020-12-18
+Calderdale,3,2020-12-19,2020-12-19
+Calderdale,3,2020-12-20,2020-12-25
+Calderdale,3,2020-12-26,2020-12-30
+Calderdale,3,2020-12-31,2021-01-05
+Calderdale,4,2021-01-05,NA
+Cambridge,2,2020-12-02,2020-12-15
+Cambridge,2,2020-12-16,2020-12-18
+Cambridge,2,2020-12-19,2020-12-19
+Cambridge,2,2020-12-20,2020-12-25
+Cambridge,4,2020-12-26,2020-12-30
+Cambridge,4,2020-12-31,2021-01-05
+Cambridge,4,2021-01-05,NA
+Camden,2,2020-12-02,2020-12-15
+Camden,3,2020-12-16,2020-12-18
+Camden,3,2020-12-19,2020-12-19
+Camden,4,2020-12-20,2020-12-25
+Camden,4,2020-12-26,2020-12-30
+Camden,4,2020-12-31,2021-01-05
+Camden,4,2021-01-05,NA
+Cannock Chase,3,2020-12-02,2020-12-15
+Cannock Chase,3,2020-12-16,2020-12-18
+Cannock Chase,3,2020-12-19,2020-12-19
+Cannock Chase,3,2020-12-20,2020-12-25
+Cannock Chase,3,2020-12-26,2020-12-30
+Cannock Chase,4,2020-12-31,2021-01-05
+Cannock Chase,4,2021-01-05,NA
+Canterbury,3,2020-12-02,2020-12-15
+Canterbury,3,2020-12-16,2020-12-18
+Canterbury,3,2020-12-19,2020-12-19
+Canterbury,4,2020-12-20,2020-12-25
+Canterbury,4,2020-12-26,2020-12-30
+Canterbury,4,2020-12-31,2021-01-05
+Canterbury,4,2021-01-05,NA
+Carlisle,2,2020-12-02,2020-12-15
+Carlisle,2,2020-12-16,2020-12-18
+Carlisle,2,2020-12-19,2020-12-19
+Carlisle,2,2020-12-20,2020-12-25
+Carlisle,2,2020-12-26,2020-12-30
+Carlisle,4,2020-12-31,2021-01-05
+Carlisle,4,2021-01-05,NA
+Castle Point,2,2020-12-02,2020-12-15
+Castle Point,3,2020-12-16,2020-12-18
+Castle Point,3,2020-12-19,2020-12-19
+Castle Point,4,2020-12-20,2020-12-25
+Castle Point,4,2020-12-26,2020-12-30
+Castle Point,4,2020-12-31,2021-01-05
+Castle Point,4,2021-01-05,NA
 Central Bedfordshire,2,2020-12-02,2020-12-15
 Central Bedfordshire,2,2020-12-16,2020-12-18
 Central Bedfordshire,3,2020-12-19,2020-12-19
@@ -1938,6 +342,34 @@ Central Bedfordshire,4,2020-12-20,2020-12-25
 Central Bedfordshire,4,2020-12-26,2020-12-30
 Central Bedfordshire,4,2020-12-31,2021-01-05
 Central Bedfordshire,4,2021-01-05,NA
+Charnwood,3,2020-12-02,2020-12-15
+Charnwood,3,2020-12-16,2020-12-18
+Charnwood,3,2020-12-19,2020-12-19
+Charnwood,3,2020-12-20,2020-12-25
+Charnwood,3,2020-12-26,2020-12-30
+Charnwood,4,2020-12-31,2021-01-05
+Charnwood,4,2021-01-05,NA
+Chelmsford,2,2020-12-02,2020-12-15
+Chelmsford,3,2020-12-16,2020-12-18
+Chelmsford,3,2020-12-19,2020-12-19
+Chelmsford,4,2020-12-20,2020-12-25
+Chelmsford,4,2020-12-26,2020-12-30
+Chelmsford,4,2020-12-31,2021-01-05
+Chelmsford,4,2021-01-05,NA
+Cheltenham,2,2020-12-02,2020-12-15
+Cheltenham,2,2020-12-16,2020-12-18
+Cheltenham,2,2020-12-19,2020-12-19
+Cheltenham,2,2020-12-20,2020-12-25
+Cheltenham,3,2020-12-26,2020-12-30
+Cheltenham,4,2020-12-31,2021-01-05
+Cheltenham,4,2021-01-05,NA
+Cherwell,2,2020-12-02,2020-12-15
+Cherwell,2,2020-12-16,2020-12-18
+Cherwell,2,2020-12-19,2020-12-19
+Cherwell,2,2020-12-20,2020-12-25
+Cherwell,4,2020-12-26,2020-12-30
+Cherwell,4,2020-12-31,2021-01-05
+Cherwell,4,2021-01-05,NA
 Cheshire East,2,2020-12-02,2020-12-15
 Cheshire East,2,2020-12-16,2020-12-18
 Cheshire East,2,2020-12-19,2020-12-19
@@ -1952,76 +384,69 @@ Cheshire West and Chester,2,2020-12-20,2020-12-25
 Cheshire West and Chester,3,2020-12-26,2020-12-30
 Cheshire West and Chester,4,2020-12-31,2021-01-05
 Cheshire West and Chester,4,2021-01-05,NA
-Bristol,3,2020-12-02,2020-12-15
-Bristol,3,2020-12-16,2020-12-18
-Bristol,2,2020-12-19,2020-12-19
-Bristol,2,2020-12-20,2020-12-25
-Bristol,3,2020-12-26,2020-12-30
-Bristol,3,2020-12-31,2021-01-05
-Bristol,4,2021-01-05,NA
-Derby,3,2020-12-02,2020-12-15
-Derby,3,2020-12-16,2020-12-18
-Derby,3,2020-12-19,2020-12-19
-Derby,3,2020-12-20,2020-12-25
-Derby,3,2020-12-26,2020-12-30
-Derby,4,2020-12-31,2021-01-05
-Derby,4,2021-01-05,NA
-Kingston upon Hull,2,2020-12-02,2020-12-15
-Kingston upon Hull,2,2020-12-16,2020-12-18
-Kingston upon Hull,3,2020-12-19,2020-12-19
-Kingston upon Hull,3,2020-12-20,2020-12-25
-Kingston upon Hull,3,2020-12-26,2020-12-30
-Kingston upon Hull,3,2020-12-31,2021-01-05
-Kingston upon Hull,4,2021-01-05,NA
-Leicester,3,2020-12-02,2020-12-15
-Leicester,3,2020-12-16,2020-12-18
-Leicester,3,2020-12-19,2020-12-19
-Leicester,3,2020-12-20,2020-12-25
-Leicester,3,2020-12-26,2020-12-30
-Leicester,4,2020-12-31,2021-01-05
-Leicester,4,2021-01-05,NA
-Nottingham,3,2020-12-02,2020-12-15
-Nottingham,3,2020-12-16,2020-12-18
-Nottingham,3,2020-12-19,2020-12-19
-Nottingham,3,2020-12-20,2020-12-25
-Nottingham,3,2020-12-26,2020-12-30
-Nottingham,4,2020-12-31,2021-01-05
-Nottingham,4,2021-01-05,NA
-Peterborough,2,2020-12-02,2020-12-15
-Peterborough,2,2020-12-16,2020-12-18
-Peterborough,3,2020-12-19,2020-12-19
-Peterborough,4,2020-12-20,2020-12-25
-Peterborough,4,2020-12-26,2020-12-30
-Peterborough,4,2020-12-31,2021-01-05
-Peterborough,4,2021-01-05,NA
-Plymouth,2,2020-12-02,2020-12-15
-Plymouth,2,2020-12-16,2020-12-18
-Plymouth,2,2020-12-19,2020-12-19
-Plymouth,2,2020-12-20,2020-12-25
-Plymouth,2,2020-12-26,2020-12-30
-Plymouth,3,2020-12-31,2021-01-05
-Plymouth,4,2021-01-05,NA
-Portsmouth,2,2020-12-02,2020-12-15
-Portsmouth,2,2020-12-16,2020-12-18
-Portsmouth,3,2020-12-19,2020-12-19
-Portsmouth,4,2020-12-20,2020-12-25
-Portsmouth,4,2020-12-26,2020-12-30
-Portsmouth,4,2020-12-31,2021-01-05
-Portsmouth,4,2021-01-05,NA
-Southampton,2,2020-12-02,2020-12-15
-Southampton,2,2020-12-16,2020-12-18
-Southampton,2,2020-12-19,2020-12-19
-Southampton,2,2020-12-20,2020-12-25
-Southampton,4,2020-12-26,2020-12-30
-Southampton,4,2020-12-31,2021-01-05
-Southampton,4,2021-01-05,NA
-Stoke-on-Trent,3,2020-12-02,2020-12-15
-Stoke-on-Trent,3,2020-12-16,2020-12-18
-Stoke-on-Trent,3,2020-12-19,2020-12-19
-Stoke-on-Trent,3,2020-12-20,2020-12-25
-Stoke-on-Trent,3,2020-12-26,2020-12-30
-Stoke-on-Trent,4,2020-12-31,2021-01-05
-Stoke-on-Trent,4,2021-01-05,NA
+Chesterfield,3,2020-12-02,2020-12-15
+Chesterfield,3,2020-12-16,2020-12-18
+Chesterfield,3,2020-12-19,2020-12-19
+Chesterfield,3,2020-12-20,2020-12-25
+Chesterfield,3,2020-12-26,2020-12-30
+Chesterfield,4,2020-12-31,2021-01-05
+Chesterfield,4,2021-01-05,NA
+Chichester,2,2020-12-02,2020-12-15
+Chichester,2,2020-12-16,2020-12-18
+Chichester,2,2020-12-19,2020-12-19
+Chichester,2,2020-12-20,2020-12-25
+Chichester,4,2020-12-26,2020-12-30
+Chichester,4,2020-12-31,2021-01-05
+Chichester,4,2021-01-05,NA
+Chiltern,2,2020-12-02,2020-12-15
+Chiltern,2,2020-12-16,2020-12-18
+Chiltern,3,2020-12-19,2020-12-19
+Chiltern,4,2020-12-20,2020-12-25
+Chiltern,4,2020-12-26,2020-12-30
+Chiltern,4,2020-12-31,2021-01-05
+Chiltern,4,2021-01-05,NA
+Chorley,3,2020-12-02,2020-12-15
+Chorley,3,2020-12-16,2020-12-18
+Chorley,3,2020-12-19,2020-12-19
+Chorley,3,2020-12-20,2020-12-25
+Chorley,3,2020-12-26,2020-12-30
+Chorley,4,2020-12-31,2021-01-05
+Chorley,4,2021-01-05,NA
+Christchurch,2,2020-12-02,2020-12-15
+Christchurch,2,2020-12-16,2020-12-18
+Christchurch,2,2020-12-19,2020-12-19
+Christchurch,2,2020-12-20,2020-12-25
+Christchurch,2,2020-12-26,2020-12-30
+Christchurch,4,2020-12-31,2021-01-05
+Christchurch,4,2021-01-05,NA
+City of London,2,2020-12-02,2020-12-15
+City of London,3,2020-12-16,2020-12-18
+City of London,3,2020-12-19,2020-12-19
+City of London,4,2020-12-20,2020-12-25
+City of London,4,2020-12-26,2020-12-30
+City of London,4,2020-12-31,2021-01-05
+City of London,4,2021-01-05,NA
+Colchester,2,2020-12-02,2020-12-15
+Colchester,2,2020-12-16,2020-12-18
+Colchester,2,2020-12-19,2020-12-19
+Colchester,2,2020-12-20,2020-12-25
+Colchester,4,2020-12-26,2020-12-30
+Colchester,4,2020-12-31,2021-01-05
+Colchester,4,2021-01-05,NA
+Copeland,2,2020-12-02,2020-12-15
+Copeland,2,2020-12-16,2020-12-18
+Copeland,2,2020-12-19,2020-12-19
+Copeland,2,2020-12-20,2020-12-25
+Copeland,2,2020-12-26,2020-12-30
+Copeland,4,2020-12-31,2021-01-05
+Copeland,4,2021-01-05,NA
+Corby,2,2020-12-02,2020-12-15
+Corby,2,2020-12-16,2020-12-18
+Corby,2,2020-12-19,2020-12-19
+Corby,2,2020-12-20,2020-12-25
+Corby,3,2020-12-26,2020-12-30
+Corby,4,2020-12-31,2021-01-05
+Corby,4,2021-01-05,NA
 Cornwall,1,2020-12-02,2020-12-15
 Cornwall,1,2020-12-16,2020-12-18
 Cornwall,1,2020-12-19,2020-12-19
@@ -2029,6 +454,13 @@ Cornwall,1,2020-12-20,2020-12-25
 Cornwall,2,2020-12-26,2020-12-30
 Cornwall,3,2020-12-31,2021-01-05
 Cornwall,4,2021-01-05,NA
+Cotswold,2,2020-12-02,2020-12-15
+Cotswold,2,2020-12-16,2020-12-18
+Cotswold,2,2020-12-19,2020-12-19
+Cotswold,2,2020-12-20,2020-12-25
+Cotswold,3,2020-12-26,2020-12-30
+Cotswold,4,2020-12-31,2021-01-05
+Cotswold,4,2021-01-05,NA
 County Durham,3,2020-12-02,2020-12-15
 County Durham,3,2020-12-16,2020-12-18
 County Durham,3,2020-12-19,2020-12-19
@@ -2036,13 +468,41 @@ County Durham,3,2020-12-20,2020-12-25
 County Durham,3,2020-12-26,2020-12-30
 County Durham,4,2020-12-31,2021-01-05
 County Durham,4,2021-01-05,NA
-Herefordshire,2,2020-12-02,2020-12-15
-Herefordshire,2,2020-12-16,2020-12-18
-Herefordshire,1,2020-12-19,2020-12-19
-Herefordshire,1,2020-12-20,2020-12-25
-Herefordshire,2,2020-12-26,2020-12-30
-Herefordshire,3,2020-12-31,2021-01-05
-Herefordshire,4,2021-01-05,NA
+Coventry,3,2020-12-02,2020-12-15
+Coventry,3,2020-12-16,2020-12-18
+Coventry,3,2020-12-19,2020-12-19
+Coventry,3,2020-12-20,2020-12-25
+Coventry,3,2020-12-26,2020-12-30
+Coventry,4,2020-12-31,2021-01-05
+Coventry,4,2021-01-05,NA
+Craven,2,2020-12-02,2020-12-15
+Craven,2,2020-12-16,2020-12-18
+Craven,2,2020-12-19,2020-12-19
+Craven,2,2020-12-20,2020-12-25
+Craven,2,2020-12-26,2020-12-30
+Craven,4,2020-12-31,2021-01-05
+Craven,4,2021-01-05,NA
+Crawley,2,2020-12-02,2020-12-15
+Crawley,2,2020-12-16,2020-12-18
+Crawley,2,2020-12-19,2020-12-19
+Crawley,2,2020-12-20,2020-12-25
+Crawley,4,2020-12-26,2020-12-30
+Crawley,4,2020-12-31,2021-01-05
+Crawley,4,2021-01-05,NA
+Croydon,2,2020-12-02,2020-12-15
+Croydon,3,2020-12-16,2020-12-18
+Croydon,3,2020-12-19,2020-12-19
+Croydon,4,2020-12-20,2020-12-25
+Croydon,4,2020-12-26,2020-12-30
+Croydon,4,2020-12-31,2021-01-05
+Croydon,4,2021-01-05,NA
+Dacorum,2,2020-12-02,2020-12-15
+Dacorum,2,2020-12-16,2020-12-18
+Dacorum,3,2020-12-19,2020-12-19
+Dacorum,4,2020-12-20,2020-12-25
+Dacorum,4,2020-12-26,2020-12-30
+Dacorum,4,2020-12-31,2021-01-05
+Dacorum,4,2021-01-05,NA
 Darlington,3,2020-12-02,2020-12-15
 Darlington,3,2020-12-16,2020-12-18
 Darlington,3,2020-12-19,2020-12-19
@@ -2050,6 +510,111 @@ Darlington,3,2020-12-20,2020-12-25
 Darlington,3,2020-12-26,2020-12-30
 Darlington,4,2020-12-31,2021-01-05
 Darlington,4,2021-01-05,NA
+Dartford,3,2020-12-02,2020-12-15
+Dartford,3,2020-12-16,2020-12-18
+Dartford,3,2020-12-19,2020-12-19
+Dartford,4,2020-12-20,2020-12-25
+Dartford,4,2020-12-26,2020-12-30
+Dartford,4,2020-12-31,2021-01-05
+Dartford,4,2021-01-05,NA
+Daventry,2,2020-12-02,2020-12-15
+Daventry,2,2020-12-16,2020-12-18
+Daventry,2,2020-12-19,2020-12-19
+Daventry,2,2020-12-20,2020-12-25
+Daventry,3,2020-12-26,2020-12-30
+Daventry,4,2020-12-31,2021-01-05
+Daventry,4,2021-01-05,NA
+Derby,3,2020-12-02,2020-12-15
+Derby,3,2020-12-16,2020-12-18
+Derby,3,2020-12-19,2020-12-19
+Derby,3,2020-12-20,2020-12-25
+Derby,3,2020-12-26,2020-12-30
+Derby,4,2020-12-31,2021-01-05
+Derby,4,2021-01-05,NA
+Derbyshire Dales,3,2020-12-02,2020-12-15
+Derbyshire Dales,3,2020-12-16,2020-12-18
+Derbyshire Dales,3,2020-12-19,2020-12-19
+Derbyshire Dales,3,2020-12-20,2020-12-25
+Derbyshire Dales,3,2020-12-26,2020-12-30
+Derbyshire Dales,4,2020-12-31,2021-01-05
+Derbyshire Dales,4,2021-01-05,NA
+Doncaster,3,2020-12-02,2020-12-15
+Doncaster,3,2020-12-16,2020-12-18
+Doncaster,3,2020-12-19,2020-12-19
+Doncaster,3,2020-12-20,2020-12-25
+Doncaster,3,2020-12-26,2020-12-30
+Doncaster,3,2020-12-31,2021-01-05
+Doncaster,4,2021-01-05,NA
+Dover,3,2020-12-02,2020-12-15
+Dover,3,2020-12-16,2020-12-18
+Dover,3,2020-12-19,2020-12-19
+Dover,4,2020-12-20,2020-12-25
+Dover,4,2020-12-26,2020-12-30
+Dover,4,2020-12-31,2021-01-05
+Dover,4,2021-01-05,NA
+Dudley,3,2020-12-02,2020-12-15
+Dudley,3,2020-12-16,2020-12-18
+Dudley,3,2020-12-19,2020-12-19
+Dudley,3,2020-12-20,2020-12-25
+Dudley,3,2020-12-26,2020-12-30
+Dudley,4,2020-12-31,2021-01-05
+Dudley,4,2021-01-05,NA
+Ealing,2,2020-12-02,2020-12-15
+Ealing,3,2020-12-16,2020-12-18
+Ealing,3,2020-12-19,2020-12-19
+Ealing,4,2020-12-20,2020-12-25
+Ealing,4,2020-12-26,2020-12-30
+Ealing,4,2020-12-31,2021-01-05
+Ealing,4,2021-01-05,NA
+East Cambridgeshire,2,2020-12-02,2020-12-15
+East Cambridgeshire,2,2020-12-16,2020-12-18
+East Cambridgeshire,2,2020-12-19,2020-12-19
+East Cambridgeshire,2,2020-12-20,2020-12-25
+East Cambridgeshire,4,2020-12-26,2020-12-30
+East Cambridgeshire,4,2020-12-31,2021-01-05
+East Cambridgeshire,4,2021-01-05,NA
+East Devon,2,2020-12-02,2020-12-15
+East Devon,2,2020-12-16,2020-12-18
+East Devon,2,2020-12-19,2020-12-19
+East Devon,2,2020-12-20,2020-12-25
+East Devon,2,2020-12-26,2020-12-30
+East Devon,3,2020-12-31,2021-01-05
+East Devon,4,2021-01-05,NA
+East Dorset,2,2020-12-02,2020-12-15
+East Dorset,2,2020-12-16,2020-12-18
+East Dorset,2,2020-12-19,2020-12-19
+East Dorset,2,2020-12-20,2020-12-25
+East Dorset,2,2020-12-26,2020-12-30
+East Dorset,3,2020-12-31,2021-01-05
+East Dorset,4,2021-01-05,NA
+East Hampshire,2,2020-12-02,2020-12-15
+East Hampshire,2,2020-12-16,2020-12-18
+East Hampshire,2,2020-12-19,2020-12-19
+East Hampshire,2,2020-12-20,2020-12-25
+East Hampshire,4,2020-12-26,2020-12-30
+East Hampshire,4,2020-12-31,2021-01-05
+East Hampshire,4,2021-01-05,NA
+East Hertfordshire,2,2020-12-02,2020-12-15
+East Hertfordshire,2,2020-12-16,2020-12-18
+East Hertfordshire,3,2020-12-19,2020-12-19
+East Hertfordshire,4,2020-12-20,2020-12-25
+East Hertfordshire,4,2020-12-26,2020-12-30
+East Hertfordshire,4,2020-12-31,2021-01-05
+East Hertfordshire,4,2021-01-05,NA
+East Lindsey,3,2020-12-02,2020-12-15
+East Lindsey,3,2020-12-16,2020-12-18
+East Lindsey,3,2020-12-19,2020-12-19
+East Lindsey,3,2020-12-20,2020-12-25
+East Lindsey,3,2020-12-26,2020-12-30
+East Lindsey,4,2020-12-31,2021-01-05
+East Lindsey,4,2021-01-05,NA
+East Northamptonshire,2,2020-12-02,2020-12-15
+East Northamptonshire,2,2020-12-16,2020-12-18
+East Northamptonshire,2,2020-12-19,2020-12-19
+East Northamptonshire,2,2020-12-20,2020-12-25
+East Northamptonshire,3,2020-12-26,2020-12-30
+East Northamptonshire,4,2020-12-31,2021-01-05
+East Northamptonshire,4,2021-01-05,NA
 East Riding of Yorkshire,3,2020-12-02,2020-12-15
 East Riding of Yorkshire,3,2020-12-16,2020-12-18
 East Riding of Yorkshire,3,2020-12-19,2020-12-19
@@ -2057,6 +622,174 @@ East Riding of Yorkshire,3,2020-12-20,2020-12-25
 East Riding of Yorkshire,3,2020-12-26,2020-12-30
 East Riding of Yorkshire,3,2020-12-31,2021-01-05
 East Riding of Yorkshire,4,2021-01-05,NA
+East Staffordshire,3,2020-12-02,2020-12-15
+East Staffordshire,3,2020-12-16,2020-12-18
+East Staffordshire,3,2020-12-19,2020-12-19
+East Staffordshire,3,2020-12-20,2020-12-25
+East Staffordshire,3,2020-12-26,2020-12-30
+East Staffordshire,4,2020-12-31,2021-01-05
+East Staffordshire,4,2021-01-05,NA
+Eastbourne,2,2020-12-02,2020-12-15
+Eastbourne,2,2020-12-16,2020-12-18
+Eastbourne,2,2020-12-19,2020-12-19
+Eastbourne,2,2020-12-20,2020-12-25
+Eastbourne,4,2020-12-26,2020-12-30
+Eastbourne,4,2020-12-31,2021-01-05
+Eastbourne,4,2021-01-05,NA
+Eastleigh,2,2020-12-02,2020-12-15
+Eastleigh,2,2020-12-16,2020-12-18
+Eastleigh,2,2020-12-19,2020-12-19
+Eastleigh,2,2020-12-20,2020-12-25
+Eastleigh,4,2020-12-26,2020-12-30
+Eastleigh,4,2020-12-31,2021-01-05
+Eastleigh,4,2021-01-05,NA
+Eden,2,2020-12-02,2020-12-15
+Eden,2,2020-12-16,2020-12-18
+Eden,2,2020-12-19,2020-12-19
+Eden,2,2020-12-20,2020-12-25
+Eden,2,2020-12-26,2020-12-30
+Eden,4,2020-12-31,2021-01-05
+Eden,4,2021-01-05,NA
+Elmbridge,2,2020-12-02,2020-12-15
+Elmbridge,2,2020-12-16,2020-12-18
+Elmbridge,3,2020-12-19,2020-12-19
+Elmbridge,4,2020-12-20,2020-12-25
+Elmbridge,4,2020-12-26,2020-12-30
+Elmbridge,4,2020-12-31,2021-01-05
+Elmbridge,4,2021-01-05,NA
+Enfield,2,2020-12-02,2020-12-15
+Enfield,3,2020-12-16,2020-12-18
+Enfield,3,2020-12-19,2020-12-19
+Enfield,4,2020-12-20,2020-12-25
+Enfield,4,2020-12-26,2020-12-30
+Enfield,4,2020-12-31,2021-01-05
+Enfield,4,2021-01-05,NA
+Epping Forest,2,2020-12-02,2020-12-15
+Epping Forest,3,2020-12-16,2020-12-18
+Epping Forest,3,2020-12-19,2020-12-19
+Epping Forest,4,2020-12-20,2020-12-25
+Epping Forest,4,2020-12-26,2020-12-30
+Epping Forest,4,2020-12-31,2021-01-05
+Epping Forest,4,2021-01-05,NA
+Epsom and Ewell,2,2020-12-02,2020-12-15
+Epsom and Ewell,3,2020-12-16,2020-12-18
+Epsom and Ewell,3,2020-12-19,2020-12-19
+Epsom and Ewell,4,2020-12-20,2020-12-25
+Epsom and Ewell,4,2020-12-26,2020-12-30
+Epsom and Ewell,4,2020-12-31,2021-01-05
+Epsom and Ewell,4,2021-01-05,NA
+Erewash,3,2020-12-02,2020-12-15
+Erewash,3,2020-12-16,2020-12-18
+Erewash,3,2020-12-19,2020-12-19
+Erewash,3,2020-12-20,2020-12-25
+Erewash,3,2020-12-26,2020-12-30
+Erewash,4,2020-12-31,2021-01-05
+Erewash,4,2021-01-05,NA
+Exeter,2,2020-12-02,2020-12-15
+Exeter,2,2020-12-16,2020-12-18
+Exeter,2,2020-12-19,2020-12-19
+Exeter,2,2020-12-20,2020-12-25
+Exeter,2,2020-12-26,2020-12-30
+Exeter,3,2020-12-31,2021-01-05
+Exeter,4,2021-01-05,NA
+Fareham,2,2020-12-02,2020-12-15
+Fareham,2,2020-12-16,2020-12-18
+Fareham,2,2020-12-19,2020-12-19
+Fareham,2,2020-12-20,2020-12-25
+Fareham,4,2020-12-26,2020-12-30
+Fareham,4,2020-12-31,2021-01-05
+Fareham,4,2021-01-05,NA
+Fenland,2,2020-12-02,2020-12-15
+Fenland,2,2020-12-16,2020-12-18
+Fenland,2,2020-12-19,2020-12-19
+Fenland,2,2020-12-20,2020-12-25
+Fenland,4,2020-12-26,2020-12-30
+Fenland,4,2020-12-31,2021-01-05
+Fenland,4,2021-01-05,NA
+Forest Heath,2,2020-12-02,2020-12-15
+Forest Heath,2,2020-12-16,2020-12-18
+Forest Heath,2,2020-12-19,2020-12-19
+Forest Heath,2,2020-12-20,2020-12-25
+Forest Heath,4,2020-12-26,2020-12-30
+Forest Heath,4,2020-12-31,2021-01-05
+Forest Heath,4,2021-01-05,NA
+Forest of Dean,2,2020-12-02,2020-12-15
+Forest of Dean,2,2020-12-16,2020-12-18
+Forest of Dean,2,2020-12-19,2020-12-19
+Forest of Dean,2,2020-12-20,2020-12-25
+Forest of Dean,3,2020-12-26,2020-12-30
+Forest of Dean,4,2020-12-31,2021-01-05
+Forest of Dean,4,2021-01-05,NA
+Fylde,3,2020-12-02,2020-12-15
+Fylde,3,2020-12-16,2020-12-18
+Fylde,3,2020-12-19,2020-12-19
+Fylde,3,2020-12-20,2020-12-25
+Fylde,3,2020-12-26,2020-12-30
+Fylde,4,2020-12-31,2021-01-05
+Fylde,4,2021-01-05,NA
+Gateshead,3,2020-12-02,2020-12-15
+Gateshead,3,2020-12-16,2020-12-18
+Gateshead,3,2020-12-19,2020-12-19
+Gateshead,3,2020-12-20,2020-12-25
+Gateshead,3,2020-12-26,2020-12-30
+Gateshead,4,2020-12-31,2021-01-05
+Gateshead,4,2021-01-05,NA
+Gedling,3,2020-12-02,2020-12-15
+Gedling,3,2020-12-16,2020-12-18
+Gedling,3,2020-12-19,2020-12-19
+Gedling,3,2020-12-20,2020-12-25
+Gedling,3,2020-12-26,2020-12-30
+Gedling,4,2020-12-31,2021-01-05
+Gedling,4,2021-01-05,NA
+Gloucester,2,2020-12-02,2020-12-15
+Gloucester,2,2020-12-16,2020-12-18
+Gloucester,2,2020-12-19,2020-12-19
+Gloucester,2,2020-12-20,2020-12-25
+Gloucester,3,2020-12-26,2020-12-30
+Gloucester,4,2020-12-31,2021-01-05
+Gloucester,4,2021-01-05,NA
+Gosport,2,2020-12-02,2020-12-15
+Gosport,2,2020-12-16,2020-12-18
+Gosport,3,2020-12-19,2020-12-19
+Gosport,4,2020-12-20,2020-12-25
+Gosport,4,2020-12-26,2020-12-30
+Gosport,4,2020-12-31,2021-01-05
+Gosport,4,2021-01-05,NA
+Gravesham,3,2020-12-02,2020-12-15
+Gravesham,3,2020-12-16,2020-12-18
+Gravesham,3,2020-12-19,2020-12-19
+Gravesham,4,2020-12-20,2020-12-25
+Gravesham,4,2020-12-26,2020-12-30
+Gravesham,4,2020-12-31,2021-01-05
+Gravesham,4,2021-01-05,NA
+Great Yarmouth,2,2020-12-02,2020-12-15
+Great Yarmouth,2,2020-12-16,2020-12-18
+Great Yarmouth,2,2020-12-19,2020-12-19
+Great Yarmouth,2,2020-12-20,2020-12-25
+Great Yarmouth,4,2020-12-26,2020-12-30
+Great Yarmouth,4,2020-12-31,2021-01-05
+Great Yarmouth,4,2021-01-05,NA
+Greenwich,2,2020-12-02,2020-12-15
+Greenwich,3,2020-12-16,2020-12-18
+Greenwich,3,2020-12-19,2020-12-19
+Greenwich,4,2020-12-20,2020-12-25
+Greenwich,4,2020-12-26,2020-12-30
+Greenwich,4,2020-12-31,2021-01-05
+Greenwich,4,2021-01-05,NA
+Guildford,2,2020-12-02,2020-12-15
+Guildford,2,2020-12-16,2020-12-18
+Guildford,3,2020-12-19,2020-12-19
+Guildford,4,2020-12-20,2020-12-25
+Guildford,4,2020-12-26,2020-12-30
+Guildford,4,2020-12-31,2021-01-05
+Guildford,4,2021-01-05,NA
+Hackney,2,2020-12-02,2020-12-15
+Hackney,3,2020-12-16,2020-12-18
+Hackney,3,2020-12-19,2020-12-19
+Hackney,4,2020-12-20,2020-12-25
+Hackney,4,2020-12-26,2020-12-30
+Hackney,4,2020-12-31,2021-01-05
+Hackney,4,2021-01-05,NA
 Halton,2,2020-12-02,2020-12-15
 Halton,2,2020-12-16,2020-12-18
 Halton,2,2020-12-19,2020-12-19
@@ -2064,6 +797,62 @@ Halton,2,2020-12-20,2020-12-25
 Halton,2,2020-12-26,2020-12-30
 Halton,3,2020-12-31,2021-01-05
 Halton,4,2021-01-05,NA
+Hambleton,2,2020-12-02,2020-12-15
+Hambleton,2,2020-12-16,2020-12-18
+Hambleton,2,2020-12-19,2020-12-19
+Hambleton,2,2020-12-20,2020-12-25
+Hambleton,2,2020-12-26,2020-12-30
+Hambleton,3,2020-12-31,2021-01-05
+Hambleton,4,2021-01-05,NA
+Hammersmith and Fulham,2,2020-12-02,2020-12-15
+Hammersmith and Fulham,3,2020-12-16,2020-12-18
+Hammersmith and Fulham,3,2020-12-19,2020-12-19
+Hammersmith and Fulham,4,2020-12-20,2020-12-25
+Hammersmith and Fulham,4,2020-12-26,2020-12-30
+Hammersmith and Fulham,4,2020-12-31,2021-01-05
+Hammersmith and Fulham,4,2021-01-05,NA
+Harborough,3,2020-12-02,2020-12-15
+Harborough,3,2020-12-16,2020-12-18
+Harborough,3,2020-12-19,2020-12-19
+Harborough,3,2020-12-20,2020-12-25
+Harborough,3,2020-12-26,2020-12-30
+Harborough,4,2020-12-31,2021-01-05
+Harborough,4,2021-01-05,NA
+Haringey,2,2020-12-02,2020-12-15
+Haringey,3,2020-12-16,2020-12-18
+Haringey,3,2020-12-19,2020-12-19
+Haringey,4,2020-12-20,2020-12-25
+Haringey,4,2020-12-26,2020-12-30
+Haringey,4,2020-12-31,2021-01-05
+Haringey,4,2021-01-05,NA
+Harlow,2,2020-12-02,2020-12-15
+Harlow,3,2020-12-16,2020-12-18
+Harlow,3,2020-12-19,2020-12-19
+Harlow,4,2020-12-20,2020-12-25
+Harlow,4,2020-12-26,2020-12-30
+Harlow,4,2020-12-31,2021-01-05
+Harlow,4,2021-01-05,NA
+Harrogate,2,2020-12-02,2020-12-15
+Harrogate,2,2020-12-16,2020-12-18
+Harrogate,2,2020-12-19,2020-12-19
+Harrogate,2,2020-12-20,2020-12-25
+Harrogate,2,2020-12-26,2020-12-30
+Harrogate,3,2020-12-31,2021-01-05
+Harrogate,4,2021-01-05,NA
+Harrow,2,2020-12-02,2020-12-15
+Harrow,3,2020-12-16,2020-12-18
+Harrow,3,2020-12-19,2020-12-19
+Harrow,4,2020-12-20,2020-12-25
+Harrow,4,2020-12-26,2020-12-30
+Harrow,4,2020-12-31,2021-01-05
+Harrow,4,2021-01-05,NA
+Hart,2,2020-12-02,2020-12-15
+Hart,2,2020-12-16,2020-12-18
+Hart,2,2020-12-19,2020-12-19
+Hart,2,2020-12-20,2020-12-25
+Hart,4,2020-12-26,2020-12-30
+Hart,4,2020-12-31,2021-01-05
+Hart,4,2021-01-05,NA
 Hartlepool,3,2020-12-02,2020-12-15
 Hartlepool,3,2020-12-16,2020-12-18
 Hartlepool,3,2020-12-19,2020-12-19
@@ -2071,13 +860,97 @@ Hartlepool,3,2020-12-20,2020-12-25
 Hartlepool,3,2020-12-26,2020-12-30
 Hartlepool,4,2020-12-31,2021-01-05
 Hartlepool,4,2021-01-05,NA
-Isles of Scilly,1,2020-12-02,2020-12-15
-Isles of Scilly,1,2020-12-16,2020-12-18
-Isles of Scilly,1,2020-12-19,2020-12-19
-Isles of Scilly,1,2020-12-20,2020-12-25
-Isles of Scilly,1,2020-12-26,2020-12-30
-Isles of Scilly,1,2020-12-31,2021-01-05
-Isles of Scilly,4,2021-01-05,NA
+Hastings,2,2020-12-02,2020-12-15
+Hastings,2,2020-12-16,2020-12-18
+Hastings,3,2020-12-19,2020-12-19
+Hastings,4,2020-12-20,2020-12-25
+Hastings,4,2020-12-26,2020-12-30
+Hastings,4,2020-12-31,2021-01-05
+Hastings,4,2021-01-05,NA
+Havant,2,2020-12-02,2020-12-15
+Havant,2,2020-12-16,2020-12-18
+Havant,3,2020-12-19,2020-12-19
+Havant,4,2020-12-20,2020-12-25
+Havant,4,2020-12-26,2020-12-30
+Havant,4,2020-12-31,2021-01-05
+Havant,4,2021-01-05,NA
+Havering,2,2020-12-02,2020-12-15
+Havering,3,2020-12-16,2020-12-18
+Havering,3,2020-12-19,2020-12-19
+Havering,4,2020-12-20,2020-12-25
+Havering,4,2020-12-26,2020-12-30
+Havering,4,2020-12-31,2021-01-05
+Havering,4,2021-01-05,NA
+Herefordshire,2,2020-12-02,2020-12-15
+Herefordshire,2,2020-12-16,2020-12-18
+Herefordshire,1,2020-12-19,2020-12-19
+Herefordshire,1,2020-12-20,2020-12-25
+Herefordshire,2,2020-12-26,2020-12-30
+Herefordshire,3,2020-12-31,2021-01-05
+Herefordshire,4,2021-01-05,NA
+Hertsmere,2,2020-12-02,2020-12-15
+Hertsmere,3,2020-12-16,2020-12-18
+Hertsmere,3,2020-12-19,2020-12-19
+Hertsmere,4,2020-12-20,2020-12-25
+Hertsmere,4,2020-12-26,2020-12-30
+Hertsmere,4,2020-12-31,2021-01-05
+Hertsmere,4,2021-01-05,NA
+High Peak,3,2020-12-02,2020-12-15
+High Peak,3,2020-12-16,2020-12-18
+High Peak,3,2020-12-19,2020-12-19
+High Peak,3,2020-12-20,2020-12-25
+High Peak,3,2020-12-26,2020-12-30
+High Peak,4,2020-12-31,2021-01-05
+High Peak,4,2021-01-05,NA
+Hillingdon,2,2020-12-02,2020-12-15
+Hillingdon,3,2020-12-16,2020-12-18
+Hillingdon,3,2020-12-19,2020-12-19
+Hillingdon,4,2020-12-20,2020-12-25
+Hillingdon,4,2020-12-26,2020-12-30
+Hillingdon,4,2020-12-31,2021-01-05
+Hillingdon,4,2021-01-05,NA
+Hinckley and Bosworth,3,2020-12-02,2020-12-15
+Hinckley and Bosworth,3,2020-12-16,2020-12-18
+Hinckley and Bosworth,3,2020-12-19,2020-12-19
+Hinckley and Bosworth,3,2020-12-20,2020-12-25
+Hinckley and Bosworth,3,2020-12-26,2020-12-30
+Hinckley and Bosworth,4,2020-12-31,2021-01-05
+Hinckley and Bosworth,4,2021-01-05,NA
+Horsham,2,2020-12-02,2020-12-15
+Horsham,2,2020-12-16,2020-12-18
+Horsham,2,2020-12-19,2020-12-19
+Horsham,2,2020-12-20,2020-12-25
+Horsham,4,2020-12-26,2020-12-30
+Horsham,4,2020-12-31,2021-01-05
+Horsham,4,2021-01-05,NA
+Hounslow,2,2020-12-02,2020-12-15
+Hounslow,3,2020-12-16,2020-12-18
+Hounslow,3,2020-12-19,2020-12-19
+Hounslow,4,2020-12-20,2020-12-25
+Hounslow,4,2020-12-26,2020-12-30
+Hounslow,4,2020-12-31,2021-01-05
+Hounslow,4,2021-01-05,NA
+Huntingdonshire,2,2020-12-02,2020-12-15
+Huntingdonshire,2,2020-12-16,2020-12-18
+Huntingdonshire,2,2020-12-19,2020-12-19
+Huntingdonshire,2,2020-12-20,2020-12-25
+Huntingdonshire,4,2020-12-26,2020-12-30
+Huntingdonshire,4,2020-12-31,2021-01-05
+Huntingdonshire,4,2021-01-05,NA
+Hyndburn,3,2020-12-02,2020-12-15
+Hyndburn,3,2020-12-16,2020-12-18
+Hyndburn,3,2020-12-19,2020-12-19
+Hyndburn,3,2020-12-20,2020-12-25
+Hyndburn,3,2020-12-26,2020-12-30
+Hyndburn,4,2020-12-31,2021-01-05
+Hyndburn,4,2021-01-05,NA
+Ipswich,2,2020-12-02,2020-12-15
+Ipswich,2,2020-12-16,2020-12-18
+Ipswich,2,2020-12-19,2020-12-19
+Ipswich,2,2020-12-20,2020-12-25
+Ipswich,4,2020-12-26,2020-12-30
+Ipswich,4,2020-12-31,2021-01-05
+Ipswich,4,2021-01-05,NA
 Isle of Wight,1,2020-12-02,2020-12-15
 Isle of Wight,1,2020-12-16,2020-12-18
 Isle of Wight,1,2020-12-19,2020-12-19
@@ -2085,6 +958,132 @@ Isle of Wight,1,2020-12-20,2020-12-25
 Isle of Wight,3,2020-12-26,2020-12-30
 Isle of Wight,4,2020-12-31,2021-01-05
 Isle of Wight,4,2021-01-05,NA
+Isles of Scilly,1,2020-12-02,2020-12-15
+Isles of Scilly,1,2020-12-16,2020-12-18
+Isles of Scilly,1,2020-12-19,2020-12-19
+Isles of Scilly,1,2020-12-20,2020-12-25
+Isles of Scilly,1,2020-12-26,2020-12-30
+Isles of Scilly,1,2020-12-31,2021-01-05
+Isles of Scilly,4,2021-01-05,NA
+Islington,2,2020-12-02,2020-12-15
+Islington,3,2020-12-16,2020-12-18
+Islington,3,2020-12-19,2020-12-19
+Islington,4,2020-12-20,2020-12-25
+Islington,4,2020-12-26,2020-12-30
+Islington,4,2020-12-31,2021-01-05
+Islington,4,2021-01-05,NA
+Kensington and Chelsea,2,2020-12-02,2020-12-15
+Kensington and Chelsea,3,2020-12-16,2020-12-18
+Kensington and Chelsea,3,2020-12-19,2020-12-19
+Kensington and Chelsea,4,2020-12-20,2020-12-25
+Kensington and Chelsea,4,2020-12-26,2020-12-30
+Kensington and Chelsea,4,2020-12-31,2021-01-05
+Kensington and Chelsea,4,2021-01-05,NA
+Kettering,2,2020-12-02,2020-12-15
+Kettering,2,2020-12-16,2020-12-18
+Kettering,2,2020-12-19,2020-12-19
+Kettering,2,2020-12-20,2020-12-25
+Kettering,3,2020-12-26,2020-12-30
+Kettering,4,2020-12-31,2021-01-05
+Kettering,4,2021-01-05,NA
+King's Lynn and West Norfolk,2,2020-12-02,2020-12-15
+King's Lynn and West Norfolk,2,2020-12-16,2020-12-18
+King's Lynn and West Norfolk,2,2020-12-19,2020-12-19
+King's Lynn and West Norfolk,2,2020-12-20,2020-12-25
+King's Lynn and West Norfolk,4,2020-12-26,2020-12-30
+King's Lynn and West Norfolk,4,2020-12-31,2021-01-05
+King's Lynn and West Norfolk,4,2021-01-05,NA
+Kingston upon Hull,2,2020-12-02,2020-12-15
+Kingston upon Hull,2,2020-12-16,2020-12-18
+Kingston upon Hull,3,2020-12-19,2020-12-19
+Kingston upon Hull,3,2020-12-20,2020-12-25
+Kingston upon Hull,3,2020-12-26,2020-12-30
+Kingston upon Hull,3,2020-12-31,2021-01-05
+Kingston upon Hull,4,2021-01-05,NA
+Kingston upon Thames,2,2020-12-02,2020-12-15
+Kingston upon Thames,3,2020-12-16,2020-12-18
+Kingston upon Thames,3,2020-12-19,2020-12-19
+Kingston upon Thames,4,2020-12-20,2020-12-25
+Kingston upon Thames,4,2020-12-26,2020-12-30
+Kingston upon Thames,4,2020-12-31,2021-01-05
+Kingston upon Thames,4,2021-01-05,NA
+Kirklees,3,2020-12-02,2020-12-15
+Kirklees,3,2020-12-16,2020-12-18
+Kirklees,3,2020-12-19,2020-12-19
+Kirklees,3,2020-12-20,2020-12-25
+Kirklees,3,2020-12-26,2020-12-30
+Kirklees,3,2020-12-31,2021-01-05
+Kirklees,4,2021-01-05,NA
+Knowsley,2,2020-12-02,2020-12-15
+Knowsley,2,2020-12-16,2020-12-18
+Knowsley,2,2020-12-19,2020-12-19
+Knowsley,2,2020-12-20,2020-12-25
+Knowsley,2,2020-12-26,2020-12-30
+Knowsley,3,2020-12-31,2021-01-05
+Knowsley,4,2021-01-05,NA
+Lambeth,2,2020-12-02,2020-12-15
+Lambeth,3,2020-12-16,2020-12-18
+Lambeth,3,2020-12-19,2020-12-19
+Lambeth,4,2020-12-20,2020-12-25
+Lambeth,4,2020-12-26,2020-12-30
+Lambeth,4,2020-12-31,2021-01-05
+Lambeth,4,2021-01-05,NA
+Lancaster,3,2020-12-02,2020-12-15
+Lancaster,3,2020-12-16,2020-12-18
+Lancaster,3,2020-12-19,2020-12-19
+Lancaster,3,2020-12-20,2020-12-25
+Lancaster,3,2020-12-26,2020-12-30
+Lancaster,4,2020-12-31,2021-01-05
+Lancaster,4,2021-01-05,NA
+Leeds,3,2020-12-02,2020-12-15
+Leeds,3,2020-12-16,2020-12-18
+Leeds,3,2020-12-19,2020-12-19
+Leeds,3,2020-12-20,2020-12-25
+Leeds,3,2020-12-26,2020-12-30
+Leeds,3,2020-12-31,2021-01-05
+Leeds,4,2021-01-05,NA
+Leicester,3,2020-12-02,2020-12-15
+Leicester,3,2020-12-16,2020-12-18
+Leicester,3,2020-12-19,2020-12-19
+Leicester,3,2020-12-20,2020-12-25
+Leicester,3,2020-12-26,2020-12-30
+Leicester,4,2020-12-31,2021-01-05
+Leicester,4,2021-01-05,NA
+Lewes,2,2020-12-02,2020-12-15
+Lewes,2,2020-12-16,2020-12-18
+Lewes,2,2020-12-19,2020-12-19
+Lewes,2,2020-12-20,2020-12-25
+Lewes,4,2020-12-26,2020-12-30
+Lewes,4,2020-12-31,2021-01-05
+Lewes,4,2021-01-05,NA
+Lewisham,2,2020-12-02,2020-12-15
+Lewisham,3,2020-12-16,2020-12-18
+Lewisham,3,2020-12-19,2020-12-19
+Lewisham,4,2020-12-20,2020-12-25
+Lewisham,4,2020-12-26,2020-12-30
+Lewisham,4,2020-12-31,2021-01-05
+Lewisham,4,2021-01-05,NA
+Lichfield,3,2020-12-02,2020-12-15
+Lichfield,3,2020-12-16,2020-12-18
+Lichfield,3,2020-12-19,2020-12-19
+Lichfield,3,2020-12-20,2020-12-25
+Lichfield,3,2020-12-26,2020-12-30
+Lichfield,4,2020-12-31,2021-01-05
+Lichfield,4,2021-01-05,NA
+Lincoln,3,2020-12-02,2020-12-15
+Lincoln,3,2020-12-16,2020-12-18
+Lincoln,3,2020-12-19,2020-12-19
+Lincoln,3,2020-12-20,2020-12-25
+Lincoln,3,2020-12-26,2020-12-30
+Lincoln,4,2020-12-31,2021-01-05
+Lincoln,4,2021-01-05,NA
+Liverpool,2,2020-12-02,2020-12-15
+Liverpool,2,2020-12-16,2020-12-18
+Liverpool,2,2020-12-19,2020-12-19
+Liverpool,2,2020-12-20,2020-12-25
+Liverpool,2,2020-12-26,2020-12-30
+Liverpool,3,2020-12-31,2021-01-05
+Liverpool,4,2021-01-05,NA
 Luton,2,2020-12-02,2020-12-15
 Luton,2,2020-12-16,2020-12-18
 Luton,3,2020-12-19,2020-12-19
@@ -2092,6 +1091,41 @@ Luton,4,2020-12-20,2020-12-25
 Luton,4,2020-12-26,2020-12-30
 Luton,4,2020-12-31,2021-01-05
 Luton,4,2021-01-05,NA
+Maidstone,3,2020-12-02,2020-12-15
+Maidstone,3,2020-12-16,2020-12-18
+Maidstone,3,2020-12-19,2020-12-19
+Maidstone,4,2020-12-20,2020-12-25
+Maidstone,4,2020-12-26,2020-12-30
+Maidstone,4,2020-12-31,2021-01-05
+Maidstone,4,2021-01-05,NA
+Maldon,2,2020-12-02,2020-12-15
+Maldon,3,2020-12-16,2020-12-18
+Maldon,3,2020-12-19,2020-12-19
+Maldon,4,2020-12-20,2020-12-25
+Maldon,4,2020-12-26,2020-12-30
+Maldon,4,2020-12-31,2021-01-05
+Maldon,4,2021-01-05,NA
+Malvern Hills,2,2020-12-02,2020-12-15
+Malvern Hills,2,2020-12-16,2020-12-18
+Malvern Hills,2,2020-12-19,2020-12-19
+Malvern Hills,2,2020-12-20,2020-12-25
+Malvern Hills,2,2020-12-26,2020-12-30
+Malvern Hills,3,2020-12-31,2021-01-05
+Malvern Hills,4,2021-01-05,NA
+Manchester,3,2020-12-02,2020-12-15
+Manchester,3,2020-12-16,2020-12-18
+Manchester,3,2020-12-19,2020-12-19
+Manchester,3,2020-12-20,2020-12-25
+Manchester,3,2020-12-26,2020-12-30
+Manchester,4,2020-12-31,2021-01-05
+Manchester,4,2021-01-05,NA
+Mansfield,3,2020-12-02,2020-12-15
+Mansfield,3,2020-12-16,2020-12-18
+Mansfield,3,2020-12-19,2020-12-19
+Mansfield,3,2020-12-20,2020-12-25
+Mansfield,3,2020-12-26,2020-12-30
+Mansfield,4,2020-12-31,2021-01-05
+Mansfield,4,2021-01-05,NA
 Medway,3,2020-12-02,2020-12-15
 Medway,3,2020-12-16,2020-12-18
 Medway,3,2020-12-19,2020-12-19
@@ -2099,6 +1133,48 @@ Medway,4,2020-12-20,2020-12-25
 Medway,4,2020-12-26,2020-12-30
 Medway,4,2020-12-31,2021-01-05
 Medway,4,2021-01-05,NA
+Melton,3,2020-12-02,2020-12-15
+Melton,3,2020-12-16,2020-12-18
+Melton,3,2020-12-19,2020-12-19
+Melton,3,2020-12-20,2020-12-25
+Melton,3,2020-12-26,2020-12-30
+Melton,4,2020-12-31,2021-01-05
+Melton,4,2021-01-05,NA
+Mendip,2,2020-12-02,2020-12-15
+Mendip,2,2020-12-16,2020-12-18
+Mendip,2,2020-12-19,2020-12-19
+Mendip,2,2020-12-20,2020-12-25
+Mendip,3,2020-12-26,2020-12-30
+Mendip,4,2020-12-31,2021-01-05
+Mendip,4,2021-01-05,NA
+Merton,2,2020-12-02,2020-12-15
+Merton,3,2020-12-16,2020-12-18
+Merton,3,2020-12-19,2020-12-19
+Merton,4,2020-12-20,2020-12-25
+Merton,4,2020-12-26,2020-12-30
+Merton,4,2020-12-31,2021-01-05
+Merton,4,2021-01-05,NA
+Mid Devon,2,2020-12-02,2020-12-15
+Mid Devon,2,2020-12-16,2020-12-18
+Mid Devon,2,2020-12-19,2020-12-19
+Mid Devon,2,2020-12-20,2020-12-25
+Mid Devon,2,2020-12-26,2020-12-30
+Mid Devon,3,2020-12-31,2021-01-05
+Mid Devon,4,2021-01-05,NA
+Mid Suffolk,2,2020-12-02,2020-12-15
+Mid Suffolk,2,2020-12-16,2020-12-18
+Mid Suffolk,2,2020-12-19,2020-12-19
+Mid Suffolk,2,2020-12-20,2020-12-25
+Mid Suffolk,4,2020-12-26,2020-12-30
+Mid Suffolk,4,2020-12-31,2021-01-05
+Mid Suffolk,4,2021-01-05,NA
+Mid Sussex,2,2020-12-02,2020-12-15
+Mid Sussex,2,2020-12-16,2020-12-18
+Mid Sussex,2,2020-12-19,2020-12-19
+Mid Sussex,2,2020-12-20,2020-12-25
+Mid Sussex,4,2020-12-26,2020-12-30
+Mid Sussex,4,2020-12-31,2021-01-05
+Mid Sussex,4,2021-01-05,NA
 Middlesbrough,3,2020-12-02,2020-12-15
 Middlesbrough,3,2020-12-16,2020-12-18
 Middlesbrough,3,2020-12-19,2020-12-19
@@ -2113,13 +1189,69 @@ Milton Keynes,2,2020-12-20,2020-12-25
 Milton Keynes,4,2020-12-26,2020-12-30
 Milton Keynes,4,2020-12-31,2021-01-05
 Milton Keynes,4,2021-01-05,NA
-Northumberland,3,2020-12-02,2020-12-15
-Northumberland,3,2020-12-16,2020-12-18
-Northumberland,3,2020-12-19,2020-12-19
-Northumberland,3,2020-12-20,2020-12-25
-Northumberland,3,2020-12-26,2020-12-30
-Northumberland,4,2020-12-31,2021-01-05
-Northumberland,4,2021-01-05,NA
+Mole Valley,2,2020-12-02,2020-12-15
+Mole Valley,2,2020-12-16,2020-12-18
+Mole Valley,3,2020-12-19,2020-12-19
+Mole Valley,4,2020-12-20,2020-12-25
+Mole Valley,4,2020-12-26,2020-12-30
+Mole Valley,4,2020-12-31,2021-01-05
+Mole Valley,4,2021-01-05,NA
+New Forest,2,2020-12-02,2020-12-15
+New Forest,2,2020-12-16,2020-12-18
+New Forest,2,2020-12-19,2020-12-19
+New Forest,2,2020-12-20,2020-12-25
+New Forest,3,2020-12-26,2020-12-30
+New Forest,4,2020-12-31,2021-01-05
+New Forest,4,2021-01-05,NA
+Newark and Sherwood,3,2020-12-02,2020-12-15
+Newark and Sherwood,3,2020-12-16,2020-12-18
+Newark and Sherwood,3,2020-12-19,2020-12-19
+Newark and Sherwood,3,2020-12-20,2020-12-25
+Newark and Sherwood,3,2020-12-26,2020-12-30
+Newark and Sherwood,4,2020-12-31,2021-01-05
+Newark and Sherwood,4,2021-01-05,NA
+Newcastle-under-Lyme,3,2020-12-02,2020-12-15
+Newcastle-under-Lyme,3,2020-12-16,2020-12-18
+Newcastle-under-Lyme,3,2020-12-19,2020-12-19
+Newcastle-under-Lyme,3,2020-12-20,2020-12-25
+Newcastle-under-Lyme,3,2020-12-26,2020-12-30
+Newcastle-under-Lyme,4,2020-12-31,2021-01-05
+Newcastle-under-Lyme,4,2021-01-05,NA
+Newcastle upon Tyne,3,2020-12-02,2020-12-15
+Newcastle upon Tyne,3,2020-12-16,2020-12-18
+Newcastle upon Tyne,3,2020-12-19,2020-12-19
+Newcastle upon Tyne,3,2020-12-20,2020-12-25
+Newcastle upon Tyne,3,2020-12-26,2020-12-30
+Newcastle upon Tyne,4,2020-12-31,2021-01-05
+Newcastle upon Tyne,4,2021-01-05,NA
+Newham,2,2020-12-02,2020-12-15
+Newham,3,2020-12-16,2020-12-18
+Newham,3,2020-12-19,2020-12-19
+Newham,4,2020-12-20,2020-12-25
+Newham,4,2020-12-26,2020-12-30
+Newham,4,2020-12-31,2021-01-05
+Newham,4,2021-01-05,NA
+North Devon,2,2020-12-02,2020-12-15
+North Devon,2,2020-12-16,2020-12-18
+North Devon,2,2020-12-19,2020-12-19
+North Devon,2,2020-12-20,2020-12-25
+North Devon,2,2020-12-26,2020-12-30
+North Devon,3,2020-12-31,2021-01-05
+North Devon,4,2021-01-05,NA
+North Dorset,2,2020-12-02,2020-12-15
+North Dorset,2,2020-12-16,2020-12-18
+North Dorset,2,2020-12-19,2020-12-19
+North Dorset,2,2020-12-20,2020-12-25
+North Dorset,2,2020-12-26,2020-12-30
+North Dorset,3,2020-12-31,2021-01-05
+North Dorset,4,2021-01-05,NA
+North East Derbyshire,3,2020-12-02,2020-12-15
+North East Derbyshire,3,2020-12-16,2020-12-18
+North East Derbyshire,3,2020-12-19,2020-12-19
+North East Derbyshire,3,2020-12-20,2020-12-25
+North East Derbyshire,3,2020-12-26,2020-12-30
+North East Derbyshire,4,2020-12-31,2021-01-05
+North East Derbyshire,4,2021-01-05,NA
 North East Lincolnshire,3,2020-12-02,2020-12-15
 North East Lincolnshire,3,2020-12-16,2020-12-18
 North East Lincolnshire,3,2020-12-19,2020-12-19
@@ -2127,6 +1259,20 @@ North East Lincolnshire,3,2020-12-20,2020-12-25
 North East Lincolnshire,3,2020-12-26,2020-12-30
 North East Lincolnshire,3,2020-12-31,2021-01-05
 North East Lincolnshire,4,2021-01-05,NA
+North Hertfordshire,2,2020-12-02,2020-12-15
+North Hertfordshire,2,2020-12-16,2020-12-18
+North Hertfordshire,3,2020-12-19,2020-12-19
+North Hertfordshire,4,2020-12-20,2020-12-25
+North Hertfordshire,4,2020-12-26,2020-12-30
+North Hertfordshire,4,2020-12-31,2021-01-05
+North Hertfordshire,4,2021-01-05,NA
+North Kesteven,3,2020-12-02,2020-12-15
+North Kesteven,3,2020-12-16,2020-12-18
+North Kesteven,3,2020-12-19,2020-12-19
+North Kesteven,3,2020-12-20,2020-12-25
+North Kesteven,3,2020-12-26,2020-12-30
+North Kesteven,4,2020-12-31,2021-01-05
+North Kesteven,4,2021-01-05,NA
 North Lincolnshire,3,2020-12-02,2020-12-15
 North Lincolnshire,3,2020-12-16,2020-12-18
 North Lincolnshire,3,2020-12-19,2020-12-19
@@ -2134,6 +1280,13 @@ North Lincolnshire,3,2020-12-20,2020-12-25
 North Lincolnshire,3,2020-12-26,2020-12-30
 North Lincolnshire,3,2020-12-31,2021-01-05
 North Lincolnshire,4,2021-01-05,NA
+North Norfolk,2,2020-12-02,2020-12-15
+North Norfolk,2,2020-12-16,2020-12-18
+North Norfolk,2,2020-12-19,2020-12-19
+North Norfolk,2,2020-12-20,2020-12-25
+North Norfolk,4,2020-12-26,2020-12-30
+North Norfolk,4,2020-12-31,2021-01-05
+North Norfolk,4,2021-01-05,NA
 North Somerset,3,2020-12-02,2020-12-15
 North Somerset,3,2020-12-16,2020-12-18
 North Somerset,2,2020-12-19,2020-12-19
@@ -2141,6 +1294,104 @@ North Somerset,2,2020-12-20,2020-12-25
 North Somerset,3,2020-12-26,2020-12-30
 North Somerset,3,2020-12-31,2021-01-05
 North Somerset,4,2021-01-05,NA
+North Tyneside,3,2020-12-02,2020-12-15
+North Tyneside,3,2020-12-16,2020-12-18
+North Tyneside,3,2020-12-19,2020-12-19
+North Tyneside,3,2020-12-20,2020-12-25
+North Tyneside,3,2020-12-26,2020-12-30
+North Tyneside,4,2020-12-31,2021-01-05
+North Tyneside,4,2021-01-05,NA
+North Warwickshire,3,2020-12-02,2020-12-15
+North Warwickshire,3,2020-12-16,2020-12-18
+North Warwickshire,3,2020-12-19,2020-12-19
+North Warwickshire,3,2020-12-20,2020-12-25
+North Warwickshire,3,2020-12-26,2020-12-30
+North Warwickshire,4,2020-12-31,2021-01-05
+North Warwickshire,4,2021-01-05,NA
+North West Lancashire,3,2020-12-02,2020-12-15
+North West Lancashire,3,2020-12-16,2020-12-18
+North West Lancashire,3,2020-12-19,2020-12-19
+North West Lancashire,3,2020-12-20,2020-12-25
+North West Lancashire,3,2020-12-26,2020-12-30
+North West Lancashire,4,2020-12-31,2021-01-05
+North West Lancashire,4,2021-01-05,NA
+Northampton,2,2020-12-02,2020-12-15
+Northampton,2,2020-12-16,2020-12-18
+Northampton,2,2020-12-19,2020-12-19
+Northampton,2,2020-12-20,2020-12-25
+Northampton,3,2020-12-26,2020-12-30
+Northampton,4,2020-12-31,2021-01-05
+Northampton,4,2021-01-05,NA
+Northumberland,3,2020-12-02,2020-12-15
+Northumberland,3,2020-12-16,2020-12-18
+Northumberland,3,2020-12-19,2020-12-19
+Northumberland,3,2020-12-20,2020-12-25
+Northumberland,3,2020-12-26,2020-12-30
+Northumberland,4,2020-12-31,2021-01-05
+Northumberland,4,2021-01-05,NA
+Norwich,2,2020-12-02,2020-12-15
+Norwich,2,2020-12-16,2020-12-18
+Norwich,2,2020-12-19,2020-12-19
+Norwich,2,2020-12-20,2020-12-25
+Norwich,4,2020-12-26,2020-12-30
+Norwich,4,2020-12-31,2021-01-05
+Norwich,4,2021-01-05,NA
+Nottingham,3,2020-12-02,2020-12-15
+Nottingham,3,2020-12-16,2020-12-18
+Nottingham,3,2020-12-19,2020-12-19
+Nottingham,3,2020-12-20,2020-12-25
+Nottingham,3,2020-12-26,2020-12-30
+Nottingham,4,2020-12-31,2021-01-05
+Nottingham,4,2021-01-05,NA
+Nuneaton and Bedworth,3,2020-12-02,2020-12-15
+Nuneaton and Bedworth,3,2020-12-16,2020-12-18
+Nuneaton and Bedworth,3,2020-12-19,2020-12-19
+Nuneaton and Bedworth,3,2020-12-20,2020-12-25
+Nuneaton and Bedworth,3,2020-12-26,2020-12-30
+Nuneaton and Bedworth,4,2020-12-31,2021-01-05
+Nuneaton and Bedworth,4,2021-01-05,NA
+Oadby and Wigston,3,2020-12-02,2020-12-15
+Oadby and Wigston,3,2020-12-16,2020-12-18
+Oadby and Wigston,3,2020-12-19,2020-12-19
+Oadby and Wigston,3,2020-12-20,2020-12-25
+Oadby and Wigston,3,2020-12-26,2020-12-30
+Oadby and Wigston,4,2020-12-31,2021-01-05
+Oadby and Wigston,4,2021-01-05,NA
+Oldham,3,2020-12-02,2020-12-15
+Oldham,3,2020-12-16,2020-12-18
+Oldham,3,2020-12-19,2020-12-19
+Oldham,3,2020-12-20,2020-12-25
+Oldham,3,2020-12-26,2020-12-30
+Oldham,4,2020-12-31,2021-01-05
+Oldham,4,2021-01-05,NA
+Oxford,2,2020-12-02,2020-12-15
+Oxford,2,2020-12-16,2020-12-18
+Oxford,2,2020-12-19,2020-12-19
+Oxford,2,2020-12-20,2020-12-25
+Oxford,4,2020-12-26,2020-12-30
+Oxford,4,2020-12-31,2021-01-05
+Oxford,4,2021-01-05,NA
+Pendle,3,2020-12-02,2020-12-15
+Pendle,3,2020-12-16,2020-12-18
+Pendle,3,2020-12-19,2020-12-19
+Pendle,3,2020-12-20,2020-12-25
+Pendle,3,2020-12-26,2020-12-30
+Pendle,4,2020-12-31,2021-01-05
+Pendle,4,2021-01-05,NA
+Peterborough,2,2020-12-02,2020-12-15
+Peterborough,2,2020-12-16,2020-12-18
+Peterborough,3,2020-12-19,2020-12-19
+Peterborough,4,2020-12-20,2020-12-25
+Peterborough,4,2020-12-26,2020-12-30
+Peterborough,4,2020-12-31,2021-01-05
+Peterborough,4,2021-01-05,NA
+Plymouth,2,2020-12-02,2020-12-15
+Plymouth,2,2020-12-16,2020-12-18
+Plymouth,2,2020-12-19,2020-12-19
+Plymouth,2,2020-12-20,2020-12-25
+Plymouth,2,2020-12-26,2020-12-30
+Plymouth,3,2020-12-31,2021-01-05
+Plymouth,4,2021-01-05,NA
 Poole,2,2020-12-02,2020-12-15
 Poole,2,2020-12-16,2020-12-18
 Poole,2,2020-12-19,2020-12-19
@@ -2148,6 +1399,27 @@ Poole,2,2020-12-20,2020-12-25
 Poole,2,2020-12-26,2020-12-30
 Poole,4,2020-12-31,2021-01-05
 Poole,4,2021-01-05,NA
+Portsmouth,2,2020-12-02,2020-12-15
+Portsmouth,2,2020-12-16,2020-12-18
+Portsmouth,3,2020-12-19,2020-12-19
+Portsmouth,4,2020-12-20,2020-12-25
+Portsmouth,4,2020-12-26,2020-12-30
+Portsmouth,4,2020-12-31,2021-01-05
+Portsmouth,4,2021-01-05,NA
+Preston,3,2020-12-02,2020-12-15
+Preston,3,2020-12-16,2020-12-18
+Preston,3,2020-12-19,2020-12-19
+Preston,3,2020-12-20,2020-12-25
+Preston,3,2020-12-26,2020-12-30
+Preston,4,2020-12-31,2021-01-05
+Preston,4,2021-01-05,NA
+Purbeck,2,2020-12-02,2020-12-15
+Purbeck,2,2020-12-16,2020-12-18
+Purbeck,2,2020-12-19,2020-12-19
+Purbeck,2,2020-12-20,2020-12-25
+Purbeck,2,2020-12-26,2020-12-30
+Purbeck,3,2020-12-31,2021-01-05
+Purbeck,4,2021-01-05,NA
 Reading,2,2020-12-02,2020-12-15
 Reading,2,2020-12-16,2020-12-18
 Reading,3,2020-12-19,2020-12-19
@@ -2155,6 +1427,13 @@ Reading,4,2020-12-20,2020-12-25
 Reading,4,2020-12-26,2020-12-30
 Reading,4,2020-12-31,2021-01-05
 Reading,4,2021-01-05,NA
+Redbridge,2,2020-12-02,2020-12-15
+Redbridge,3,2020-12-16,2020-12-18
+Redbridge,3,2020-12-19,2020-12-19
+Redbridge,4,2020-12-20,2020-12-25
+Redbridge,4,2020-12-26,2020-12-30
+Redbridge,4,2020-12-31,2021-01-05
+Redbridge,4,2021-01-05,NA
 Redcar and Cleveland,3,2020-12-02,2020-12-15
 Redcar and Cleveland,3,2020-12-16,2020-12-18
 Redcar and Cleveland,3,2020-12-19,2020-12-19
@@ -2162,6 +1441,104 @@ Redcar and Cleveland,3,2020-12-20,2020-12-25
 Redcar and Cleveland,3,2020-12-26,2020-12-30
 Redcar and Cleveland,4,2020-12-31,2021-01-05
 Redcar and Cleveland,4,2021-01-05,NA
+Redditch,2,2020-12-02,2020-12-15
+Redditch,2,2020-12-16,2020-12-18
+Redditch,2,2020-12-19,2020-12-19
+Redditch,2,2020-12-20,2020-12-25
+Redditch,2,2020-12-26,2020-12-30
+Redditch,3,2020-12-31,2021-01-05
+Redditch,4,2021-01-05,NA
+Reigate and Banstead,2,2020-12-02,2020-12-15
+Reigate and Banstead,2,2020-12-16,2020-12-18
+Reigate and Banstead,3,2020-12-19,2020-12-19
+Reigate and Banstead,4,2020-12-20,2020-12-25
+Reigate and Banstead,4,2020-12-26,2020-12-30
+Reigate and Banstead,4,2020-12-31,2021-01-05
+Reigate and Banstead,4,2021-01-05,NA
+Ribble Valley,3,2020-12-02,2020-12-15
+Ribble Valley,3,2020-12-16,2020-12-18
+Ribble Valley,3,2020-12-19,2020-12-19
+Ribble Valley,3,2020-12-20,2020-12-25
+Ribble Valley,3,2020-12-26,2020-12-30
+Ribble Valley,4,2020-12-31,2021-01-05
+Ribble Valley,4,2021-01-05,NA
+Richmond upon Thames,2,2020-12-02,2020-12-15
+Richmond upon Thames,3,2020-12-16,2020-12-18
+Richmond upon Thames,3,2020-12-19,2020-12-19
+Richmond upon Thames,4,2020-12-20,2020-12-25
+Richmond upon Thames,4,2020-12-26,2020-12-30
+Richmond upon Thames,4,2020-12-31,2021-01-05
+Richmond upon Thames,4,2021-01-05,NA
+Richmondshire,2,2020-12-02,2020-12-15
+Richmondshire,2,2020-12-16,2020-12-18
+Richmondshire,2,2020-12-19,2020-12-19
+Richmondshire,2,2020-12-20,2020-12-25
+Richmondshire,2,2020-12-26,2020-12-30
+Richmondshire,3,2020-12-31,2021-01-05
+Richmondshire,4,2021-01-05,NA
+Rochdale,3,2020-12-02,2020-12-15
+Rochdale,3,2020-12-16,2020-12-18
+Rochdale,3,2020-12-19,2020-12-19
+Rochdale,3,2020-12-20,2020-12-25
+Rochdale,3,2020-12-26,2020-12-30
+Rochdale,4,2020-12-31,2021-01-05
+Rochdale,4,2021-01-05,NA
+Rochford,2,2020-12-02,2020-12-15
+Rochford,3,2020-12-16,2020-12-18
+Rochford,3,2020-12-19,2020-12-19
+Rochford,4,2020-12-20,2020-12-25
+Rochford,4,2020-12-26,2020-12-30
+Rochford,4,2020-12-31,2021-01-05
+Rochford,4,2021-01-05,NA
+Rossendale,3,2020-12-02,2020-12-15
+Rossendale,3,2020-12-16,2020-12-18
+Rossendale,3,2020-12-19,2020-12-19
+Rossendale,3,2020-12-20,2020-12-25
+Rossendale,3,2020-12-26,2020-12-30
+Rossendale,4,2020-12-31,2021-01-05
+Rossendale,4,2021-01-05,NA
+Rother,2,2020-12-02,2020-12-15
+Rother,2,2020-12-16,2020-12-18
+Rother,3,2020-12-19,2020-12-19
+Rother,4,2020-12-20,2020-12-25
+Rother,4,2020-12-26,2020-12-30
+Rother,4,2020-12-31,2021-01-05
+Rother,4,2021-01-05,NA
+Rotherham,3,2020-12-02,2020-12-15
+Rotherham,3,2020-12-16,2020-12-18
+Rotherham,3,2020-12-19,2020-12-19
+Rotherham,3,2020-12-20,2020-12-25
+Rotherham,3,2020-12-26,2020-12-30
+Rotherham,3,2020-12-31,2021-01-05
+Rotherham,4,2021-01-05,NA
+Rugby,3,2020-12-02,2020-12-15
+Rugby,3,2020-12-16,2020-12-18
+Rugby,3,2020-12-19,2020-12-19
+Rugby,3,2020-12-20,2020-12-25
+Rugby,3,2020-12-26,2020-12-30
+Rugby,4,2020-12-31,2021-01-05
+Rugby,4,2021-01-05,NA
+Runnymede,2,2020-12-02,2020-12-15
+Runnymede,2,2020-12-16,2020-12-18
+Runnymede,3,2020-12-19,2020-12-19
+Runnymede,4,2020-12-20,2020-12-25
+Runnymede,4,2020-12-26,2020-12-30
+Runnymede,4,2020-12-31,2021-01-05
+Runnymede,4,2021-01-05,NA
+Rushcliffe,3,2020-12-02,2020-12-15
+Rushcliffe,3,2020-12-16,2020-12-18
+Rushcliffe,3,2020-12-19,2020-12-19
+Rushcliffe,3,2020-12-20,2020-12-25
+Rushcliffe,3,2020-12-26,2020-12-30
+Rushcliffe,4,2020-12-31,2021-01-05
+Rushcliffe,4,2021-01-05,NA
+Rushmoor,2,2020-12-02,2020-12-15
+Rushmoor,2,2020-12-16,2020-12-18
+Rushmoor,2,2020-12-19,2020-12-19
+Rushmoor,2,2020-12-20,2020-12-25
+Rushmoor,4,2020-12-26,2020-12-30
+Rushmoor,4,2020-12-31,2021-01-05
+Rushmoor,4,2021-01-05,NA
 Rutland,2,2020-12-02,2020-12-15
 Rutland,2,2020-12-16,2020-12-18
 Rutland,2,2020-12-19,2020-12-19
@@ -2169,6 +1546,76 @@ Rutland,2,2020-12-20,2020-12-25
 Rutland,2,2020-12-26,2020-12-30
 Rutland,3,2020-12-31,2021-01-05
 Rutland,4,2021-01-05,NA
+Ryedale,2,2020-12-02,2020-12-15
+Ryedale,2,2020-12-16,2020-12-18
+Ryedale,2,2020-12-19,2020-12-19
+Ryedale,2,2020-12-20,2020-12-25
+Ryedale,2,2020-12-26,2020-12-30
+Ryedale,3,2020-12-31,2021-01-05
+Ryedale,4,2021-01-05,NA
+Salford,3,2020-12-02,2020-12-15
+Salford,3,2020-12-16,2020-12-18
+Salford,3,2020-12-19,2020-12-19
+Salford,3,2020-12-20,2020-12-25
+Salford,3,2020-12-26,2020-12-30
+Salford,4,2020-12-31,2021-01-05
+Salford,4,2021-01-05,NA
+Sandwell,3,2020-12-02,2020-12-15
+Sandwell,3,2020-12-16,2020-12-18
+Sandwell,3,2020-12-19,2020-12-19
+Sandwell,3,2020-12-20,2020-12-25
+Sandwell,3,2020-12-26,2020-12-30
+Sandwell,4,2020-12-31,2021-01-05
+Sandwell,4,2021-01-05,NA
+Scarborough,2,2020-12-02,2020-12-15
+Scarborough,2,2020-12-16,2020-12-18
+Scarborough,2,2020-12-19,2020-12-19
+Scarborough,2,2020-12-20,2020-12-25
+Scarborough,2,2020-12-26,2020-12-30
+Scarborough,3,2020-12-31,2021-01-05
+Scarborough,4,2021-01-05,NA
+Sedgemoor,2,2020-12-02,2020-12-15
+Sedgemoor,2,2020-12-16,2020-12-18
+Sedgemoor,2,2020-12-19,2020-12-19
+Sedgemoor,2,2020-12-20,2020-12-25
+Sedgemoor,3,2020-12-26,2020-12-30
+Sedgemoor,4,2020-12-31,2021-01-05
+Sedgemoor,4,2021-01-05,NA
+Sefton,2,2020-12-02,2020-12-15
+Sefton,2,2020-12-16,2020-12-18
+Sefton,2,2020-12-19,2020-12-19
+Sefton,2,2020-12-20,2020-12-25
+Sefton,2,2020-12-26,2020-12-30
+Sefton,3,2020-12-31,2021-01-05
+Sefton,4,2021-01-05,NA
+Selby,2,2020-12-02,2020-12-15
+Selby,2,2020-12-16,2020-12-18
+Selby,2,2020-12-19,2020-12-19
+Selby,2,2020-12-20,2020-12-25
+Selby,2,2020-12-26,2020-12-30
+Selby,3,2020-12-31,2021-01-05
+Selby,4,2021-01-05,NA
+Sevenoaks,3,2020-12-02,2020-12-15
+Sevenoaks,3,2020-12-16,2020-12-18
+Sevenoaks,3,2020-12-19,2020-12-19
+Sevenoaks,4,2020-12-20,2020-12-25
+Sevenoaks,4,2020-12-26,2020-12-30
+Sevenoaks,4,2020-12-31,2021-01-05
+Sevenoaks,4,2021-01-05,NA
+Sheffield,3,2020-12-02,2020-12-15
+Sheffield,3,2020-12-16,2020-12-18
+Sheffield,3,2020-12-19,2020-12-19
+Sheffield,3,2020-12-20,2020-12-25
+Sheffield,3,2020-12-26,2020-12-30
+Sheffield,3,2020-12-31,2021-01-05
+Sheffield,4,2021-01-05,NA
+Shepway,3,2020-12-02,2020-12-15
+Shepway,3,2020-12-16,2020-12-18
+Shepway,3,2020-12-19,2020-12-19
+Shepway,4,2020-12-20,2020-12-25
+Shepway,4,2020-12-26,2020-12-30
+Shepway,4,2020-12-31,2021-01-05
+Shepway,4,2021-01-05,NA
 Shropshire,2,2020-12-02,2020-12-15
 Shropshire,2,2020-12-16,2020-12-18
 Shropshire,2,2020-12-19,2020-12-19
@@ -2183,13 +1630,34 @@ Slough,4,2020-12-20,2020-12-25
 Slough,4,2020-12-26,2020-12-30
 Slough,4,2020-12-31,2021-01-05
 Slough,4,2021-01-05,NA
-Southend-on-Sea,2,2020-12-02,2020-12-15
-Southend-on-Sea,3,2020-12-16,2020-12-18
-Southend-on-Sea,3,2020-12-19,2020-12-19
-Southend-on-Sea,4,2020-12-20,2020-12-25
-Southend-on-Sea,4,2020-12-26,2020-12-30
-Southend-on-Sea,4,2020-12-31,2021-01-05
-Southend-on-Sea,4,2021-01-05,NA
+Solihull,3,2020-12-02,2020-12-15
+Solihull,3,2020-12-16,2020-12-18
+Solihull,3,2020-12-19,2020-12-19
+Solihull,3,2020-12-20,2020-12-25
+Solihull,3,2020-12-26,2020-12-30
+Solihull,4,2020-12-31,2021-01-05
+Solihull,4,2021-01-05,NA
+South Bucks,2,2020-12-02,2020-12-15
+South Bucks,2,2020-12-16,2020-12-18
+South Bucks,3,2020-12-19,2020-12-19
+South Bucks,4,2020-12-20,2020-12-25
+South Bucks,4,2020-12-26,2020-12-30
+South Bucks,4,2020-12-31,2021-01-05
+South Bucks,4,2021-01-05,NA
+South Cambridgeshire,2,2020-12-02,2020-12-15
+South Cambridgeshire,2,2020-12-16,2020-12-18
+South Cambridgeshire,2,2020-12-19,2020-12-19
+South Cambridgeshire,2,2020-12-20,2020-12-25
+South Cambridgeshire,4,2020-12-26,2020-12-30
+South Cambridgeshire,4,2020-12-31,2021-01-05
+South Cambridgeshire,4,2021-01-05,NA
+South Derbyshire,3,2020-12-02,2020-12-15
+South Derbyshire,3,2020-12-16,2020-12-18
+South Derbyshire,3,2020-12-19,2020-12-19
+South Derbyshire,3,2020-12-20,2020-12-25
+South Derbyshire,3,2020-12-26,2020-12-30
+South Derbyshire,4,2020-12-31,2021-01-05
+South Derbyshire,4,2021-01-05,NA
 South Gloucestershire,3,2020-12-02,2020-12-15
 South Gloucestershire,3,2020-12-16,2020-12-18
 South Gloucestershire,3,2020-12-19,2020-12-19
@@ -2197,6 +1665,160 @@ South Gloucestershire,3,2020-12-20,2020-12-25
 South Gloucestershire,3,2020-12-26,2020-12-30
 South Gloucestershire,3,2020-12-31,2021-01-05
 South Gloucestershire,4,2021-01-05,NA
+South Hams,2,2020-12-02,2020-12-15
+South Hams,2,2020-12-16,2020-12-18
+South Hams,2,2020-12-19,2020-12-19
+South Hams,2,2020-12-20,2020-12-25
+South Hams,2,2020-12-26,2020-12-30
+South Hams,3,2020-12-31,2021-01-05
+South Hams,4,2021-01-05,NA
+South Holland,3,2020-12-02,2020-12-15
+South Holland,3,2020-12-16,2020-12-18
+South Holland,3,2020-12-19,2020-12-19
+South Holland,3,2020-12-20,2020-12-25
+South Holland,3,2020-12-26,2020-12-30
+South Holland,4,2020-12-31,2021-01-05
+South Holland,4,2021-01-05,NA
+South Kesteven,3,2020-12-02,2020-12-15
+South Kesteven,3,2020-12-16,2020-12-18
+South Kesteven,3,2020-12-19,2020-12-19
+South Kesteven,3,2020-12-20,2020-12-25
+South Kesteven,3,2020-12-26,2020-12-30
+South Kesteven,4,2020-12-31,2021-01-05
+South Kesteven,4,2021-01-05,NA
+South Lakeland,2,2020-12-02,2020-12-15
+South Lakeland,2,2020-12-16,2020-12-18
+South Lakeland,2,2020-12-19,2020-12-19
+South Lakeland,2,2020-12-20,2020-12-25
+South Lakeland,2,2020-12-26,2020-12-30
+South Lakeland,4,2020-12-31,2021-01-05
+South Lakeland,4,2021-01-05,NA
+South Norfolk,2,2020-12-02,2020-12-15
+South Norfolk,2,2020-12-16,2020-12-18
+South Norfolk,2,2020-12-19,2020-12-19
+South Norfolk,2,2020-12-20,2020-12-25
+South Norfolk,4,2020-12-26,2020-12-30
+South Norfolk,4,2020-12-31,2021-01-05
+South Norfolk,4,2021-01-05,NA
+South Northamptonshire,2,2020-12-02,2020-12-15
+South Northamptonshire,2,2020-12-16,2020-12-18
+South Northamptonshire,2,2020-12-19,2020-12-19
+South Northamptonshire,2,2020-12-20,2020-12-25
+South Northamptonshire,3,2020-12-26,2020-12-30
+South Northamptonshire,4,2020-12-31,2021-01-05
+South Northamptonshire,4,2021-01-05,NA
+South Oxfordshire,2,2020-12-02,2020-12-15
+South Oxfordshire,2,2020-12-16,2020-12-18
+South Oxfordshire,2,2020-12-19,2020-12-19
+South Oxfordshire,2,2020-12-20,2020-12-25
+South Oxfordshire,4,2020-12-26,2020-12-30
+South Oxfordshire,4,2020-12-31,2021-01-05
+South Oxfordshire,4,2021-01-05,NA
+South Ribble,3,2020-12-02,2020-12-15
+South Ribble,3,2020-12-16,2020-12-18
+South Ribble,3,2020-12-19,2020-12-19
+South Ribble,3,2020-12-20,2020-12-25
+South Ribble,3,2020-12-26,2020-12-30
+South Ribble,4,2020-12-31,2021-01-05
+South Ribble,4,2021-01-05,NA
+South Somerset,2,2020-12-02,2020-12-15
+South Somerset,2,2020-12-16,2020-12-18
+South Somerset,2,2020-12-19,2020-12-19
+South Somerset,2,2020-12-20,2020-12-25
+South Somerset,3,2020-12-26,2020-12-30
+South Somerset,4,2020-12-31,2021-01-05
+South Somerset,4,2021-01-05,NA
+South Staffordshire,3,2020-12-02,2020-12-15
+South Staffordshire,3,2020-12-16,2020-12-18
+South Staffordshire,3,2020-12-19,2020-12-19
+South Staffordshire,3,2020-12-20,2020-12-25
+South Staffordshire,3,2020-12-26,2020-12-30
+South Staffordshire,4,2020-12-31,2021-01-05
+South Staffordshire,4,2021-01-05,NA
+South Tyneside,3,2020-12-02,2020-12-15
+South Tyneside,3,2020-12-16,2020-12-18
+South Tyneside,3,2020-12-19,2020-12-19
+South Tyneside,3,2020-12-20,2020-12-25
+South Tyneside,3,2020-12-26,2020-12-30
+South Tyneside,4,2020-12-31,2021-01-05
+South Tyneside,4,2021-01-05,NA
+Southampton,2,2020-12-02,2020-12-15
+Southampton,2,2020-12-16,2020-12-18
+Southampton,2,2020-12-19,2020-12-19
+Southampton,2,2020-12-20,2020-12-25
+Southampton,4,2020-12-26,2020-12-30
+Southampton,4,2020-12-31,2021-01-05
+Southampton,4,2021-01-05,NA
+Southend-on-Sea,2,2020-12-02,2020-12-15
+Southend-on-Sea,3,2020-12-16,2020-12-18
+Southend-on-Sea,3,2020-12-19,2020-12-19
+Southend-on-Sea,4,2020-12-20,2020-12-25
+Southend-on-Sea,4,2020-12-26,2020-12-30
+Southend-on-Sea,4,2020-12-31,2021-01-05
+Southend-on-Sea,4,2021-01-05,NA
+Southwark,2,2020-12-02,2020-12-15
+Southwark,3,2020-12-16,2020-12-18
+Southwark,3,2020-12-19,2020-12-19
+Southwark,4,2020-12-20,2020-12-25
+Southwark,4,2020-12-26,2020-12-30
+Southwark,4,2020-12-31,2021-01-05
+Southwark,4,2021-01-05,NA
+Spelthorne,2,2020-12-02,2020-12-15
+Spelthorne,2,2020-12-16,2020-12-18
+Spelthorne,3,2020-12-19,2020-12-19
+Spelthorne,4,2020-12-20,2020-12-25
+Spelthorne,4,2020-12-26,2020-12-30
+Spelthorne,4,2020-12-31,2021-01-05
+Spelthorne,4,2021-01-05,NA
+St Albans,2,2020-12-02,2020-12-15
+St Albans,2,2020-12-16,2020-12-18
+St Albans,3,2020-12-19,2020-12-19
+St Albans,4,2020-12-20,2020-12-25
+St Albans,4,2020-12-26,2020-12-30
+St Albans,4,2020-12-31,2021-01-05
+St Albans,4,2021-01-05,NA
+St Edmundsbury,2,2020-12-02,2020-12-15
+St Edmundsbury,2,2020-12-16,2020-12-18
+St Edmundsbury,2,2020-12-19,2020-12-19
+St Edmundsbury,2,2020-12-20,2020-12-25
+St Edmundsbury,4,2020-12-26,2020-12-30
+St Edmundsbury,4,2020-12-31,2021-01-05
+St Edmundsbury,4,2021-01-05,NA
+St Helens,2,2020-12-02,2020-12-15
+St Helens,2,2020-12-16,2020-12-18
+St Helens,2,2020-12-19,2020-12-19
+St Helens,2,2020-12-20,2020-12-25
+St Helens,2,2020-12-26,2020-12-30
+St Helens,3,2020-12-31,2021-01-05
+St Helens,4,2021-01-05,NA
+Stafford,3,2020-12-02,2020-12-15
+Stafford,3,2020-12-16,2020-12-18
+Stafford,3,2020-12-19,2020-12-19
+Stafford,3,2020-12-20,2020-12-25
+Stafford,3,2020-12-26,2020-12-30
+Stafford,4,2020-12-31,2021-01-05
+Stafford,4,2021-01-05,NA
+Staffordshire Moorlands,3,2020-12-02,2020-12-15
+Staffordshire Moorlands,3,2020-12-16,2020-12-18
+Staffordshire Moorlands,3,2020-12-19,2020-12-19
+Staffordshire Moorlands,3,2020-12-20,2020-12-25
+Staffordshire Moorlands,3,2020-12-26,2020-12-30
+Staffordshire Moorlands,4,2020-12-31,2021-01-05
+Staffordshire Moorlands,4,2021-01-05,NA
+Stevenage,2,2020-12-02,2020-12-15
+Stevenage,2,2020-12-16,2020-12-18
+Stevenage,3,2020-12-19,2020-12-19
+Stevenage,4,2020-12-20,2020-12-25
+Stevenage,4,2020-12-26,2020-12-30
+Stevenage,4,2020-12-31,2021-01-05
+Stevenage,4,2021-01-05,NA
+Stockport,3,2020-12-02,2020-12-15
+Stockport,3,2020-12-16,2020-12-18
+Stockport,3,2020-12-19,2020-12-19
+Stockport,3,2020-12-20,2020-12-25
+Stockport,3,2020-12-26,2020-12-30
+Stockport,4,2020-12-31,2021-01-05
+Stockport,4,2021-01-05,NA
 Stockton-on-Tees,3,2020-12-02,2020-12-15
 Stockton-on-Tees,3,2020-12-16,2020-12-18
 Stockton-on-Tees,3,2020-12-19,2020-12-19
@@ -2204,6 +1826,62 @@ Stockton-on-Tees,3,2020-12-20,2020-12-25
 Stockton-on-Tees,3,2020-12-26,2020-12-30
 Stockton-on-Tees,4,2020-12-31,2021-01-05
 Stockton-on-Tees,4,2021-01-05,NA
+Stoke-on-Trent,3,2020-12-02,2020-12-15
+Stoke-on-Trent,3,2020-12-16,2020-12-18
+Stoke-on-Trent,3,2020-12-19,2020-12-19
+Stoke-on-Trent,3,2020-12-20,2020-12-25
+Stoke-on-Trent,3,2020-12-26,2020-12-30
+Stoke-on-Trent,4,2020-12-31,2021-01-05
+Stoke-on-Trent,4,2021-01-05,NA
+Stratford-on-Avon,3,2020-12-02,2020-12-15
+Stratford-on-Avon,3,2020-12-16,2020-12-18
+Stratford-on-Avon,3,2020-12-19,2020-12-19
+Stratford-on-Avon,3,2020-12-20,2020-12-25
+Stratford-on-Avon,3,2020-12-26,2020-12-30
+Stratford-on-Avon,4,2020-12-31,2021-01-05
+Stratford-on-Avon,4,2021-01-05,NA
+Stroud,2,2020-12-02,2020-12-15
+Stroud,2,2020-12-16,2020-12-18
+Stroud,2,2020-12-19,2020-12-19
+Stroud,2,2020-12-20,2020-12-25
+Stroud,3,2020-12-26,2020-12-30
+Stroud,4,2020-12-31,2021-01-05
+Stroud,4,2021-01-05,NA
+Suffolk Coastal,2,2020-12-02,2020-12-15
+Suffolk Coastal,2,2020-12-16,2020-12-18
+Suffolk Coastal,2,2020-12-19,2020-12-19
+Suffolk Coastal,2,2020-12-20,2020-12-25
+Suffolk Coastal,4,2020-12-26,2020-12-30
+Suffolk Coastal,4,2020-12-31,2021-01-05
+Suffolk Coastal,4,2021-01-05,NA
+Sunderland,3,2020-12-02,2020-12-15
+Sunderland,3,2020-12-16,2020-12-18
+Sunderland,3,2020-12-19,2020-12-19
+Sunderland,3,2020-12-20,2020-12-25
+Sunderland,3,2020-12-26,2020-12-30
+Sunderland,4,2020-12-31,2021-01-05
+Sunderland,4,2021-01-05,NA
+Surrey Heath,2,2020-12-02,2020-12-15
+Surrey Heath,2,2020-12-16,2020-12-18
+Surrey Heath,3,2020-12-19,2020-12-19
+Surrey Heath,4,2020-12-20,2020-12-25
+Surrey Heath,4,2020-12-26,2020-12-30
+Surrey Heath,4,2020-12-31,2021-01-05
+Surrey Heath,4,2021-01-05,NA
+Sutton,2,2020-12-02,2020-12-15
+Sutton,3,2020-12-16,2020-12-18
+Sutton,3,2020-12-19,2020-12-19
+Sutton,4,2020-12-20,2020-12-25
+Sutton,4,2020-12-26,2020-12-30
+Sutton,4,2020-12-31,2021-01-05
+Sutton,4,2021-01-05,NA
+Swale,3,2020-12-02,2020-12-15
+Swale,3,2020-12-16,2020-12-18
+Swale,3,2020-12-19,2020-12-19
+Swale,4,2020-12-20,2020-12-25
+Swale,4,2020-12-26,2020-12-30
+Swale,4,2020-12-31,2021-01-05
+Swale,4,2021-01-05,NA
 Swindon,2,2020-12-02,2020-12-15
 Swindon,2,2020-12-16,2020-12-18
 Swindon,2,2020-12-19,2020-12-19
@@ -2211,6 +1889,41 @@ Swindon,2,2020-12-20,2020-12-25
 Swindon,3,2020-12-26,2020-12-30
 Swindon,4,2020-12-31,2021-01-05
 Swindon,4,2021-01-05,NA
+Tameside,3,2020-12-02,2020-12-15
+Tameside,3,2020-12-16,2020-12-18
+Tameside,3,2020-12-19,2020-12-19
+Tameside,3,2020-12-20,2020-12-25
+Tameside,3,2020-12-26,2020-12-30
+Tameside,4,2020-12-31,2021-01-05
+Tameside,4,2021-01-05,NA
+Tamworth,3,2020-12-02,2020-12-15
+Tamworth,3,2020-12-16,2020-12-18
+Tamworth,3,2020-12-19,2020-12-19
+Tamworth,3,2020-12-20,2020-12-25
+Tamworth,3,2020-12-26,2020-12-30
+Tamworth,4,2020-12-31,2021-01-05
+Tamworth,4,2021-01-05,NA
+Tandridge,2,2020-12-02,2020-12-15
+Tandridge,2,2020-12-16,2020-12-18
+Tandridge,3,2020-12-19,2020-12-19
+Tandridge,4,2020-12-20,2020-12-25
+Tandridge,4,2020-12-26,2020-12-30
+Tandridge,4,2020-12-31,2021-01-05
+Tandridge,4,2021-01-05,NA
+Taunton Deane,2,2020-12-02,2020-12-15
+Taunton Deane,2,2020-12-16,2020-12-18
+Taunton Deane,2,2020-12-19,2020-12-19
+Taunton Deane,2,2020-12-20,2020-12-25
+Taunton Deane,3,2020-12-26,2020-12-30
+Taunton Deane,4,2020-12-31,2021-01-05
+Taunton Deane,4,2021-01-05,NA
+Teignbridge,2,2020-12-02,2020-12-15
+Teignbridge,2,2020-12-16,2020-12-18
+Teignbridge,2,2020-12-19,2020-12-19
+Teignbridge,2,2020-12-20,2020-12-25
+Teignbridge,2,2020-12-26,2020-12-30
+Teignbridge,3,2020-12-31,2021-01-05
+Teignbridge,4,2021-01-05,NA
 Telford and Wrekin,2,2020-12-02,2020-12-15
 Telford and Wrekin,2,2020-12-16,2020-12-18
 Telford and Wrekin,2,2020-12-19,2020-12-19
@@ -2218,13 +1931,41 @@ Telford and Wrekin,2,2020-12-20,2020-12-25
 Telford and Wrekin,2,2020-12-26,2020-12-30
 Telford and Wrekin,3,2020-12-31,2021-01-05
 Telford and Wrekin,4,2021-01-05,NA
-Brighton and Hove,2,2020-12-02,2020-12-15
-Brighton and Hove,2,2020-12-16,2020-12-18
-Brighton and Hove,2,2020-12-19,2020-12-19
-Brighton and Hove,2,2020-12-20,2020-12-25
-Brighton and Hove,4,2020-12-26,2020-12-30
-Brighton and Hove,4,2020-12-31,2021-01-05
-Brighton and Hove,4,2021-01-05,NA
+Tendring,2,2020-12-02,2020-12-15
+Tendring,2,2020-12-16,2020-12-18
+Tendring,2,2020-12-19,2020-12-19
+Tendring,2,2020-12-20,2020-12-25
+Tendring,4,2020-12-26,2020-12-30
+Tendring,4,2020-12-31,2021-01-05
+Tendring,4,2021-01-05,NA
+Test Valley,2,2020-12-02,2020-12-15
+Test Valley,2,2020-12-16,2020-12-18
+Test Valley,2,2020-12-19,2020-12-19
+Test Valley,2,2020-12-20,2020-12-25
+Test Valley,4,2020-12-26,2020-12-30
+Test Valley,4,2020-12-31,2021-01-05
+Test Valley,4,2021-01-05,NA
+Tewkesbury,2,2020-12-02,2020-12-15
+Tewkesbury,2,2020-12-16,2020-12-18
+Tewkesbury,2,2020-12-19,2020-12-19
+Tewkesbury,2,2020-12-20,2020-12-25
+Tewkesbury,3,2020-12-26,2020-12-30
+Tewkesbury,4,2020-12-31,2021-01-05
+Tewkesbury,4,2021-01-05,NA
+Thanet,3,2020-12-02,2020-12-15
+Thanet,3,2020-12-16,2020-12-18
+Thanet,3,2020-12-19,2020-12-19
+Thanet,4,2020-12-20,2020-12-25
+Thanet,4,2020-12-26,2020-12-30
+Thanet,4,2020-12-31,2021-01-05
+Thanet,4,2021-01-05,NA
+Three Rivers,2,2020-12-02,2020-12-15
+Three Rivers,3,2020-12-16,2020-12-18
+Three Rivers,3,2020-12-19,2020-12-19
+Three Rivers,4,2020-12-20,2020-12-25
+Three Rivers,4,2020-12-26,2020-12-30
+Three Rivers,4,2020-12-31,2021-01-05
+Three Rivers,4,2021-01-05,NA
 Thurrock,2,2020-12-02,2020-12-15
 Thurrock,3,2020-12-16,2020-12-18
 Thurrock,3,2020-12-19,2020-12-19
@@ -2232,6 +1973,13 @@ Thurrock,4,2020-12-20,2020-12-25
 Thurrock,4,2020-12-26,2020-12-30
 Thurrock,4,2020-12-31,2021-01-05
 Thurrock,4,2021-01-05,NA
+Tonbridge and Malling,3,2020-12-02,2020-12-15
+Tonbridge and Malling,3,2020-12-16,2020-12-18
+Tonbridge and Malling,3,2020-12-19,2020-12-19
+Tonbridge and Malling,4,2020-12-20,2020-12-25
+Tonbridge and Malling,4,2020-12-26,2020-12-30
+Tonbridge and Malling,4,2020-12-31,2021-01-05
+Tonbridge and Malling,4,2021-01-05,NA
 Torbay,2,2020-12-02,2020-12-15
 Torbay,2,2020-12-16,2020-12-18
 Torbay,2,2020-12-19,2020-12-19
@@ -2239,6 +1987,76 @@ Torbay,2,2020-12-20,2020-12-25
 Torbay,2,2020-12-26,2020-12-30
 Torbay,3,2020-12-31,2021-01-05
 Torbay,4,2021-01-05,NA
+Torridge,2,2020-12-02,2020-12-15
+Torridge,2,2020-12-16,2020-12-18
+Torridge,2,2020-12-19,2020-12-19
+Torridge,2,2020-12-20,2020-12-25
+Torridge,2,2020-12-26,2020-12-30
+Torridge,3,2020-12-31,2021-01-05
+Torridge,4,2021-01-05,NA
+Tower Hamlets,2,2020-12-02,2020-12-15
+Tower Hamlets,3,2020-12-16,2020-12-18
+Tower Hamlets,3,2020-12-19,2020-12-19
+Tower Hamlets,4,2020-12-20,2020-12-25
+Tower Hamlets,4,2020-12-26,2020-12-30
+Tower Hamlets,4,2020-12-31,2021-01-05
+Tower Hamlets,4,2021-01-05,NA
+Trafford,3,2020-12-02,2020-12-15
+Trafford,3,2020-12-16,2020-12-18
+Trafford,3,2020-12-19,2020-12-19
+Trafford,3,2020-12-20,2020-12-25
+Trafford,3,2020-12-26,2020-12-30
+Trafford,4,2020-12-31,2021-01-05
+Trafford,4,2021-01-05,NA
+Tunbridge Wells,3,2020-12-02,2020-12-15
+Tunbridge Wells,3,2020-12-16,2020-12-18
+Tunbridge Wells,3,2020-12-19,2020-12-19
+Tunbridge Wells,4,2020-12-20,2020-12-25
+Tunbridge Wells,4,2020-12-26,2020-12-30
+Tunbridge Wells,4,2020-12-31,2021-01-05
+Tunbridge Wells,4,2021-01-05,NA
+Uttlesford,2,2020-12-02,2020-12-15
+Uttlesford,2,2020-12-16,2020-12-18
+Uttlesford,2,2020-12-19,2020-12-19
+Uttlesford,2,2020-12-20,2020-12-25
+Uttlesford,4,2020-12-26,2020-12-30
+Uttlesford,4,2020-12-31,2021-01-05
+Uttlesford,4,2021-01-05,NA
+Vale of White Horse,2,2020-12-02,2020-12-15
+Vale of White Horse,2,2020-12-16,2020-12-18
+Vale of White Horse,2,2020-12-19,2020-12-19
+Vale of White Horse,2,2020-12-20,2020-12-25
+Vale of White Horse,4,2020-12-26,2020-12-30
+Vale of White Horse,4,2020-12-31,2021-01-05
+Vale of White Horse,4,2021-01-05,NA
+Wakefield,3,2020-12-02,2020-12-15
+Wakefield,3,2020-12-16,2020-12-18
+Wakefield,3,2020-12-19,2020-12-19
+Wakefield,3,2020-12-20,2020-12-25
+Wakefield,3,2020-12-26,2020-12-30
+Wakefield,3,2020-12-31,2021-01-05
+Wakefield,4,2021-01-05,NA
+Walsall,3,2020-12-02,2020-12-15
+Walsall,3,2020-12-16,2020-12-18
+Walsall,3,2020-12-19,2020-12-19
+Walsall,3,2020-12-20,2020-12-25
+Walsall,3,2020-12-26,2020-12-30
+Walsall,4,2020-12-31,2021-01-05
+Walsall,4,2021-01-05,NA
+Waltham Forest,2,2020-12-02,2020-12-15
+Waltham Forest,3,2020-12-16,2020-12-18
+Waltham Forest,3,2020-12-19,2020-12-19
+Waltham Forest,4,2020-12-20,2020-12-25
+Waltham Forest,4,2020-12-26,2020-12-30
+Waltham Forest,4,2020-12-31,2021-01-05
+Waltham Forest,4,2021-01-05,NA
+Wandsworth,2,2020-12-02,2020-12-15
+Wandsworth,3,2020-12-16,2020-12-18
+Wandsworth,3,2020-12-19,2020-12-19
+Wandsworth,4,2020-12-20,2020-12-25
+Wandsworth,4,2020-12-26,2020-12-30
+Wandsworth,4,2020-12-31,2021-01-05
+Wandsworth,4,2021-01-05,NA
 Warrington,2,2020-12-02,2020-12-15
 Warrington,2,2020-12-16,2020-12-18
 Warrington,2,2020-12-19,2020-12-19
@@ -2246,6 +2064,55 @@ Warrington,2,2020-12-20,2020-12-25
 Warrington,3,2020-12-26,2020-12-30
 Warrington,4,2020-12-31,2021-01-05
 Warrington,4,2021-01-05,NA
+Warwick,3,2020-12-02,2020-12-15
+Warwick,3,2020-12-16,2020-12-18
+Warwick,3,2020-12-19,2020-12-19
+Warwick,3,2020-12-20,2020-12-25
+Warwick,3,2020-12-26,2020-12-30
+Warwick,4,2020-12-31,2021-01-05
+Warwick,4,2021-01-05,NA
+Watford,2,2020-12-02,2020-12-15
+Watford,3,2020-12-16,2020-12-18
+Watford,3,2020-12-19,2020-12-19
+Watford,4,2020-12-20,2020-12-25
+Watford,4,2020-12-26,2020-12-30
+Watford,4,2020-12-31,2021-01-05
+Watford,4,2021-01-05,NA
+Waveney,2,2020-12-02,2020-12-15
+Waveney,2,2020-12-16,2020-12-18
+Waveney,2,2020-12-19,2020-12-19
+Waveney,2,2020-12-20,2020-12-25
+Waveney,4,2020-12-26,2020-12-30
+Waveney,4,2020-12-31,2021-01-05
+Waveney,4,2021-01-05,NA
+Waverley,2,2020-12-02,2020-12-15
+Waverley,2,2020-12-16,2020-12-18
+Waverley,2,2020-12-19,2020-12-19
+Waverley,2,2020-12-20,2020-12-25
+Waverley,4,2020-12-26,2020-12-30
+Waverley,4,2020-12-31,2021-01-05
+Waverley,4,2021-01-05,NA
+Wealden,2,2020-12-02,2020-12-15
+Wealden,2,2020-12-16,2020-12-18
+Wealden,2,2020-12-19,2020-12-19
+Wealden,2,2020-12-20,2020-12-25
+Wealden,4,2020-12-26,2020-12-30
+Wealden,4,2020-12-31,2021-01-05
+Wealden,4,2021-01-05,NA
+Wellingborough,2,2020-12-02,2020-12-15
+Wellingborough,2,2020-12-16,2020-12-18
+Wellingborough,2,2020-12-19,2020-12-19
+Wellingborough,2,2020-12-20,2020-12-25
+Wellingborough,3,2020-12-26,2020-12-30
+Wellingborough,4,2020-12-31,2021-01-05
+Wellingborough,4,2021-01-05,NA
+Welwyn Hatfield,2,2020-12-02,2020-12-15
+Welwyn Hatfield,2,2020-12-16,2020-12-18
+Welwyn Hatfield,3,2020-12-19,2020-12-19
+Welwyn Hatfield,4,2020-12-20,2020-12-25
+Welwyn Hatfield,4,2020-12-26,2020-12-30
+Welwyn Hatfield,4,2020-12-31,2021-01-05
+Welwyn Hatfield,4,2021-01-05,NA
 West Berkshire,2,2020-12-02,2020-12-15
 West Berkshire,2,2020-12-16,2020-12-18
 West Berkshire,3,2020-12-19,2020-12-19
@@ -2253,6 +2120,69 @@ West Berkshire,4,2020-12-20,2020-12-25
 West Berkshire,4,2020-12-26,2020-12-30
 West Berkshire,4,2020-12-31,2021-01-05
 West Berkshire,4,2021-01-05,NA
+West Devon,2,2020-12-02,2020-12-15
+West Devon,2,2020-12-16,2020-12-18
+West Devon,2,2020-12-19,2020-12-19
+West Devon,2,2020-12-20,2020-12-25
+West Devon,2,2020-12-26,2020-12-30
+West Devon,3,2020-12-31,2021-01-05
+West Devon,4,2021-01-05,NA
+West Dorset,2,2020-12-02,2020-12-15
+West Dorset,2,2020-12-16,2020-12-18
+West Dorset,2,2020-12-19,2020-12-19
+West Dorset,2,2020-12-20,2020-12-25
+West Dorset,2,2020-12-26,2020-12-30
+West Dorset,3,2020-12-31,2021-01-05
+West Dorset,4,2021-01-05,NA
+West Lancashire,3,2020-12-02,2020-12-15
+West Lancashire,3,2020-12-16,2020-12-18
+West Lancashire,3,2020-12-19,2020-12-19
+West Lancashire,3,2020-12-20,2020-12-25
+West Lancashire,3,2020-12-26,2020-12-30
+West Lancashire,4,2020-12-31,2021-01-05
+West Lancashire,4,2021-01-05,NA
+West Lindsey,3,2020-12-02,2020-12-15
+West Lindsey,3,2020-12-16,2020-12-18
+West Lindsey,3,2020-12-19,2020-12-19
+West Lindsey,3,2020-12-20,2020-12-25
+West Lindsey,3,2020-12-26,2020-12-30
+West Lindsey,4,2020-12-31,2021-01-05
+West Lindsey,4,2021-01-05,NA
+West Oxfordshire,2,2020-12-02,2020-12-15
+West Oxfordshire,2,2020-12-16,2020-12-18
+West Oxfordshire,2,2020-12-19,2020-12-19
+West Oxfordshire,2,2020-12-20,2020-12-25
+West Oxfordshire,4,2020-12-26,2020-12-30
+West Oxfordshire,4,2020-12-31,2021-01-05
+West Oxfordshire,4,2021-01-05,NA
+West Somerset,2,2020-12-02,2020-12-15
+West Somerset,2,2020-12-16,2020-12-18
+West Somerset,2,2020-12-19,2020-12-19
+West Somerset,2,2020-12-20,2020-12-25
+West Somerset,3,2020-12-26,2020-12-30
+West Somerset,4,2020-12-31,2021-01-05
+West Somerset,4,2021-01-05,NA
+Westminster,2,2020-12-02,2020-12-15
+Westminster,3,2020-12-16,2020-12-18
+Westminster,3,2020-12-19,2020-12-19
+Westminster,4,2020-12-20,2020-12-25
+Westminster,4,2020-12-26,2020-12-30
+Westminster,4,2020-12-31,2021-01-05
+Westminster,4,2021-01-05,NA
+Weymouth and Portland,2,2020-12-02,2020-12-15
+Weymouth and Portland,2,2020-12-16,2020-12-18
+Weymouth and Portland,2,2020-12-19,2020-12-19
+Weymouth and Portland,2,2020-12-20,2020-12-25
+Weymouth and Portland,2,2020-12-26,2020-12-30
+Weymouth and Portland,3,2020-12-31,2021-01-05
+Weymouth and Portland,4,2021-01-05,NA
+Wigan,3,2020-12-02,2020-12-15
+Wigan,3,2020-12-16,2020-12-18
+Wigan,3,2020-12-19,2020-12-19
+Wigan,3,2020-12-20,2020-12-25
+Wigan,3,2020-12-26,2020-12-30
+Wigan,4,2020-12-31,2021-01-05
+Wigan,4,2021-01-05,NA
 Wiltshire,2,2020-12-02,2020-12-15
 Wiltshire,2,2020-12-16,2020-12-18
 Wiltshire,2,2020-12-19,2020-12-19
@@ -2260,6 +2190,13 @@ Wiltshire,2,2020-12-20,2020-12-25
 Wiltshire,2,2020-12-26,2020-12-30
 Wiltshire,3,2020-12-31,2021-01-05
 Wiltshire,4,2021-01-05,NA
+Winchester,2,2020-12-02,2020-12-15
+Winchester,2,2020-12-16,2020-12-18
+Winchester,2,2020-12-19,2020-12-19
+Winchester,2,2020-12-20,2020-12-25
+Winchester,4,2020-12-26,2020-12-30
+Winchester,4,2020-12-31,2021-01-05
+Winchester,4,2021-01-05,NA
 Windsor and Maidenhead,2,2020-12-02,2020-12-15
 Windsor and Maidenhead,2,2020-12-16,2020-12-18
 Windsor and Maidenhead,3,2020-12-19,2020-12-19
@@ -2267,6 +2204,20 @@ Windsor and Maidenhead,4,2020-12-20,2020-12-25
 Windsor and Maidenhead,4,2020-12-26,2020-12-30
 Windsor and Maidenhead,4,2020-12-31,2021-01-05
 Windsor and Maidenhead,4,2021-01-05,NA
+Wirral,2,2020-12-02,2020-12-15
+Wirral,2,2020-12-16,2020-12-18
+Wirral,2,2020-12-19,2020-12-19
+Wirral,2,2020-12-20,2020-12-25
+Wirral,2,2020-12-26,2020-12-30
+Wirral,3,2020-12-31,2021-01-05
+Wirral,4,2021-01-05,NA
+Woking,2,2020-12-02,2020-12-15
+Woking,2,2020-12-16,2020-12-18
+Woking,3,2020-12-19,2020-12-19
+Woking,4,2020-12-20,2020-12-25
+Woking,4,2020-12-26,2020-12-30
+Woking,4,2020-12-31,2021-01-05
+Woking,4,2021-01-05,NA
 Wokingham,2,2020-12-02,2020-12-15
 Wokingham,2,2020-12-16,2020-12-18
 Wokingham,3,2020-12-19,2020-12-19
@@ -2274,6 +2225,55 @@ Wokingham,4,2020-12-20,2020-12-25
 Wokingham,4,2020-12-26,2020-12-30
 Wokingham,4,2020-12-31,2021-01-05
 Wokingham,4,2021-01-05,NA
+Wolverhampton,3,2020-12-02,2020-12-15
+Wolverhampton,3,2020-12-16,2020-12-18
+Wolverhampton,3,2020-12-19,2020-12-19
+Wolverhampton,3,2020-12-20,2020-12-25
+Wolverhampton,3,2020-12-26,2020-12-30
+Wolverhampton,4,2020-12-31,2021-01-05
+Wolverhampton,4,2021-01-05,NA
+Worcester,2,2020-12-02,2020-12-15
+Worcester,2,2020-12-16,2020-12-18
+Worcester,2,2020-12-19,2020-12-19
+Worcester,2,2020-12-20,2020-12-25
+Worcester,2,2020-12-26,2020-12-30
+Worcester,3,2020-12-31,2021-01-05
+Worcester,4,2021-01-05,NA
+Worthing,2,2020-12-02,2020-12-15
+Worthing,2,2020-12-16,2020-12-18
+Worthing,2,2020-12-19,2020-12-19
+Worthing,2,2020-12-20,2020-12-25
+Worthing,4,2020-12-26,2020-12-30
+Worthing,4,2020-12-31,2021-01-05
+Worthing,4,2021-01-05,NA
+Wychavon,2,2020-12-02,2020-12-15
+Wychavon,2,2020-12-16,2020-12-18
+Wychavon,2,2020-12-19,2020-12-19
+Wychavon,2,2020-12-20,2020-12-25
+Wychavon,2,2020-12-26,2020-12-30
+Wychavon,3,2020-12-31,2021-01-05
+Wychavon,4,2021-01-05,NA
+Wycombe,2,2020-12-02,2020-12-15
+Wycombe,2,2020-12-16,2020-12-18
+Wycombe,3,2020-12-19,2020-12-19
+Wycombe,4,2020-12-20,2020-12-25
+Wycombe,4,2020-12-26,2020-12-30
+Wycombe,4,2020-12-31,2021-01-05
+Wycombe,4,2021-01-05,NA
+Wyre,3,2020-12-02,2020-12-15
+Wyre,3,2020-12-16,2020-12-18
+Wyre,3,2020-12-19,2020-12-19
+Wyre,3,2020-12-20,2020-12-25
+Wyre,3,2020-12-26,2020-12-30
+Wyre,4,2020-12-31,2021-01-05
+Wyre,4,2021-01-05,NA
+Wyre Forest,2,2020-12-02,2020-12-15
+Wyre Forest,2,2020-12-16,2020-12-18
+Wyre Forest,2,2020-12-19,2020-12-19
+Wyre Forest,2,2020-12-20,2020-12-25
+Wyre Forest,2,2020-12-26,2020-12-30
+Wyre Forest,3,2020-12-31,2021-01-05
+Wyre Forest,4,2021-01-05,NA
 York,2,2020-12-02,2020-12-15
 York,2,2020-12-16,2020-12-18
 York,2,2020-12-19,2020-12-19

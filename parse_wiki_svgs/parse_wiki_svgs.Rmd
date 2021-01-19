@@ -44,7 +44,7 @@ names(lookup_table) = c("#fefee9","#ffd42a","#ff6600","#800000")
 big_df$tier = lookup_table[big_df$value] 
 
 
-
+big_df$id= as.character(big_df$id)
 
 periods = c( "2-15_Dec_2020", "16-18_Dec_2020" ,  "19_Dec_2020"  , "20-25_Dec_2020"   ,"26-30_Dec_2020",         "31_Dec_2020_-_5_Jan_2021", "from 5 Jan"   )
 
