@@ -7,6 +7,7 @@ output:
 
 This extracts data from https://en.wikipedia.org/wiki/The_Health_Protection_(Coronavirus,_Restrictions)_(All_Tiers)_(England)_Regulations_2020#Local_authority_areas_in_each_tier,_by_date created by Wikipedia contributors under a Creative Commons License.
 
+Code and CSV output: https://github.com/theosanderson/adhoc_covid/tree/main/parse_wiki_svgs
 ```{r}
 require(xml2)
 library(tidyverse)
