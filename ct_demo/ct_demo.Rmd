@@ -12,7 +12,7 @@ library(tidyverse)
 library(ggthemes)
 true_num_virions_in_ct_units  = runif(n=100000,15,40)
 
-n_offset = 0.4 # how much inefficiency in N amplificiation there is, in cycles
+n_offset = 0.5 # how much inefficiency in N amplificiation there is, in cycles
 or_offset = 0.5 # how much inefficiency in OR amplificiation there is, in cycles
 s_offset = 3 # how much inefficiency in S amplificiation there is, in cycles
 
@@ -29,7 +29,7 @@ detection_threshold =40
 
 dataset = dataset %>% pivot_longer(c(-num_virions_in_ct_units,-id)) %>% mutate(value=ifelse(value>detection_threshold,NA,value)) %>% separate(name,into=c("amplicon"),sep="_") %>% group_by(id,num_virions_in_ct_units) %>%filter(!is.na(value))%>% summarise(amplicons= paste(amplicon,collapse="+")) %>% mutate(num_virions_in_ct_units=round(num_virions_in_ct_units))
 
-ggplot(dataset,aes(x=num_virions_in_ct_units,fill=amplicons))+geom_bar()+scale_fill_brewer(type="qual")+theme_hc()
+ggplot(dataset ,aes(x=num_virions_in_ct_units,fill=amplicons))+geom_bar()+scale_fill_brewer(type="qual")+theme_hc()
 
 ```
 
