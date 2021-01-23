@@ -13,7 +13,7 @@ library(ggthemes)
 true_num_virions_in_ct_units  = runif(n=100000,15,40)
 
 n_offset = 0.4 # how much inefficiency in N amplificiation there is, in cycles
-or_offset = 0.9 # how much inefficiency in OR amplificiation there is, in cycles
+or_offset = 0.5 # how much inefficiency in OR amplificiation there is, in cycles
 s_offset = 3 # how much inefficiency in S amplificiation there is, in cycles
 
 
