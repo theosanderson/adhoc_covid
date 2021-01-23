@@ -14,7 +14,7 @@ library(tidyverse)
 library(gganimate)
 library(lubridate)
 data <-
-  read_csv("D:/cases_anim/cog_metadata_microreact_public2.csv.txt")
+  read_csv("2020-12-27.txt")
 data$sample_date = ymd(data$sample_date)
 
 data$b117=data$lineage=="B.1.1.7"
@@ -26,11 +26,159 @@ library(sp)
 library('sf')
 ltlas <-
   read_sf(
-    "D:/cases_anim/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_-shp/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_.shp"
+    "utlas/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_.shp"
   )
 data <- filter(data, !is.na(latitude))
 data$del_21765_6
 
+
+pts <-
+  st_as_sf(tibble(data$latitude, data$longitude),
+           coords = c(2, 1),
+           crs  = 4326)
+
+ltlas <- st_transform(ltlas, crs = 3857)
+pts <- st_transform(pts, crs = 3857)
+
+
+a = st_join(pts, ltlas)
+data$ltla = a$ctyua17nm
+
+
+
+data_summarised = data %>% group_by(epi_week,epi_week_as_date,b117,ltla) %>% summarise(n=n()) %>% pivot_wider(names_from="b117",values_from="n",values_fill=0) %>% mutate(total = `FALSE` + `TRUE`, prop = `TRUE` / total)
+
+list = data_summarised %>% filter(epi_week>47)%>% group_by(ltla)%>% summarise(total=sum(total)) %>% arrange(-total)
+
+
+
+agg = data %>% filter(epi_week>47) %>% group_by(ltla) %>% filter(b117)%>% summarise(num =
+                                                                       n()) %>% arrange(-num)
+
+ggplot(
+  data_summarised %>% filter(ltla %in% list$ltla[1:21],epi_week>35, epi_week < 52, ltla != "NA"),
+  aes(x = epi_week_as_date, y=prop)
+) + geom_bar(stat="identity",fill="darkred") + facet_wrap( ~ ltla, ) +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
+
+ggplot(
+  data_summarised %>% filter(ltla %in% list$ltla[1:12],epi_week>35, epi_week < 52, ltla != "NA"),
+  aes(x = epi_week_as_date, y=total)
+) + geom_bar(stat="identity",fill="darkred") + facet_wrap( ~ ltla, ) +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") 
+
+
+
+
+
+
+
+
+
+
+
+ggsave("graph.pdf", width = 7, height = 6)
+ggsave("graph.png", width = 10, height = 8)
+
+ggplot(
+  data %>% filter(epi_week>35, epi_week < 52, ltla != "NA"),
+  aes(x = epi_week_as_date, fill = b117)
+) + geom_bar(position = "fill") + facet_wrap( ~ country, scales = "free_y") +
+  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
+  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
+
+ggsave("graph.pdf", width = 7, height = 6)
+ggsave("graph.png", width = 7, height = 6)
+
+
+
+table(data$epi_week,data$b117)
+```
+
+
+```{r}
+
+library(tidyverse)
+library(gganimate)
+library(lubridate)
+data <-
+  read_csv("2020-12-27.txt")
+data$sample_date = ymd(data$sample_date)
+
+data$b117=data$lineage=="B.1.1.7"
+
+mid_epi_week_1 = ymd("2020-01-01")
+data$epi_week_as_date =mid_epi_week_1 + (ymd("2020-01-02")-ymd("2020-01-01"))*7*data$epi_week
+
+
+library(sp)
+library('sf')
+ltlas <-
+  read_sf(
+    "regions/Regions__December_2017__Boundaries.shp"
+  )
+data <- filter(data, !is.na(latitude))
+
+
+
+pts <-
+  st_as_sf(tibble(data$latitude, data$longitude),
+           coords = c(2, 1),
+           crs  = 4326)
+
+ltlas <- st_transform(ltlas, crs = 3857)
+pts <- st_transform(pts, crs = 3857)
+
+
+a = st_join(pts, ltlas)
+data$ltla = a$rgn17nm
+
+data$type="other"
+data[data$del_21765_6=="del",]$type="other H69/70 del"
+
+data[data$b117==TRUE,]$type="b117"
+
+data$type=factor(as.character(data$type),levels=c("other", "b117","other H69/70 del"))
+
+ggplot(
+  data %>% filter(type!="other",epi_week>38, epi_week < 52, ltla != "NA")%>% mutate(type=fct_rev(type)),
+  aes(x = epi_week_as_date,fill=type)
+) + geom_bar(position="fill") + facet_wrap( ~ ltla, ) +
+  theme_bw() + scale_fill_manual(values = c("darkblue", "darkred")) +
+  labs(fill = "Type", y = "Proportion of H69/70 genomes",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent) + ggtitle("B.1.1.7 vs other H69/70")
+
+
+
+ggsave("regions.png", width = 8, height = 4)
+
+
+
+```
+
+```{r}
+
+
+library(tidyverse)
+library(gganimate)
+library(lubridate)
+data <-
+  read_csv("2020-12-27.txt")
+data$sample_date = ymd(data$sample_date)
+
+data$b117=data$lineage=="B.1.1.7"
+mid_epi_week_1 = ymd("2020-01-01")
+data$epi_week_as_date =mid_epi_week_1 + (ymd("2020-01-02")-ymd("2020-01-01"))*7*data$epi_week
+
+
+library(sp)
+library('sf')
+ltlas <-
+  read_sf(
+    "utlas/Counties_and_Unitary_Authorities__December_2017__Boundaries_in_the_UK__WGS84_.shp"
+  )
+data <- filter(data, !is.na(latitude))
 
 pts <-
   st_as_sf(tibble(data$latitude, data$longitude),
@@ -75,22 +223,7 @@ ggplot(
 
 
 ggplot(
-  data %>% filter(ltla %in% agg$ltla[1:32],epi_week>35, epi_week < 51, ltla != "NA"),
-  aes(x = epi_week_as_date, fill = b117)
-) + geom_bar(position = "fill",stat="identity") + facet_wrap( ~ ltla, scales = "free_y") +
-  theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +
-  labs(fill = "B.1.1.7", y = "Relative frequency",x="Date (binned by epi-week)") + scale_y_continuous(labels = scales::percent)
-
-
-
-
-
-
-ggsave("graph.pdf", width = 7, height = 6)
-ggsave("graph.png", width = 10, height = 8)
-
-ggplot(
-  data %>% filter(epi_week>35, epi_week < 51, ltla != "NA"),
+  data %>% filter(epi_week>35, epi_week < 52, ltla != "NA"),
   aes(x = epi_week_as_date, fill = b117)
 ) + geom_bar(position = "fill") + facet_wrap( ~ country, scales = "free_y") +
   theme_bw() + scale_fill_manual(values = c("darkgray", "darkred")) +

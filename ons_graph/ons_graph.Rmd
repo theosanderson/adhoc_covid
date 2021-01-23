@@ -9,7 +9,10 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 
 ```{r}
 
-
+library(tidyverse)
+data <- read_csv("data.csv") %>% mutate(Date=lubridate::dmy(Date)) %>% pivot_longer(-Date) %>% mutate(value=value/100) %>% separate(name,into=c("area","variant","type"),sep="_") %>% pivot_wider(names_from=type,values_from=value)
+ggplot(data,aes(x=Date,ymin=lower,ymax=upper,y=central,fill=variant,color=variant))+geom_ribbon(alpha=0.3, colour = NA) +facet_wrap(~area)+theme_bw()+geom_line()+ scale_y_log10(labels = scales::percent)+labs(y="Proportion of population positive")
+ggsave("plot.png")
 
 ```
 

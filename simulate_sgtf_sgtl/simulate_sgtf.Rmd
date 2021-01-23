@@ -1,0 +1,100 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+n=500
+
+ct_diff=2
+mean_viralload_wt = 20
+mean_viralload_b117 = mean_viralload_wt - 2
+
+sd_viralload = 6
+
+b117 = tibble(type="b117",viral_load= rnorm(n,mean_viralload_b117,sd_viralload))
+wt = tibble(type="wt",viral_load= rnorm(n,mean_viralload_wt,sd_viralload))
+
+
+n_jitter =1.5
+
+
+s_sgtf_diff = 20
+
+
+b117$n_ct = b117$viral_load + rnorm(n,mean = 0, sd = n_jitter)
+b117$s_ct = b117$viral_load + rnorm(n,mean = s_sgtf_diff, sd = n_jitter)
+
+
+wt$n_ct = wt$viral_load + rnorm(n,mean = 0, sd = n_jitter)
+wt$s_ct = wt$viral_load + rnorm(n,mean = 0, sd = n_jitter)
+
+
+all = bind_rows(b117,wt)
+
+all = filter(all,n_ct<35)
+
+all$type = factor(all$type,levels=c("wt","b117"))
+
+
+
+
+
+```
+
+# "True" N CT distribution
+```{r}
+
+
+ggplot(all,aes(x=s_ct,y=n_ct,color=type))+geom_point()
+ggplot(all,aes(x=type,y=n_ct,color=type))+geom_boxplot()
+
+
+```
+
+# SGTF only
+```{r}
+all$type_assigned = "Normal"
+
+
+all = all %>% mutate(type_assigned = ifelse(s_ct>40, "SGTF",type_assigned))
+
+
+ggplot(all,aes(x=s_ct,y=n_ct,color=type_assigned))+geom_point()
+ggplot(all,aes(x=type_assigned,y=n_ct,color=type_assigned))+geom_boxplot()
+
+```
+
+# SGTF/SGTL
+```{r}
+  all = all %>% mutate(type_assigned = ifelse(s_ct>n_ct+5, "SGTL",type_assigned))
+  all = all %>% mutate(type_assigned = ifelse(s_ct>40, "SGTF",type_assigned))
+ggplot(all,aes(x=s_ct,y=n_ct,color=type_assigned))+geom_point()
+ggplot(all,aes(x=type_assigned,y=n_ct,color=type_assigned))+geom_boxplot()
+
+
+```
+
+
+# SGTF/SGTL
+```{r}
+  all = all %>% mutate(type = ifelse(s_ct>n_ct+5, "SGTL",type))
+  all = all %>% mutate(type = ifelse(s_ct>40, "SGTF",type))
+ggplot(all %>% filter(n_ct<30),aes(x=s_ct,y=n_ct,color=type))+geom_point()
+ggplot(all %>% filter(n_ct<30),aes(x=type,y=n_ct,color=type))+geom_boxplot()
+
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

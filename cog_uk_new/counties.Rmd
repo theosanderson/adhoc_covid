@@ -13,8 +13,24 @@ summary = subset %>% group_by(lineage) %>% summarise(n=n(),n_na=sum(latisna),pro
 
 
 library(ggrepel)
-ggplot(summary%>% filter(n>15),aes(x=n,y=1-prop_na,label=lineage))+geom_point()+geom_text_repel(color="blue",data = summary %>% filter(lineage == "B.1.351" |runif(n())>0.85 | n>5000,n>15 ) ,alpha=0.7) + scale_x_log10()  + scale_y_continuous(labels = scales::percent)
+ggplot(summary%>% filter(n>15),aes(x=n,y=1-prop_na,label=lineage))+geom_point()+geom_text_repel(color="blue",data = summary %>% filter(lineage == "B.1.351" |runif(n())>0.95 | n>1000,n>15 ) ,alpha=0.7) + scale_x_log10()  + scale_y_continuous(labels = scales::percent) +labs(y="Percentage of sequences from lineage with lat-long data",x="Number of sequences from lineage",title="Percentage of lineages with geographic information")+theme_bw()
 
+data$sa_variant = data$lineage =="B.1.351"
+
+
+data$sample_date = ymd(data$sample_date)
+
+data$b117=data$lineage=="B.1.1.7"
+mid_epi_week_1 = ymd("2020-01-01")
+data$epi_week_as_date =mid_epi_week_1 + (ymd("2020-01-02")-ymd("2020-01-01"))*7*data$epi_week
+data$sample_week = cut(data$sample_date, "week")
+data$sample_week = ymd(data$sample_week)
+
+ggplot(data,aes(x=sample_week,fill=sa_variant))+geom_bar(position="fill")
+
+
+
+ggsave("lineages.png",width=7,height=4)
 
 
 data %>% filter(country=="UK") %>% filter(lineage == "B.1.351")

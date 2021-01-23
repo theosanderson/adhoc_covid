@@ -11,9 +11,16 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 library(tidyverse)
 library(lubridate)
 zoe <- read_csv("zoe.csv",col_names = c("date","new_symp_infections"))
-subset = filter(zoe, date>"2020-12-30")
-ggplot(subset,aes(x=date,y=new_symp_infections))+geom_point()
+subset = filter(zoe, date>"2020-12-30",)
 
+exponential.model <- lm(log(new_symp_infections)~ ymd(date),data= subset)
+
+dates <- seq(ymd("2021-01-1"), ymd("2021-03-30"), "day")
+counts <- exp(predict(exponential.model,list(date=dates)))
+newtib = tibble(date = dates,new_symp_infections = counts )
+
+
+ggplot(zoe,aes(x=date,y=new_symp_infections))+geom_point() +geom_point(data=newtib, color="red") + coord_cartesian(xlim=c(ymd("2020-11-1"),NA))+theme_bw()
 
 ```
 

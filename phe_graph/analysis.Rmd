@@ -184,3 +184,71 @@ both<-left_join(ltlas2,all, by=c("lad17nm"="name"))
 ggplot(both,aes(fill=combo))+geom_sf()+scale_fill_viridis_c()+coord_sf(ylim=c(58255,600699))+labs(fill="Pred. rate of new variant per 100K")
 ggsave("map_of_new_variant_pred_rates.png",width=10,height=10)
 ```
+```{r}
+
+ltlas2 <-
+  read_sf(
+    "Local_Authority_Districts__December_2017__Boundaries_in_Great_Britain.shp"
+  )
+
+both<-left_join(ltlas2,newtibble, by=c("lad17nm"="name"))
+deep_purple_color = rgb(deep_purple[1],deep_purple[2],deep_purple[3])
+
+ggplot(both,aes(fill=s_dropout_percent))+geom_sf()+scale_fill_gradient(low=rgb(1,1,1),high=deep_purple_color)+coord_sf(ylim=c(58255,600699))+labs(fill="S drop-out rate")+theme_minimal()
+ggsave("recreation.png",width=10,height=10)
+
+num_transmission_cycles = 10
+
+
+big = both
+big$num_transmission_cycles = 0
+
+r_s = 1.5
+r_other = 1
+
+for(i in 1:num_transmission_cycles){
+  both$num_transmission_cycles = i
+  big = bind_rows(big, both)
+  
+  
+}
+
+big$raw_s_dropout = big$s_dropout_percent * r_s^num_transmission_cycles
+
+```
+
+
+```{r}
+
+ltlas <-
+  read_sf(
+    "Local_Authority_Districts__December_2017__Boundaries_in_Great_Britain.shp"
+  )
+
+ordered<-ltlas %>% arrange(bng_n)
+
+both<-left_join(ltlas2,newtibble, by=c("lad17nm"="name"))
+deep_purple_color = rgb(deep_purple[1],deep_purple[2],deep_purple[3])
+
+ggplot(both,aes(fill=s_dropout_percent))+geom_sf()+scale_fill_gradient(low=rgb(1,1,1),high=deep_purple_color)+coord_sf(ylim=c(58255,600699))+labs(fill="S drop-out rate")+theme_minimal()
+ggsave("recreation.png",width=10,height=10)
+
+num_transmission_cycles = 10
+
+
+big = both
+big$num_transmission_cycles = 0
+
+r_s = 1.5
+r_other = 1
+
+for(i in 1:num_transmission_cycles){
+  both$num_transmission_cycles = i
+  big = bind_rows(big, both)
+  
+  
+}
+
+big$raw_s_dropout = big$s_dropout_percent * r_s^num_transmission_cycles
+
+```

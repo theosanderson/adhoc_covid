@@ -1,0 +1,36 @@
+---
+title: "Ct demo"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+```{r}
+library(tidyverse)
+library(ggthemes)
+true_num_virions_in_ct_units  = runif(n=100000,15,40)
+
+n_offset = 0.4 # how much inefficiency in N amplificiation there is, in cycles
+or_offset = 0.9 # how much inefficiency in OR amplificiation there is, in cycles
+s_offset = 3 # how much inefficiency in S amplificiation there is, in cycles
+
+
+amplification_noise_amount = 5
+
+n_cts = true_num_virions_in_ct_units + n_offset + rnorm(length(true_num_virions_in_ct_units),amplification_noise_amount )
+or_cts = true_num_virions_in_ct_units + or_offset + rnorm(length(true_num_virions_in_ct_units),amplification_noise_amount )
+s_cts = true_num_virions_in_ct_units + s_offset + rnorm(length(true_num_virions_in_ct_units),amplification_noise_amount )
+
+dataset = tibble(id=1:length(true_num_virions_in_ct_units),num_virions_in_ct_units = true_num_virions_in_ct_units, N_ct= n_cts, OR_ct= or_cts,S_ct=s_cts  )
+
+detection_threshold =40
+
+dataset = dataset %>% pivot_longer(c(-num_virions_in_ct_units,-id)) %>% mutate(value=ifelse(value>detection_threshold,NA,value)) %>% separate(name,into=c("amplicon"),sep="_") %>% group_by(id,num_virions_in_ct_units) %>%filter(!is.na(value))%>% summarise(amplicons= paste(amplicon,collapse="+")) %>% mutate(num_virions_in_ct_units=round(num_virions_in_ct_units))
+
+ggplot(dataset,aes(x=num_virions_in_ct_units,fill=amplicons))+geom_bar()+scale_fill_brewer(type="qual")+theme_hc()
+
+```
+
+
