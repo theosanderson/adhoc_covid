@@ -5,7 +5,7 @@ output:
     df_print: paged
 ---
 
-
+Code: https://github.com/theosanderson/adhoc_covid/tree/main/ct_demo
 
 ```{r}
 library(tidyverse)
