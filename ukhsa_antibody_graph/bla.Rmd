@@ -1,0 +1,131 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+library(scales)
+library(lubridate)
+library(viridisLite)
+data<-read_csv("combined.csv") %>% separate(month,into=c("month","year")) %>% mutate(date= lubridate::dmy(paste(1,month,year)))
+
+old_data<-read_csv("old_data.csv") %>% separate(month,into=c("month","year")) %>% mutate(date= lubridate::dmy(paste(1,month,year)))
+nrow(old_data)
+old_data = filter(old_data,date<min(data$date))
+
+data = bind_rows(data,old_data)
+
+
+
+levels = c("<0.8", "0.8-25","25-250","250-2500","2500-10000","10000-25000","25000+")
+colors = c('#e0e0e0', '#fff200', '#ffc90e', '#80cb58', '#15b4bb', '#0d77da', '#352a87')
+data = data %>% mutate(titre=fct_relevel(titre,levels))
+data  = data %>% mutate(titre_rev=fct_rev(titre))
+
+data = data %>%mutate(date= as.POSIXct(date))
+c_trans <- function(a, b, breaks = b$breaks, format = b$format) {
+  a <- as.trans(a)
+  b <- as.trans(b)
+
+  name <- paste(a$name, b$name, sep = "-")
+
+  trans <- function(x) a$trans(b$trans(x))
+  inv <- function(x) b$inverse(a$inverse(x))
+
+  trans_new(name, trans, inv, breaks, format = format)
+}
+
+rev_date <- c_trans("reverse", "time")
+
+ggplot(data %>% filter(N=="negative"),aes(x=date,y=proportion,fill=titre_rev))+geom_col() + facet_wrap(~age)+coord_flip()+scale_fill_manual(values=rev(colors))+theme_bw()+ scale_x_continuous(trans = rev_date)
+
+```
+
+```{r}
+ggplot(data %>% filter(N=="positive"),aes(x=as_date(date),y=proportion,fill=titre_rev))+geom_col() + facet_wrap(~age)+scale_fill_manual(values=rev(colors))+theme_bw() +labs(y="Proportion of blood donors",fill="Antibody titre",x="Date",caption="Data: extracted from image in UKHSA vaccine surveillance report")+scale_y_continuous(labels=scales::percent)+scale_x_date(date_breaks = "4 month",date_labels = "%b %y") +ggtitle("Anti-S antibody levels in N-positive (~prev. infected) people")
+ggsave("n_positive.png",width=7,height=5)
+
+ggplot(data %>% filter(N=="negative"),aes(x=as_date(date),y=proportion,fill=titre_rev))+geom_col() + facet_wrap(~age)+scale_fill_manual(values=rev(colors))+theme_bw() +labs(y="Proportion of blood donors",fill="Antibody titre",x="Date",caption="Data: extracted from image in UKHSA vaccine surveillance report")+scale_y_continuous(labels=scales::percent)+scale_x_date(date_breaks = "4 month",date_labels = "%b %y") +ggtitle("Anti-S antibody levels in N-negative (~uninfected) people")
+ggsave("n_negative.png",width=7,height=5)
+
+minima = c(0.1,0.8,25,250,2500,10000,25000)
+maxima = c(0.8,25,250,2500,10000,25000,100000)
+geometric_means = sqrt(minima*maxima)
+
+data$estim_value = geometric_means[as.numeric(data$titre)]
+data$log_estim_value = log10(data$estim_value)
+data
+summarised = data %>% group_by(date, age, N) %>% summarise(meaned= sum(log_estim_value*proportion))
+summarised
+
+
+```
+
+```{r}
+read_csv_and_add_age <- function(age){
+  
+  data = read_csv(paste0(age,".csv"),col_names=F)
+  data$age = age
+  return(data)
+}
+ages = unique(data$age)
+age_data = bind_rows(lapply(ages,read_csv_and_add_age)) %>% filter(X2>0)
+age_data$week = round(age_data$X1)
+age_data = age_data %>% mutate(year = case_when(week<0 ~ 2020, week>52 ~ 2022, TRUE ~2021))
+age_data = age_data %>% mutate(week = case_when(week<0 ~ 51+week, week>52 ~ week-52, TRUE ~week))
+age_data$n_prop = age_data$X2/100
+age_data
+
+age_data$date = as.Date(paste(age_data$year, age_data$week, 1, sep="-"), "%Y-%U-%u")
+age_data = age_data %>% group_by(date,age) %>% summarise(n_prop=mean(n_prop))
+
+
+ggplot(age_data,aes(x=date,y=n_prop,color=age))+geom_line()
+
+
+all_dates = expand_grid(age=ages,date=as_date(ymd("2020-01-01"):ymd("2022-12-30")))
+together = right_join(age_data,all_dates)%>% group_by(age) %>% arrange(date) %>% fill(n_prop,.direction="downup")
+together
+
+ggplot(together %>% filter(date>"2021-01-01"),aes(x=date,y=n_prop,color=age))+geom_line()
+together %>% filter(date>"2021-01-01")
+
+positive = together %>% mutate(N="positive", group_proportion = n_prop) %>% select(N,group_proportion,date)
+negative = together %>% mutate(N="negative", group_proportion = 1-n_prop)%>% select(N,group_proportion,date)
+groupings = bind_rows(positive,negative)
+
+everything = inner_join(data %>% mutate(date=as_date(date)),groupings)%>% mutate(proportion = proportion*group_proportion) %>% group_by(age,date,titre,titre_rev) %>% summarise(proportion=sum(proportion))
+
+
+
+
+ggplot(everything,aes(x=as_date(date),y=proportion,fill=titre_rev))+geom_col() + facet_wrap(~age)+scale_fill_manual(values=rev(colors))+theme_bw() +labs(y="Proportion of blood donors",fill="Antibody titre",x="Date",caption="Data: extracted from image in UKHSA vaccine surveillance report")+scale_y_continuous(labels=scales::percent)+scale_x_date(date_breaks = "4 month",date_labels = "%b %y") +ggtitle("Anti-S antibody levels in N-positive (~prev. infected) people")
+
+everything$date
+
+library(gganimate)
+
+anim_stat=ggplot(everything %>% ungroup()%>%group_by(age,date) %>% arrange(age,date,titre_rev) %>% mutate(prop_cum=cumsum(proportion))  ,aes(y=prop_cum,fill=titre_rev,x=age,group=titre))+geom_area(position="identity",alpha=1,color="gray",lwd=0.1)+theme_minimal()+scale_y_continuous(label=scales::percent)+labs(title = '{frame_time}',y="Percent testing positive for antibodies",x="Age range",fill="Antibody level\n(au/ml)",caption="Data: blood donor data processed from UKHSA vaccine surveillance report")+ theme(plot.title = element_text(size=15))+scale_fill_manual(values=rev(c("white","#9bcde7","#67abd8","#3487c8","#0064b6","#003f9f","#031581")),guide = guide_legend(reverse = TRUE) )
+
+
+
+
+
+anim_stat
+anim = anim_stat+transition_time(date)
+a <- animate(anim, renderer = file_renderer("/Users/sandert/ooutput_movie3/"),height=500*1.5,width=800*1.5,res=180,nframes = 500)
+
+
+
+```
+
+```{r}
+ggplot(summarised %>% filter(date>"2021-10-30"),aes(x=date,y=meaned,color=age))+geom_line()+theme_bw()+facet_wrap(~N)
+
+```
+
